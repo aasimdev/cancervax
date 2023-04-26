@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/up51j258kry3/staging.cancervax.com
+    - /bin/cp * $DEPLOYPATH
