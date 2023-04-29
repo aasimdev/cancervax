@@ -224,6 +224,9 @@ include('header.php'); ?>
                         <p>
                             Principal Investigator
                         </p>
+                        <a href="http://www.youtube.com/watch?v=DcFor_Vo4MU" class="popup-youtube intertext">
+                            Watch Interview
+                        </a>
 
                         <div class="team-description">
                             <p>Dr. De Oliveira is a board-certified pediatrician and board-certified pediatric
@@ -344,6 +347,7 @@ include('header.php'); ?>
                         <i class="far fa-play-circle"></i>
                     </div>
                     <p>CancerVax Podcast - Dr. Satiro De Oliveira</p>
+
                 </div>
             </div>
             <div class="col-lg-6">

@@ -1,10 +1,10 @@
 $(function () {
 
     const teamModal = new bootstrap.Modal(document.getElementById('team'));
-    $('.team-box').on('click', function (e) {
+    $('.team-box-img').on('click', function (e) {
         e.preventDefault();
-        var title = $(this).find('h5').html();
-        var decription = $(this).find('.team-description').html();
+        var title = $(this).parent().find('h5').html();
+        var decription = $(this).parent().find('.team-description').html();
         $('#team').find('.modal-title').text(title);
         $('#team').find('.modal-body').html(decription);
         teamModal.show();
