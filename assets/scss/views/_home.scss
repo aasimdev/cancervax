@@ -108,17 +108,20 @@
     }
 
     &.ubBanner {
-        .banner-text h1 {
-            max-width: 480px;
-            font-size: 62px;
-            font-weight: 200;
+        @media (min-width: 992px) {
+            .banner-text h1 {
+                max-width: 480px;
+                font-size: 67px;
+                font-weight: 200;
+            }
+
+            .banner-text p {
+                font-size: 20px;
+                line-height: 1.5em;
+                color: #2abac2;
+            }
         }
 
-        .banner-text p {
-            font-size: 17px;
-            line-height: 1.5em;
-            color: #2abac2;
-        }
 
     }
 
