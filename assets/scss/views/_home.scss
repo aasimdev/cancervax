@@ -1626,6 +1626,7 @@ body.modal-open {
         background: rgba($color: #003535, $alpha: 0.84);
         position: absolute;
         left: 0;
+        top: 0;
     }
 }
 
@@ -1651,5 +1652,28 @@ label.error {
 
     &:hover {
         color: gray;
+    }
+}
+
+.pvRecent {
+    padding: 120px 0;
+
+    .cchat {
+        margin-bottom: 0;
+        padding-left: 15px;
+        padding-right: 15px;
+
+        p {
+            margin-top: 16px;
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 1.2;
+        }
+        span{
+            color: gray;
+            font-size: 16px;
+            display: block;
+            margin-top: 8px;
+        }
     }
 }

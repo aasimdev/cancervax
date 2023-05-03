@@ -7,7 +7,10 @@ include('header.php'); ?>
 <section class="abtBanner">
     <div class="container">
         <div class="abtBanner-text">
-            <h1>CancerVAX is a pre-clinical biotechnology company developing immunotherapy cancer treatments that use the body’s immune system to fight cancer. We aim to develop transformative therapies to protect and improve people’s lives.</h1>
+            <h1>CancerVAX is a pre-clinical biotechnology company working with
+                UCLA to develop immunotherapy cancer treatments that use the body’s
+                immune system to fight cancer. We aim to develop transformative
+                therapies to protect and improve people’s lives.</h1>
         </div>
     </div>
 </section>

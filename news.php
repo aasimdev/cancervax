@@ -6,9 +6,11 @@ include('header.php'); ?>
 
 <section class="marketbanner" style="background-image: url(./assets/img/new-bg.jpg);">
     <div class="container">
-        <h1>News</h1>
+        <h1>Newsroom</h1>
     </div>
 </section>
+
+
 
 <section class="news">
     <div class="container">
