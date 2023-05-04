@@ -241,6 +241,10 @@
     .banner {
         height: 910px;
     }
+
+    .nCommentary .cchat{
+        margin-bottom: 40px;
+    }
 }
 
 @media (max-width: 767px) {
@@ -583,5 +587,18 @@
 
     .redefining-text span {
         text-indent: 2px;
+    }
+
+    .nCommentary-heading h3 {
+        font-size: 20px;
+    }
+    .nCommentary-heading a {
+        font-size: 15px;
+    }
+    .nCommentary-heading {
+        margin-bottom: 30px;
+    }
+    .nCommentary {
+        padding: 50px 0;
     }
 }

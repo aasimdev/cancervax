@@ -103,6 +103,9 @@
                         <a class="nav-link <?php active('pipeline'); ?>" href="/pipeline">Pipeline</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link <?php active('contact'); ?>" href="#">Immunotherapy</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link <?php active('market'); ?>" href="/market">Market</a>
                     </li>
                     <li class="nav-item">
@@ -117,9 +120,7 @@
                     <li class="nav-item">
                         <a class="nav-link <?php active('contact'); ?>" href="/contact">Contact</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('contact'); ?>" href="#">Immunotherapy</a>
-                    </li>
+
                 </ul>
             </div>
         </div>
