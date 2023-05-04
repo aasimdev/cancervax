@@ -1080,7 +1080,10 @@ body.modal-open {
 .news {
     padding: 100px 0;
     background-color: #111214;
-
+    h4{
+        margin-bottom: 40px;
+        font-size: 36px;
+    }
     .row {
         &>div {
             margin-bottom: 30px;
@@ -1705,6 +1708,12 @@ label.error {
         p {
             font-size: 18px;
             line-height: 1.2;
+        }
+          span {
+            color: gray;
+            font-size: 16px;
+            display: block;
+            margin-top: 8px;
         }
     }
 

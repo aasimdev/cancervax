@@ -27,6 +27,7 @@ include('header.php'); ?>
                         <i class="far fa-play-circle"></i>
                     </div>
                     <p>New Pennsylvania law for free cancer screening</p>
+                    <span>5/2/2023</span>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
@@ -38,6 +39,7 @@ include('header.php'); ?>
                         <i class="far fa-play-circle"></i>
                     </div>
                     <p>New Pennsylvania law for free cancer screening</p>
+                    <span>5/2/2023</span>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
@@ -49,6 +51,7 @@ include('header.php'); ?>
                         <i class="far fa-play-circle"></i>
                     </div>
                     <p>New Pennsylvania law for free cancer screening</p>
+                    <span>5/2/2023</span>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
@@ -60,6 +63,7 @@ include('header.php'); ?>
                         <i class="far fa-play-circle"></i>
                     </div>
                     <p>New Pennsylvania law for free cancer screening</p>
+                    <span>5/2/2023</span>
                 </div>
             </div>
         </div>
@@ -69,6 +73,7 @@ include('header.php'); ?>
 
 <section class="news">
     <div class="container">
+        <h4>Press Releases</h4>
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">
