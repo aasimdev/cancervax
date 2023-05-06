@@ -1080,10 +1080,12 @@ body.modal-open {
 .news {
     padding: 100px 0;
     background-color: #111214;
-    h4{
+
+    h4 {
         margin-bottom: 40px;
         font-size: 36px;
     }
+
     .row {
         &>div {
             margin-bottom: 30px;
@@ -1709,7 +1711,8 @@ label.error {
             font-size: 18px;
             line-height: 1.2;
         }
-          span {
+
+        span {
             color: gray;
             font-size: 16px;
             display: block;
@@ -1723,5 +1726,116 @@ label.error {
 
     .cchat-box i {
         font-size: 64px;
+    }
+}
+
+
+.immAbout {
+    padding: 70px 0;
+    text-align: center;
+    background-color: #111214;
+    h2 {
+        font-weight: 500;
+        font-size: 40px;
+        line-height: 51px;
+        margin-bottom: 38px;
+    }
+
+    p {
+        font-weight: 400;
+        font-size: 21px;
+        line-height: 25px;
+        text-align: center;
+    }
+}
+
+.immCTh {
+    background-color: #111214;
+    &__content {
+        // padding-top: 38px;
+
+        h3 {
+            font-weight: 500;
+            font-size: 40px;
+            line-height: 51px;
+            margin-bottom: 25px;
+        }
+
+        p {
+            font-weight: 400;
+            font-size: 19px;
+            line-height: 23px;
+        }
+    }
+}
+
+.immnewpyramid {
+    padding: 85px 0 70px;
+    background-color: #111214;
+    h4 {
+        font-weight: 500;
+        font-size: 40px;
+        line-height: 51px;
+        margin-bottom: 58px;
+    }
+
+    p {
+        font-weight: 400;
+        font-size: 19px;
+        line-height: 23px;
+    }
+}
+
+.immVideos {
+    background-color: #111214;
+    &__wrap {
+        padding: 0 50px;
+    }
+}
+
+.immtypes {
+    background-color: #111214;
+    &__heading {
+        margin-bottom: 42px;
+
+        h4 {
+            font-weight: 500;
+            font-size: 40px;
+            line-height: 51px;
+            margin-bottom: 25px;
+        }
+
+        p {
+            font-weight: 400;
+            font-size: 19px;
+            line-height: 23px;
+        }
+    }
+
+    &__content {
+        h5 {
+            font-weight: 700;
+            font-size: 40px;
+            line-height: 51px;
+            margin-bottom: 24px;
+            color: #39B4B0;
+        }
+
+        p, li {
+            font-weight: 400;
+            font-size: 19px;
+            line-height: 23px;
+            margin-bottom: 8px;
+        }
+    }
+
+    &__item{
+        margin-bottom: 54px;
+    }
+
+    &__img{
+        @media (min-width: 992px) {
+            text-align: right;
+        }
     }
 }
