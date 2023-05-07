@@ -242,8 +242,35 @@
         height: 910px;
     }
 
-    .nCommentary .cchat{
+    .nCommentary .cchat {
         margin-bottom: 40px;
+    }
+
+    .immAbout {
+        text-align: left;
+    }
+
+    .immCTh__content {
+        margin-top: 42px;
+
+        h3 {
+            color: #39B4B0;
+        }
+    }
+
+    .immtypes__item {
+        .row {
+            flex-direction: column-reverse;
+        }
+    }
+
+    .immtypes__img {
+        text-align: center;
+        margin-bottom: 22px;
+    }
+
+    .immVideos__wrap {
+        padding: 0;
     }
 }
 
@@ -592,13 +619,63 @@
     .nCommentary-heading h3 {
         font-size: 20px;
     }
+
     .nCommentary-heading a {
         font-size: 15px;
     }
+
     .nCommentary-heading {
         margin-bottom: 30px;
     }
+
     .nCommentary {
         padding: 50px 0;
+    }
+
+    .immTitle {
+        h1 {
+            font-size: 38px;
+        }
+    }
+
+    .immAbout h2 {
+        font-size: 24px;
+        line-height: 1.4;
+        margin-bottom: 22px;
+    }
+
+    .immAbout p,
+    .immCTh__content p,
+    .immnewpyramid p,
+    .immtypes__heading p,
+    .immtypes__content p,
+    .immtypes__content li {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    .immAbout {
+        padding: 32px 0;
+    }
+
+    .immCTh__content h3,
+    .immnewpyramid h4,
+    .immtypes__heading h4,
+    .immtypes__content h5 {
+        font-size: 24px;
+        line-height: 1.5;
+    }
+
+    .immnewpyramid h4 {
+        margin-bottom: 32px;
+    }
+
+    .immVideos {
+        .cchat-box i {
+            font-size: 75px;
+        }
+    }
+    .immtypes__content h5{
+        margin-bottom: 16px;
     }
 }

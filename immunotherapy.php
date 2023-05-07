@@ -4,7 +4,7 @@ $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 include('header.php'); ?>
 
-<section class="marketbanner" style="background-image: url(./assets/img/immunotherapy-bg.jpg);">
+<section class="marketbanner immTitle" style="background-image: url(./assets/img/immunotherapy-bg.jpg);">
     <div class="container">
         <h1>Immunotherapy</h1>
     </div>
@@ -20,7 +20,7 @@ include('header.php'); ?>
 <section class="immCTh">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-6 order-lg-0 order-1">
                 <div class="immCTh__content">
                     <h3>Old Paradigm – Chemotherapy and Radiation</h3>
                     <p>For decades, surgery, chemotherapy and radiation therapy have been the standards of care for cancer treatment, and often times the only options. They operate on the basic premise that cancer cells are fast growing cells, so using powerful toxic chemicals (chemotherapy) or power x-rays (radiation) they hope to kill those cells to stop the cancer. The problem is that these treatments are not always very targeted, so they also kill normal fast-growing cell, such as hair cells, intestine cells, mouth-lining cells and others. This inadvertent side effect of killing healthy cells is what causes the debilitating side effects of chemotherapy and radiation, and a reduced quality of life for cancer patients. <br><br>
@@ -29,7 +29,7 @@ include('header.php'); ?>
                 </div>
 
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 order-lg-1 order-0">
                 <div class="immCTh__img">
                     <img src="./assets/img/chemo-therapy.jpg" alt="chemo">
                 </div>
