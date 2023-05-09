@@ -1734,36 +1734,43 @@ label.error {
     padding: 70px 0;
     text-align: center;
     background-color: #111214;
+
     h2 {
-        font-weight: 500;
+        font-weight: 700;
         font-size: 40px;
-        line-height: 51px;
+        line-height: 40px;
         margin-bottom: 38px;
+        text-align: left;
+        font-family: $fontMain;
     }
 
     p {
         font-weight: 400;
-        font-size: 21px;
-        line-height: 25px;
+        font-size: 24px;
+        line-height: 32px;
+        color: #2Abac2;
     }
 }
 
 .immCTh {
     background-color: #111214;
+
     &__content {
         // padding-top: 38px;
 
         h3 {
-            font-weight: 500;
+            font-weight: 700;
             font-size: 40px;
-            line-height: 51px;
+            line-height: 40px;
+            font-family: $fontMain;
             margin-bottom: 25px;
         }
 
         p {
             font-weight: 400;
-            font-size: 19px;
-            line-height: 23px;
+            font-size: 16px;
+            line-height: 30px;
+            color: #ababab;
         }
     }
 }
@@ -1771,22 +1778,26 @@ label.error {
 .immnewpyramid {
     padding: 85px 0 70px;
     background-color: #111214;
+
     h4 {
-        font-weight: 500;
+        font-weight: 700;
         font-size: 40px;
-        line-height: 51px;
+        line-height: 40px;
+        font-family: $fontMain;
         margin-bottom: 58px;
     }
 
     p {
         font-weight: 400;
-        font-size: 19px;
-        line-height: 23px;
+        font-size: 16px;
+        line-height: 30px;
+        color: #ababab;
     }
 }
 
 .immVideos {
     background-color: #111214;
+
     &__wrap {
         padding: 0 50px;
     }
@@ -1794,45 +1805,51 @@ label.error {
 
 .immtypes {
     background-color: #111214;
+
     &__heading {
         margin-bottom: 42px;
 
         h4 {
-            font-weight: 500;
+            font-weight: 700;
             font-size: 40px;
-            line-height: 51px;
+            line-height: 40px;
+            font-family: $fontMain;
             margin-bottom: 25px;
         }
 
         p {
             font-weight: 400;
-            font-size: 19px;
-            line-height: 23px;
+            font-size: 16px;
+            line-height: 30px;
+            color: #ababab;
         }
     }
 
     &__content {
         h5 {
-            font-weight: 700;
-            font-size: 40px;
-            line-height: 51px;
+            font-weight: 400;
+            font-size: 24px;
+            line-height: 32px;
             margin-bottom: 24px;
-            color: #39B4B0;
+            color: #2abac2;
+            margin-bottom: 24px;
         }
 
-        p, li {
+        p,
+        li {
             font-weight: 400;
-            font-size: 19px;
-            line-height: 23px;
+            font-size: 16px;
+            line-height: 30px;
+            color: #ababab;
             margin-bottom: 8px;
         }
     }
 
-    &__item{
+    &__item {
         margin-bottom: 54px;
     }
 
-    &__img{
+    &__img {
         @media (min-width: 992px) {
             text-align: right;
         }
