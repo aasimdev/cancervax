@@ -1742,6 +1742,7 @@ label.error {
         margin-bottom: 38px;
         text-align: left;
         font-family: $fontMain;
+        color: #dbdbdb;
     }
 
     p {
@@ -1764,6 +1765,7 @@ label.error {
             line-height: 40px;
             font-family: $fontMain;
             margin-bottom: 25px;
+            color: #dbdbdb;
         }
 
         p {
@@ -1785,6 +1787,7 @@ label.error {
         line-height: 40px;
         font-family: $fontMain;
         margin-bottom: 58px;
+        color: #dbdbdb;
     }
 
     p {
@@ -1815,6 +1818,7 @@ label.error {
             line-height: 40px;
             font-family: $fontMain;
             margin-bottom: 25px;
+            color: #dbdbdb;
         }
 
         p {
@@ -1853,5 +1857,11 @@ label.error {
         @media (min-width: 992px) {
             text-align: right;
         }
+    }
+}
+
+.immTitle{
+    h1{
+        color: #dbdbdb;
     }
 }
