@@ -876,7 +876,7 @@ body.modal-open {
         }
 
         h4 {
-            color: #FFFFFF;
+            color: #ababab;
             font-size: 28px;
             font-weight: 700;
             font-family: $fontMain;
@@ -916,6 +916,7 @@ body.modal-open {
         h3 {
             font-size: 40px;
             font-weight: 700;
+            color: #ABABAB;
         }
 
         p {
@@ -1083,7 +1084,9 @@ body.modal-open {
 
     h4 {
         margin-bottom: 40px;
-        font-size: 36px;
+        font-size: 40px;
+        line-height: 40px;
+        color: #ABABAB;
     }
 
     .row {
@@ -1123,11 +1126,16 @@ body.modal-open {
         }
 
         h3 {
-            font-size: 28px;
-            font-weight: 400;
-            font-family: $fontMain;
+            // font-size: 28px;
+            font-weight: 700;
+            // font-family: $fontMain;
             margin: 16px 0;
-            line-height: 1.2;
+            // line-height: 1.2;
+
+            font-size: 40px;
+            line-height: 40px;
+            // font-family: $fontHeading;
+            color: #ABABAB;
         }
 
         p {
@@ -1267,9 +1275,11 @@ body.modal-open {
 
     p {
         margin-top: 20px;
-        font-size: 26px;
-        font-weight: 400;
-        line-height: 36px;
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 40px;
+        font-family: $fontHeading;
+        color: #ababab;
     }
 
     &.small-cbox {
@@ -1694,7 +1704,10 @@ label.error {
         margin-bottom: 40px;
 
         h3 {
-            font-size: 36px;
+            font-size: 40px;
+            line-height: 40px;
+            font-family: $fontHeading;
+            color: #ABABAB;
         }
 
         a {
@@ -1763,9 +1776,9 @@ label.error {
             font-weight: 700;
             font-size: 40px;
             line-height: 40px;
-            font-family: $fontMain;
+            font-family: $fontHeading;
+            color: #ABABAB;
             margin-bottom: 25px;
-            color: #dbdbdb;
         }
 
         p {
@@ -1785,9 +1798,9 @@ label.error {
         font-weight: 700;
         font-size: 40px;
         line-height: 40px;
-        font-family: $fontMain;
+        font-family: $fontHeading;
+        color: #ABABAB;
         margin-bottom: 58px;
-        color: #dbdbdb;
     }
 
     p {
@@ -1816,9 +1829,9 @@ label.error {
             font-weight: 700;
             font-size: 40px;
             line-height: 40px;
-            font-family: $fontMain;
+            font-family: $fontHeading;
+            color: #ABABAB;
             margin-bottom: 25px;
-            color: #dbdbdb;
         }
 
         p {
