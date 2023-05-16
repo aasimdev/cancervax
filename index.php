@@ -52,7 +52,7 @@ include('header.php'); ?>
 
 </section>
 
-<section class="pvRecent">
+<!-- <section class="pvRecent">
     <div class="ceochats-carousel">
 
         <div class="cchat">
@@ -101,7 +101,7 @@ include('header.php'); ?>
         </div>
     </div>
 
-</section>
+</section> -->
 
 
 <section class="newsletter home-newsletter">
