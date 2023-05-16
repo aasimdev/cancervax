@@ -1,47 +1,47 @@
 $(function () {
 
     const teamModal = new bootstrap.Modal(document.getElementById('team'));
-    $('.team-box').on('click', function (e) {
+    $('.team-box-img').on('click', function (e) {
         e.preventDefault();
-        var title = $(this).find('h5').html();
-        var decription = $(this).find('.team-description').html();
+        var title = $(this).parent().find('h5').html();
+        var decription = $(this).parent().find('.team-description').html();
         $('#team').find('.modal-title').text(title);
         $('#team').find('.modal-body').html(decription);
         teamModal.show();
     });
 
 
-    // $('.ceochats-carousel').slick({
-    //     slidesToShow: 2.4,
-    //     slidesToScroll: 1,
-    //     autoplay: true,
-    //     autoplaySpeed: 0,
-    //     speed: 9000,
-    //     cssEase: 'linear',
-    //     pauseOnHover: true,
-    //     arrows: false,
-    //     dots: false,
-    //     responsive: [
-    //         {
-    //             breakpoint: 1024,
-    //             settings: {
-    //                 slidesToShow: 2,
-    //             }
-    //         },
-    //         {
-    //             breakpoint: 600,
-    //             settings: {
-    //                 slidesToShow: 1.5,
-    //             }
-    //         },
-    //         {
-    //             breakpoint: 480,
-    //             settings: {
-    //                 slidesToShow: 1,
-    //             }
-    //         }
-    //     ]
-    // });
+    $('.ceochats-carousel').slick({
+        slidesToShow: 2.4,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 0,
+        speed: 9000,
+        cssEase: 'linear',
+        pauseOnHover: true,
+        arrows: false,
+        dots: false,
+        responsive: [
+            {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 2,
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 1.5,
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                }
+            }
+        ]
+    });
 
     // $('.newsCarousel').slick({
     //     slidesToShow: 3.2,
@@ -165,9 +165,6 @@ $(function () {
         var videoID = videoSrc.match(/youtube\.com.*(\?v=|\/embed\/)(.{11})/).pop();
         var video_thumbnail = $('<img src="//img.youtube.com/vi/' + videoID + '/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">');
         $(this).find('.getThumbnail').siblings('.cchat-thumbnail').html(video_thumbnail);
-
-
-
     });
 
 

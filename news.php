@@ -6,12 +6,74 @@ include('header.php'); ?>
 
 <section class="marketbanner" style="background-image: url(./assets/img/new-bg.jpg);">
     <div class="container">
-        <h1>News</h1>
+        <h1>Newsroom</h1>
     </div>
 </section>
 
+
+<section class="nCommentary">
+    <div class="container">
+        <div class="nCommentary-heading">
+            <h3>News Commentary</h3>
+            <a href="#">See All</a>
+        </div>
+        <div class="row">
+            <div class="col-lg-3 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>New Pennsylvania law for free cancer screening</p>
+                    <span>5/2/2023</span>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>New Pennsylvania law for free cancer screening</p>
+                    <span>5/2/2023</span>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>New Pennsylvania law for free cancer screening</p>
+                    <span>5/2/2023</span>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>New Pennsylvania law for free cancer screening</p>
+                    <span>5/2/2023</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <section class="news">
     <div class="container">
+        <h4>Press Releases</h4>
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">

@@ -29,6 +29,8 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/slick.min.css">
+    <link rel="stylesheet" href="./assets/css/slick-theme.min.css">
     <link rel="stylesheet" href="./assets/css/style.min.css">
 
     <!-- Google tag (gtag.js) -->
@@ -101,6 +103,9 @@
                         <a class="nav-link <?php active('pipeline'); ?>" href="/pipeline">Pipeline</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link <?php active('immunotherapy'); ?>" href="/immunotherapy">Immunotherapy</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link <?php active('market'); ?>" href="/market">Market</a>
                     </li>
                     <li class="nav-item">
@@ -115,6 +120,7 @@
                     <li class="nav-item">
                         <a class="nav-link <?php active('contact'); ?>" href="/contact">Contact</a>
                     </li>
+
                 </ul>
             </div>
         </div>

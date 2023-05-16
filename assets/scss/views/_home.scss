@@ -108,17 +108,20 @@
     }
 
     &.ubBanner {
-        .banner-text h1 {
-            max-width: 480px;
-            font-size: 62px;
-            font-weight: 200;
+        @media (min-width: 992px) {
+            .banner-text h1 {
+                max-width: 480px;
+                font-size: 67px;
+                font-weight: 200;
+            }
+
+            .banner-text p {
+                font-size: 20px;
+                line-height: 1.5em;
+                color: #2abac2;
+            }
         }
 
-        .banner-text p {
-            font-size: 17px;
-            line-height: 1.5em;
-            color: #2abac2;
-        }
 
     }
 
@@ -498,7 +501,7 @@
             text-align: center;
         }
 
-        a {
+        a:not(.intertext) {
             color: inherit;
             font-size: inherit;
             text-align: center;
@@ -873,7 +876,7 @@ body.modal-open {
         }
 
         h4 {
-            color: #FFFFFF;
+            color: #ababab;
             font-size: 28px;
             font-weight: 700;
             font-family: $fontMain;
@@ -913,6 +916,7 @@ body.modal-open {
         h3 {
             font-size: 40px;
             font-weight: 700;
+            color: #ABABAB;
         }
 
         p {
@@ -1078,6 +1082,13 @@ body.modal-open {
     padding: 100px 0;
     background-color: #111214;
 
+    h4 {
+        margin-bottom: 40px;
+        font-size: 40px;
+        line-height: 40px;
+        color: #ABABAB;
+    }
+
     .row {
         &>div {
             margin-bottom: 30px;
@@ -1115,11 +1126,16 @@ body.modal-open {
         }
 
         h3 {
-            font-size: 28px;
-            font-weight: 400;
-            font-family: $fontMain;
+            // font-size: 28px;
+            font-weight: 700;
+            // font-family: $fontMain;
             margin: 16px 0;
-            line-height: 1.2;
+            // line-height: 1.2;
+
+            font-size: 40px;
+            line-height: 40px;
+            // font-family: $fontHeading;
+            color: #ABABAB;
         }
 
         p {
@@ -1260,8 +1276,10 @@ body.modal-open {
     p {
         margin-top: 20px;
         font-size: 26px;
-        font-weight: 400;
-        line-height: 36px;
+        font-weight: 700;
+        line-height: 40px;
+        font-family: $fontHeading;
+        color: #ababab;
     }
 
     &.small-cbox {
@@ -1623,6 +1641,7 @@ body.modal-open {
         background: rgba($color: #003535, $alpha: 0.84);
         position: absolute;
         left: 0;
+        top: 0;
     }
 }
 
@@ -1636,5 +1655,226 @@ label.error {
         position: absolute;
         left: 30px;
         bottom: -25px;
+    }
+}
+
+.intertext {
+    color: gray;
+    font-size: 15px;
+    line-height: 1;
+    display: block;
+    margin-top: 5px;
+
+    &:hover {
+        color: gray;
+    }
+}
+
+.pvRecent {
+    padding: 120px 0;
+
+    .cchat {
+        margin-bottom: 0;
+        padding-left: 15px;
+        padding-right: 15px;
+
+        p {
+            margin-top: 16px;
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 1.2;
+        }
+
+        span {
+            color: gray;
+            font-size: 16px;
+            display: block;
+            margin-top: 8px;
+        }
+    }
+}
+
+.nCommentary {
+    padding: 100px 0;
+
+    &-heading {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 40px;
+
+        h3 {
+            font-size: 40px;
+            line-height: 40px;
+            font-family: $fontHeading;
+            color: #ABABAB;
+        }
+
+        a {
+            color: $primary-color;
+            text-decoration: underline;
+            font-size: 18px;
+        }
+    }
+
+    .cchat {
+        margin-bottom: 0;
+
+        p {
+            font-size: 18px;
+            line-height: 1.2;
+        }
+
+        span {
+            color: gray;
+            font-size: 16px;
+            display: block;
+            margin-top: 8px;
+        }
+    }
+
+    .cchat-thumbnail {
+        height: 225px;
+    }
+
+    .cchat-box i {
+        font-size: 64px;
+    }
+}
+
+
+.immAbout {
+    padding: 70px 0;
+    text-align: center;
+    background-color: #111214;
+
+    h2 {
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 40px;
+        margin-bottom: 38px;
+        text-align: left;
+        font-family: $fontHeading;
+        color: #ABABAB;
+    }
+
+    p {
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 32px;
+        color: #2Abac2;
+    }
+}
+
+.immCTh {
+    background-color: #111214;
+
+    &__content {
+        // padding-top: 38px;
+
+        h3 {
+            font-weight: 700;
+            font-size: 40px;
+            line-height: 40px;
+            font-family: $fontHeading;
+            color: #ABABAB;
+            margin-bottom: 25px;
+        }
+
+        p {
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 30px;
+            color: #ababab;
+        }
+    }
+}
+
+.immnewpyramid {
+    padding: 85px 0 70px;
+    background-color: #111214;
+
+    h4 {
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 40px;
+        font-family: $fontHeading;
+        color: #ABABAB;
+        margin-bottom: 58px;
+    }
+
+    p {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
+        color: #ababab;
+    }
+}
+
+.immVideos {
+    background-color: #111214;
+
+    &__wrap {
+        padding: 0 50px;
+    }
+}
+
+.immtypes {
+    background-color: #111214;
+
+    &__heading {
+        margin-bottom: 42px;
+
+        h4 {
+            font-weight: 700;
+            font-size: 40px;
+            line-height: 40px;
+            font-family: $fontHeading;
+            color: #ABABAB;
+            margin-bottom: 25px;
+        }
+
+        p {
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 30px;
+            color: #ababab;
+        }
+    }
+
+    &__content {
+        h5 {
+            font-weight: 400;
+            font-size: 24px;
+            line-height: 32px;
+            margin-bottom: 24px;
+            color: #2abac2;
+            margin-bottom: 24px;
+        }
+
+        p,
+        li {
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 30px;
+            color: #ababab;
+            margin-bottom: 8px;
+        }
+    }
+
+    &__item {
+        margin-bottom: 54px;
+    }
+
+    &__img {
+        @media (min-width: 992px) {
+            text-align: right;
+        }
+    }
+}
+
+.immTitle{
+    h1{
+        color: #dbdbdb;
     }
 }
