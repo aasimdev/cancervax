@@ -50,7 +50,7 @@ include('header.php'); ?>
     </div>
 </section>
 
-<section class="immVideos">
+<!-- <section class="immVideos">
     <div class="container">
         <div class="immVideos__wrap">
             <div class="row">
@@ -77,7 +77,7 @@ include('header.php'); ?>
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <section class="immtypes">
