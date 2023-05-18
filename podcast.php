@@ -28,6 +28,17 @@ include('header.php'); ?>
         <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=Um1Ca045Beg"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>CancerVAX Podcast - Dr. Dinesh Patel</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>

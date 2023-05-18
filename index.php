@@ -378,6 +378,17 @@ include('header.php'); ?>
         </div>
 
         <div class="row">
+        <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=Um1Ca045Beg"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>CancerVAX Podcast - Dr. Dinesh Patel</p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box">
@@ -412,17 +423,6 @@ include('header.php'); ?>
                     <p>CancerVax Podcast - Ryan looper</p>
                 </div>
             </div>
-            <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=Z2e7PrrDNvw"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>CancerVax Podcast - Jonathan Lakey</p>
-                </div>
-            </div>
         </div>
     </div>
 
@@ -434,6 +434,15 @@ include('header.php'); ?>
     <div class="container">
         <h4>News Highlights</h4>
         <div class="row">
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="biotech-entrepreneur-and-venture-capitalist-dinesh-patel-discusses-therapeutics-and-medical-devices-with-cancervax-ceo-ryan-davies.php"></a>
+                    <span>May 17, 2023</span>
+                    <h3>Biotech Entrepreneur and Venture Capitalist Dinesh Patel Discusses Therapeutics and Medical Devices with CancerVAX CEO Ryan Davies</h3>
+                    <p>Lehi, UT – May 17, 2023 – CancerVAX, developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, today reported that the Company’s CEO, Ryan Davies</p>
+
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="former-pfizer-legal-counsel-discusses-gene-therapy-with-cancervax-ceo-ryan-davies.php"></a>
@@ -460,16 +469,6 @@ include('header.php'); ?>
                     <span>April 3, 2023</span>
                     <h3>CancerVAX Lands Byron Elton</h3>
                     <p>Experienced business executive to help establish the Company as a significant force in the field of cancer research</p>
-
-                </div>
-
-            </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-ceo-ryan-davies-speaks-with-university-of-utah-chemistry-professor-about-the-future-of-fherapeutic-research.php"></a>
-                    <span>March 24, 2023</span>
-                    <h3>CancerVax CEO Ryan Davies Speaks with University of Utah Chemistry Professor about the Future of Therapeutic Research</h3>
-                    <p>Dr. Ryan Looper, a chemistry Professor at the University of Utah, sat down with CancerVAX CEO Ryan Davies to discuss the future of novel therapeutics and how the industry can encourage young scientists to enter the field.</p>
 
                 </div>
 
