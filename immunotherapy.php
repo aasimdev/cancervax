@@ -42,9 +42,11 @@ include('header.php'); ?>
     <div class="container">
         <h4>New Paradigm – Immunotherapy and Vaccines</h4>
         <p>Conversely, immunotherapy is like using a sniper rifle to shoot and kill only the cancer cells.
-            <br><br>
+        </p>
+        <p>
             In recent years, advances in science and biotechnology have proven that the body’s own immune system is actually quite effective at targeting and killing abnormal cells, germs and viruses, and has been doing it since the beginning of time. The main problem is that cancer grows at a much faster rate than the body’s normal immune response rate.
-            <br><br>
+        </p>
+        <p>
             Much like COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer vaccines can train the body to target and destroy specific cancer cells. Cancer vaccines are also known as immunotherapy.
         </p>
     </div>
@@ -93,10 +95,11 @@ include('header.php'); ?>
                         <h5>Immune checkpoint inhibitors</h5>
                         <p>which are drugs that block immune checkpoints. These checkpoints are a normal part of the immune system and keep immune responses from being too strong. By blocking them, these drugs allow immune cells to respond more strongly to cancer.</p>
                         <p>Example blockbuster immunotherapy drugs:</p>
-                        <ul>
-                            <li>· Keytruda (Merck)
+
+                        <ul class="theme-list">
+                            <li>Keytruda (Merck)
                             </li>
-                            <li>· Opdivo (Bristol Myers Squibb)</li>
+                            <li>Opdivo (Bristol Myers Squibb)</li>
                         </ul>
                     </div>
                 </div>
@@ -127,8 +130,8 @@ include('header.php'); ?>
                 <div class="col-lg-7">
                     <div class="immtypes__content">
                         <h5>Monoclonal antibodies</h5>
-                        <p>which are immune system proteins created in the lab that are designed to bind to specific targets on cancer cells. Some monoclonal antibodies mark cancer cells so that they will be better seen and destroyed by the immune system. Such monoclonal antibodies are a type of immunotherapy.
-                        <br><br> As a point of reference, the Pfizer and Modern COVID-19 vaccines are monoclonal antibodies for the coronavirus.</p>
+                        <p>which are immune system proteins created in the lab that are designed to bind to specific targets on cancer cells. Some monoclonal antibodies mark cancer cells so that they will be better seen and destroyed by the immune system. Such monoclonal antibodies are a type of immunotherapy.</p>
+                        <p>As a point of reference, the Pfizer and Modern COVID-19 vaccines are monoclonal antibodies for the coronavirus.</p>
                     </div>
                 </div>
                 <div class="col-lg-5">
