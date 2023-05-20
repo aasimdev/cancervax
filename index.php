@@ -52,7 +52,7 @@ include('header.php'); ?>
 
 </section>
 
-<!-- <section class="pvRecent">
+<section class="pvRecent">
     <div class="ceochats-carousel">
 
         <div class="cchat">
@@ -101,7 +101,7 @@ include('header.php'); ?>
         </div>
     </div>
 
-</section> -->
+</section>
 
 
 <section class="newsletter home-newsletter">
@@ -378,7 +378,7 @@ include('header.php'); ?>
         </div>
 
         <div class="row">
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=Um1Ca045Beg"></a>
