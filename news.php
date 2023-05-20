@@ -6,13 +6,85 @@ include('header.php'); ?>
 
 <section class="marketbanner" style="background-image: url(./assets/img/new-bg.jpg);">
     <div class="container">
-        <h1>News</h1>
+        <h1>Newsroom</h1>
     </div>
 </section>
 
+
+<section class="nCommentary">
+    <div class="container">
+        <div class="nCommentary-heading">
+            <h3>News Commentary</h3>
+            <a href="#">See All</a>
+        </div>
+        <div class="row">
+            <div class="col-lg-3 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>New Pennsylvania law for free cancer screening</p>
+                    <span>5/2/2023</span>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>New Pennsylvania law for free cancer screening</p>
+                    <span>5/2/2023</span>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>New Pennsylvania law for free cancer screening</p>
+                    <span>5/2/2023</span>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>New Pennsylvania law for free cancer screening</p>
+                    <span>5/2/2023</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <section class="news">
     <div class="container">
+        <h4>Press Releases</h4>
         <div class="row">
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="biotech-entrepreneur-and-venture-capitalist-dinesh-patel-discusses-therapeutics-and-medical-devices-with-cancervax-ceo-ryan-davies.php"></a>
+                    <span>May 17, 2023</span>
+                    <h3>Biotech Entrepreneur and Venture Capitalist Dinesh Patel Discusses Therapeutics and Medical Devices with CancerVAX CEO Ryan Davies</h3>
+                    <p>Lehi, UT – May 17, 2023 – CancerVAX, developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, today reported that the Company’s CEO, Ryan Davies</p>
+
+                </div>
+            </div>
+
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="former-pfizer-legal-counsel-discusses-gene-therapy-with-cancervax-ceo-ryan-davies.php"></a>

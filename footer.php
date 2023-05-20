@@ -115,7 +115,7 @@ if ($page_name != "index.php") {
 </div>
 
 <script src="./assets/js/jquery-3.1.1.min.js"></script>
-<!-- <script src="./assets/js/slick.min.js"></script> -->
+<script src="./assets/js/slick.min.js"></script>
 <script src="./assets/js/jquery.magnific-popup.min.js"></script>
 <script src="./assets/js/particles.js"></script>
 <script src="./assets/js/bootstrap.bundle.min.js"></script>

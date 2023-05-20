@@ -44,13 +44,64 @@ include('header.php'); ?>
                 </div>
             </div>
             <div class="developed-logo">
-                <p>Being Developed At &nbsp;</p>
+                <p>In Collaboration with &nbsp;</p>
                 <img src="./assets/img/ucla.png" alt="UCLA">
             </div>
         </div>
     </div>
 
 </section>
+
+<!-- <section class="pvRecent">
+    <div class="ceochats-carousel">
+
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/H_qdeW3CGmA/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>CancerVAX Podcast - Stephen Diamond</p>
+            <span>5/2/2023</span>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=DcFor_Vo4MU"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/DcFor_Vo4MU/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>CancerVax Podcast - Dr. Satiro De Oliveira</p>
+            <span>5/2/2023</span>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=uDGsblCmks4"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/uDGsblCmks4/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>CancerVax Podcast - Ryan looper</p>
+            <span>5/2/2023</span>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=Z2e7PrrDNvw"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/Z2e7PrrDNvw/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>CancerVax Podcast - Jonathan Lakey</p>
+            <span>5/2/2023</span>
+        </div>
+    </div>
+
+</section> -->
 
 
 <section class="newsletter home-newsletter">
@@ -224,6 +275,9 @@ include('header.php'); ?>
                         <p>
                             Principal Investigator
                         </p>
+                        <a href="http://www.youtube.com/watch?v=DcFor_Vo4MU" class="popup-youtube intertext">
+                            Watch Interview
+                        </a>
 
                         <div class="team-description">
                             <p>Dr. De Oliveira is a board-certified pediatrician and board-certified pediatric
@@ -324,6 +378,17 @@ include('header.php'); ?>
         </div>
 
         <div class="row">
+        <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=Um1Ca045Beg"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>CancerVAX Podcast - Dr. Dinesh Patel</p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box">
@@ -344,6 +409,7 @@ include('header.php'); ?>
                         <i class="far fa-play-circle"></i>
                     </div>
                     <p>CancerVax Podcast - Dr. Satiro De Oliveira</p>
+
                 </div>
             </div>
             <div class="col-lg-6">
@@ -357,17 +423,6 @@ include('header.php'); ?>
                     <p>CancerVax Podcast - Ryan looper</p>
                 </div>
             </div>
-            <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=Z2e7PrrDNvw"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>CancerVax Podcast - Jonathan Lakey</p>
-                </div>
-            </div>
         </div>
     </div>
 
@@ -379,6 +434,15 @@ include('header.php'); ?>
     <div class="container">
         <h4>News Highlights</h4>
         <div class="row">
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="biotech-entrepreneur-and-venture-capitalist-dinesh-patel-discusses-therapeutics-and-medical-devices-with-cancervax-ceo-ryan-davies.php"></a>
+                    <span>May 17, 2023</span>
+                    <h3>Biotech Entrepreneur and Venture Capitalist Dinesh Patel Discusses Therapeutics and Medical Devices with CancerVAX CEO Ryan Davies</h3>
+                    <p>Lehi, UT – May 17, 2023 – CancerVAX, developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, today reported that the Company’s CEO, Ryan Davies</p>
+
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="former-pfizer-legal-counsel-discusses-gene-therapy-with-cancervax-ceo-ryan-davies.php"></a>
@@ -409,86 +473,9 @@ include('header.php'); ?>
                 </div>
 
             </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-ceo-ryan-davies-speaks-with-university-of-utah-chemistry-professor-about-the-future-of-fherapeutic-research.php"></a>
-                    <span>March 24, 2023</span>
-                    <h3>CancerVax CEO Ryan Davies Speaks with University of Utah Chemistry Professor about the Future of Therapeutic Research</h3>
-                    <p>Dr. Ryan Looper, a chemistry Professor at the University of Utah, sat down with CancerVAX CEO Ryan Davies to discuss the future of novel therapeutics and how the industry can encourage young scientists to enter the field.</p>
-
-                </div>
-
-            </div>
 
         </div>
-        <!-- <div class="row">
-            <div class="col-md-6 col-xl-4">
-                <div class="newsc-item">
-                    <div class="news-img">
-                        <img src="./assets/img/news2.jpg" alt="news">
-                    </div>
-                    <span>March 20, 2023</span>
-                    <p>CancerVAX CEO Ryan Davies Sits Down with Oncology Research Leader</p>
 
-                    <a href="cancervax-ceo-ryan-davies-sits-down-with-oncology-research-leader.php"></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4">
-                <div class="newsc-item">
-                    <div class="news-img">
-                        <img src="./assets/img/screenshot.jpg" alt="news">
-                    </div>
-                    <span>August 31, 2022</span>
-                    <p>CancerVAX Announces Research Program to Develop Its Second Immunotherapy Cancer Treatment</p>
-
-                    <a href="cancervax-announces-research-program-to-develop-its-second-immunotherapy-cancer-treatment.php"></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4">
-                <div class="newsc-item">
-                    <div class="news-img">
-                        <img src="./assets/img/news3.jpg" alt="news">
-                    </div>
-                    <span>October 6, 2021</span>
-                    <p>CancerVAX Files Provisional Patent for a Universal Cancer Vaccine</p>
-                    <a href="cancervax-files-provisional-patent-for-a-universal-cancer-vaccine.php"></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4">
-                <div class="newsc-item">
-                    <div class="news-img">
-                        <img src="./assets/img/news1.jpg" alt="news">
-                    </div>
-                    <span>October 1, 2021</span>
-                    <p>Biotech Executive Joins CancerVAX</p>
-                    <a href="biotech-executive-joins-cancervax.php"></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4">
-                <div class="newsc-item">
-                    <div class="news-img">
-                        <img src="./assets/img/screenshot4.jpg" alt="news">
-                    </div>
-                    <span>May 26, 2021</span>
-                    <p>CancerVAX Announces Research Program</p>
-                    <a href="cancervax-announces-research-program.php"></a>
-                </div>
-            </div>
-
-
-            <div class="col-md-6 col-xl-4">
-                <div class="newsc-item">
-                    <div class="news-img">
-                        <img src="./assets/img/screenshot1-1.jpg" alt="news">
-                    </div>
-                    <span>March 30, 2021</span>
-                    <p>CancerVAX Closes Series A Funding Round</p>
-                    <a href="cancervax-closes-series-a-funding-round.php"></a>
-                </div>
-            </div>
-
-
-        </div> -->
     </div>
 </section>
 

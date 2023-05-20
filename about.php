@@ -7,7 +7,10 @@ include('header.php'); ?>
 <section class="abtBanner">
     <div class="container">
         <div class="abtBanner-text">
-            <h1>CancerVAX is a pre-clinical biotechnology company developing immunotherapy cancer treatments that use the body’s immune system to fight cancer. We aim to develop transformative therapies to protect and improve people’s lives.</h1>
+            <h1>CancerVAX is a pre-clinical biotechnology company working with
+                UCLA to develop immunotherapy cancer treatments that use the body’s
+                immune system to fight cancer. We aim to develop transformative
+                therapies to protect and improve people’s lives.</h1>
         </div>
     </div>
 </section>
@@ -187,6 +190,9 @@ include('header.php'); ?>
                     <p>
                         Principal Investigator
                     </p>
+                    <a href="http://www.youtube.com/watch?v=DcFor_Vo4MU" class="popup-youtube intertext">
+                        Watch Interview
+                    </a>
                     <div class="team-description">
                         <p>Dr. De Oliveira is a board-certified pediatrician and board-certified pediatric hematology/oncologist. He received his medical degree in Brazil and completed his pediatric residency at Woodhull Medical and Mental Health Center in New York and his pediatric hematology/oncology fellowship at the Children’s Hospital Lost Angeles. His clinical focus is on pediatric oncology and gene therapies and his research focus is on cancer immunotherapy and biology of stem cell transplantation.</p>
                     </div>
