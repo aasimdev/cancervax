@@ -77,6 +77,16 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="biotech-entrepreneur-and-venture-capitalist-dinesh-patel-discusses-therapeutics-and-medical-devices-with-cancervax-ceo-ryan-davies.php"></a>
+                    <span>May 17, 2023</span>
+                    <h3>Biotech Entrepreneur and Venture Capitalist Dinesh Patel Discusses Therapeutics and Medical Devices with CancerVAX CEO Ryan Davies</h3>
+                    <p>Lehi, UT – May 17, 2023 – CancerVAX, developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, today reported that the Company’s CEO, Ryan Davies</p>
+
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="news-item">
                     <a href="former-pfizer-legal-counsel-discusses-gene-therapy-with-cancervax-ceo-ryan-davies.php"></a>
                     <span>April 20, 2023</span>
                     <h3>Former Pfizer Legal Counsel Discusses Gene Therapy with CancerVAX CEO Ryan Davies</h3>

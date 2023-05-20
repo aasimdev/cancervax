@@ -1778,13 +1778,12 @@ label.error {
             line-height: 40px;
             font-family: $fontHeading;
             color: #ABABAB;
-            margin-bottom: 25px;
         }
 
         p {
             font-weight: 400;
             font-size: 16px;
-            line-height: 30px;
+            line-height: 1.7em;
             color: #ababab;
         }
     }
@@ -1800,13 +1799,14 @@ label.error {
         line-height: 40px;
         font-family: $fontHeading;
         color: #ABABAB;
-        margin-bottom: 58px;
+        // margin-bottom: 58px;
     }
 
     p {
         font-weight: 400;
         font-size: 16px;
-        line-height: 30px;
+        line-height: 1.7em;
+        margin-bottom: 24px;
         color: #ababab;
     }
 }
@@ -1831,13 +1831,13 @@ label.error {
             line-height: 40px;
             font-family: $fontHeading;
             color: #ABABAB;
-            margin-bottom: 25px;
+            // margin-bottom: 25px;
         }
 
         p {
             font-weight: 400;
             font-size: 16px;
-            line-height: 30px;
+            line-height: 1.7em;
             color: #ababab;
         }
     }
@@ -1856,9 +1856,12 @@ label.error {
         li {
             font-weight: 400;
             font-size: 16px;
-            line-height: 30px;
+            line-height: 1.7em;
             color: #ababab;
-            margin-bottom: 8px;
+           
+        }
+        p{
+            margin-bottom: 24px;
         }
     }
 
