@@ -11,7 +11,7 @@ include('header.php'); ?>
 </section>
 
 
-<section class="nCommentary">
+<!-- <section class="nCommentary">
     <div class="container">
         <div class="nCommentary-heading">
             <h3>News Commentary</h3>
@@ -68,7 +68,7 @@ include('header.php'); ?>
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <section class="news">
