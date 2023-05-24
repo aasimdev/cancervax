@@ -160,9 +160,9 @@ include('header.php'); ?>
                             bioengineering and molecular technologies to uniquely detect, mark and kill only cancer
                             cells. By forcing cancer cells to express a unique marker that healthy cells do not
                             have, custom antibody drugs and the body's immune system can target and destroy them
-                            with precision. Additionally, we intend to make cancer cell look like common diseases so
-                            that the body’s immune system can destroy them with ease. We have filed a patent
-                            application for the UCV and are partnering with UCLA to develop the platform, which may
+                            with precision. Additionally, we intend to make cancer cells look like common diseases so
+                            that the body’s immune system can easily destroy them. We have filed a patent
+                            application for the UCV and are working with UCLA to develop the platform, which may
                             be administered as a one or two-shot treatment.</p>
                     </div>
                 </div>
