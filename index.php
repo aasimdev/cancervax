@@ -54,7 +54,18 @@ include('header.php'); ?>
 
 <section class="pvRecent">
     <div class="ceochats-carousel">
-
+    <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=FoiGO6QzS-U"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/FoiGO6QzS-U/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>CancerVax News Commentary
+                with Byron Elton</p>
+            <span>May 26, 2023</span>
+        </div>
         <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=fcAUnmxnmK4"></a>
@@ -67,6 +78,7 @@ include('header.php'); ?>
                 Byron Elton</p>
             <span>May 22, 2023</span>
         </div>
+        
         <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=DcFor_Vo4MU"></a>

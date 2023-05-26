@@ -18,6 +18,18 @@ include('header.php'); ?>
             <!-- <a href="#">See All</a> -->
         </div>
         <div class="row">
+        <div class="col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=FoiGO6QzS-U"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>Breast Cancer Screening</p>
+                    <span>May 26, 2023</span>
+                </div>
+            </div>
             <div class="col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
@@ -30,6 +42,7 @@ include('header.php'); ?>
                     <span>May 22, 2023</span>
                 </div>
             </div>
+           
         </div>
     </div>
 </section>
