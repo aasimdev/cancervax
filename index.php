@@ -54,18 +54,31 @@ include('header.php'); ?>
 
 <!-- <section class="pvRecent">
     <div class="ceochats-carousel">
-
-        <div class="cchat">
+    <div class="cchat">
             <div class="cchat-box">
-                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=FoiGO6QzS-U"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
-                    <img src="https://i.ytimg.com/vi/H_qdeW3CGmA/maxresdefault.jpg" alt="chat">
+                    <img src="https://i.ytimg.com/vi/FoiGO6QzS-U/maxresdefault.jpg" alt="chat">
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVAX Podcast - Stephen Diamond</p>
-            <span>5/2/2023</span>
+            <p>CancerVax News Commentary
+                with Byron Elton</p>
+            <span>May 26, 2023</span>
         </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=fcAUnmxnmK4"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/fcAUnmxnmK4/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>CancerVAX News Commentary with
+                Byron Elton</p>
+            <span>May 22, 2023</span>
+        </div>
+        
         <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=DcFor_Vo4MU"></a>
@@ -74,30 +87,107 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVax Podcast - Dr. Satiro De Oliveira</p>
-            <span>5/2/2023</span>
+            <p>CancerVAX Podcast - Dinesh Patel</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
-                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=uDGsblCmks4"></a>
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=W6FG-viYbKM"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
-                    <img src="https://i.ytimg.com/vi/uDGsblCmks4/maxresdefault.jpg" alt="chat">
+                    <img src="https://i.ytimg.com/vi/W6FG-viYbKM/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>CancerVAX Podcast - Stephen Diamond</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=QAFbMKCJcgk"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/QAFbMKCJcgk/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>CancerVax Podcast - Dr. Satiro De Oliveira</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=5LRM7n5IleQ"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/5LRM7n5IleQ/maxresdefault.jpg" alt="chat">
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
             <p>CancerVax Podcast - Ryan looper</p>
-            <span>5/2/2023</span>
         </div>
         <div class="cchat">
             <div class="cchat-box">
-                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=Z2e7PrrDNvw"></a>
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=kS54nCFPPVM"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
-                    <img src="https://i.ytimg.com/vi/Z2e7PrrDNvw/maxresdefault.jpg" alt="chat">
+                    <img src="https://i.ytimg.com/vi/kS54nCFPPVM/maxresdefault.jpg" alt="chat">
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
             <p>CancerVax Podcast - Jonathan Lakey</p>
-            <span>5/2/2023</span>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=kTZYBVC_Gig"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/kTZYBVC_Gig/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>CancerVax Podcast - Dr. David Bearss</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=OYoOgSZ8HK4"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/OYoOgSZ8HK4/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>CancerVAX Podcast - Todd Kinard talks Intellectual Property in Biotech</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=JbE5nKVJAMo"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/JbE5nKVJAMo/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p> CancerVAX Partnered with Jonsson Comprehensive Cancer Center</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=rMhbq_yeWEg"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/rMhbq_yeWEg/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p> CancerVAX - Seeking Immunotherapy Solutions that Prevent Cancer</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=1tqn7-LXYfY"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/1tqn7-LXYfY/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>Unlike Any Other Industry - CancerVAX CEO Ryan Davies talks Biotech</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=O7-OAT0ejxE"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/O7-OAT0ejxE/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>Biomedical Research without Traditional Overhead Costs at CancerVA</p>
         </div>
     </div>
 
@@ -381,7 +471,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=Um1Ca045Beg"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=twJxMzdSS4A"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
@@ -392,7 +482,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=W6FG-viYbKM"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
@@ -403,7 +493,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=DcFor_Vo4MU"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=QAFbMKCJcgk"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
@@ -415,7 +505,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=uDGsblCmks4"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=5LRM7n5IleQ"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
