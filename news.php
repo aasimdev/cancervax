@@ -11,14 +11,14 @@ include('header.php'); ?>
 </section>
 
 
-<!-- <section class="nCommentary">
+<section class="nCommentary">
     <div class="container">
         <div class="nCommentary-heading">
             <h3>News Commentary</h3>
             <!-- <a href="#">See All</a> -->
         </div>
         <div class="row">
-        <div class="col-lg-4 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=FoiGO6QzS-U"></a>
@@ -42,10 +42,10 @@ include('header.php'); ?>
                     <span>May 22, 2023</span>
                 </div>
             </div>
-           
+
         </div>
     </div>
-</section> -->
+</section>
 
 
 <section class="news">
