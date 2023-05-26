@@ -15,55 +15,19 @@ include('header.php'); ?>
     <div class="container">
         <div class="nCommentary-heading">
             <h3>News Commentary</h3>
-            <a href="#">See All</a>
+            <!-- <a href="#">See All</a> -->
         </div>
         <div class="row">
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=fcAUnmxnmK4"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>New Pennsylvania law for free cancer screening</p>
-                    <span>5/2/2023</span>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>New Pennsylvania law for free cancer screening</p>
-                    <span>5/2/2023</span>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>New Pennsylvania law for free cancer screening</p>
-                    <span>5/2/2023</span>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>New Pennsylvania law for free cancer screening</p>
-                    <span>5/2/2023</span>
+                    <p>Gene Targeted Personalized Vaccine</p>
+                    <span>May 22, 2023</span>
                 </div>
             </div>
         </div>
