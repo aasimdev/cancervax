@@ -54,7 +54,7 @@ if ($page_name != "index.php") {
                             <div class="footer-link">
                                 <ul class="links no-head">
                                     <li>
-                                        <a href="/podcast">Podcast</a>
+                                        <a href="/videos">Videos</a>
                                     </li>
                                     <li>
                                         <a href="/investors">Investors</a>

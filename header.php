@@ -112,7 +112,7 @@
                         <a class="nav-link <?php active('news'); ?>" href="/news">Newsroom</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link <?php active('podcast'); ?>" href="/podcast">Podcast</a>
+                        <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link <?php active('investors'); ?>" href="/investors">Investors</a>

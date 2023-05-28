@@ -1,18 +1,21 @@
 <?php
-$GLOBALS['title'] = "Podcast - CancerVax";
+$GLOBALS['title'] = "Videos - CancerVax";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 include('header.php'); ?>
 
 <section class="cchatsbanner">
     <div class="container">
-        <h1>Podcast</h1>
+        <h1>Videos</h1>
     </div>
 </section>
 
 
 <section class="abtceo">
     <div class="container">
+    <div class="abtceo-heading">
+            <h2>CEO Podcast</h2>
+        </div>
         <div class="abtceo-wrap">
             <div class="abt-ceo-img">
                 <img src="./assets/img/Ryan-Davies.jpg" alt="ryan">
