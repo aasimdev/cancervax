@@ -18,7 +18,7 @@ include('header.php'); ?>
     </div>
 </section>
 
-<section class="cchats">
+<section class="cchats shortVideos">
     <div class="container">
         <div class="row">
             <div class="col-xl-3 col-lg-4 col-md-6">

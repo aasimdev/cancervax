@@ -1950,3 +1950,14 @@ label.error {
         margin-bottom: 80px;
     }
 }
+#short-videos{
+    &.nCommentary .cchat-thumbnail {
+        height: 540px;
+    }
+}
+
+.shortVideos{
+    .cchat-thumbnail{
+        height: 540px;
+    }
+}
