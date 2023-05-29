@@ -27,6 +27,57 @@ include('header.php'); ?>
 </section>
 
 
+<section class="cchats">
+    <div class="container">
+        <div class="row">
+        <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=kLHL6Sw-QDI"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>CancerVax Cancer Survivor Stories -- Byron Elton, Prostate Cancer</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=n39f-EMmaWw"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>CancerVAX Cancer Survivor Stories -- Don Elm, Stomach Cancer and Colon Cancerd</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=eWtiq6e0YO0"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>CancerVAX Survivor Stories -- Jeff Lipschitz, Prostate Cancer</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=cVNEyN2pIUI"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>CancerVAX Cancer Survivor Stories - Chris Westerkamp, Pancreatic Cancer</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 
 
 
