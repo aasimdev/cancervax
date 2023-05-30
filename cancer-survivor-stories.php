@@ -20,7 +20,9 @@ include('header.php'); ?>
             <div class="abt-ceo-img">
                 <img src="./assets/img/byron-cvax.jpg" alt="ryan">
             </div>
-            <p>Our CMO, Byron Elton, host personal interviews with cancer stories to hear their personal experience battling cancer.
+            <p>Our
+                CMO, Byron Elton, interviews cancer survivors about their personal
+                experiences battling cancer
             </p>
         </div>
     </div>
@@ -30,7 +32,7 @@ include('header.php'); ?>
 <section class="cchats">
     <div class="container">
         <div class="row">
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=kLHL6Sw-QDI"></a>
