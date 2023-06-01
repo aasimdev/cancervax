@@ -13,31 +13,31 @@ include('header.php'); ?>
 <div class="videoCategories">
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-lg-3 col-md-6">
                 <div class="vCatBox">
                     <a href="#news-commentary">
                         <div class="vCatBox-thumb">
-                            <img src="./assets/img/ceo-chats-bg.jpg" alt="video">
+                            <img src="./assets/img/news-commentary.png" alt="video">
                         </div>
-                        <span>News Commentary</span>
+                        <span>News <br> Commentary</span>
                     </a>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-lg-3 col-md-6">
                 <div class="vCatBox">
                     <a href="#ceo-podcast">
                         <div class="vCatBox-thumb">
-                            <img src="./assets/img/ceo-chats-bg.jpg" alt="video">
+                            <img src="./assets/img/ceo-podcast.png" alt="video">
                         </div>
                         <span>CEO Podcast</span>
                     </a>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-lg-3 col-md-6">
                 <div class="vCatBox">
                     <a href="#cancer-survivor-stories">
                         <div class="vCatBox-thumb">
-                            <img src="./assets/img/ceo-chats-bg.jpg" alt="video">
+                            <img src="./assets/img/cancer-survivor-stories.png" alt="video">
                         </div>
                         <span>Cancer Survivor <br>
                             Stories
@@ -45,11 +45,11 @@ include('header.php'); ?>
                     </a>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-lg-3 col-md-6">
                 <div class="vCatBox">
                     <a href="#short-videos">
                         <div class="vCatBox-thumb">
-                            <img src="./assets/img/ceo-chats-bg.jpg" alt="video">
+                            <img src="./assets/img/short-videos.png" alt="video">
                         </div>
                         <span>Short
                             Videos
