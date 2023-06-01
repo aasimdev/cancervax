@@ -35,23 +35,13 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=kLHL6Sw-QDI"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=cVNEyN2pIUI"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVax Cancer Survivor Stories -- Byron Elton, Prostate Cancer</p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=n39f-EMmaWw"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>CancerVAX Cancer Survivor Stories -- Don Elm, Stomach Cancer and Colon Cancerd</p>
+                    <span class="mt-0 mb-2">May 27, 2023</span>
+                    <p class="mt-0">Chris Westerkamp - Pancreatic Cancer</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -62,18 +52,32 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVAX Survivor Stories -- Jeff Lipschitz, Prostate Cancer</p>
+                    <span class="mt-0 mb-2">May 27, 2023</span>
+                    <p class="mt-0">Jeff Lipschitz - Prostate Cancer</p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=cVNEyN2pIUI"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=n39f-EMmaWw"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVAX Cancer Survivor Stories - Chris Westerkamp, Pancreatic Cancer</p>
+                    <span class="mt-0 mb-2">Mar 24, 2023</span>
+                    <p class="mt-0">Don Elm - Stomach Cancer and Colon Cancer</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=kLHL6Sw-QDI"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <span class="mt-0 mb-2">Mar 24, 2023</span>
+                    <p class="mt-0">Byron Elton - Prostate Cancer</p>
                 </div>
             </div>
         </div>

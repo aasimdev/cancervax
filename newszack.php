@@ -38,8 +38,8 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>Gene Targeted Personalized Vaccine</p>
-                    <span>May 22, 2023</span>
+                    <p>mRNA Vaccine</p>
+                    <span>May 24, 2023</span>
                 </div>
             </div>
            

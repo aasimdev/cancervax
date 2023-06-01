@@ -30,129 +30,139 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=twJxMzdSS4A"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVAX Podcast -- Dinesh Patel</p>
+                    <span class="mt-0 mb-2">May 17, 2023</span>
+                    <p class="mt-0">Dr. Dinesh Patel - Xenocor, Inc.</p>
                 </div>
             </div>
         <div class="col-lg-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=W6FG-viYbKM"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVAX Podcast - Stephen Diamond</p>
+                    <span class="mt-0 mb-2">Apr 20, 2023</span>
+                    <p class="mt-0">Stephen Diamond - LEXEO Therapeutics</p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=QAFbMKCJcgk"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVax Podcast - Dr. Satiro De Oliveira</p>
+                    <span class="mt-0 mb-2">Apr 12, 2023</span>
+                    <p class="mt-0">Dr. Satiro De Oliveira - UCLA</p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=5LRM7n5IleQ"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVax Podcast - Ryan looper</p>
+                    <span class="mt-0 mb-2">Mar 23, 2023</span>
+                    <p class="mt-0">Ryan looper - Curza</p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=kS54nCFPPVM"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVax Podcast - Jonathan Lakey</p>
+                    <span class="mt-0 mb-2">Mar 21, 2023</span>
+                    <p class="mt-0">Jonathan Lakey - XOStem, Inc</p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=kTZYBVC_Gig"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                             <img src="./assets/img/thumbnail-1.png" class="object-fit-contain" alt="chat">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVax Podcast - Dr. David Bearss</p>
+                    <span class="mt-0 mb-2">Mar 19, 2023</span>
+                    <p class="mt-0">Dr. David Bearss - Halia Therapeutics</p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=OYoOgSZ8HK4"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                             <img src="./assets/img/ceo-chat1.jpg" alt="chat">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVAX Podcast - Todd Kinard talks Intellectual Property in Biotech</p>
+                    <span class="mt-0 mb-2">Mar 15, 2023</span>
+                    <p class="mt-0">Todd Kinard - Curza</p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube" href="http://www.youtube.com/watch?v=JbE5nKVJAMo"></a>
                         <div class="cchat-thumbnail">
                             <img src="./assets/img/screenshot1-1.jpg" alt="chat">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p> CancerVAX Partnered with Jonsson Comprehensive Cancer Center</p>
+                    <span class="mt-0 mb-2">Mar 15, 2023</span>
+                    <p class="mt-0">Partnered with Jonsson Comprehensive Cancer Center</p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube" href="http://www.youtube.com/watch?v=rMhbq_yeWEg"></a>
                         <div class="cchat-thumbnail">
                             <img src="./assets/img/screenshot4.jpg" alt="chat">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p> CancerVAX - Seeking Immunotherapy Solutions that Prevent Cancer</p>
+                    <span class="mt-0 mb-2">Mar 15, 2023</span>
+                    <p class="mt-0">Seeking Immunotherapy Solutions that Prevent Cancer</p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube" href="http://www.youtube.com/watch?v=1tqn7-LXYfY"></a>
                         <div class="cchat-thumbnail">
                             <img src="./assets/img/screenshot2.jpg" alt="chat">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>Unlike Any Other Industry - CancerVAX CEO Ryan Davies talks Biotech</p>
+                    <p class="mt-0">Unlike Any Other Industry - CancerVAX CEO Ryan Davies talks Biotech</p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube" href="http://www.youtube.com/watch?v=O7-OAT0ejxE"></a>
                         <div class="cchat-thumbnail">
                             <img src="./assets/img/screenshot3.jpg" alt="chat">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>Biomedical Research without Traditional Overhead Costs at CancerVA</p>
+                    <span class="mt-0 mb-2">Mar 15, 2023</span>
+                    <p class="mt-0">Biomedical Research without Traditional Overhead Costs at CancerVA</p>
                 </div>
             </div>
         </div>

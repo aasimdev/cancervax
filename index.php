@@ -74,9 +74,8 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVAX News Commentary with
-                Byron Elton</p>
-            <span>May 22, 2023</span>
+            <p>mRNA Vaccine</p>
+            <span>May 24, 2023</span>
         </div>
         
         <div class="cchat">
@@ -97,7 +96,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVAX Podcast - Stephen Diamond</p>
+            <p>Apr 20, 2023 - Stephen Diamond - LEXEO Therapeutics</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -107,7 +106,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVax Podcast - Dr. Satiro De Oliveira</p>
+            <p>Apr 12, 2023 - Dr. Satiro De Oliveira - UCLA</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -117,7 +116,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVax Podcast - Ryan looper</p>
+            <p>Mar 23, 2023 - Ryan looper - Curza</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -127,7 +126,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVax Podcast - Jonathan Lakey</p>
+            <p>Mar 21, 2023 - Jonathan Lakey - XOStem, Inc</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -137,7 +136,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVax Podcast - Dr. David Bearss</p>
+            <p>Mar 19, 2023 - Dr. David Bearss - Halia Therapeutics</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -147,7 +146,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVAX Podcast - Todd Kinard talks Intellectual Property in Biotech</p>
+            <p>Mar 15, 2023 - Todd Kinard - Curza</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -157,7 +156,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p> CancerVAX Partnered with Jonsson Comprehensive Cancer Center</p>
+            <p> Mar 15, 2023 - Partnered with Jonsson Comprehensive Cancer Center</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -167,7 +166,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p> CancerVAX - Seeking Immunotherapy Solutions that Prevent Cancer</p>
+            <p> Mar 15, 2023 - Seeking Immunotherapy Solutions that Prevent Cancer</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -187,7 +186,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>Biomedical Research without Traditional Overhead Costs at CancerVA</p>
+            <p>Mar 15, 2023 - Biomedical Research without Traditional Overhead Costs at CancerVA</p>
         </div>
     </div>
 
@@ -476,7 +475,7 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVAX Podcast - Dr. Dinesh Patel</p>
+                    <p>May 17, 2023 - Dr. Dinesh Patel - Xenocor, Inc.</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -487,7 +486,7 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVAX Podcast - Stephen Diamond</p>
+                    <p>Apr 20, 2023 - Stephen Diamond - LEXEO Therapeutics</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -498,7 +497,7 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVax Podcast - Dr. Satiro De Oliveira</p>
+                    <p>Apr 12, 2023 - Dr. Satiro De Oliveira - UCLA</p>
 
                 </div>
             </div>
@@ -510,7 +509,7 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVax Podcast - Ryan looper</p>
+                    <p>Mar 23, 2023 - Ryan looper - Curza</p>
                 </div>
             </div>
         </div>

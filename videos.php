@@ -90,8 +90,8 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <span class="mt-0 mb-2">May 22, 2023</span>
-                    <p class="mt-0">Gene Targeted Personalized Vaccine</p>
+                    <span class="mt-0 mb-2">May 24, 2023</span>
+                    <p class="mt-0">mRNA Vaccine</p>
 
                 </div>
             </div>
@@ -109,46 +109,50 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=twJxMzdSS4A"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVAX Podcast -- Dinesh Patel</p>
+                    <span class="mt-0 mb-2">May 17, 2023</span>
+                    <p class="mt-0">Dr. Dinesh Patel - Xenocor, Inc.</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=W6FG-viYbKM"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVAX Podcast - Stephen Diamond</p>
+                    <span class="mt-0 mb-2">Apr 20, 2023</span>
+                    <p class="mt-0">Stephen Diamond - LEXEO Therapeutics</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=QAFbMKCJcgk"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVax Podcast - Dr. Satiro De Oliveira</p>
+                    <span class="mt-0 mb-2">Apr 12, 2023</span>
+                    <p class="mt-0">Dr. Satiro De Oliveira - UCLA</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=5LRM7n5IleQ"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVax Podcast - Ryan looper</p>
+                    <span class="mt-0 mb-2">Mar 23, 2023</span>
+                    <p class="mt-0">Ryan looper - Curza</p>
                 </div>
             </div>
         </div>
@@ -164,46 +168,50 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=kLHL6Sw-QDI"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVax Cancer Survivor Stories -- Byron Elton, Prostate Cancer</p>
+                    <span class="mt-0 mb-2">May 24, 2023</span>
+                    <p class="mt-0">Byron Elton - Prostate Cancer</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=n39f-EMmaWw"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVAX Cancer Survivor Stories -- Don Elm, Stomach Cancer and Colon Cancerd</p>
+                    <span class="mt-0 mb-2">May 24, 2023</span>
+                    <p class="mt-0">Don Elm - Stomach Cancer and Colon Cancer</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=eWtiq6e0YO0"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVAX Survivor Stories -- Jeff Lipschitz, Prostate Cancer</p>
+                    <span class="mt-0 mb-2">May 27, 2023</span>
+                    <p class="mt-0">Jeff Lipschitz - Prostate Cancer</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
-                    <div class="cchat-box">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=cVNEyN2pIUI"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVAX Cancer Survivor Stories - Chris Westerkamp, Pancreatic Cancer</p>
+                    <span class="mt-0 mb-2">May 27, 2023</span>
+                    <p class="mt-0">Chris Westerkamp - Pancreatic Cancer</p>
                 </div>
             </div>
 
