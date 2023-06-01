@@ -272,6 +272,13 @@
     .immVideos__wrap {
         padding: 0;
     }
+    .socialHeader{
+        position: static;
+        padding: 0 0 16px;
+    }
+    .tSocial{
+        text-align: left;
+    }
 }
 
 @media (max-width: 767px) {

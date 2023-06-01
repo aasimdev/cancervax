@@ -85,6 +85,17 @@
         }
     }
     ?>
+
+    <div class="socialHeader d-none d-lg-block">
+        <div class="container-fluid">
+            <div class="tSocial">
+                <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
+                <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
+                <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
+            </div>
+        </div>
+    </div>
     <!-- Hedaer -->
     <nav class="navbar navbar-expand-lg navbar-dark">
         <div class="container-fluid">
@@ -122,6 +133,16 @@
                     </li>
 
                 </ul>
+                <div class="socialHeader d-lg-none">
+                    <div class="container-fluid">
+                        <div class="tSocial">
+                            <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
+                            <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
+                            <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </nav>
