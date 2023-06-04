@@ -93,7 +93,6 @@ include('header.php'); ?>
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=kTZYBVC_Gig"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
-                            <img src="./assets/img/thumbnail-1.png" class="object-fit-contain" alt="chat">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
@@ -106,7 +105,6 @@ include('header.php'); ?>
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=OYoOgSZ8HK4"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
-                            <img src="./assets/img/ceo-chat1.jpg" alt="chat">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
@@ -117,9 +115,8 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
-                        <a class="popup-youtube" href="http://www.youtube.com/watch?v=JbE5nKVJAMo"></a>
-                        <div class="cchat-thumbnail">
-                            <img src="./assets/img/screenshot1-1.jpg" alt="chat">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=JbE5nKVJAMo"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
@@ -130,9 +127,8 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
-                        <a class="popup-youtube" href="http://www.youtube.com/watch?v=rMhbq_yeWEg"></a>
-                        <div class="cchat-thumbnail">
-                            <img src="./assets/img/screenshot4.jpg" alt="chat">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=rMhbq_yeWEg"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
@@ -143,9 +139,8 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
-                        <a class="popup-youtube" href="http://www.youtube.com/watch?v=1tqn7-LXYfY"></a>
-                        <div class="cchat-thumbnail">
-                            <img src="./assets/img/screenshot2.jpg" alt="chat">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=1tqn7-LXYfY"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
@@ -155,9 +150,8 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
-                        <a class="popup-youtube" href="http://www.youtube.com/watch?v=O7-OAT0ejxE"></a>
-                        <div class="cchat-thumbnail">
-                            <img src="./assets/img/screenshot3.jpg" alt="chat">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=O7-OAT0ejxE"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
