@@ -80,9 +80,9 @@ include('header.php'); ?>
         
         <div class="cchat">
             <div class="cchat-box">
-                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=DcFor_Vo4MU"></a>
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=twJxMzdSS4A"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
-                    <img src="https://i.ytimg.com/vi/DcFor_Vo4MU/maxresdefault.jpg" alt="chat">
+                    <img src="https://i.ytimg.com/vi/twJxMzdSS4A/maxresdefault.jpg" alt="chat">
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
