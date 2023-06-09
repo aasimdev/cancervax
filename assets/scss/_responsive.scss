@@ -272,6 +272,13 @@
     .immVideos__wrap {
         padding: 0;
     }
+    .socialHeader{
+        position: static;
+        padding: 0 0 16px;
+    }
+    .tSocial{
+        text-align: left;
+    }
 }
 
 @media (max-width: 767px) {
@@ -677,5 +684,13 @@
     }
     .immtypes__content h5{
         margin-bottom: 16px;
+    }
+    #short-videos.nCommentary .cchat-thumbnail {
+        height: 620px;
+    }
+    .shortVideos{
+        .cchat-thumbnail{
+            height: 620px;
+        }
     }
 }

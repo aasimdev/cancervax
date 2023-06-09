@@ -54,7 +54,7 @@ if ($page_name != "index.php") {
                             <div class="footer-link">
                                 <ul class="links no-head">
                                     <li>
-                                        <a href="/podcast">Podcast</a>
+                                        <a href="/videos">Videos</a>
                                     </li>
                                     <li>
                                         <a href="/investors">Investors</a>
@@ -76,19 +76,15 @@ if ($page_name != "index.php") {
                                 <a href="mailto:info@cancervax.com">info@cancervax.com</a>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <!-- <div class="col-md-6">
                             <div class="footer-social">
                                 <h6>FOLLOW US</h6>
-                                <!-- <a href="https://instagram.com/cancervax?igshid=YmMyMTA2M2Y=" target="_blank"><i class="fab fa-instagram"></i></a>
-                                <a href="https://www.linkedin.com/company/cancervax/" target="_blank"><i class="fab fa-linkedin"></i></a> -->
                                 <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
                                 <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
                                 <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
                                 <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
-
-
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

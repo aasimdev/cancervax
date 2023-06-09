@@ -18,7 +18,7 @@ include('header.php'); ?>
             <!-- <a href="#">See All</a> -->
         </div>
         <div class="row">
-            <div class="col-lg-4 col-md-6">
+        <div class="col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=FoiGO6QzS-U"></a>
@@ -42,13 +42,13 @@ include('header.php'); ?>
                     <span>May 24, 2023</span>
                 </div>
             </div>
-
+           
         </div>
     </div>
 </section>
 
 
-<section class="news">
+<section class="news newnews">
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
