@@ -36,8 +36,7 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <span class="mt-0 mb-2">May 17, 2023</span>
-                    <p class="mt-0">Dr. Dinesh Patel - Xenocor, Inc.</p>
+                    <p class="mt-0">May 17, 2023 - Dr. Dinesh Patel - Xenocor, Inc.</p>
                 </div>
             </div>
         <div class="col-lg-6">
@@ -48,8 +47,8 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <span class="mt-0 mb-2">Apr 20, 2023</span>
-                    <p class="mt-0">Stephen Diamond - LEXEO Therapeutics</p>
+                    <span class="mt-0 mb-2"></span>
+                    <p class="mt-0">Apr 20, 2023 - Stephen Diamond - LEXEO Therapeutics</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -60,8 +59,7 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <span class="mt-0 mb-2">Apr 12, 2023</span>
-                    <p class="mt-0">Dr. Satiro De Oliveira - UCLA</p>
+                    <p class="mt-0">Apr 12, 2023 - Dr. Satiro De Oliveira - UCLA</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -72,8 +70,7 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <span class="mt-0 mb-2">Mar 23, 2023</span>
-                    <p class="mt-0">Ryan looper - Curza</p>
+                    <p class="mt-0">Mar 23, 2023 - Ryan looper - Curza</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -84,8 +81,8 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <span class="mt-0 mb-2">Mar 21, 2023</span>
-                    <p class="mt-0">Jonathan Lakey - XOStem, Inc</p>
+                    <span class="mt-0 mb-2"></span>
+                    <p class="mt-0">Mar 21, 2023 - Jonathan Lakey - XOStem, Inc</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -96,8 +93,8 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <span class="mt-0 mb-2">Mar 19, 2023</span>
-                    <p class="mt-0">Dr. David Bearss - Halia Therapeutics</p>
+                    <span class="mt-0 mb-2"></span>
+                    <p class="mt-0">Mar 19, 2023 - Dr. David Bearss - Halia Therapeutics</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -108,8 +105,8 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <span class="mt-0 mb-2">Mar 15, 2023</span>
-                    <p class="mt-0">Todd Kinard - Curza</p>
+                    <span class="mt-0 mb-2"></span>
+                    <p class="mt-0">Mar 15, 2023 - Todd Kinard - Curza</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -120,8 +117,7 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <span class="mt-0 mb-2">Mar 15, 2023</span>
-                    <p class="mt-0">Partnered with Jonsson Comprehensive Cancer Center</p>
+                    <p class="mt-0">Mar 15, 2023 - Partnered with Jonsson Comprehensive Cancer Center</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -132,8 +128,7 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <span class="mt-0 mb-2">Mar 15, 2023</span>
-                    <p class="mt-0">Seeking Immunotherapy Solutions that Prevent Cancer</p>
+                    <p class="mt-0">Mar 15, 2023 - Seeking Immunotherapy Solutions that Prevent Cancer</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -155,8 +150,7 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <span class="mt-0 mb-2">Mar 15, 2023</span>
-                    <p class="mt-0">Biomedical Research without Traditional Overhead Costs at CancerVA</p>
+                    <p class="mt-0">Mar 15, 2023 - Biomedical Research without Traditional Overhead Costs at CancerVA</p>
                 </div>
             </div>
         </div>
