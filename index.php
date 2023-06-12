@@ -62,9 +62,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVax News Commentary
-                with Byron Elton</p>
-            <span>May 26, 2023</span>
+            <p>May 24, 2023 - Byron Elton - Prostate Cancer</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -74,8 +72,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>mRNA Vaccine</p>
-            <span>May 24, 2023</span>
+            <p>May 24, 2023 - mRNA Vaccine</p>
         </div>
         
         <div class="cchat">
@@ -86,7 +83,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVAX Podcast - Dinesh Patel</p>
+            <p>May 17, 2023 - Dr. Dinesh Patel - Xenocor, Inc.</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">

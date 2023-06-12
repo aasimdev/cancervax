@@ -272,11 +272,13 @@
     .immVideos__wrap {
         padding: 0;
     }
-    .socialHeader{
+
+    .socialHeader {
         position: static;
         padding: 0 0 16px;
     }
-    .tSocial{
+
+    .tSocial {
         text-align: left;
     }
 }
@@ -682,15 +684,30 @@
             font-size: 75px;
         }
     }
-    .immtypes__content h5{
+
+    .immtypes__content h5 {
         margin-bottom: 16px;
     }
+
     #short-videos.nCommentary .cchat-thumbnail {
         height: 620px;
     }
-    .shortVideos{
-        .cchat-thumbnail{
+
+    .shortVideos {
+        .cchat-thumbnail {
             height: 620px;
         }
+    }
+
+    .invest-bar {
+        padding: 0;
+    }
+
+    .invest-bar-text p {
+        font-size: 18px;
+    }
+
+    .invest-bar-text a {
+        font-size: 14px;
     }
 }

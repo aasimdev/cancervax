@@ -36,8 +36,7 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <span class="mt-0 mb-2">May 26, 2023</span>
-                    <p class="mt-0">Breast Cancer Screening</p>
+                    <p class="mt-0">May 26, 2023 - Mammograms</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -48,8 +47,7 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <span class="mt-0 mb-2">May 24, 2023</span>
-                    <p class="mt-0">mRNA Vaccine</p>
+                    <p class="mt-0">May 24, 2023 - mRNA Vaccine</p>
                 </div>
             </div>
         </div>
