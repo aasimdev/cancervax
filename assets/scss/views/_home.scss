@@ -577,7 +577,7 @@ body.modal-open {
         color: #43C3B7;
         text-align: center;
         font-family: $fontHeading;
-        
+
     }
 }
 
@@ -1186,10 +1186,14 @@ body.modal-open {
 }
 
 .newnews {
-    .news-item span, .news-item h3, .news-item p {
+
+    .news-item span,
+    .news-item h3,
+    .news-item p {
         font-family: 'Roboto', sans-serif;
     }
-    .news-item h3{
+
+    .news-item h3 {
         font-size: 26px;
         line-height: 1.3;
         font-weight: 600;
@@ -1971,3 +1975,5 @@ label.error {
         height: 540px;
     }
 }
+
+
