@@ -54,7 +54,7 @@ include('header.php'); ?>
 
 <section class="pvRecent">
     <div class="ceochats-carousel">
-    <div class="cchat">
+        <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=FoiGO6QzS-U"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
@@ -74,7 +74,7 @@ include('header.php'); ?>
             </div>
             <p>May 24, 2023 - mRNA Vaccine</p>
         </div>
-        
+
         <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=twJxMzdSS4A"></a>
@@ -522,6 +522,14 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="cancerax-reports-positive-progress-on-kids-cancer-immunotherapy-treatment .php"></a>
+                    <span>June 12, 2023</span>
+                    <h3>CancerVAX Reports Positive Progress on Kids Cancer Immunotherapy Treatment </h3>
+                    <p>LEHI, Utah, June 12, 2023 (GLOBE NEWSWIRE) -- CancerVAX, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
                     <a href="biotech-entrepreneur-and-venture-capitalist-dinesh-patel-discusses-therapeutics-and-medical-devices-with-cancervax-ceo-ryan-davies.php"></a>
                     <span>May 17, 2023</span>
                     <h3>Biotech Entrepreneur and Venture Capitalist Dinesh Patel Discusses Therapeutics and Medical Devices with CancerVAX CEO Ryan Davies</h3>
@@ -545,16 +553,6 @@ include('header.php'); ?>
                     <span>April 12, 2023</span>
                     <h3>CancerVAX CEO Ryan Davies Discusses Cancer Research with Leading Pediatric Hematologic Oncologist</h3>
                     <p>Dr. Satiro De Oliveira, a principal investigator in the Company’s cancer research program at UCLA, comments about the importance of cancer immunotherapy</p>
-
-                </div>
-
-            </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-lands-byron-elton.php"></a>
-                    <span>April 3, 2023</span>
-                    <h3>CancerVAX Lands Byron Elton</h3>
-                    <p>Experienced business executive to help establish the Company as a significant force in the field of cancer research</p>
 
                 </div>
 
