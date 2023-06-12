@@ -18,7 +18,7 @@ include('header.php'); ?>
             <!-- <a href="#">See All</a> -->
         </div>
         <div class="row">
-        <div class="col-lg-4 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=FoiGO6QzS-U"></a>
@@ -42,7 +42,7 @@ include('header.php'); ?>
                     <span>May 24, 2023</span>
                 </div>
             </div>
-           
+
         </div>
     </div>
 </section>
@@ -52,6 +52,14 @@ include('header.php'); ?>
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancerax-reports-positive-progress-on-kids-cancer-immunotherapy-treatment .php"></a>
+                    <span>June 12, 2023</span>
+                    <h3>CancerVAX Reports Positive Progress on Kids Cancer Immunotherapy Treatment </h3>
+                    <p>LEHI, Utah, June 12, 2023 (GLOBE NEWSWIRE) -- CancerVAX, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced</p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="biotech-entrepreneur-and-venture-capitalist-dinesh-patel-discusses-therapeutics-and-medical-devices-with-cancervax-ceo-ryan-davies.php"></a>
