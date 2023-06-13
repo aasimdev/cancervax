@@ -56,9 +56,9 @@ include('header.php'); ?>
     <div class="ceochats-carousel">
         <div class="cchat">
             <div class="cchat-box">
-                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=FoiGO6QzS-U"></a>
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=kLHL6Sw-QDI"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
-                    <img src="https://i.ytimg.com/vi/FoiGO6QzS-U/maxresdefault.jpg" alt="chat">
+                    <img src="https://i.ytimg.com/vi/kLHL6Sw-QDI/maxresdefault.jpg" alt="chat">
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>

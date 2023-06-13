@@ -1413,7 +1413,18 @@ body.modal-open {
             font-weight: 500;
             line-height: 1.5;
             max-width: 500px;
+            a{
+                font-size: inherit;
+                font-weight: inherit;
+                line-height: inherit;
+                color: #fff;
+                text-decoration: underline;
+            }
+            & + p{
+                margin-top: 16px;
+            }
         }
+       
     }
 }
 

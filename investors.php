@@ -28,7 +28,8 @@ include('header.php'); ?>
             </div>
             <div class="col-lg-6">
                 <div class="invest-text">
-                    <p>We are currently not accepting any new investors. If you want to keep up with our progress or learn about future investment rounds, please subscribe to our email newsletter below.</p>
+                    <p>We have recently launched an SEC qualified $10 million offering at StartEngine, one of the largest online crowdfunding platforms.</p>
+                    <p>The offering is available to the general public, with a minimum investment of $500.00.  If you are interested in helping us beat cancer, please invest now at: <br> <a href="http://startengine.com/cancervax" target="_blank" rel="noopener noreferrer">http://startengine.com/cancervax</a></p>
                 </div>
             </div>
         </div>
