@@ -1413,7 +1413,24 @@ body.modal-open {
             font-weight: 500;
             line-height: 1.5;
             max-width: 500px;
+
+            a {
+                background: #fff;
+                padding: 10px;
+                font-size: 17px;
+                border-radius: 10px;
+                font-weight: 600;
+                text-transform: uppercase;
+                border: 1px solid #208f97;
+                display: inline-block;
+                margin-top: 16px;
+            }
+
+            &+p {
+                margin-top: 16px;
+            }
         }
+
     }
 }
 
@@ -1975,5 +1992,3 @@ label.error {
         height: 540px;
     }
 }
-
-

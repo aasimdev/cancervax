@@ -71,6 +71,17 @@
     </script>
     <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=657876116145620&ev=PageView&noscript=1" /></noscript>
     <!-- End Meta Pixel Code -->
+
+
+    <?php
+    $currentURL = $_SERVER['HTTP_HOST'];
+    $desiredURL = 'cancervax.com';
+
+    if ($currentURL === $desiredURL) {
+        echo '<meta name="facebook-domain-verification" content="z24tdbhlb62wzvjdkr3vdp344a8mqt" />';
+    }
+    ?>
+
 </head>
 
 <body>
