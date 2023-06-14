@@ -174,7 +174,7 @@ $(function () {
 
 if (!$('.invkeywords').length == 0) {
     var typing = new Typed(".invkeywords", {
-        strings: ["", "Invest", "Partner", "Associate"],
+        strings: ["", "Invest", "Partner", "JOIN THE FIGHT"],
         typeSpeed: 150,
         backSpeed: 50,
         loop: true,
