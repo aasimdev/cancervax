@@ -522,6 +522,14 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="biotech-executive-michael-dmith-discusses-the-fda-drug-development-process-with-cancervax-ceo-ryan-davies.php"></a>
+                    <span>June 16, 2023</span>
+                    <h3>Biotech Executive Michael Smith Discusses the FDA Drug Development Process with CancerVAX CEO Ryan Davies </h3>
+                    <p>Michael Smith comments on the growth of immunotherapy and sees the required FDA development phases as a benefit to small biotech firms such as CancerVax</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancerax-reports-positive-progress-on-kids-cancer-immunotherapy-treatment .php"></a>
                     <span>June 12, 2023</span>
                     <h3>CancerVAX Reports Positive Progress on Kids Cancer Immunotherapy Treatment </h3>
@@ -543,16 +551,6 @@ include('header.php'); ?>
                     <span>April 20, 2023</span>
                     <h3>Former Pfizer Legal Counsel Discusses Gene Therapy with CancerVAX CEO Ryan Davies</h3>
                     <p>Stephen Diamond, Senior Vice President, General Counsel, and Secretary of Freeline, discussed his unique path from the legal and business worlds to gene therapy and next-generation therapeutics.</p>
-
-                </div>
-
-            </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-ceo-ryan-davies-discusses-cancer-research-with-leading-pediatric-hematologic-oncologist.php"></a>
-                    <span>April 12, 2023</span>
-                    <h3>CancerVAX CEO Ryan Davies Discusses Cancer Research with Leading Pediatric Hematologic Oncologist</h3>
-                    <p>Dr. Satiro De Oliveira, a principal investigator in the Company’s cancer research program at UCLA, comments about the importance of cancer immunotherapy</p>
 
                 </div>
 

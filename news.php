@@ -54,7 +54,15 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="cancerax-reports-positive-progress-on-kids-cancer-immunotherapy-treatment .php"></a>
+                    <a href="biotech-executive-michael-dmith-discusses-the-fda-drug-development-process-with-cancervax-ceo-ryan-davies.php"></a>
+                    <span>June 16, 2023</span>
+                    <h3>Biotech Executive Michael Smith Discusses the FDA Drug Development Process with CancerVAX CEO Ryan Davies </h3>
+                    <p>Michael Smith comments on the growth of immunotherapy and sees the required FDA development phases as a benefit to small biotech firms such as CancerVax</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancerax-reports-positive-progress-on-kids-cancer-immunotherapy-treatment.php"></a>
                     <span>June 12, 2023</span>
                     <h3>CancerVAX Reports Positive Progress on Kids Cancer Immunotherapy Treatment </h3>
                     <p>LEHI, Utah, June 12, 2023 (GLOBE NEWSWIRE) -- CancerVAX, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced</p>
