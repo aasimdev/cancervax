@@ -26,7 +26,8 @@ include('header.php'); ?>
                             <div class="banner-thumbnail">
                                 <img src="./assets/img/thumbnail.png" alt="thumbnail">
                             </div>
-                            <a href="http://www.youtube.com/watch?v=zbnhGW5Zz4c" class="theme-btn text-uppercase popup-youtube">
+                            <a href="http://www.youtube.com/watch?v=zbnhGW5Zz4c"
+                                class="theme-btn text-uppercase popup-youtube">
                                 <i class="far fa-play-circle"></i>
                                 <span>Watch video</span>
                             </a>
@@ -54,6 +55,16 @@ include('header.php'); ?>
 
 <section class="pvRecent">
     <div class="ceochats-carousel">
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=c123rkMsmVQ"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/kLHL6Sw-QDI/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>June 16, 2023 - Michael Smith - KalVista Pharmaceuticals</p>
+        </div>
         <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=kLHL6Sw-QDI"></a>
@@ -200,7 +211,8 @@ include('header.php'); ?>
                 <button type="submit">Subscribe</button>
             </form> -->
             <div id="icontactSignupFormWrapper956">
-                <script type="text/javascript" async src="https://app.icontact.com/icp/core/mycontacts/signup/designer/form/automatic?id=956&cid=1868283&lid=5400&divid=icontactSignupFormWrapper956"></script>
+                <script type="text/javascript" async
+                    src="https://app.icontact.com/icp/core/mycontacts/signup/designer/form/automatic?id=956&cid=1868283&lid=5400&divid=icontactSignupFormWrapper956"></script>
             </div>
         </div>
     </div>
@@ -218,7 +230,8 @@ include('header.php'); ?>
 </section>
 
 <section class="pclinical">
-    <video playsinline autoplay muted loop class="pclinical-video" preload="none" poster="./assets/img/banner-video-poster.png">
+    <video playsinline autoplay muted loop class="pclinical-video" preload="none"
+        poster="./assets/img/banner-video-poster.png">
         <source src="./assets/video/blue-streaks.mp4" type="video/mp4">
     </video>
     <div class="container">
@@ -467,6 +480,18 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=c123rkMsmVQ"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                            <img src="https://i.ytimg.com/vi/kLHL6Sw-QDI/maxresdefault.jpg" alt="chat">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>June 16, 2023 - Michael Smith - KalVista Pharmaceuticals</p>
+                </div>
+            </div>
+                <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=twJxMzdSS4A"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
@@ -498,17 +523,6 @@ include('header.php'); ?>
 
                 </div>
             </div>
-            <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=5LRM7n5IleQ"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>Mar 23, 2023 - Ryan looper - Curza</p>
-                </div>
-            </div>
         </div>
     </div>
 
@@ -522,10 +536,13 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="biotech-executive-michael-dmith-discusses-the-fda-drug-development-process-with-cancervax-ceo-ryan-davies.php"></a>
+                    <a
+                        href="biotech-executive-michael-dmith-discusses-the-fda-drug-development-process-with-cancervax-ceo-ryan-davies.php"></a>
                     <span>June 16, 2023</span>
-                    <h3>Biotech Executive Michael Smith Discusses the FDA Drug Development Process with CancerVAX CEO Ryan Davies </h3>
-                    <p>Michael Smith comments on the growth of immunotherapy and sees the required FDA development phases as a benefit to small biotech firms such as CancerVax</p>
+                    <h3>Biotech Executive Michael Smith Discusses the FDA Drug Development Process with CancerVAX CEO
+                        Ryan Davies </h3>
+                    <p>Michael Smith comments on the growth of immunotherapy and sees the required FDA development
+                        phases as a benefit to small biotech firms such as CancerVax</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -533,15 +550,20 @@ include('header.php'); ?>
                     <a href="cancerax-reports-positive-progress-on-kids-cancer-immunotherapy-treatment .php"></a>
                     <span>June 12, 2023</span>
                     <h3>CancerVAX Reports Positive Progress on Kids Cancer Immunotherapy Treatment </h3>
-                    <p>LEHI, Utah, June 12, 2023 (GLOBE NEWSWIRE) -- CancerVAX, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced</p>
+                    <p>LEHI, Utah, June 12, 2023 (GLOBE NEWSWIRE) -- CancerVAX, Inc., developer of a breakthrough
+                        universal cancer vaccine that uses the body’s immune system to fight cancer, today announced</p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="biotech-entrepreneur-and-venture-capitalist-dinesh-patel-discusses-therapeutics-and-medical-devices-with-cancervax-ceo-ryan-davies.php"></a>
+                    <a
+                        href="biotech-entrepreneur-and-venture-capitalist-dinesh-patel-discusses-therapeutics-and-medical-devices-with-cancervax-ceo-ryan-davies.php"></a>
                     <span>May 17, 2023</span>
-                    <h3>Biotech Entrepreneur and Venture Capitalist Dinesh Patel Discusses Therapeutics and Medical Devices with CancerVAX CEO Ryan Davies</h3>
-                    <p>Lehi, UT – May 17, 2023 – CancerVAX, developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, today reported that the Company’s CEO, Ryan Davies</p>
+                    <h3>Biotech Entrepreneur and Venture Capitalist Dinesh Patel Discusses Therapeutics and Medical
+                        Devices with CancerVAX CEO Ryan Davies</h3>
+                    <p>Lehi, UT – May 17, 2023 – CancerVAX, developer of a breakthrough universal cancer vaccine that
+                        will use the body’s immune system to fight cancer, today reported that the Company’s CEO, Ryan
+                        Davies</p>
 
                 </div>
             </div>
@@ -550,7 +572,9 @@ include('header.php'); ?>
                     <a href="former-pfizer-legal-counsel-discusses-gene-therapy-with-cancervax-ceo-ryan-davies.php"></a>
                     <span>April 20, 2023</span>
                     <h3>Former Pfizer Legal Counsel Discusses Gene Therapy with CancerVAX CEO Ryan Davies</h3>
-                    <p>Stephen Diamond, Senior Vice President, General Counsel, and Secretary of Freeline, discussed his unique path from the legal and business worlds to gene therapy and next-generation therapeutics.</p>
+                    <p>Stephen Diamond, Senior Vice President, General Counsel, and Secretary of Freeline, discussed his
+                        unique path from the legal and business worlds to gene therapy and next-generation therapeutics.
+                    </p>
 
                 </div>
 
