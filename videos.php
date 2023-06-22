@@ -108,6 +108,18 @@ include('header.php'); ?>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=c123rkMsmVQ"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">June 16, 2023 - Michael Smith - KalVista Pharmaceuticals</p>
+
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=twJxMzdSS4A"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
@@ -138,18 +150,6 @@ include('header.php'); ?>
                     </div>
                     <span class="mt-0 mb-2"></span>
                     <p class="mt-0">Apr 12, 2023 - Dr. Satiro De Oliveira - UCLA</p>
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6">
-                <div class="cchat">
-                    <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=5LRM7n5IleQ"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <span class="mt-0 mb-2"></span>
-                    <p class="mt-0">Mar 23, 2023 - Ryan looper - Curza</p>
                 </div>
             </div>
         </div>
