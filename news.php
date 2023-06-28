@@ -52,6 +52,14 @@ include('header.php'); ?>
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
+        <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancervax-reports-significant-progress-on-universal-cancer-vaccine-development-at-ucla.php"></a>
+                    <span>June 27, 2023</span>
+                    <h3>CancerVAX Reports Significant Progress on Universal Cancer Vaccine Development at UCLA</h3>
+                    <p>Three separate teams of physician scientists at UCLA working on three different parts of the project have made significant progress and are ready to merge their work into a complete proof-of-concept vaccine construct </p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="biotech-executive-michael-dmith-discusses-the-fda-drug-development-process-with-cancervax-ceo-ryan-davies.php"></a>
