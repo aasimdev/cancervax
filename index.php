@@ -56,6 +56,16 @@ include('header.php'); ?>
     <div class="ceochats-carousel">
         <div class="cchat">
             <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=2jmJ2r0GKc0"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/2jmJ2r0GKc0/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>June 28, 2023 - Research Turning Point</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=c123rkMsmVQ"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
                     <img src="https://i.ytimg.com/vi/kLHL6Sw-QDI/maxresdefault.jpg" alt="chat">
@@ -474,6 +484,7 @@ include('header.php'); ?>
         </div>
 
         <div class="row">
+   
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box">
@@ -517,7 +528,6 @@ include('header.php'); ?>
                         <i class="far fa-play-circle"></i>
                     </div>
                     <p>Apr 12, 2023 - Dr. Satiro De Oliveira - UCLA</p>
-
                 </div>
             </div>
         </div>
