@@ -13,7 +13,7 @@ include('header.php'); ?>
 
 <section class="abtceo">
     <div class="container">
-    <div class="abtceo-heading">
+        <div class="abtceo-heading">
             <h2>CEO Podcast</h2>
         </div>
         <div class="abtceo-wrap">
@@ -28,7 +28,19 @@ include('header.php'); ?>
 <section class="cchats">
     <div class="container">
         <div class="row">
-        <div class="col-lg-6">
+            <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=nb4DZ-G49c8"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">June 28 , 2023 - Lara Sullivan - Pyxis Oncology</p>
+
+                </div>
+            </div>
+            <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=c123rkMsmVQ"></a>
@@ -40,7 +52,7 @@ include('header.php'); ?>
 
                 </div>
             </div>
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=twJxMzdSS4A"></a>
@@ -51,7 +63,7 @@ include('header.php'); ?>
                     <p class="mt-0">May 17, 2023 - Dr. Dinesh Patel - Xenocor, Inc.</p>
                 </div>
             </div>
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=W6FG-viYbKM"></a>
