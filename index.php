@@ -56,6 +56,16 @@ include('header.php'); ?>
     <div class="ceochats-carousel">
         <div class="cchat">
             <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=nb4DZ-G49c8"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/nb4DZ-G49c8/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>June 28 , 2023 - Lara Sullivan - Pyxis Oncology</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=2jmJ2r0GKc0"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
                     <img src="https://i.ytimg.com/vi/2jmJ2r0GKc0/maxresdefault.jpg" alt="chat">
@@ -205,6 +215,7 @@ include('header.php'); ?>
             </div>
             <p>Mar 15, 2023 - Biomedical Research without Traditional Overhead Costs at CancerVA</p>
         </div>
+
     </div>
 
 </section>
@@ -484,7 +495,18 @@ include('header.php'); ?>
         </div>
 
         <div class="row">
-
+            <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=nb4DZ-G49c8"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                            <img src="https://i.ytimg.com/vi/nb4DZ-G49c8/maxresdefault.jpg" alt="chat">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>June 28 , 2023 - Lara Sullivan - Pyxis Oncology</p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box">
@@ -517,17 +539,6 @@ include('header.php'); ?>
                         <i class="far fa-play-circle"></i>
                     </div>
                     <p>Apr 20, 2023 - Stephen Diamond - LEXEO Therapeutics</p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=QAFbMKCJcgk"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>Apr 12, 2023 - Dr. Satiro De Oliveira - UCLA</p>
                 </div>
             </div>
         </div>
