@@ -56,6 +56,16 @@ include('header.php'); ?>
     <div class="ceochats-carousel">
         <div class="cchat">
             <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=PrKWO9o6IFE"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/PrKWO9o6IFE/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>July 13, 2023 - Rod Davies - Prostate Cancer</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=nb4DZ-G49c8"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
                     <img src="https://i.ytimg.com/vi/nb4DZ-G49c8/maxresdefault.jpg" alt="chat">

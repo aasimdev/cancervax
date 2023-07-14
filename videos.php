@@ -178,6 +178,17 @@ include('header.php'); ?>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=PrKWO9o6IFE"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">July 13, 2023 - Rod Davies - Prostate Cancer</p>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=kLHL6Sw-QDI"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
@@ -206,17 +217,6 @@ include('header.php'); ?>
                         <i class="far fa-play-circle"></i>
                     </div>
                     <p class="mt-0">May 27, 2023 - Jeff Lipschitz - Prostate Cancer</p>
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6">
-                <div class="cchat">
-                    <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=cVNEyN2pIUI"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p class="mt-0">May 27, 2023 - Chris Westerkamp - Pancreatic Cancer</p>
                 </div>
             </div>
 
