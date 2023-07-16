@@ -231,48 +231,48 @@ include('header.php'); ?>
             <a href="/short-videos">See All</a>
         </div>
         <div class="row">
-            <div class="col-xl-3 col-lg-4 col-md-6">
+        <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=ZYNnC8FM-uA"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=zSKKQfXCeuE"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>Partnering With A Top 10 School?</p>
+                    <p>The Cancer Treatment of the Future</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=lmYcxP3spEY"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=SBZzk5WvlmA"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>Why I Fight Cancer</p>
+                    <p>Science Is Art</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=MhilyQwmP6Q"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=NVfWbTW8DGg"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>What Is Immunotherapy?</p>
+                    <p>The Cost of Life-Saving Research</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=eu46jtJYK8g"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=Y1s3ehrewtQ"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>The Search For A Cure 🦠</p>
+                    <p>We Are Just Getting Started!</p>
                 </div>
             </div>
 
