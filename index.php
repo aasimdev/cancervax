@@ -114,7 +114,16 @@ include('header.php'); ?>
             </div>
             <p>May 24, 2023 - mRNA Vaccine</p>
         </div>
-
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=JHsQN8AMBbw"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/twJxMzdSS4A/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>May 24, 2023 - Raymond Vennare - Predictive Oncology Inc.</p>
+        </div>
         <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=twJxMzdSS4A"></a>

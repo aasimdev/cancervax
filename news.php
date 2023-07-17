@@ -68,6 +68,14 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="https://www.healthcarebusinesstoday.com/scientists-have-found-the-silver-bullet-for-pediatric-cancer/" target="_blank"></a>
+                    <span>July 14, 2023</span>
+                    <h3>Scientists Have Found The Silver Bullet For Pediatric Cancer</h3>
+                    <p>This year, roughly 9,910 American children under the age of 15 will be diagnosed with cancer, and 1,040 will die. And while advances in cancer treatment have increased the 5-year survival rate for youth </p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
                     <a href="https://www.healthleadersmedia.com/pharma/cancervax-ceo-sees-home-run-breakthrough-universal-cancer-vaccine" target="_blank"></a>
                     <span>JUNE 22, 2023</span>
                     <h3>CancerVax CEO Sees a Home Run With Breakthrough Universal Cancer Vaccine</h3>
