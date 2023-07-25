@@ -20,7 +20,7 @@ if ($page_name != "index.php") {
 <?php } ?>
 <div class="invest-footer">
     <div class="container">
-        <p>This Reg A+ offering is made available through StartEngine Primary, LLC, member FINRA/SIPC. This investment is speculative, illiquid, and involves a high degree of risk, including the possible loss of your entire investment. You should read the <a href="https://www.sec.gov/Archives/edgar/data/1905495/000149315223013677/partiiandiii.htm#A_003" target="_blank" rel="noopener noreferrer">Selected Risks</a> and the <a href="https://www.sec.gov/Archives/edgar/data/1905495/000149315223013677/partiiandiii.htm" target="_blank" rel="noopener noreferrer">Offering Circular</a> before investing.</p>
+        <p>This Reg A+ offering is made available through StartEngine Primary, LLC, member FINRA/SIPC. This investment is speculative, illiquid, and involves a high degree of risk, including the possible loss of your entire investment. You should read the <a href="https://www.sec.gov/Archives/edgar/data/1905495/000149315223013677/partiiandiii.htm#A_003" target="_blank" rel="noopener noreferrer">Selected Risks</a>, the <a href="https://www.sec.gov/Archives/edgar/data/1905495/000149315223013677/partiiandiii.htm" target="_blank" rel="noopener noreferrer">Offering Circular</a>, and <a href="https://www.sec.gov/edgar/browse/?CIK=1905495" target="_blank" rel="noopener noreferrer">Sec Edgar</a> Page before investing.</p>
     </div>
 </div>
 <footer class="footer">
