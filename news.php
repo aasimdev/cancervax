@@ -98,6 +98,14 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="world-renowned-biomedical-professor-jonathan-lakey-joins-cancervax-board-of-advisors.php"></a>
+                    <span>July 25, 2023 </span>
+                    <h3>World Renowned Biomedical Professor Jonathan Lakey Joins CancerVAX Board of Advisors</h3>
+                    <p>Dr. Lakey has been recognized nationally and internationally for his groundbreaking research in cell and tissue transplantation for patients suffering from diabetes and cancer</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancervax-ceo-ryan-davies-discusses-biotech-entrepreneurship-with-pyxis-oncology-ceo-dr-lara-sullivan.php"></a>
                     <span>July 10, 2023 </span>
                     <h3>CancerVAX CEO Ryan Davies Discusses Biotech Entrepreneurship with Pyxis Oncology CEO Dr. Lara Sullivan</h3>

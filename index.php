@@ -573,6 +573,14 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="world-renowned-biomedical-professor-jonathan-lakey-joins-cancervax-board-of-advisors.php"></a>
+                    <span>July 25, 2023 </span>
+                    <h3>World Renowned Biomedical Professor Jonathan Lakey Joins CancerVAX Board of Advisors</h3>
+                    <p>Dr. Lakey has been recognized nationally and internationally for his groundbreaking research in cell and tissue transplantation for patients suffering from diabetes and cancer</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancervax-ceo-ryan-davies-discusses-biotech-entrepreneurship-with-pyxis-oncology-ceo-dr-lara-sullivan.php"></a>
                     <span>July 10, 2023 </span>
                     <h3>CancerVAX CEO Ryan Davies Discusses Biotech Entrepreneurship with Pyxis Oncology CEO Dr. Lara Sullivan</h3>
@@ -595,15 +603,6 @@ include('header.php'); ?>
                         Ryan Davies </h3>
                     <p>Michael Smith comments on the growth of immunotherapy and sees the required FDA development
                         phases as a benefit to small biotech firms such as CancerVax</p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancerax-reports-positive-progress-on-kids-cancer-immunotherapy-treatment .php"></a>
-                    <span>June 12, 2023</span>
-                    <h3>CancerVAX Reports Positive Progress on Kids Cancer Immunotherapy Treatment </h3>
-                    <p>LEHI, Utah, June 12, 2023 (GLOBE NEWSWIRE) -- CancerVAX, Inc., developer of a breakthrough
-                        universal cancer vaccine that uses the body’s immune system to fight cancer, today announced</p>
                 </div>
             </div>
 
