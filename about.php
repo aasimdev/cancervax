@@ -96,7 +96,7 @@ include('header.php'); ?>
 <section class="coreTeam">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-6 col-xl-4">
+            <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
@@ -114,7 +114,7 @@ include('header.php'); ?>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-xl-4">
+            <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
@@ -132,7 +132,25 @@ include('header.php'); ?>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-xl-4">
+            <div class="col-md-6 col-xl-3">
+                <div class="team-box">
+                    <div class="team-box-img">
+                        <a href="#">
+                            <img src="./assets/img/lakey.jpg" class="object-fit-cover" style="object-position: 100% 10%;" alt="john">
+                        </a>
+                    </div>
+                    <h5>
+                        Jonathan Lake, PhD
+                    </h5>
+                    <p>
+                        Advisor
+                    </p>
+                    <div class="team-description">
+                        <p>Dr. Lakey graduated from the University of Alberta with a BS, MS and PhD degree and received post-doctoral training in Indianapolis and Seattle. Dr. Lakey is currently the Professor of Surgery and Biomedical Engineering and the Director of the Clinical Islet Program at University of California Irvine. Prior to that, he was the Director of the Comprehensive Tissue Bank at the University of Albert. Dr. Lakey is most well-known for co-inventing the “Edmonton Protocol”, along with Dr. James Shapiro, which aided in the improvement of islet isolation techniques for patients with Type 1 diabetes, a recognized major advancement in the treatment of diabetes. The Edmonton Protocol allows patients to receive islet transplants from the enzymes of cadavers and has had a success rate of over 75%. This development has informed treatments for diabetic patients, but has also opened the door for similar treatments for patients with cancer who have compromised organs from the disease or from chemotherapy and radiation. Dr. Lakey has done extensive research in the fields of oncology, stem cells and organ transplantation. He is the recipient of the Outstanding Leadership in Science Award from Alberta Science & Technology, Outstanding Achievement Award from the Canadian Diabetes Association, Awards from the Royal College of Physicians and Surgeons and was honored with the Meritorious Service Medal (2005) by the Governor-General of Canada. Dr. Lakey has published over 495 scientific papers, 45 book chapters, submitted over 500 scientific abstracts and published a book on islet isolation.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
