@@ -380,6 +380,16 @@
         height: auto;
     }
 
+    .abtBanner {
+        position: relative;
+
+        &-text {
+            position: absolute;
+            width: calc(100% - 30px);
+            bottom: 48px;
+            left: 15px;
+        }
+    }
 
 }
 

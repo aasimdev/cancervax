@@ -140,7 +140,7 @@ include('header.php'); ?>
                         </a>
                     </div>
                     <h5>
-                        Jonathan Lake, PhD
+                        Jonathan Lakey, PhD
                     </h5>
                     <p>
                         Advisor
