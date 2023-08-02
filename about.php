@@ -100,7 +100,7 @@ include('header.php'); ?>
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
-                            <img src="./assets/img/Ryan-Davies.jpg" alt="john">
+                            <img src="./assets/img/Ryan-Davies.jpg" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
                         </a>
                     </div>
                     <h5>
@@ -154,7 +154,7 @@ include('header.php'); ?>
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
-                            <img src="./assets/img/Lindsay-Mann.jpg" alt="john">
+                            <img src="./assets/img/Lindsay-Mann.jpg" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
                         </a>
                     </div>
                     <h5>
