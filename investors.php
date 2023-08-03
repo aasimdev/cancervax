@@ -27,6 +27,11 @@ include('header.php'); ?>
                 </div>
             </div>
             <div class="col-lg-6">
+                <div class="invest-video">
+                    <video controls>
+                        <source src="./assets/video/investor.mp4" type="video/mp4">
+                    </video>
+                </div>
                 <div class="invest-text">
                     <p>We have recently launched an SEC qualified $10 million offering at StartEngine, one of the largest online crowdfunding platforms.</p>
                     <p>The offering is available to the general public, with a minimum investment of $500.00.  If you are interested in helping us beat cancer, please invest now at: <br> <a href="https://www.startengine.com/offering/cancervax" target="_blank">Invest Now</a></p>
