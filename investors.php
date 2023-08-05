@@ -28,9 +28,7 @@ include('header.php'); ?>
             </div>
             <div class="col-lg-6">
                 <div class="invest-video">
-                    <video controls>
-                        <source src="./assets/video/investor.mp4" type="video/mp4">
-                    </video>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Ui5-ikCVa9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
                 <div class="invest-text">
                     <p>We have recently launched an SEC qualified $10 million offering at StartEngine, one of the largest online crowdfunding platforms.</p>
