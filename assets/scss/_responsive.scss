@@ -198,9 +198,11 @@
     .lg-cchat-box {
         margin-bottom: 32px;
     }
-
-    .invest-text {
+    .invest-video{
         margin-top: 175px;
+    }
+    .invest-text {
+       
 
         p {
             max-width: 100%;
@@ -596,7 +598,7 @@
         padding-bottom: 80px;
     }
 
-    .invest-text {
+    .invest-video {
         margin-top: 130px;
     }
 
@@ -719,5 +721,8 @@
 
     .invest-bar-text a {
         font-size: 14px;
+    }
+    .invest-video iframe {
+        height: 210px;
     }
 }

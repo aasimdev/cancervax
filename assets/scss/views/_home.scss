@@ -1408,8 +1408,8 @@ body.modal-open {
     }
     &-video{
         iframe{
-            // width: 100%;
-            // max-width: 570px;
+            width: 100%;
+            max-width: 570px;
             margin-bottom: 24px;
         }
     }
