@@ -10,7 +10,7 @@ include('header.php'); ?>
             <h1 class="invkeywords">
             </h1>
         </div>
-        <h2>In cancervax</h2>
+        <h2>cancervax</h2>
         <h3>FIGHT CANCER.</h3>
     </div>
 </section>
