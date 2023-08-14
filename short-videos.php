@@ -21,6 +21,17 @@ include('header.php'); ?>
 <section class="cchats shortVideos">
     <div class="container">
         <div class="row">
+        <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=1AJgWMvVbFQ"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>Tanner</p>
+                </div>
+            </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">

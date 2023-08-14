@@ -32,6 +32,28 @@ include('header.php'); ?>
 <section class="cchats">
     <div class="container">
         <div class="row">
+        <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=y9gaBzk8c5g"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">July 25, 2023 - Andrew Van Noy - Retinoblastoma</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=bYhTlLSvwvU"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">Jul 24, 2023 - Juli Mathews - Leukemia</p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
