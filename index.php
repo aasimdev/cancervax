@@ -56,6 +56,16 @@ include('header.php'); ?>
     <div class="ceochats-carousel">
     <div class="cchat">
             <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=vNserFeYYh4"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/vNserFeYYh4/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>August 9, 2023 - Onset Colon Cancer</p>
+        </div>
+    <div class="cchat">
+            <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=y9gaBzk8c5g"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
                     <img src="https://i.ytimg.com/vi/y9gaBzk8c5g/maxresdefault.jpg" alt="chat">
