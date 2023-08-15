@@ -56,6 +56,16 @@ include('header.php'); ?>
     <div class="ceochats-carousel">
     <div class="cchat">
             <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=T7vHpIKySWk"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/T7vHpIKySWk/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>August 13, 2023 - National Cancer Plan</p>
+        </div>
+    <div class="cchat">
+            <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=vNserFeYYh4"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
                     <img src="https://i.ytimg.com/vi/vNserFeYYh4/maxresdefault.jpg" alt="chat">
