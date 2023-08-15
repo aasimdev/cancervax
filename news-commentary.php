@@ -31,6 +31,17 @@ include('header.php'); ?>
         <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=T7vHpIKySWk"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">August 13, 2023 - National Cancer Plan</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=vNserFeYYh4"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>

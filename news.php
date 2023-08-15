@@ -21,37 +21,34 @@ include('header.php'); ?>
             <div class="col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=2jmJ2r0GKc0"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=T7vHpIKySWk"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>Research Turning Point</p>
-                    <span>June 28, 2023</span>
+                    <p>August 13, 2023 - National Cancer Plan</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=FoiGO6QzS-U"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=vNserFeYYh4"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>Breast Cancer Screening</p>
-                    <span>May 26, 2023</span>
+                    <p>August 9, 2023 - Onset Colon Cancer</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=fcAUnmxnmK4"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=5gR8ssdsRgE"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>mRNA Vaccine</p>
-                    <span>May 24, 2023</span>
+                    <p>August 3, 2023 - Paul Reubens</p>
                 </div>
             </div>
 

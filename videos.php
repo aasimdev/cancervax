@@ -69,6 +69,18 @@ include('header.php'); ?>
             <a href="/news-commentary">See All</a>
         </div>
         <div class="row">
+        <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=T7vHpIKySWk"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">August 13, 2023 - National Cancer Plan</p>
+
+                </div>
+            </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
@@ -102,18 +114,6 @@ include('header.php'); ?>
                         <i class="far fa-play-circle"></i>
                     </div>
                     <p class="mt-0">June 28, 2023 - Research Turning Point</p>
-
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6">
-                <div class="cchat">
-                    <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=FoiGO6QzS-U"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p class="mt-0">May 26, 2023 - Mammograms</p>
 
                 </div>
             </div>
