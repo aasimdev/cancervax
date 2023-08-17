@@ -1,4 +1,3 @@
-<?php include('./utils/dark-header.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -85,7 +84,7 @@
 
 </head>
 
-<body class="<?php echo $bodyClass; ?>">
+<body>
 
     <?php
     function active($currect_page)

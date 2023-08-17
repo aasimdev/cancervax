@@ -2,7 +2,7 @@
 $GLOBALS['title'] = "GOING VIRAL In The Fight Against Cancer - CancerVax";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
-include('header.php'); ?>
+include('investor-header.php'); ?>
 
 <section class="inPost">
     <div class="container">
@@ -98,6 +98,3 @@ include('header.php'); ?>
     </div>
 </section>
 
-
-<?php
-include('footer.php'); ?>
