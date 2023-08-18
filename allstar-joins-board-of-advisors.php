@@ -9,7 +9,6 @@ include('investor-header.php'); ?>
         <div class="row">
             <div class="col-lg-8">
                 <div class="inPost-box">
-                    <h6>08.02.23</h6>
                     <h1>ALLSTAR JOINS Board Of Advisors</h1>
                     <div class="inPost-img">
                         <img src="./assets/img/inpost-12.png" alt="invest post">

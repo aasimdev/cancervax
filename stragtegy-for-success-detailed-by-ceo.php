@@ -9,7 +9,6 @@ include('investor-header.php'); ?>
         <div class="row">
             <div class="col-lg-8">
                 <div class="inPost-box">
-                    <h6 class="iorange-text">08.17.23</h6>
                     <h1 class="iorange-text">STRATEGY FOR SUCCESS detailed by CEO</h1>
                     <div class="inPost-img">
                         <a href="https://www.youtube.com/shorts/m40G2E8Ipn4" target="_blank">

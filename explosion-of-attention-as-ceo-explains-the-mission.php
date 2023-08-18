@@ -9,7 +9,6 @@ include('investor-header.php'); ?>
         <div class="row">
             <div class="col-lg-8">
                 <div class="inPost-box">
-                    <h6>08.10.23</h6>
                     <h1>EXPLOSION OF ATTENTION as CEO explains the mission</h1>
                     <div class="inPost-description">
                         <p>CancerVAX CEO, <strong><span>Ryan Davies, took to social media recently to thank everyone for their support</span></strong> and to lay out the company's mission.</p>

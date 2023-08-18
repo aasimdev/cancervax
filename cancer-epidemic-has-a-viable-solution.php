@@ -9,7 +9,6 @@ include('investor-header.php'); ?>
         <div class="row">
             <div class="col-lg-8">
                 <div class="inPost-box">
-                    <h6>08.14.23</h6>
                     <h1>CANCER EPIDEMIC has a viable solution</h1>
                     <div class="inPost-img">
                         <img src="./assets/img/inpost-4.png" alt="invest post">

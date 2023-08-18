@@ -9,7 +9,6 @@ include('investor-header.php'); ?>
         <div class="row">
             <div class="col-lg-8">
                 <div class="inPost-box">
-                    <h6>08.11.23</h6>
                     <h1>BEST MEDICAL CENTER joins fight</h1>
                     <div class="inPost-img">
                         <img src="./assets/img/inpost-5.jpeg" alt="invest post">

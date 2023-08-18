@@ -9,7 +9,6 @@ include('investor-header.php'); ?>
         <div class="row">
             <div class="col-lg-8">
                 <div class="inPost-box">
-                    <h6>08.08.23</h6>
                     <h1>CRITICAL PROGRESS IN CHILDREN’S CANCER</h1>
                     <div class="inPost-img">
                         <img src="./assets/img/inpost-8.png" alt="invest post">

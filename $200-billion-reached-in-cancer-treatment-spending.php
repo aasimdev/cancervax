@@ -9,7 +9,6 @@ include('investor-header.php'); ?>
         <div class="row">
             <div class="col-lg-8">
                 <div class="inPost-box">
-                    <h6>08.07.23</h6>
                     <h1>$200 BILLION reached in Cancer Treatment Spending</h1>
                     <div class="inPost-img">
                         <img src="./assets/img/inpost-9.png" alt="invest post">
