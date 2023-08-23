@@ -63,6 +63,14 @@ include('header.php'); ?>
     <div class="container">
         <h4>CancerVAX In The News</h4>
         <div class="row">
+        <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="https://coruzant.com/profiles/ryan-davies/" target="_blank"></a>
+                    <span>August 14, 2023</span>
+                    <h3>Serial Entrepreneur Using Science to Tackle the Biggest Disease with Founder Ryan Davies | Ep 693</h3>
+                    <p>Ryan Davies has had a successful career as an entrepreneur, business executive and public servant.  Prior to founding CancerVAX, Ryan co-founded several biotech companies/technologies including a nitric oxide topical wound-care product</p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://www.labiotech.eu/in-depth/sarcoma-research-advances/" target="_blank"></a>
