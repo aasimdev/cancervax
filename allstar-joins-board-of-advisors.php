@@ -23,7 +23,7 @@ include('investor-header.php'); ?>
                         </ul>
                         <p class="text-center">We thank all of our StartEngine investors and followers for supporting <strong><span>our mission to develop better ways to treat cancer and save lives.</span></strong></p>
                     </div>
-                    <div class="inPost-btn"><a href="https://investment.startengine.com/cancervax?utm_source=SE+Update&utm_medium=update&utm_campaign=ALLSTAR+JOINS+Board+Of+Advisors" target="_blank" rel="noopener noreferrer"><img src="https://d2j6gq8tvnyhoe.cloudfront.net/f50c1cb1-2916-4e4d-a9bf-e4deb3e9f2d7.png"></a>
+                    <div class="inPost-btn"><a href="https://join.cancervax.com/act" target="_blank" rel="noopener noreferrer"><img src="https://d2j6gq8tvnyhoe.cloudfront.net/f50c1cb1-2916-4e4d-a9bf-e4deb3e9f2d7.png"></a>
                     </div>
                     <div class="inPost-abt">
                         <p>For more information about CancerVAX, please visit <a href="https://www.cancervax.com/" target="_blank" rel="noopener noreferrer">https://www.cancervax.com/</a></p>

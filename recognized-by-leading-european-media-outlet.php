@@ -21,7 +21,7 @@ include('investor-header.php'); ?>
                         <p>CancerVAX working with UCLA to develop an immunotherapy drug that is aimed at <strong><span>targeting and killing the Ewing sarcoma tumor</span></strong>.&nbsp;</p>
                         <p class="text-center">We invite you to <strong><span>help us in the fight against cancer</span></strong> by investing in CancerVAX.</p>
                     </div>
-                    <div class="inPost-btn"><a href="https://investment.startengine.com/cancervax?utm_source=SE+Update&utm_medium=update&utm_campaign=RECOGNIZED+BY+LEADING+European+Media+Outlet" target="_blank" rel="noopener noreferrer"><img src="https://d2j6gq8tvnyhoe.cloudfront.net/f50c1cb1-2916-4e4d-a9bf-e4deb3e9f2d7.png"></a>
+                    <div class="inPost-btn"><a href="https://join.cancervax.com/act" target="_blank" rel="noopener noreferrer"><img src="https://d2j6gq8tvnyhoe.cloudfront.net/f50c1cb1-2916-4e4d-a9bf-e4deb3e9f2d7.png"></a>
                     </div>
                     <div class="inPost-abt">
                         <p>For more information about CancerVAX, please visit <a href="https://www.cancervax.com/" target="_blank" rel="noopener noreferrer">https://www.cancervax.com/</a></p>
