@@ -63,12 +63,12 @@ include('header.php'); ?>
     <div class="container">
         <h4>CancerVAX In The News</h4>
         <div class="row">
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://coruzant.com/profiles/ryan-davies/" target="_blank"></a>
                     <span>August 14, 2023</span>
                     <h3>Serial Entrepreneur Using Science to Tackle the Biggest Disease with Founder Ryan Davies | Ep 693</h3>
-                    <p>Ryan Davies has had a successful career as an entrepreneur, business executive and public servant.  Prior to founding CancerVAX, Ryan co-founded several biotech companies/technologies including a nitric oxide topical wound-care product</p>
+                    <p>Ryan Davies has had a successful career as an entrepreneur, business executive and public servant. Prior to founding CancerVAX, Ryan co-founded several biotech companies/technologies including a nitric oxide topical wound-care product</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -125,6 +125,14 @@ include('header.php'); ?>
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancervax-ceo-ryan-davies-discussed-cancer-immunotherapy-with-ucla-physician-scientist.php"></a>
+                    <span>August 24, 2023 </span>
+                    <h3>CancerVAX CEO Ryan Davies Discussed Cancer Immunotherapy with UCLA Physician-Scientist</h3>
+                    <p>CancerVAX, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, spoke with and UCLA cancer physician and researcher, Dr. Steven Jonas, about his journey to becoming both a practicing cancer doctor and active cancer researcher</p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="world-renowned-biomedical-professor-jonathan-lakey-joins-cancervax-board-of-advisors.php"></a>

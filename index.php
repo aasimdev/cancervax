@@ -56,6 +56,16 @@ include('header.php'); ?>
     <div class="ceochats-carousel">
     <div class="cchat">
             <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=LTzE5Y78RrU"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/LTzE5Y78RrU/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>August 14, 2023 - Steven Jonas - UCLA</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=T7vHpIKySWk"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
                     <img src="https://i.ytimg.com/vi/T7vHpIKySWk/maxresdefault.jpg" alt="chat">
@@ -64,7 +74,7 @@ include('header.php'); ?>
             </div>
             <p>August 13, 2023 - National Cancer Plan</p>
         </div>
-    <div class="cchat">
+        <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=vNserFeYYh4"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
@@ -74,7 +84,7 @@ include('header.php'); ?>
             </div>
             <p>August 9, 2023 - Onset Colon Cancer</p>
         </div>
-    <div class="cchat">
+        <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=y9gaBzk8c5g"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
@@ -84,7 +94,7 @@ include('header.php'); ?>
             </div>
             <p>July 25, 2023 - Andrew Van Noy - Retinoblastoma</p>
         </div>
-    <div class="cchat">
+        <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=bYhTlLSvwvU"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
@@ -94,7 +104,7 @@ include('header.php'); ?>
             </div>
             <p>Jul 24, 2023 - Juli Mathews - Leukemia</p>
         </div>
-    <div class="cchat">
+        <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=5gR8ssdsRgE"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
@@ -623,6 +633,14 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="cancervax-ceo-ryan-davies-discussed-cancer-immunotherapy-with-ucla-physician-scientist.php"></a>
+                    <span>August 24, 2023 </span>
+                    <h3>CancerVAX CEO Ryan Davies Discussed Cancer Immunotherapy with UCLA Physician-Scientist</h3>
+                    <p>CancerVAX, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, spoke with and UCLA cancer physician and researcher, Dr. Steven Jonas, about his journey to becoming both a practicing cancer doctor and active cancer researcher</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
                     <a href="world-renowned-biomedical-professor-jonathan-lakey-joins-cancervax-board-of-advisors.php"></a>
                     <span>July 25, 2023 </span>
                     <h3>World Renowned Biomedical Professor Jonathan Lakey Joins CancerVAX Board of Advisors</h3>
@@ -645,17 +663,6 @@ include('header.php'); ?>
                     <p>Three separate teams of physician scientists at UCLA working on three different parts of the project have made significant progress and are ready to merge their work into a complete proof-of-concept vaccine construct </p>
                 </div>
             </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="biotech-executive-michael-dmith-discusses-the-fda-drug-development-process-with-cancervax-ceo-ryan-davies.php"></a>
-                    <span>June 16, 2023</span>
-                    <h3>Biotech Executive Michael Smith Discusses the FDA Drug Development Process with CancerVAX CEO
-                        Ryan Davies </h3>
-                    <p>Michael Smith comments on the growth of immunotherapy and sees the required FDA development
-                        phases as a benefit to small biotech firms such as CancerVax</p>
-                </div>
-            </div>
-
         </div>
 
     </div>

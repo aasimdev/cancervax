@@ -22,7 +22,7 @@ include('investor-header.php'); ?>
                         <p class="text-center">We invite you to <strong><span>help us in the fight against cancer</span></strong> by investing in CancerVAX.</p>
                     </div>
                     <div class="inPost-btn">
-                        <a href="https://investment.startengine.com/cancervax" target="_blank" rel="noopener noreferrer">
+                        <a href="https://join.cancervax.com/act" target="_blank" rel="noopener noreferrer">
                             <img src="https://d2j6gq8tvnyhoe.cloudfront.net/f50c1cb1-2916-4e4d-a9bf-e4deb3e9f2d7.png">
                         </a>
                     </div>
