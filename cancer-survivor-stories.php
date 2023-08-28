@@ -35,6 +35,28 @@ include('header.php'); ?>
         <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=n_Qrx_TbdAk"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">August 22, 2023 - Paul Chretien - Colorectal Cancer</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=n_Qrx_TbdAk"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">August 22, 2023 - Paul Chretien - Colorectal Cancer</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=y9gaBzk8c5g"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
