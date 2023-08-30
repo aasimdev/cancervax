@@ -1,5 +1,5 @@
 <?php
-$GLOBALS['title'] = "TCEO UPDATE About Bonus Shares - CancerVax";
+$GLOBALS['title'] = "CEO UPDATE About Bonus Shares - CancerVax";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 include('investor-header.php'); ?>
@@ -9,7 +9,7 @@ include('investor-header.php'); ?>
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <div class="inPost-box">
-                    <h1>TCEO UPDATE About Bonus Shares</h1>
+                    <h1>CEO UPDATE About Bonus Shares</h1>
                     <div class="inPost-description">
                         <p>Ryan Davies, CEO of CancerVAX, recently thanked investors and urged everyone to take advantage of valuable investor perks.&nbsp;</p>
                         <p>With up to 30% bonus CancerVAX shares available, <strong><span>the more an investor commits, the larger discount awarded in the form of bonus shares!</span></strong></p>
