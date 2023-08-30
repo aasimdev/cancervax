@@ -56,6 +56,16 @@ include('header.php'); ?>
     <div class="ceochats-carousel">
     <div class="cchat">
             <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=n_Qrx_TbdAk"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/n_Qrx_TbdAk/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>August 22, 2023 - Paul Chretien - Colorectal Cancer</p>
+        </div>
+    <div class="cchat">
+            <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=LTzE5Y78RrU"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
                     <img src="https://i.ytimg.com/vi/LTzE5Y78RrU/maxresdefault.jpg" alt="chat">

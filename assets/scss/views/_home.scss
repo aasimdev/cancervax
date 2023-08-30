@@ -2212,3 +2212,29 @@ label.error {
 .iorange-text{
     color: #E06004 !important;
 }
+
+.perks{
+    padding: 120px 0 50px;
+
+    iframe{
+        width: 100%;
+        height: 700px;
+    }
+    &-text{
+        max-width: 852px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 70px;
+        p{
+            font-size: 18px;
+            line-height: 1.36em;
+            color: #ababab;
+            span{
+                color: #1d8f97;
+            }
+            & + p{
+                margin-top: 12px;
+            }
+        }
+    }
+}
