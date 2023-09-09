@@ -19,8 +19,8 @@ include('header.php'); ?>
             <div class="row align-items-center">
                 <div class="col-lg-7">
                     <div class="banner-text">
-                        <h1>Developing a Breakthrough Universal Cancer Vaccine</h1>
-                        <p>Using the body’s immune system to fight cancer</p>
+                        <h1>Using the Body’s Immune <br> System to Fight Cancer</h1>
+                        <p>CancerVAX is a pre - clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer. Our goal is to develop transformative therapies to protect and improve people’s lives.</p>
 
                         <div class="banner-video">
                             <div class="banner-thumbnail">
@@ -44,7 +44,7 @@ include('header.php'); ?>
                 </div>
             </div>
             <div class="developed-logo">
-                <p>In Collaboration with &nbsp;</p>
+                <p>Working with &nbsp;</p>
                 <img src="./assets/img/ucla.png" alt="UCLA">
             </div>
         </div>
@@ -52,9 +52,86 @@ include('header.php'); ?>
 
 </section>
 
+<div class="devPlan">
+    <div class="container">
+        <div class="devPlan-wrap">
+            <div class="devPlan-heading">
+                <h3>Our Development Pipeline</h3>
+                <p>All of our immunotherapy technologies are designed to be delivered as simple injections.
+                    We look forward to the day when treating cancer will be as simple as getting a flu shot –
+                    a better way to treat cancer.</p>
+            </div>
+            <div class="devPlan-item">
+                <div class="row align-items-center">
+                    <div class="col-lg-3">
+                        <div class="devPlan-graphic">
+                            <img src="./assets/img/children-cancer.png" alt="cancer">
+                        </div>
+                    </div>
+                    <div class="col-lg-9">
+                        <div class="devPlan-conten">
+                            <h6>Children’s Cancer</h6>
+                            <p>A disease-specific immunotherapy targeted at treating Ewing Sarcoma, a rare but deadly bone and soft tissue cancer that affects children and young adults. Unfortunately, the death rate for patients with recurrent Ewing sarcoma is 100%.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="devPlan-item">
+                <div class="row align-items-center">
+                    <div class="col-lg-3">
+                        <div class="devPlan-graphic">
+                            <img src="./assets/img/ucv-platform.png" alt="cancer">
+                        </div>
+                    </div>
+                    <div class="col-lg-9">
+                        <div class="devPlan-conten">
+                            <h6>Universal Cancer Vaccine​ Platform</h6>
+                            <p>A novel customizable Universal Cancer Vaccine (UCV), to be delivered as a shot, that uses cutting-edge bioengineering and molecular technologies to uniquely detect, mark and kill only cancer cells. By forcing cancer cells to express a unique marker not found in healthy cells, custom antibody drugs and the body’s immune cells can target and destroy the cancer cells with precision.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="devPlan-item">
+                <div class="row align-items-center">
+                    <div class="col-lg-3">
+                        <div class="devPlan-graphic">
+                            <img src="./assets/img/universal-cart.png" alt="cancer">
+                        </div>
+                    </div>
+                    <div class="col-lg-9">
+                        <div class="devPlan-conten">
+                            <h6>Universal CAR-T Cell Platform</h6>
+                            <p>A novel customizable low-cost treatment platform, to be delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. Our goal is to lower the cost to a few hundred dollars per dose by helping the body make its own CAR T-cells.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="ctreament">
+    <div class="container">
+        <div class="ctreament-wrap">
+            <div class="ctreament-heading">
+                <h3>Developing Successful Cancer Treatments Can Also Be Financially Rewarding</h3>
+            </div>
+            <ul class="ctreament-list">
+                <li> Former UCLA Faculty, Patrick Soon-Shiong, sold Abraxis BioSciences, a Developer of Cancer Chemotherapy, for $2.9 Billion to Celgene.</li>
+                <li> Sumitomo Dainippon Pharma Acquires Tolero Pharmaceuticals, a Developer of Cancer Therapies, for $780 million.</li>
+                <li> AbbVie Buys Cancer Drug Startup Stemcentrx, a Developer of Cancer Therapies, for $10.2 Billion.</li>
+                <li> Boston Biomedical, a Developer of Cancer Therapies, is Acquired by Dainippon Sumitomo Pharma for $2.63 Billion.</li>
+                <li>
+                    Juno Therapeutics, A Developer of Cancer Therapies, raises $310 Million Valuing the Company at $1.8 Billion.</li>
+                <li> Astellas Acquires Ganymed Pharmaceuticals, a Developer of Cancer Therapies, for $1.46 Billion.</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
 <section class="pvRecent">
     <div class="ceochats-carousel">
-    <div class="cchat">
+        <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=n_Qrx_TbdAk"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
@@ -64,7 +141,7 @@ include('header.php'); ?>
             </div>
             <p>August 22, 2023 - Paul Chretien - Colorectal Cancer</p>
         </div>
-    <div class="cchat">
+        <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=LTzE5Y78RrU"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
@@ -353,7 +430,8 @@ include('header.php'); ?>
 </section>
 
 
-<section class="fcancervax">
+
+<!-- <section class="fcancervax">
     <div class="container">
         <div class="fcancervax-box">
             <h4>Universal Cancer Vaccine</h4>
@@ -410,7 +488,7 @@ include('header.php'); ?>
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <section class="worldhealth">
