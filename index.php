@@ -114,9 +114,37 @@ include('header.php'); ?>
     <div class="container">
         <div class="ctreament-wrap">
             <div class="ctreament-heading">
-                <h3>Developing Successful Cancer Treatments Can Also Be Financially Rewarding</h3>
+                <h3>Massive Market Opportunity</h3>
             </div>
-            <ul class="ctreament-list">
+            <div class="market-opp">
+                <div class="row pt-md-5 pt-3 align-items-center">
+                    <div class="col-lg-8">
+                        <h4>How big is the biotechnology market?</h4>
+                        <p>According to Precedence Research, the global biotechnology market is projected to grow from $1.3 trillion in 2023 to <span>$3.3 trillion by 2030</span>
+                        </p>
+                    </div>
+                    <div class="col-lg-4 text-center">
+                        <div class="market-opp-box">
+                            <span>Biotech <br>
+                                $3.3 trillion</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row pt-md-4 pt-3 align-items-center">
+                    <div class="col-lg-8">
+                        <h4>How big is the cancer drug development market?</h4>
+                        <p>According to Fortune Business Insights, the global oncology drugs market is projected to grow from $205 billion in 2023 to <span>$484 billion by 2030</span>.
+                        </p>
+                    </div>
+                    <div class="col-lg-4 text-center">
+                        <div class="market-opp-box">
+                            <span>Cancer <br>
+                                $484 billion</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- <ul class="ctreament-list">
                 <li> Former UCLA Faculty, Patrick Soon-Shiong, sold Abraxis BioSciences, a Developer of Cancer Chemotherapy, for $2.9 Billion to Celgene.</li>
                 <li> Sumitomo Dainippon Pharma Acquires Tolero Pharmaceuticals, a Developer of Cancer Therapies, for $780 million.</li>
                 <li> AbbVie Buys Cancer Drug Startup Stemcentrx, a Developer of Cancer Therapies, for $10.2 Billion.</li>
@@ -124,12 +152,12 @@ include('header.php'); ?>
                 <li>
                     Juno Therapeutics, A Developer of Cancer Therapies, raises $310 Million Valuing the Company at $1.8 Billion.</li>
                 <li> Astellas Acquires Ganymed Pharmaceuticals, a Developer of Cancer Therapies, for $1.46 Billion.</li>
-            </ul>
+            </ul> -->
         </div>
     </div>
 </div>
 
-<section class="pvRecent">
+<section class="pvRecent pt-5 pb-4">
     <div class="ceochats-carousel">
         <div class="cchat">
             <div class="cchat-box">
