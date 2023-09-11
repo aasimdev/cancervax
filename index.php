@@ -20,7 +20,7 @@ include('header.php'); ?>
                 <div class="col-lg-7">
                     <div class="banner-text">
                         <h1>Using the Body’s Immune <br> System to Fight Cancer</h1>
-                        <p>CancerVAX is a pre - clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer. Our goal is to develop transformative therapies to protect and improve people’s lives.</p>
+                        <p>CancerVAX is a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer. Our goal is to develop transformative therapies to protect and improve people’s lives.</p>
 
                         <div class="banner-video">
                             <div class="banner-thumbnail">
@@ -58,8 +58,8 @@ include('header.php'); ?>
             <div class="devPlan-heading">
                 <h3>Our Development Pipeline</h3>
                 <p>All of our immunotherapy technologies are designed to be delivered as simple injections.
-                    We look forward to the day when treating cancer will be as simple as getting a flu shot –
-                    a better way to treat cancer.</p>
+
+                    We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer. </p>
             </div>
             <div class="devPlan-item">
                 <div class="row align-items-center">
@@ -70,8 +70,8 @@ include('header.php'); ?>
                     </div>
                     <div class="col-lg-9">
                         <div class="devPlan-conten">
-                            <h6>Children’s Cancer</h6>
-                            <p>A disease-specific immunotherapy targeted at treating Ewing Sarcoma, a rare but deadly bone and soft tissue cancer that affects children and young adults. Unfortunately, the death rate for patients with recurrent Ewing sarcoma is 100%.</p>
+                            <h6>Children’s Cancer </h6>
+                            <p>A disease-specific immunotherapy targeted at treating Ewing Sarcoma, a rare but deadly bone and soft tissue cancer that affects children and young adults. <span>Unfortunately, the death rate for patients with recurrent Ewing sarcoma is 100%.</span> </p>
                         </div>
                     </div>
                 </div>
@@ -85,8 +85,8 @@ include('header.php'); ?>
                     </div>
                     <div class="col-lg-9">
                         <div class="devPlan-conten">
-                            <h6>Universal Cancer Vaccine​ Platform</h6>
-                            <p>A novel customizable Universal Cancer Vaccine (UCV), to be delivered as a shot, that uses cutting-edge bioengineering and molecular technologies to uniquely detect, mark and kill only cancer cells. By forcing cancer cells to express a unique marker not found in healthy cells, custom antibody drugs and the body’s immune cells can target and destroy the cancer cells with precision.</p>
+                            <h6>Universal Cancer Vaccine​ Platform </h6>
+                            <p>A novel and customizable Universal Cancer Vaccine (UCV), to be delivered as a shot, that uses cutting-edge bioengineering and molecular technologies to uniquely detect, mark and kill only cancer cells. By forcing cancer cells to express a unique marker not found in healthy cells, custom antibody drugs and the body’s immune cells can target and destroy the cancer cells with precision. </p>
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@ include('header.php'); ?>
                     <div class="col-lg-9">
                         <div class="devPlan-conten">
                             <h6>Universal CAR-T Cell Platform</h6>
-                            <p>A novel customizable low-cost treatment platform, to be delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. Our goal is to lower the cost to a few hundred dollars per dose by helping the body make its own CAR T-cells.</p>
+                            <p>A novel and customizable low-cost treatment platform, to be delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes.  Our goal is to lower the cost to a few thousand dollars per dose by helping the body make its own CAR T-cells. </p>
                         </div>
                     </div>
                 </div>
