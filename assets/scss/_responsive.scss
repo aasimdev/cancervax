@@ -101,7 +101,7 @@
     }
 
     .abtBanner {
-        min-height: 54vh;
+        min-height: 450px;
     }
 }
 
@@ -199,8 +199,12 @@
         margin-bottom: 32px;
     }
 
-    .invest-text {
+    .invest-video {
         margin-top: 175px;
+    }
+
+    .invest-text {
+
 
         p {
             max-width: 100%;
@@ -271,6 +275,67 @@
 
     .immVideos__wrap {
         padding: 0;
+    }
+
+    .socialHeader {
+        position: static;
+        padding: 0 0 16px;
+    }
+
+    .tSocial {
+        text-align: left;
+    }
+    .inPost-inow-p{
+        display: none;
+    }
+    .inPost-inow{
+        position: fixed;
+        bottom: 0;
+        top: unset;
+        width: 100%;
+        left: 0;
+        border-radius: 0;
+        z-index: 1;
+        padding: 20px;
+        box-shadow: -0.217625px -6.99662px 28px rgba(0, 0, 0, 0.03), -0.141053px -4.53484px 16.3981px rgba(0, 0, 0, 0.0209549), -0.0838259px -2.69499px 8.91852px rgba(0, 0, 0, 0.0158889), -0.043525px -1.39932px 4.55px rgba(0, 0, 0, 0.0130312), -0.0177324px -0.570095px 2.28148px rgba(0, 0, 0, 0.0106111), -0.00403009px -0.129567px 1.10185px rgba(0, 0, 0, 0.00685764);
+        background: #FFFFFF;
+        width: 100%;
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        padding: 20px 0;
+        -webkit-box-pack: space-around;
+        -ms-flex-pack: space-around;
+        -webkit-justify-content: space-around;
+        justify-content: space-around;
+        -webkit-align-items: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+    .inPost-inow-btn{
+        box-shadow: none;
+        border-radius: 0;
+        padding: 0;
+        a{
+            height: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 171px;
+            border-radius: 15px;
+        }
+    }
+    .inPost-inow-btn a span{
+        display: none;
+    }
+    .inPost-inow-share{
+        span{
+            font-size: 16px;
+            color: #565656;
+            line-height: 22px;
+        }
     }
 }
 
@@ -371,6 +436,16 @@
         height: auto;
     }
 
+    .abtBanner {
+        position: relative;
+
+        &-text {
+            position: absolute;
+            width: calc(100% - 30px);
+            bottom: 48px;
+            left: 15px;
+        }
+    }
 
 }
 
@@ -577,7 +652,7 @@
         padding-bottom: 80px;
     }
 
-    .invest-text {
+    .invest-video {
         margin-top: 130px;
     }
 
@@ -675,7 +750,54 @@
             font-size: 75px;
         }
     }
-    .immtypes__content h5{
+
+    .immtypes__content h5 {
         margin-bottom: 16px;
+    }
+
+    #short-videos.nCommentary .cchat-thumbnail {
+        height: 620px;
+    }
+
+    .shortVideos {
+        .cchat-thumbnail {
+            height: 620px;
+        }
+    }
+
+    .invest-bar {
+        padding: 0;
+    }
+
+    .invest-bar-text p {
+        font-size: 18px;
+    }
+
+    .invest-bar-text a {
+        font-size: 14px;
+    }
+
+    .invest-video iframe {
+        height: 210px;
+    }
+
+    .inPost-box h1 {
+        margin: 8px 0;
+        font-size: 24px;
+        line-height: 31px;
+    }
+
+    .inPost-box {
+        padding: 40px 24px 24px;
+    }
+
+    .inPost-img {
+        padding-top: 0;
+    }
+    .perks iframe{
+        height: 260px;
+    }
+    .perks {
+        padding: 60px 0 0;
     }
 }

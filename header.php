@@ -71,6 +71,17 @@
     </script>
     <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=657876116145620&ev=PageView&noscript=1" /></noscript>
     <!-- End Meta Pixel Code -->
+
+
+    <?php
+    $currentURL = $_SERVER['HTTP_HOST'];
+    $desiredURL = 'cancervax.com';
+
+    if ($currentURL === $desiredURL) {
+        echo '<meta name="facebook-domain-verification" content="z24tdbhlb62wzvjdkr3vdp344a8mqt" />';
+    }
+    ?>
+
 </head>
 
 <body>
@@ -85,6 +96,29 @@
         }
     }
     ?>
+
+    <div class="invest-bar">
+        <div class="container-fluid">
+            <div class="invest-bar-content">
+                <div class="invest-bar-text">
+                    <p>Help us beat cancer!</p>
+                    <a href="https://www.startengine.com/offering/cancervax" target="_blank">Invest Now</a>
+                </div>
+                <div class="tSocial d-none d-lg-block">
+                    <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
+                    <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="socialHeader d-none d-lg-block">
+        <div class="container-fluid">
+
+        </div>
+    </div>
     <!-- Hedaer -->
     <nav class="navbar navbar-expand-lg navbar-dark">
         <div class="container-fluid">
@@ -112,7 +146,7 @@
                         <a class="nav-link <?php active('news'); ?>" href="/news">Newsroom</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link <?php active('podcast'); ?>" href="/podcast">Podcast</a>
+                        <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link <?php active('investors'); ?>" href="/investors">Investors</a>
@@ -122,6 +156,16 @@
                     </li>
 
                 </ul>
+                <div class="socialHeader d-lg-none">
+                    <div class="container-fluid">
+                        <div class="tSocial">
+                            <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
+                            <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
+                            <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </nav>

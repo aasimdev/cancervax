@@ -10,6 +10,11 @@ $(function () {
         teamModal.show();
     });
 
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl)
+    })
+
 
     $('.ceochats-carousel').slick({
         slidesToShow: 2.4,
@@ -174,7 +179,7 @@ $(function () {
 
 if (!$('.invkeywords').length == 0) {
     var typing = new Typed(".invkeywords", {
-        strings: ["", "Invest", "Partner", "Associate"],
+        strings: ["", "Invest", "Partner", "JOIN THE FIGHT"],
         typeSpeed: 150,
         backSpeed: 50,
         loop: true,

@@ -10,7 +10,7 @@ include('header.php'); ?>
             <h1 class="invkeywords">
             </h1>
         </div>
-        <h2>In cancervax</h2>
+        <h2>cancervax</h2>
         <h3>FIGHT CANCER.</h3>
     </div>
 </section>
@@ -27,8 +27,12 @@ include('header.php'); ?>
                 </div>
             </div>
             <div class="col-lg-6">
+                <div class="invest-video">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Ui5-ikCVa9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
                 <div class="invest-text">
-                    <p>We are currently not accepting any new investors. If you want to keep up with our progress or learn about future investment rounds, please subscribe to our email newsletter below.</p>
+                    <p>We have recently launched an SEC qualified $10 million offering at StartEngine, one of the largest online crowdfunding platforms.</p>
+                    <p>The offering is available to the general public, with a minimum investment of $500.00.  If you are interested in helping us beat cancer, please invest now at: <br> <a href="https://www.startengine.com/offering/cancervax" target="_blank">Invest Now</a></p>
                 </div>
             </div>
         </div>

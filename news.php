@@ -21,25 +21,34 @@ include('header.php'); ?>
             <div class="col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=FoiGO6QzS-U"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=T7vHpIKySWk"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>Breast Cancer Screening</p>
-                    <span>May 26, 2023</span>
+                    <p>August 13, 2023 - National Cancer Plan</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=fcAUnmxnmK4"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=vNserFeYYh4"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>Gene Targeted Personalized Vaccine</p>
-                    <span>May 22, 2023</span>
+                    <p>August 9, 2023 - Onset Colon Cancer</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=5gR8ssdsRgE"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>August 3, 2023 - Paul Reubens</p>
                 </div>
             </div>
 
@@ -48,10 +57,122 @@ include('header.php'); ?>
 </section>
 
 
+
+
+<section class="news pb-0">
+    <div class="container">
+        <h4>CancerVAX In The News</h4>
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="https://coruzant.com/profiles/ryan-davies/" target="_blank"></a>
+                    <span>August 14, 2023</span>
+                    <h3>Serial Entrepreneur Using Science to Tackle the Biggest Disease with Founder Ryan Davies | Ep 693</h3>
+                    <p>Ryan Davies has had a successful career as an entrepreneur, business executive and public servant. Prior to founding CancerVAX, Ryan co-founded several biotech companies/technologies including a nitric oxide topical wound-care product</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="https://www.labiotech.eu/in-depth/sarcoma-research-advances/" target="_blank"></a>
+                    <span>July 24, 2023</span>
+                    <h3>Labiotech: Sarcoma Research: Is a Breakthrough in Sight?</h3>
+                    <p>These cancers are said to form when bone and soft tissue cells have mutations in the DNA – for reasons, as with other kinds of cancers, that are yet to be understood – which causes the cells to develop into cancerous ones, proliferating in an unregulated manner.</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="https://www.healthcarebusinesstoday.com/scientists-have-found-the-silver-bullet-for-pediatric-cancer/" target="_blank"></a>
+                    <span>July 14, 2023</span>
+                    <h3>Healthcare Business Today: Scientists Have Found The Silver Bullet for Pediatric Cancer</h3>
+                    <p>This year, roughly 9,910 American children under the age of 15 will be diagnosed with cancer, and 1,040 will die. And while advances in cancer treatment have increased the 5-year survival rate for youth and adolescent cancer patients to 85%, it simply isn’t enough.</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="https://www.healthleadersmedia.com/pharma/cancervax-ceo-sees-home-run-breakthrough-universal-cancer-vaccine" target="_blank"></a>
+                    <span>June 22, 2023</span>
+                    <h3>HealthLeaders: CancerVax CEO Sees a Homerun With Breakthrough Cancer Vaccine</h3>
+                    <p>The biotech industry isn't for the faint of heart. And that's why Ryan Davies jumped at the chance to lead CancerVax, a high-stakes, pre-clinical biotech partnering with UCLA to develop immunotherapy cancer treatments that use the body’s immune system to fight cancer. </p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="https://www.healthcarebusinesstoday.com/scientists-have-found-the-silver-bullet-for-pediatric-cancer/" target="_blank"></a>
+                    <span>July 14, 2023</span>
+                    <h3>Scientists Have Found The Silver Bullet For Pediatric Cancer</h3>
+                    <p>This year, roughly 9,910 American children under the age of 15 will be diagnosed with cancer, and 1,040 will die. And while advances in cancer treatment have increased the 5-year survival rate for youth </p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="https://www.healthleadersmedia.com/pharma/cancervax-ceo-sees-home-run-breakthrough-universal-cancer-vaccine" target="_blank"></a>
+                    <span>JUNE 22, 2023</span>
+                    <h3>CancerVax CEO Sees a Home Run With Breakthrough Universal Cancer Vaccine</h3>
+                    <p>The biotech industry isn't for the faint of heart. And that's why Ryan Davies jumped at the chance to lead CancerVax, a high-stakes, pre-clinical biotech partnering with UCLA to develop immunotherapy cancer treatments that use the body’s immune system to fight cancer. </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
 <section class="news">
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancervax-ceo-ryan-davies-discussed-cancer-immunotherapy-with-ucla-physician-scientist.php"></a>
+                    <span>August 24, 2023 </span>
+                    <h3>CancerVAX CEO Ryan Davies Discussed Cancer Immunotherapy with UCLA Physician-Scientist</h3>
+                    <p>CancerVAX, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, spoke with and UCLA cancer physician and researcher, Dr. Steven Jonas, about his journey to becoming both a practicing cancer doctor and active cancer researcher</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="world-renowned-biomedical-professor-jonathan-lakey-joins-cancervax-board-of-advisors.php"></a>
+                    <span>July 25, 2023 </span>
+                    <h3>World Renowned Biomedical Professor Jonathan Lakey Joins CancerVAX Board of Advisors</h3>
+                    <p>Dr. Lakey has been recognized nationally and internationally for his groundbreaking research in cell and tissue transplantation for patients suffering from diabetes and cancer</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancervax-ceo-ryan-davies-discusses-biotech-entrepreneurship-with-pyxis-oncology-ceo-dr-lara-sullivan.php"></a>
+                    <span>July 10, 2023 </span>
+                    <h3>CancerVAX CEO Ryan Davies Discusses Biotech Entrepreneurship with Pyxis Oncology CEO Dr. Lara Sullivan</h3>
+                    <p>The two industry leaders focus on navigating the biotech industry and immuno-oncology research</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancervax-reports-significant-progress-on-universal-cancer-vaccine-development-at-ucla.php"></a>
+                    <span>June 27, 2023</span>
+                    <h3>CancerVAX Reports Significant Progress on Universal Cancer Vaccine Development at UCLA</h3>
+                    <p>Three separate teams of physician scientists at UCLA working on three different parts of the project have made significant progress and are ready to merge their work into a complete proof-of-concept vaccine construct </p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="biotech-executive-michael-dmith-discusses-the-fda-drug-development-process-with-cancervax-ceo-ryan-davies.php"></a>
+                    <span>June 16, 2023</span>
+                    <h3>Biotech Executive Michael Smith Discusses the FDA Drug Development Process with CancerVAX CEO Ryan Davies </h3>
+                    <p>Michael Smith comments on the growth of immunotherapy and sees the required FDA development phases as a benefit to small biotech firms such as CancerVax</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancerax-reports-positive-progress-on-kids-cancer-immunotherapy-treatment.php"></a>
+                    <span>June 12, 2023</span>
+                    <h3>CancerVAX Reports Positive Progress on Kids Cancer Immunotherapy Treatment </h3>
+                    <p>LEHI, Utah, June 12, 2023 (GLOBE NEWSWIRE) -- CancerVAX, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced</p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="biotech-entrepreneur-and-venture-capitalist-dinesh-patel-discusses-therapeutics-and-medical-devices-with-cancervax-ceo-ryan-davies.php"></a>

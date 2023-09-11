@@ -56,15 +56,123 @@ include('header.php'); ?>
     <div class="ceochats-carousel">
     <div class="cchat">
             <div class="cchat-box">
-                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=FoiGO6QzS-U"></a>
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=n_Qrx_TbdAk"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
-                    <img src="https://i.ytimg.com/vi/FoiGO6QzS-U/maxresdefault.jpg" alt="chat">
+                    <img src="https://i.ytimg.com/vi/n_Qrx_TbdAk/maxresdefault.jpg" alt="chat">
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVax News Commentary
-                with Byron Elton</p>
-            <span>May 26, 2023</span>
+            <p>August 22, 2023 - Paul Chretien - Colorectal Cancer</p>
+        </div>
+    <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=LTzE5Y78RrU"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/LTzE5Y78RrU/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>August 14, 2023 - Steven Jonas - UCLA</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=T7vHpIKySWk"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/T7vHpIKySWk/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>August 13, 2023 - National Cancer Plan</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=vNserFeYYh4"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/vNserFeYYh4/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>August 9, 2023 - Onset Colon Cancer</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=y9gaBzk8c5g"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/y9gaBzk8c5g/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>July 25, 2023 - Andrew Van Noy - Retinoblastoma</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=bYhTlLSvwvU"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/bYhTlLSvwvU/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>Jul 24, 2023 - Juli Mathews - Leukemia</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=5gR8ssdsRgE"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/5gR8ssdsRgE/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>August 3, 2023 - Paul Reubens</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=PrKWO9o6IFE"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/PrKWO9o6IFE/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>July 13, 2023 - Rod Davies - Prostate Cancer</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=nb4DZ-G49c8"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/nb4DZ-G49c8/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>June 28 , 2023 - Lara Sullivan - Pyxis Oncology</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=2jmJ2r0GKc0"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/2jmJ2r0GKc0/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>June 28, 2023 - Research Turning Point</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=c123rkMsmVQ"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/kLHL6Sw-QDI/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>June 16, 2023 - Michael Smith - KalVista Pharmaceuticals</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=kLHL6Sw-QDI"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/kLHL6Sw-QDI/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>May 24, 2023 - Byron Elton - Prostate Cancer</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -74,20 +182,27 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVAX News Commentary with
-                Byron Elton</p>
-            <span>May 22, 2023</span>
+            <p>May 24, 2023 - mRNA Vaccine</p>
         </div>
-        
         <div class="cchat">
             <div class="cchat-box">
-                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=DcFor_Vo4MU"></a>
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=JHsQN8AMBbw"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
-                    <img src="https://i.ytimg.com/vi/DcFor_Vo4MU/maxresdefault.jpg" alt="chat">
+                    <img src="https://i.ytimg.com/vi/twJxMzdSS4A/maxresdefault.jpg" alt="chat">
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVAX Podcast - Dinesh Patel</p>
+            <p>May 24, 2023 - Raymond Vennare - Predictive Oncology Inc.</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=twJxMzdSS4A"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/twJxMzdSS4A/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>May 17, 2023 - Dr. Dinesh Patel - Xenocor, Inc.</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -97,7 +212,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVAX Podcast - Stephen Diamond</p>
+            <p>Apr 20, 2023 - Stephen Diamond - LEXEO Therapeutics</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -107,7 +222,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVax Podcast - Dr. Satiro De Oliveira</p>
+            <p>Apr 12, 2023 - Dr. Satiro De Oliveira - UCLA</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -117,7 +232,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVax Podcast - Ryan looper</p>
+            <p>Mar 23, 2023 - Ryan looper - Curza</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -127,7 +242,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVax Podcast - Jonathan Lakey</p>
+            <p>Mar 21, 2023 - Jonathan Lakey - XOStem, Inc</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -137,7 +252,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVax Podcast - Dr. David Bearss</p>
+            <p>Mar 19, 2023 - Dr. David Bearss - Halia Therapeutics</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -147,7 +262,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVAX Podcast - Todd Kinard talks Intellectual Property in Biotech</p>
+            <p>Mar 15, 2023 - Todd Kinard - Curza</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -157,7 +272,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p> CancerVAX Partnered with Jonsson Comprehensive Cancer Center</p>
+            <p> Mar 15, 2023 - Partnered with Jonsson Comprehensive Cancer Center</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -167,7 +282,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p> CancerVAX - Seeking Immunotherapy Solutions that Prevent Cancer</p>
+            <p> Mar 15, 2023 - Seeking Immunotherapy Solutions that Prevent Cancer</p>
         </div>
         <div class="cchat">
             <div class="cchat-box">
@@ -187,8 +302,9 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>Biomedical Research without Traditional Overhead Costs at CancerVA</p>
+            <p>Mar 15, 2023 - Biomedical Research without Traditional Overhead Costs at CancerVA</p>
         </div>
+
     </div>
 
 </section>
@@ -471,12 +587,36 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=nb4DZ-G49c8"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                            <img src="https://i.ytimg.com/vi/nb4DZ-G49c8/maxresdefault.jpg" alt="chat">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>June 28 , 2023 - Lara Sullivan - Pyxis Oncology</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=c123rkMsmVQ"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                            <img src="https://i.ytimg.com/vi/kLHL6Sw-QDI/maxresdefault.jpg" alt="chat">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>June 16, 2023 - Michael Smith - KalVista Pharmaceuticals</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=twJxMzdSS4A"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVAX Podcast - Dr. Dinesh Patel</p>
+                    <p>May 17, 2023 - Dr. Dinesh Patel - Xenocor, Inc.</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -487,30 +627,7 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVAX Podcast - Stephen Diamond</p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=QAFbMKCJcgk"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>CancerVax Podcast - Dr. Satiro De Oliveira</p>
-
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=5LRM7n5IleQ"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>CancerVax Podcast - Ryan looper</p>
+                    <p>Apr 20, 2023 - Stephen Diamond - LEXEO Therapeutics</p>
                 </div>
             </div>
         </div>
@@ -526,44 +643,36 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="biotech-entrepreneur-and-venture-capitalist-dinesh-patel-discusses-therapeutics-and-medical-devices-with-cancervax-ceo-ryan-davies.php"></a>
-                    <span>May 17, 2023</span>
-                    <h3>Biotech Entrepreneur and Venture Capitalist Dinesh Patel Discusses Therapeutics and Medical Devices with CancerVAX CEO Ryan Davies</h3>
-                    <p>Lehi, UT – May 17, 2023 – CancerVAX, developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, today reported that the Company’s CEO, Ryan Davies</p>
-
+                    <a href="cancervax-ceo-ryan-davies-discussed-cancer-immunotherapy-with-ucla-physician-scientist.php"></a>
+                    <span>August 24, 2023 </span>
+                    <h3>CancerVAX CEO Ryan Davies Discussed Cancer Immunotherapy with UCLA Physician-Scientist</h3>
+                    <p>CancerVAX, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, spoke with and UCLA cancer physician and researcher, Dr. Steven Jonas, about his journey to becoming both a practicing cancer doctor and active cancer researcher</p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="former-pfizer-legal-counsel-discusses-gene-therapy-with-cancervax-ceo-ryan-davies.php"></a>
-                    <span>April 20, 2023</span>
-                    <h3>Former Pfizer Legal Counsel Discusses Gene Therapy with CancerVAX CEO Ryan Davies</h3>
-                    <p>Stephen Diamond, Senior Vice President, General Counsel, and Secretary of Freeline, discussed his unique path from the legal and business worlds to gene therapy and next-generation therapeutics.</p>
-
+                    <a href="world-renowned-biomedical-professor-jonathan-lakey-joins-cancervax-board-of-advisors.php"></a>
+                    <span>July 25, 2023 </span>
+                    <h3>World Renowned Biomedical Professor Jonathan Lakey Joins CancerVAX Board of Advisors</h3>
+                    <p>Dr. Lakey has been recognized nationally and internationally for his groundbreaking research in cell and tissue transplantation for patients suffering from diabetes and cancer</p>
                 </div>
-
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="cancervax-ceo-ryan-davies-discusses-cancer-research-with-leading-pediatric-hematologic-oncologist.php"></a>
-                    <span>April 12, 2023</span>
-                    <h3>CancerVAX CEO Ryan Davies Discusses Cancer Research with Leading Pediatric Hematologic Oncologist</h3>
-                    <p>Dr. Satiro De Oliveira, a principal investigator in the Company’s cancer research program at UCLA, comments about the importance of cancer immunotherapy</p>
-
+                    <a href="cancervax-ceo-ryan-davies-discusses-biotech-entrepreneurship-with-pyxis-oncology-ceo-dr-lara-sullivan.php"></a>
+                    <span>July 10, 2023 </span>
+                    <h3>CancerVAX CEO Ryan Davies Discusses Biotech Entrepreneurship with Pyxis Oncology CEO Dr. Lara Sullivan</h3>
+                    <p>The two industry leaders focus on navigating the biotech industry and immuno-oncology research</p>
                 </div>
-
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="cancervax-lands-byron-elton.php"></a>
-                    <span>April 3, 2023</span>
-                    <h3>CancerVAX Lands Byron Elton</h3>
-                    <p>Experienced business executive to help establish the Company as a significant force in the field of cancer research</p>
-
+                    <a href="cancervax-reports-significant-progress-on-universal-cancer-vaccine-development-at-ucla.php"></a>
+                    <span>June 27, 2023</span>
+                    <h3>CancerVAX Reports Significant Progress on Universal Cancer Vaccine Development at UCLA</h3>
+                    <p>Three separate teams of physician scientists at UCLA working on three different parts of the project have made significant progress and are ready to merge their work into a complete proof-of-concept vaccine construct </p>
                 </div>
-
             </div>
-
         </div>
 
     </div>
