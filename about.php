@@ -20,7 +20,7 @@ include('header.php'); ?>
         <div class="abtinfo-wrap">
             <img src="./assets/img/abt.jpg" alt="abt">
             <p>
-                By leveraging cutting-edge bioengineering and molecular technologies, we are on a quest to develop a breakthrough Universal Cancer Vaccine. Similar to the way COVID-19 vaccines train the body to recognize and destroy the coronavirus, we are developing a universal cancer vaccine that uses the body’s immune system to detect, mark and destroy cancer cells.</p>
+                By leveraging cutting-edge bioengineering and molecular technologies, we are on a quest to develop innovative precision cancer immunotherapies. Inspired by the way COVID-19 vaccines train the body to recognize and destroy the coronavirus, we are developing cancer vaccines, also known as cancer immunotherapies, that uses the body’s immune system to fight cancer. </p>
         </div>
     </div>
 </section>
@@ -33,9 +33,21 @@ include('header.php'); ?>
                 <img src="./assets/img/cell.png" alt="cell">
             </div>
             <div class="process-heading">
-                <h2>Process</h2>
-                <p>As we search for a universal cancer vaccine, we are also developing conventional immunotherapy treatments. One program, performed at the Jonsson Comprehensive Cancer Center, is targeted at treating Ewing Sarcoma, a rare but deadly bone and soft tissue cancer that primarily affects children and young adults. There is currently no FDA approved treatment for recurrence. We intend to become a dominant player in the immunotherapy space by partnering with leading researchers and institutions to develop a robust portfolio of cancer vaccines. We look forward to the day when treating cancer will be as simple as getting a flu shot.
-                </p>
+                <div class="row">
+                    <div class="col-sm-3 col-md-4 col-xl-6">
+                        <h2>Our Story</h2>
+                    </div>
+                    <div class="col-sm-9 col-md-8 col-xl-6">
+                        <p>We started working with UCLA in early 2021 on a single-disease immunotherapy targeted at Ewing Sarcoma, a deadly children’s cancer. Existing immunotherapies target natural cancer cell markers, which unfortunately appear in health cells as well, resulting in the destruction of healthy cells and causing various levels of toxicity and side effects. <br><br>
+                            Through a series of brainstorm sessions that started in late 2021, we developed the concept of a customizable Universal Cancer Vaccine Platform (UCV) that can potentially target cancer cells with a high degree of precision and force only the cancer cells to express a unique marker that we can easily target for destruction. The UCV project kicked off in 2022. <br><br>
+                            The UCV project progressed methodically with the development of various innovative technologies, including a foundational nanoparticle technology which can be programmed to target specific cells and deliver customized cargos. <br><br>
+                            In a pivotal project meeting in the summer of 2023, the UCLA team reported positive progress on Ewing sarcoma and UCV. Surprisingly, the highly customizable low-cost nanoparticle technology developed for UCV can be adapted to perform an existing cancer immunotherapy (CAR-T Cell) at an extremely low cost. Thus, the Universal CAR-T Cell Platform was born. <br><br>
+                            We now have a very exciting and important development pipeline consisting of three projects at UCLA.
+                        </p>
+                    </div>
+                </div>
+
+
             </div>
             <div class="process-stack">
                 <div class="row align-items-center">
@@ -47,9 +59,11 @@ include('header.php'); ?>
                     <div class="col-sm-9 col-md-8 col-xl-6">
                         <div class="process-description">
                             <h5>Immunotherapy.</h5>
-                            <p>Cancer vaccines can train the body to target and destroy specific cancer cells. Cancer vaccines are also known as immunotherapy. <br><br>
 
-                                Much like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer vaccines can train the body to target and destroy specific cancer cells.</p>
+                            <p>Cancer vaccines can train the body to target and destroy specific cancer cells. Cancer vaccines are also known as immunotherapy.
+                                <br><br>
+                                Much like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer vaccines can train the body to target and destroy specific cancer cells.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -62,12 +76,10 @@ include('header.php'); ?>
                     <div class="col-sm-9 col-md-8 col-xl-6">
                         <div class="process-description">
                             <h5>
-                                Universal Cancer Vaccine.</h5>
-                            <p>By leveraging cutting-edge bioengineering and molecular technologies, we developing a breakthrough Universal Cancer Vaccine (UCV).
+                                Children’s Cancer.</h5>
+                            <p>We are developing a disease-specific immunotherapy targeted at treating Ewing sarcoma, a rare but deadly bone and soft tissue cancer that primarily affects children and young adults. There is currently no FDA approved treatment for recurrence. <strong>The death rate is 100% of patients with recurrent Ewing sarcoma.</strong>
                                 <br><br>
-                                The UCV will force cancer cells to express a non-naturally occurring protein marker that can be used by the immune system and custom antibodies to precisely target cancer cells for destruction.
-                                <br><br>
-                                We have entered into a sponsored research agreement (SRA) with the University of California at Los Angeles (UCLA) to help us develop this Universal Cancer Vaccine platform. We hold exclusive rights to license all intellectual property and related technology produced through our partnership with UCLA.
+                                We have entered into a sponsored research agreement with the University of California at Los Angeles (UCLA) to develop effective immunotherapies, such as CAR T-cell and monoclonal antibodies, for Ewing Sarcoma. We hold exclusive rights to license all intellectual property and related technology resulting from this research program. UCLA is a top-ranked university known for its cancer research and medical school.
                             </p>
                         </div>
                     </div>
@@ -80,10 +92,34 @@ include('header.php'); ?>
                     </div>
                     <div class="col-sm-9 col-md-8 col-xl-6">
                         <div class="process-description">
-                            <h5>Ewing Sarcoma.</h5>
-                            <p>We are developing a disease-specific immunotherapy targeted at treating Ewing Sarcoma, a rare but deadly bone and soft tissue cancer that affects children and young adults.
+                            <h5>Universal Cancer Vaccine Platform</h5>
+                            <p>By leveraging cutting-edge bioengineering and molecular technologies, we are developing a breakthrough Universal Cancer Vaccine (UCV) Platform.
                                 <br><br>
-                                We have entered into a sponsored research agreement (SRA) with the University of California at Los Angeles (UCLA), lead by a team of professors and physicians who run the Ewing Sarcoma Program at the UCLA Jonsson Comprehensive Cancer Center.
+                                The UCV will force cancer cells to express a unique protein marker that can be used by the immune system and custom antibodies to precisely target them for destruction. Additionally, we intend to make cancer cells look like common diseases so that the body’s natural immune system can easily destroy them.
+                                <br><br>
+                                We have entered into a sponsored research agreement (SRA) with UCLA to help us develop this Universal Cancer Vaccine platform. We hold exclusive rights to license all intellectual property and related technology resulting from this research program.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center">
+                    <div class="col-sm-3 col-md-4 col-xl-6">
+                        <div class="process-title">
+                            <span>04</span>
+                        </div>
+                    </div>
+                    <div class="col-sm-9 col-md-8 col-xl-6">
+                        <div class="process-description">
+                            <h5>Universal CAR-T Cell Platform</h5>
+                            <p>Based on the foundational nanoparticle technology developed for UCV, we are developing a novel Universal CAR-T Cell therapy, to be delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy any targeted cancer cells.
+
+
+   <br><br>
+                                CAR-T cell therapy is a type of FDA-approved immunotherapy in which a patient’s T-cells are genetically modified in the laboratory, then reinjected back into the patient, so they will bind to specific proteins (antigens) found on cancer cells and kill them. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. We believe we can dramatically lower the cost to a few thousand dollars per dose by simply helping the body make its own CAR T-cells.
+
+                                <br><br>
+
+                                Under the existing sponsored research agreement (SRA) with UCLA, we hold exclusive rights to license all intellectual property and related technologies.
                             </p>
                         </div>
                     </div>
