@@ -11,7 +11,27 @@ include('header.php'); ?>
 </section>
 
 <div class="videoCategories">
+
     <div class="container">
+        <div class="trend-video">
+            <div class="row justify-content-center">
+                <div class="col-lg-7">
+                    <div class="cchat">
+                        <div class="cchat-box mb-4">
+                            <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=RJYGOJSKKLk"></a>
+                            <div class="cchat-thumbnail thumbnail-overlay">
+                            </div>
+                            <i class="far fa-play-circle"></i>
+                            <div class="trend-video-ucla">
+                                <img src="./assets/img/ucla.png" alt="ucla">
+                            </div>
+                        </div>
+                        <p class="mt-0">CancerVAX CEO Discusses Expanded Pipeline at UCLA</p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="row">
             <div class="col-lg-3 col-md-6">
                 <div class="vCatBox">
@@ -69,7 +89,7 @@ include('header.php'); ?>
             <a href="/news-commentary">See All</a>
         </div>
         <div class="row">
-        <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=T7vHpIKySWk"></a>
@@ -128,7 +148,7 @@ include('header.php'); ?>
             <a href="/ceo-podcast">See All</a>
         </div>
         <div class="row">
-        <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=LTzE5Y78RrU"></a>
@@ -187,7 +207,7 @@ include('header.php'); ?>
             <a href="/cancer-survivor-stories">See All</a>
         </div>
         <div class="row">
-        <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=n_Qrx_TbdAk"></a>
