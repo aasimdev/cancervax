@@ -28,7 +28,6 @@ include('header.php'); ?>
 <section class="process">
     <div class="container">
         <div class="process-wrap">
-            <div class="divider"></div>
             <div class="process-object">
                 <img src="./assets/img/cell.png" alt="cell">
             </div>
@@ -50,17 +49,13 @@ include('header.php'); ?>
 
             </div>
             <div class="process-stack">
-                <div class="row align-items-center">
-                    <div class="col-sm-3 col-md-4 col-xl-6">
-                        <div class="process-title">
-                            <span>01</span>
-                        </div>
-                    </div>
-                    <div class="col-sm-9 col-md-8 col-xl-6">
-                        <div class="process-description">
+                <div class="row align-items-center justify-content-center">
+                   
+                    <div class="col-sm-9 col-md-8 col-xl-7">
+                        <div class="process-description text-center">
                             <h5>Immunotherapy.</h5>
 
-                            <p>Cancer vaccines can train the body to target and destroy specific cancer cells. Cancer vaccines are also known as immunotherapy.
+                            <p class="text-center">Cancer vaccines can train the body to target and destroy specific cancer cells. Cancer vaccines are also known as immunotherapy.
                                 <br><br>
                                 Much like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer vaccines can train the body to target and destroy specific cancer cells.
                             </p>
@@ -70,7 +65,7 @@ include('header.php'); ?>
                 <div class="row align-items-center">
                     <div class="col-sm-3 col-md-4 col-xl-6">
                         <div class="process-title">
-                            <span>02</span>
+                            <span>01</span>
                         </div>
                     </div>
                     <div class="col-sm-9 col-md-8 col-xl-6">
@@ -87,7 +82,7 @@ include('header.php'); ?>
                 <div class="row align-items-center">
                     <div class="col-sm-3 col-md-4 col-xl-6">
                         <div class="process-title">
-                            <span>03</span>
+                            <span>02</span>
                         </div>
                     </div>
                     <div class="col-sm-9 col-md-8 col-xl-6">
@@ -105,7 +100,7 @@ include('header.php'); ?>
                 <div class="row align-items-center">
                     <div class="col-sm-3 col-md-4 col-xl-6">
                         <div class="process-title">
-                            <span>04</span>
+                            <span>03</span>
                         </div>
                     </div>
                     <div class="col-sm-9 col-md-8 col-xl-6">

@@ -101,7 +101,7 @@ include('header.php'); ?>
                     <div class="col-lg-9">
                         <div class="devPlan-conten">
                             <h6>Universal CAR-T Cell Platform</h6>
-                            <p>A novel and customizable low-cost treatment platform, to be delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes.  Our goal is to lower the cost to a few thousand dollars per dose by helping the body make its own CAR T-cells. </p>
+                            <p>A novel and customizable low-cost treatment platform, to be delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. Our goal is to lower the cost to a few thousand dollars per dose by helping the body make its own CAR T-cells. </p>
                         </div>
                     </div>
                 </div>
@@ -749,6 +749,14 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="ucart-announcement.php"></a>
+                    <span>September 12, 2023 </span>
+                    <h3>CancerVAX Expands Development Pipeline to Include a Universal CAR-T Cell Platform</h3>
+                    <p> CancerVAX, Inc., a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer, today announced an expansion of its development pipeline to include a Universal CAR-T Cell Platform that can dramatically lower the cost of CAR-T cell cancer therapies</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancervax-ceo-ryan-davies-discussed-cancer-immunotherapy-with-ucla-physician-scientist.php"></a>
                     <span>August 24, 2023 </span>
                     <h3>CancerVAX CEO Ryan Davies Discussed Cancer Immunotherapy with UCLA Physician-Scientist</h3>
@@ -769,14 +777,6 @@ include('header.php'); ?>
                     <span>July 10, 2023 </span>
                     <h3>CancerVAX CEO Ryan Davies Discusses Biotech Entrepreneurship with Pyxis Oncology CEO Dr. Lara Sullivan</h3>
                     <p>The two industry leaders focus on navigating the biotech industry and immuno-oncology research</p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-reports-significant-progress-on-universal-cancer-vaccine-development-at-ucla.php"></a>
-                    <span>June 27, 2023</span>
-                    <h3>CancerVAX Reports Significant Progress on Universal Cancer Vaccine Development at UCLA</h3>
-                    <p>Three separate teams of physician scientists at UCLA working on three different parts of the project have made significant progress and are ready to merge their work into a complete proof-of-concept vaccine construct </p>
                 </div>
             </div>
         </div>
