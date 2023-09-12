@@ -2541,3 +2541,19 @@ label.error {
         border-radius: 5px;
     }
 }
+
+.trend-video{
+    margin-bottom: 70px;
+    &-ucla{
+        width: 140px;
+        position: absolute;
+        bottom: 16px;
+        right: 16px;
+        @media (max-width: 576px) {
+            width: 110px;
+        }
+    }
+    .cchat p{
+        font-size: 20px;
+    }
+}
