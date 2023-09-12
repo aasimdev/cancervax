@@ -28,7 +28,19 @@ include('header.php'); ?>
 <section class="cchats">
     <div class="container">
         <div class="row">
-        <div class="col-lg-6">
+            <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=RJYGOJSKKLk"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">CancerVAX CEO Discusses Expanded Pipeline at UCLA</p>
+
+                </div>
+            </div>
+            <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=LTzE5Y78RrU"></a>
