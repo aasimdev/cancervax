@@ -161,6 +161,16 @@ include('header.php'); ?>
     <div class="ceochats-carousel">
         <div class="cchat">
             <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=RJYGOJSKKLk"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/RJYGOJSKKLk/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>CancerVAX CEO Discusses Expanded Pipeline at UCLA</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=n_Qrx_TbdAk"></a>
                 <div class="cchat-thumbnail thumbnail-overlay">
                     <img src="https://i.ytimg.com/vi/n_Qrx_TbdAk/maxresdefault.jpg" alt="chat">
@@ -692,6 +702,30 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-6">
                 <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=RJYGOJSKKLk"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">CancerVAX CEO Discusses Expanded Pipeline at UCLA</p>
+
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=LTzE5Y78RrU"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">August 14, 2023 - Steven Jonas - UCLA</p>
+
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="cchat">
                     <div class="cchat-box">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=nb4DZ-G49c8"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
@@ -712,28 +746,6 @@ include('header.php'); ?>
                         <i class="far fa-play-circle"></i>
                     </div>
                     <p>June 16, 2023 - Michael Smith - KalVista Pharmaceuticals</p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=twJxMzdSS4A"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>May 17, 2023 - Dr. Dinesh Patel - Xenocor, Inc.</p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=W6FG-viYbKM"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>Apr 20, 2023 - Stephen Diamond - LEXEO Therapeutics</p>
                 </div>
             </div>
         </div>
