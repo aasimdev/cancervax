@@ -701,7 +701,7 @@ body.modal-open {
             color: #000;
             line-height: 1.33em;
 
-            
+
         }
     }
 
@@ -726,6 +726,9 @@ body.modal-open {
             border-style: solid;
             border-width: 0px 0px 1px 0px;
             border-color: #AC37E0;
+            &:last-of-type{
+                border: 0;
+            }
         }
     }
 
@@ -1448,7 +1451,7 @@ body.modal-open {
 
 
 .contact {
-    padding: 180px 0;
+    padding: 130px 0 180px;
     background: rgba($color: #2B2B2B, $alpha: 0.5);
 
     &-title {
@@ -1459,6 +1462,7 @@ body.modal-open {
             line-height: 1.3;
             max-width: 600px;
             color: #ababab;
+
             @media (max-width: 991px) {
                 max-width: 100%;
             }
@@ -2323,7 +2327,8 @@ label.error {
             font-size: 18px;
             line-height: 1.36em;
             color: #ababab;
-            span{
+
+            span {
                 color: #43c3b7;
             }
         }
@@ -2344,7 +2349,6 @@ label.error {
 
     &-heading {
         padding-bottom: 21px;
-        border-bottom: 1px solid #fff;
 
         h3 {
             font-size: 38px;
@@ -2416,6 +2420,22 @@ label.error {
         }
     }
 
+    &-img {
+        text-align: center;
+
+        .theme-btn {
+            padding: 8px 20px;
+            background-color: red;
+            border-color: red;
+            margin-top: 24px;
+            &:hover {
+                background-color: #fff;
+            }
+        }
+    }
+
+
+
     &-item {
         h4 {
             color: #37C3BF;
@@ -2432,8 +2452,10 @@ label.error {
             font-size: 18px;
             line-height: 1.7em;
             color: #ababab;
+
             span {
                 color: #34DAE1;
+                font-weight: 600;
             }
         }
 
@@ -2450,10 +2472,13 @@ label.error {
             padding: 40px;
             max-width: 1000px;
             margin-top: 12px;
-            li{
+
+            li {
                 color: #ababab;
+
                 span {
                     color: #34DAE1;
+                    font-weight: 600;
                 }
             }
         }
@@ -2470,8 +2495,8 @@ label.error {
             margin-bottom: 16px;
         }
 
-        .count-list{
-            li{
+        .count-list {
+            li {
                 font-size: 18px;
                 line-height: 1.3em;
                 color: #ababab;
@@ -2482,15 +2507,18 @@ label.error {
 
 }
 
-.count-list{
+.count-list {
     counter-reset: counter;
-    li{
+
+    li {
         padding-left: 26px;
         position: relative;
-        & + li{
+
+        &+li {
             margin-top: 8px;
         }
-        &::before{
+
+        &::before {
             counter-increment: counter;
             content: counter(counter) ". ";
             position: absolute;
@@ -2523,16 +2551,18 @@ label.error {
     }
 }
 
-.market-opp{
-    h4{
+.market-opp {
+    h4 {
         margin-bottom: 16px;
         line-height: 1.3;
     }
-    p{
+
+    p {
         font-size: 18px;
         line-height: 1.36em;
     }
-    &-box{
+
+    &-box {
         background: #fff;
         display: inline-block;
         padding: 16px 32px;
@@ -2542,18 +2572,21 @@ label.error {
     }
 }
 
-.trend-video{
+.trend-video {
     margin-bottom: 70px;
-    &-ucla{
+
+    &-ucla {
         width: 140px;
         position: absolute;
         bottom: 16px;
         right: 16px;
+
         @media (max-width: 576px) {
             width: 110px;
         }
     }
-    .cchat p{
+
+    .cchat p {
         font-size: 20px;
     }
 }
