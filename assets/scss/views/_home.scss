@@ -2578,7 +2578,8 @@ label.error {
     &-ucla {
         width: 140px;
         position: absolute;
-        bottom: 54px;
+        // bottom: 54px;
+        bottom: 13.8%;
         right: 16px;
 
         @media (max-width: 576px) {
