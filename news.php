@@ -11,6 +11,38 @@ include('header.php'); ?>
 </section>
 
 
+<section class="news">
+    <div class="container">
+        <h4>Major Press Releases</h4>
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="news-item">
+                    <a href="ucart-announcement.php"></a>
+                    <span>September 12, 2023 </span>
+                    <h3>CancerVAX Expands Development Pipeline to Include a Universal CAR-T Cell Platform</h3>
+                </div>
+            </div>
+            <div class="col-lg-4">
+            <div class="news-item">
+                    <a href="cancervax-reports-significant-progress-on-universal-cancer-vaccine-development-at-ucla.php"></a>
+                    <span>June 27, 2023</span>
+                    <h3>CancerVAX Reports Significant Progress on Universal Cancer Vaccine Development at UCLA</h3>
+                </div>
+            </div>
+            <div class="col-lg-4">
+            <div class="news-item">
+                    <a href="cancerax-reports-positive-progress-on-kids-cancer-immunotherapy-treatment.php"></a>
+                    <span>June 12, 2023</span>
+                    <h3>CancerVAX Reports Positive Progress on Kids Cancer Immunotherapy Treatment </h3>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
 <section class="nCommentary">
     <div class="container">
         <div class="nCommentary-heading">
@@ -125,7 +157,7 @@ include('header.php'); ?>
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="news-item">
                     <a href="ucart-announcement.php"></a>
                     <span>September 12, 2023 </span>
