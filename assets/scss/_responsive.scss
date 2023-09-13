@@ -889,4 +889,15 @@
         font-size: 36px;
         line-height: 1.1;
     }
+
+    .podcast-detail {
+        padding: 110px 0 70px;
+    }
+
+    .podcast-detail h1 {
+        font-size: 30px;
+    }
+    .podcast-video iframe {
+        height: 260px;
+    }
 }
