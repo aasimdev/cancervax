@@ -18,8 +18,9 @@ include('header.php'); ?>
                 <div class="col-lg-7">
                     <div class="cchat">
                         <div class="cchat-box mb-4">
-                            <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=RJYGOJSKKLk"></a>
+                            <a class="getThumbnail" href="expanded-ucla-pipeline.php"></a>
                             <div class="cchat-thumbnail thumbnail-overlay">
+                                <img src="//img.youtube.com/vi/RJYGOJSKKLk/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">
                             </div>
                             <i class="far fa-play-circle"></i>
                             <div class="trend-video-ucla">
