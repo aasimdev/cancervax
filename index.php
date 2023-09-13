@@ -126,7 +126,7 @@ include('header.php'); ?>
                     <div class="col-lg-4 text-center">
                         <div class="market-opp-box">
                             <span>Biotech <br>
-                                $3.3 trillion</span>
+                                $3.2 trillion</span>
                         </div>
                     </div>
                 </div>
