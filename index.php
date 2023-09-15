@@ -120,7 +120,7 @@ include('header.php'); ?>
                 <div class="row pt-md-5 pt-3 align-items-center">
                     <div class="col-lg-8">
                         <h4>How big is the biotechnology market?</h4>
-                        <p>According to Precedence Research, the global biotechnology market is projected to grow from $1.3 trillion in 2023 to <span>$3.3 trillion by 2030</span>
+                        <p>According to Precedence Research, the global biotechnology market is projected to grow from $1.3 trillion in 2023 to <span>$3.2 trillion by 2030</span>
                         </p>
                     </div>
                     <div class="col-lg-4 text-center">
