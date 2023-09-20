@@ -17,7 +17,7 @@ include('header.php'); ?>
             <div class="row justify-content-center">
                 <div class="col-lg-7">
                     <div class="cchat">
-                        <div class="cchat-box mb-4">
+                        <div class="cchat-box mb-4" data-video="trend">
                             <a class="getThumbnail" href="expanded-ucla-pipeline.php"></a>
                             <div class="cchat-thumbnail thumbnail-overlay">
                                 <img src="//img.youtube.com/vi/RJYGOJSKKLk/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">
@@ -82,6 +82,64 @@ include('header.php'); ?>
     </div>
 </div>
 
+<section class="nCommentary theme-bg" id="ceo-podcast">
+    <div class="container">
+        <div class="nCommentary-heading">
+            <h3>CEO Podcast</h3>
+            <a href="/ceo-podcast">See All</a>
+        </div>
+        <div class="row">
+            <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=RJYGOJSKKLk"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">CancerVAX CEO Discusses Expanded Pipeline at UCLA</p>
+
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=LTzE5Y78RrU"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">August 14, 2023 - Steven Jonas - UCLA</p>
+
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=nb4DZ-G49c8"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">June 28 , 2023 - Lara Sullivan - Pyxis Oncology</p>
+
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=c123rkMsmVQ"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">June 16, 2023 - Michael Smith - KalVista Pharmaceuticals</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <section class="nCommentary theme-bg" id="news-commentary">
     <div class="container">
@@ -142,64 +200,7 @@ include('header.php'); ?>
     </div>
 </section>
 
-<section class="nCommentary theme-bg" id="ceo-podcast">
-    <div class="container">
-        <div class="nCommentary-heading">
-            <h3>CEO Podcast</h3>
-            <a href="/ceo-podcast">See All</a>
-        </div>
-        <div class="row">
-            <div class="col-xl-3 col-lg-4 col-md-6">
-                <div class="cchat">
-                    <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=RJYGOJSKKLk"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p class="mt-0">CancerVAX CEO Discusses Expanded Pipeline at UCLA</p>
 
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6">
-                <div class="cchat">
-                    <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=LTzE5Y78RrU"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p class="mt-0">August 14, 2023 - Steven Jonas - UCLA</p>
-
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6">
-                <div class="cchat">
-                    <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=nb4DZ-G49c8"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p class="mt-0">June 28 , 2023 - Lara Sullivan - Pyxis Oncology</p>
-
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6">
-                <div class="cchat">
-                    <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=c123rkMsmVQ"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p class="mt-0">June 16, 2023 - Michael Smith - KalVista Pharmaceuticals</p>
-
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 <section class="nCommentary theme-bg" id="cancer-survivor-stories">
     <div class="container">
