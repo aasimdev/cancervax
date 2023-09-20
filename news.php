@@ -53,34 +53,34 @@ include('header.php'); ?>
             <div class="col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=T7vHpIKySWk"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=JUp6iwaYiyY"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>August 13, 2023 - National Cancer Plan</p>
+                    <p>September 16, 2023 - The Financial Burden</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=vNserFeYYh4"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=jB-J8DP7oDQ"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>August 9, 2023 - Onset Colon Cancer</p>
+                    <p>September 16, 2023 - A Monumental Meeting at UCLA</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=5gR8ssdsRgE"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=6VT9poigwYA"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>August 3, 2023 - Paul Reubens</p>
+                    <p>September 13, 2023 - Fighting Cancer with Microsoft AI</p>
                 </div>
             </div>
 

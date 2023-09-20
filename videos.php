@@ -151,48 +151,48 @@ include('header.php'); ?>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=T7vHpIKySWk"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=JUp6iwaYiyY"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p class="mt-0">August 13, 2023 - National Cancer Plan</p>
+                    <p class="mt-0">September 16, 2023 - The Financial Burden</p>
 
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=vNserFeYYh4"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=jB-J8DP7oDQ"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p class="mt-0">August 9, 2023 - Onset Colon Cancer</p>
+                    <p class="mt-0">September 16, 2023 - A Monumental Meeting at UCLA</p>
 
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=5gR8ssdsRgE"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=6VT9poigwYA"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p class="mt-0">August 3, 2023 - Paul Reubens</p>
+                    <p class="mt-0">September 13, 2023 - Fighting Cancer with Microsoft AI</p>
 
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=2jmJ2r0GKc0"></a>
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=oueUZrh_3-Y"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p class="mt-0">June 28, 2023 - Research Turning Point</p>
+                    <p class="mt-0">September 11, 2023 - Early Onset Cancer</p>
 
                 </div>
             </div>
@@ -209,6 +209,17 @@ include('header.php'); ?>
             <a href="/cancer-survivor-stories">See All</a>
         </div>
         <div class="row">
+            <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=0Bga027vcFc"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">August 15, 2023 - Paul Chretien - Colorectal Cancer</p>
+                </div>
+            </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
@@ -240,17 +251,6 @@ include('header.php'); ?>
                         <i class="far fa-play-circle"></i>
                     </div>
                     <p class="mt-0">Jul 24, 2023 - Juli Mathews - Leukemia</p>
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6">
-                <div class="cchat">
-                    <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=PrKWO9o6IFE"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p class="mt-0">July 13, 2023 - Rod Davies - Prostate Cancer</p>
                 </div>
             </div>
         </div>
