@@ -32,7 +32,8 @@ include('header.php'); ?>
 <section class="cchats">
     <div class="container">
         <div class="row">
-        <div class="col-lg-6">
+            
+            <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=n_Qrx_TbdAk"></a>
@@ -43,7 +44,7 @@ include('header.php'); ?>
                     <p class="mt-0">August 22, 2023 - Paul Chretien - Colorectal Cancer</p>
                 </div>
             </div>
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=n_Qrx_TbdAk"></a>
@@ -54,7 +55,18 @@ include('header.php'); ?>
                     <p class="mt-0">August 22, 2023 - Paul Chretien - Colorectal Cancer</p>
                 </div>
             </div>
-        <div class="col-lg-6">
+            <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=0Bga027vcFc"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">August 15, 2023 - Paul Chretien - Colorectal Cancer</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=y9gaBzk8c5g"></a>
@@ -65,7 +77,7 @@ include('header.php'); ?>
                     <p class="mt-0">July 25, 2023 - Andrew Van Noy - Retinoblastoma</p>
                 </div>
             </div>
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=bYhTlLSvwvU"></a>

@@ -165,7 +165,7 @@ $(function () {
 
 
 
-    $('.cchat-box').each(function (e) {
+    $(".cchat-box:not([data-video='trend'])").each(function (e) {
         var videoSrc = $(this).find('.getThumbnail').attr('href');
         var videoID = videoSrc.match(/youtube\.com.*(\?v=|\/embed\/)(.{11})/).pop();
         var video_thumbnail = $('<img src="//img.youtube.com/vi/' + videoID + '/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">');
