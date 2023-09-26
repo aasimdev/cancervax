@@ -23,14 +23,14 @@ include('header.php'); ?>
                 </div>
             </div>
             <div class="col-lg-4">
-            <div class="news-item">
+                <div class="news-item">
                     <a href="cancervax-reports-significant-progress-on-universal-cancer-vaccine-development-at-ucla.php"></a>
                     <span>June 27, 2023</span>
                     <h3>CancerVAX Reports Significant Progress on Universal Cancer Vaccine Development at UCLA</h3>
                 </div>
             </div>
             <div class="col-lg-4">
-            <div class="news-item">
+                <div class="news-item">
                     <a href="cancerax-reports-positive-progress-on-kids-cancer-immunotherapy-treatment.php"></a>
                     <span>June 12, 2023</span>
                     <h3>CancerVAX Reports Positive Progress on Kids Cancer Immunotherapy Treatment </h3>
@@ -95,6 +95,22 @@ include('header.php'); ?>
     <div class="container">
         <h4>CancerVAX In The News</h4>
         <div class="row">
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="https://rescue.ceoblognation.com/2023/09/13/18-entrepreneurs-share-some-of-the-best-leadership-ceo-hacks-and-resources/" target="_blank"></a>
+                    <span>September 26, 2023</span>
+                    <h3>18 Entrepreneurs Share Some of The Best Leadership CEO Hacks and Resources</h3>
+                    <p>To be an entrepreneur and business owner, you have to understand leadership and be excellent at it. There are numerous qualities that make up successful leaders including being strong, visionary, empowering, positive and confident</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="https://coruzant.com/health-tech/cancer-vaccines-where-are-we-now-and-where-are-we-going/" target="_blank"></a>
+                    <span>September 23, 2023</span>
+                    <h3>Cancer Vaccines: Where are We Now and Where are We Going?</h3>
+                    <p>Despite countless advances in science and medicine, the number of global cancer deaths has increased by nearly 75 percent in just over three decades. This year, this indiscriminate killer</p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://coruzant.com/profiles/ryan-davies/" target="_blank"></a>
