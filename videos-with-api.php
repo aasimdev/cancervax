@@ -2,17 +2,19 @@
 $GLOBALS['title'] = "Videos - CancerVax";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
-include('header.php'); ?>
-<?php
+include('header.php'); 
+
+
 //Get videos from channel by YouTube Data API
 $API_key    = 'AIzaSyC5BWeQzlcGORCD5LEWsdCF5tyUvMOgNaA'; //my API key
 $channelID  = 'UCYV5rdW6E3gRPlVB_JoiSIQ'; //my channel ID
 $maxResults = 1000000;
 
 $video_list = json_decode(file_get_contents('https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=' . $channelID . '&maxResults=' . $maxResults . '&key=' . $API_key . ''));
+$playlists = json_decode(file_get_contents('https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=1000000&playlistId=PLU7CzU0ICHQyRnp8ZQC2u2uT5Ti3TGDHt&key=AIzaSyC5BWeQzlcGORCD5LEWsdCF5tyUvMOgNaA'));
 
 // echo '<pre>';
-// print_r($video_list);
+// print_r($playlists);
 // echo '</pre>';
 
 ?>
