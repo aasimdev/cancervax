@@ -159,6 +159,27 @@ include('header.php'); ?>
 
 <section class="pvRecent pt-5 pb-4">
     <div class="ceochats-carousel">
+       
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=vQKXp2rZN8Y"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/vQKXp2rZN8Y/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>September 30, 2023 - Zoleka Mandela</p>
+        </div>
+        <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=ISxuj7njZRg"></a>
+                <div class="cchat-thumbnail thumbnail-overlay">
+                    <img src="https://i.ytimg.com/vi/ISxuj7njZRg/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>September 20, 2023 - Breakthroughs in Cancer Treatment and Research</p>
+        </div>
         <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=RJYGOJSKKLk"></a>

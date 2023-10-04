@@ -31,6 +31,28 @@ include('header.php'); ?>
         <div class="col-lg-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=vQKXp2rZN8Y"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">September 30, 2023 - Zoleka Mandela</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=ISxuj7njZRg"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">September 20, 2023 - Breakthroughs in Cancer Treatment and Research<</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=JUp6iwaYiyY"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
                         </div>
