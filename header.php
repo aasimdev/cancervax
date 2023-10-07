@@ -29,9 +29,6 @@
     $domain = $_SERVER['HTTP_HOST'];
     $current_url = $protocol . "://" . $domain;
 
-    // Define your website name
-    // $website_name = "cancervax-inhouse";
-
     // Combine the domain URL and website name
     $full_url = $current_url . "/";
     ?>
