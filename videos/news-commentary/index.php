@@ -39,7 +39,7 @@ if($showAllVideo == 1){
  
 <section class="cchatsbanner">
     <div class="container">
-        <h1>Videos</h1>
+        <h1>News Commentary</h1>
     </div>
 </section>
 
