@@ -7,8 +7,9 @@ $is_https = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on';
 // Construct the URL for the YouTube search
 $protocol = $is_https ? 'https' : 'http';
 $current_url = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+$current_url_check = $protocol . "://" . $_SERVER['HTTP_HOST'];
 $showAllVideo = 1;
-if($current_url !== 'https://staging.cancervax.com/videos/news-commentary/'){
+if($current_url !== $current_url_check . '/videos/news-commentary/'){
     $showAllVideo = 0;
 }
 
