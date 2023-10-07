@@ -8,6 +8,7 @@ $is_https = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on';
 $protocol = $is_https ? 'https' : 'http';
 $current_url = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 $current_url_check = $protocol . "://" . $_SERVER['HTTP_HOST'];
+print_r($current_url_check);
 $showAllVideo = 1;
 if($current_url !== $current_url_check . '/videos/ceo-podcast/'){
     $showAllVideo = 0;
@@ -22,8 +23,6 @@ $videos = include "../../data/podcast-data.php";
 $filteredCEOPodcastVedios1 = array_filter($videos, function ($item) use ($vedioTitleFromURL) {
     return $item['category'] === 'ceo-podcast' && $item['scope'] === 'public' && strtolower($item['title']) === $vedioTitleFromURL;
 });
-
-
 
 $GLOBALS['title'] = $vedioTitleFromURL. " - CancerVax";
 $GLOBALS['desc'] = "";
