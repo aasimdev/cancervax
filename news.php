@@ -23,14 +23,14 @@ include('header.php'); ?>
                 </div>
             </div>
             <div class="col-lg-4">
-            <div class="news-item">
+                <div class="news-item">
                     <a href="cancervax-reports-significant-progress-on-universal-cancer-vaccine-development-at-ucla.php"></a>
                     <span>June 27, 2023</span>
                     <h3>CancerVAX Reports Significant Progress on Universal Cancer Vaccine Development at UCLA</h3>
                 </div>
             </div>
             <div class="col-lg-4">
-            <div class="news-item">
+                <div class="news-item">
                     <a href="cancerax-reports-positive-progress-on-kids-cancer-immunotherapy-treatment.php"></a>
                     <span>June 12, 2023</span>
                     <h3>CancerVAX Reports Positive Progress on Kids Cancer Immunotherapy Treatment </h3>
@@ -50,6 +50,17 @@ include('header.php'); ?>
             <!-- <a href="#">See All</a> -->
         </div>
         <div class="row">
+        <div class="col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=UHdlK8SnWQ4"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p>October 3, 2023 - Nobel Prize goes to scientists behind mRNA Covid vaccines</p>
+                </div>
+            </div>
             <div class="col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box">
@@ -97,50 +108,66 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="https://rescue.ceoblognation.com/2023/09/13/18-entrepreneurs-share-some-of-the-best-leadership-ceo-hacks-and-resources/" target="_blank"></a>
+                    <img src="./assets/img/news-logo-5.png" alt="news" class="news-logo-n" style="heiht:50px;">
+                    <span style="margin-top:13px;">September 26, 2023</span>
+                    <h3>18 Entrepreneurs Share Some of The Best Leadership CEO Hacks and Resources</h3>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="https://coruzant.com/health-tech/cancer-vaccines-where-are-we-now-and-where-are-we-going/" target="_blank"></a>
+                    <img src="./assets/img/news-logo-6.png" alt="news" class="news-logo-n" style="heiht:50px;">
+                    <span style="margin-top:15px;">September 23, 2023</span>
+                    <h3>Cancer Vaccines: Where are We Now and Where are We Going?</h3>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
                     <a href="https://coruzant.com/profiles/ryan-davies/" target="_blank"></a>
-                    <span>August 14, 2023</span>
+                    <img src="./assets/img/news-logo-4.png" alt="news" class="news-logo-n" style="heiht:50px;">
+                    <span style="margin-top:13px;">August 14, 2023</span>
                     <h3>Serial Entrepreneur Using Science to Tackle the Biggest Disease with Founder Ryan Davies | Ep 693</h3>
-                    <p>Ryan Davies has had a successful career as an entrepreneur, business executive and public servant. Prior to founding CancerVAX, Ryan co-founded several biotech companies/technologies including a nitric oxide topical wound-care product</p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://www.labiotech.eu/in-depth/sarcoma-research-advances/" target="_blank"></a>
-                    <span>July 24, 2023</span>
+                    <img src="./assets/img/news-logo-3.png" alt="news" class="news-logo-n" style="heiht:50px;">
+                    <span style="margin-top:25px;">July 24, 2023</span>
                     <h3>Labiotech: Sarcoma Research: Is a Breakthrough in Sight?</h3>
-                    <p>These cancers are said to form when bone and soft tissue cells have mutations in the DNA – for reasons, as with other kinds of cancers, that are yet to be understood – which causes the cells to develop into cancerous ones, proliferating in an unregulated manner.</p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://www.healthcarebusinesstoday.com/scientists-have-found-the-silver-bullet-for-pediatric-cancer/" target="_blank"></a>
-                    <span>July 14, 2023</span>
+                    <img src="./assets/img/news-logo-2.png" alt="news" class="news-logo-n" style="heiht:50px;">
+                    <span style="margin-top:13px;">July 14, 2023</span>
                     <h3>Healthcare Business Today: Scientists Have Found The Silver Bullet for Pediatric Cancer</h3>
-                    <p>This year, roughly 9,910 American children under the age of 15 will be diagnosed with cancer, and 1,040 will die. And while advances in cancer treatment have increased the 5-year survival rate for youth and adolescent cancer patients to 85%, it simply isn’t enough.</p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://www.healthleadersmedia.com/pharma/cancervax-ceo-sees-home-run-breakthrough-universal-cancer-vaccine" target="_blank"></a>
-                    <span>June 22, 2023</span>
+                    <img src="./assets/img/news-logo-1.png" alt="news" class="news-logo-n" style="heiht:50px;">
+                    <span style="margin-top:25px;">June 22, 2023</span>
                     <h3>HealthLeaders: CancerVax CEO Sees a Homerun With Breakthrough Cancer Vaccine</h3>
-                    <p>The biotech industry isn't for the faint of heart. And that's why Ryan Davies jumped at the chance to lead CancerVax, a high-stakes, pre-clinical biotech partnering with UCLA to develop immunotherapy cancer treatments that use the body’s immune system to fight cancer. </p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://www.healthcarebusinesstoday.com/scientists-have-found-the-silver-bullet-for-pediatric-cancer/" target="_blank"></a>
-                    <span>July 14, 2023</span>
+                    <img src="./assets/img/news-logo-2.png" alt="news" class="news-logo-n " style="heiht:50px;">
+                    <span style="margin-top:8px;">July 14, 2023</span>
                     <h3>Scientists Have Found The Silver Bullet For Pediatric Cancer</h3>
-                    <p>This year, roughly 9,910 American children under the age of 15 will be diagnosed with cancer, and 1,040 will die. And while advances in cancer treatment have increased the 5-year survival rate for youth </p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://www.healthleadersmedia.com/pharma/cancervax-ceo-sees-home-run-breakthrough-universal-cancer-vaccine" target="_blank"></a>
-                    <span>JUNE 22, 2023</span>
+                    <img src="./assets/img/news-logo-1.png" alt="news" class="news-logo-n" style="heiht:50px;">
+                    <span style="margin-top:23px;">JUNE 22, 2023</span>
                     <h3>CancerVax CEO Sees a Home Run With Breakthrough Universal Cancer Vaccine</h3>
-                    <p>The biotech industry isn't for the faint of heart. And that's why Ryan Davies jumped at the chance to lead CancerVax, a high-stakes, pre-clinical biotech partnering with UCLA to develop immunotherapy cancer treatments that use the body’s immune system to fight cancer. </p>
                 </div>
             </div>
 

@@ -7,7 +7,7 @@ include('header.php'); ?>
 <section class="abtBanner">
     <div class="container">
         <div class="abtBanner-text">
-            <h1>CancerVAX is a pre-clinical biotechnology company working with
+            <h1 >CancerVAX is a pre-clinical biotechnology company working with
                 UCLA to develop immunotherapy cancer treatments that use the body’s
                 immune system to fight cancer. We aim to develop transformative
                 therapies to protect and improve people’s lives.</h1>
@@ -50,7 +50,7 @@ include('header.php'); ?>
             </div>
             <div class="process-stack">
                 <div class="row align-items-center justify-content-center">
-                   
+
                     <div class="col-sm-9 col-md-8 col-xl-7">
                         <div class="process-description text-center">
                             <h5>Immunotherapy.</h5>
@@ -109,7 +109,7 @@ include('header.php'); ?>
                             <p>Based on the foundational nanoparticle technology developed for UCV, we are developing a novel Universal CAR-T Cell therapy, to be delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy any targeted cancer cells.
 
 
-   <br><br>
+                                <br><br>
                                 CAR-T cell therapy is a type of FDA-approved immunotherapy in which a patient’s T-cells are genetically modified in the laboratory, then reinjected back into the patient, so they will bind to specific proteins (antigens) found on cancer cells and kill them. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. We believe we can dramatically lower the cost to a few thousand dollars per dose by simply helping the body make its own CAR T-cells.
 
                                 <br><br>
@@ -125,13 +125,16 @@ include('header.php'); ?>
 </section>
 
 <section class="coreTeam">
+
     <div class="container">
+    <h3 style="text-align:center;color:black;margin-bottom:30px;" >CancerVAX Team</h3>
         <div class="row justify-content-center">
+       
             <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
-                            <img src="./assets/img/Ryan-Davies.jpg" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
+                            <img src="./assets/img/Ryan-Davies.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
                         </a>
                     </div>
                     <h5>
@@ -149,7 +152,7 @@ include('header.php'); ?>
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
-                            <img src="./assets/img/byron-cvax.jpg" class="object-fit-cover" alt="john">
+                            <img src="./assets/img/byron-cvax.png" class="object-fit-cover" alt="john">
                         </a>
                     </div>
                     <h5>
@@ -167,7 +170,7 @@ include('header.php'); ?>
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
-                            <img src="./assets/img/lakey.jpg" class="object-fit-cover" style="object-position: 100% 10%;" alt="john">
+                            <img src="./assets/img/lakey.png" class="object-fit-cover" style="    object-position: bottom;" alt="john">
                         </a>
                     </div>
                     <h5>
@@ -185,7 +188,7 @@ include('header.php'); ?>
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
-                            <img src="./assets/img/Lindsay-Mann.jpg" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
+                            <img src="./assets/img/Lindsay-Mann.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
                         </a>
                     </div>
                     <h5>
@@ -206,7 +209,7 @@ include('header.php'); ?>
 
 <section class="otherteam">
     <div class="container">
-        <h3>UCLA Team</h3>
+        <h3 style="text-align:center;margin-bottom:35px;" >UCLA Team</h3>
         <div class="row justify-content-center">
             <div class="col-md-6 col-xl-4">
                 <div class="team-box">
