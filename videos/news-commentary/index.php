@@ -46,9 +46,6 @@ if($showAllVideo == 1){
 
 <section class="abtceo">
     <div class="container">
-        <div class="abtceo-heading">
-            <h2>News Commentary</h2>
-        </div>
         <div class="abtceo-wrap">
             <div class="abt-ceo-img">
                 <img src="../../assets/img/byron-cvax.png" alt="ryan">
