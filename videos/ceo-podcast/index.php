@@ -43,9 +43,6 @@ if($showAllVideo == 1){
 
 <section class="abtceo">
     <div class="container">
-        <div class="abtceo-heading">
-            <h2>CEO Podcast</h2>
-        </div>
         <div class="abtceo-wrap">
             <div class="abt-ceo-img">
                 <img src="../../assets/img/Ryan-Davies.png" alt="ryan">
