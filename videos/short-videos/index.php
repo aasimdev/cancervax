@@ -44,9 +44,6 @@ if($showAllVideo == 1){
 
 <section class="abtceo">
     <div class="container">
-        <div class="abtceo-heading">
-            <h2>Short Videos</h2>
-        </div>
     </div>
 </section>
 
