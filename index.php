@@ -27,8 +27,10 @@ include('header.php'); ?>
                             <div class="banner-thumbnail">
                                 <img src="https://i.ytimg.com/vi/IySdl6Eo0rw/maxresdefault.jpg" alt="thumbnail">
                             </div>
-                            <a href="http://www.youtube.com/watch?v=IySdl6Eo0rw" class="popup-youtube"></a>
-                            <i class="far fa-play-circle"></i>
+                            <a href="http://www.youtube.com/watch?v=IySdl6Eo0rw" class="theme-btn text-uppercase popup-youtube">
+                                <i class="far fa-play-circle"></i>
+                                <span>Watch video</span>
+                            </a>
                         </div>
 
                     </div>

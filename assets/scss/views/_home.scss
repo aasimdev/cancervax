@@ -97,36 +97,15 @@
         .theme-btn {
             position: absolute;
             left: 50%;
-            bottom: 24px;
+            bottom: 92px;
             transform: translateX(-50%);
-            padding: 8px 20px;
+            padding: 4px 13px;
             background-color: red;
             border-color: red;
 
             &:hover {
                 background-color: #fff;
             }
-        }
-
-        a {
-            width: 100%;
-            height: 100%;
-            display: block;
-            position: absolute;
-            left: 0;
-            top: 0;
-            z-index: 1;
-        }
-
-        i {
-            position: absolute;
-            left: 50%;
-            top: 50%;
-            transform: translate(-50%, -50%);
-            z-index: 0;
-            font-size: 60px;
-            color: #fff;
-            text-shadow: 1px 0 6px rgba(0, 0, 0, 0.3);
         }
     }
 
@@ -783,19 +762,16 @@ body.modal-open {
             font-size: 15px;
             font-weight: 500;
         }
-    }
-
-    .team-box-img {
-        height: 324px;
-    }
-
-    .row {
-        .col-md-4 {
-            @media (min-width: 768px) {
-                width: 360px;
+        &-img{
+            height: auto;
+            img{
+                width: auto;
+                height: auto;
+                border-radius: 0;
             }
         }
     }
+
 }
 
 
