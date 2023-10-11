@@ -9,7 +9,7 @@ $current_url = $protocol . "://" . $domain;
 // $website_name = "cancervax-inhouse";
 
 // Combine the domain URL and website name
-$full_url = $current_url . "/";
+$full_url = $current_url . '/';
 if ($page_name != "index.php") {
 ?>
     <section class="newsletter">
@@ -120,6 +120,23 @@ if ($page_name != "index.php") {
             </div>
             <div class="modal-body p-0">
 
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header text-end pb-0">
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+              
+            </div>
+            <div class="modal-body">
+                <img src="./assets/img/pipeline-virus-2.png" class="modal_img" alt="pipeline-virus-2">
             </div>
         </div>
     </div>

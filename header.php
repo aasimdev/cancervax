@@ -7,21 +7,18 @@
     <?php
     if ($GLOBALS['title']) {
         $title = $GLOBALS['title'];
-    } 
-    else {
+    } else {
         $GLOBALS['title'] = "";
     }
     if ($GLOBALS['desc']) {
 
         $desc = $GLOBALS['desc'];
-    } 
-    else {
+    } else {
         $desc = "";
     }
     if ($GLOBALS['keywords']) {
         $keywords = $GLOBALS['keywords'];
-    } 
-    else {
+    } else {
         $keywords = "";
     }
     // Get the current domain URL
@@ -30,7 +27,7 @@
     $current_url = $protocol . "://" . $domain;
 
     // Combine the domain URL and website name
-    $full_url = $current_url . "/";
+    $full_url = $current_url . '/';
     ?>
     <title><?php echo $title; ?></title>
     <link rel="apple-touch-icon" sizes="114x114" href="<?php echo  $full_url; ?>/assets/img/favicon/apple-touch-icon.png">
@@ -44,6 +41,7 @@
     <link rel="stylesheet" href="<?php echo  $full_url; ?>/assets/css/slick.min.css">
     <link rel="stylesheet" href="<?php echo  $full_url; ?>/assets/css/slick-theme.min.css">
     <link rel="stylesheet" href="<?php echo  $full_url; ?>/assets/css/style.min.css">
+    <link rel="stylesheet" href="<?php echo  $full_url; ?>/assets/css/modal.style.css">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-7D9TX20JND"></script>
@@ -143,7 +141,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                    <a class="nav-link <?php active('about'); ?>" href="/about">About</a>
+                        <a class="nav-link <?php active('about'); ?>" href="/about">About</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link <?php active('pipeline'); ?>" href="/pipeline">Pipeline</a>
@@ -158,7 +156,7 @@
                         <a class="nav-link <?php active('news'); ?>" href="/news">Newsroom</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
+                        <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link <?php active('investors'); ?>" href="/investors">Investors</a>
