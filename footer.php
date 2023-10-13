@@ -5,11 +5,12 @@ $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "
 $domain = $_SERVER['HTTP_HOST'];
 $current_url = $protocol . "://" . $domain;
 
-// Define your website name
-// $website_name = "cancervax-inhouse";
-
-// Combine the domain URL and website name
-$full_url = $current_url . '/';
+// Check if the script is running on localhost
+if ($domain === 'localhost' || $domain === '127.0.0.1') {
+    $full_url = $current_url . '/cancervax/';
+} else {
+    $full_url = $current_url . '/';
+}
 if ($page_name != "index.php") {
 ?>
     <section class="newsletter">
@@ -126,17 +127,17 @@ if ($page_name != "index.php") {
 </div>
 
 
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-scrollable">
+<div class="modal fade" id="pipeline-img-preview" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-scrollable">
         <div class="modal-content">
             <div class="modal-header text-end pb-0">
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-              
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+
             </div>
             <div class="modal-body">
-                <img src="./assets/img/pipeline-virus-2.png" class="modal_img" alt="pipeline-virus-2">
+                <img src="./assets/img/pipeline-virus-2-large.png" class="modal_img" alt="pipeline-virus-2">
             </div>
         </div>
     </div>
