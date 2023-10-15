@@ -91,6 +91,14 @@ include('header.php'); ?>
     <div class="container">
         <h4>CancerVAX In The News</h4>
         <div class="row">
+        <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="https://valiantceo.com/ryan-davies-cancervax/" target="_blank"></a>
+                    <img src="./assets/img/news-logo-7.png" alt="news" class="news-logo-n" style="heiht:50px;">
+                    <span style="margin-top:20px;">October 12, 2023</span>
+                    <h3>Ryan Davies Shares Insights on CancerVAX and the Future of Cancer Treatment</h3>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://www.pharmacytimes.com/view/challenges-and-opportunities-in-the-treatment-of-ewing-sarcoma" target="_blank"></a>
