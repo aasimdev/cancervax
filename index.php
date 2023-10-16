@@ -159,28 +159,25 @@ include('header.php'); ?>
 </div>
 
 <section class="pvRecent pt-5 pb-4">
+   
     <div class="ceochats-carousel">
         <?php
+        $categories = ['ceo-podcast', 'news-commentary', 'cancer-survivor-stories'];
+        $latestVideosByCategory = [];
 
-        // Filter and display the 5 most recent CEO podcast videos
-        $filteredLatestCeoPodcast = array_filter($videos, function ($video) {
-            $temp1 = strtolower($video['title']);
-            $string = str_replace(' ', '-', $temp1);
-            $categories = ['ceo-podcast']; // Add more categories if needed
+        foreach ($categories as $category) {
+            $filteredVideos = array_filter($videos, function ($video) use ($category) {
+                return $video['category'] === $category;
+            });
+            usort($filteredVideos, function ($a, $b) {
+                return strtotime($b['date']) - strtotime($a['date']);
+            });
+            $latestVideos = array_slice($filteredVideos, 0, 5);
 
-            return in_array($video['category'], $categories);
-        });
-
-        // Sort the filtered videos by date in descending order
-        usort($filteredLatestCeoPodcast, function ($a, $b) {
-            return strtotime($b['date']) - strtotime($a['date']);
-        });
-
-        // Get the 5 most recent CEO podcast videos
-        $latestCeoPodcast = array_slice($filteredLatestCeoPodcast, 0, 5);
-
-        // Display the filtered and sorted videos
-        foreach ($latestCeoPodcast as $video) :
+            $latestVideosByCategory = array_merge($latestVideosByCategory, $latestVideos);
+        }
+        foreach ($latestVideosByCategory as $video) :
+            $categoryName = ucwords(str_replace('-', ' ', $video['category']));
         ?>
             <div class="cchat">
                 <div class="cchat-box">
@@ -190,7 +187,8 @@ include('header.php'); ?>
                     </div>
                     <i class="far fa-play-circle"></i>
                 </div>
-                <p><?= $video['date'] ?> - <?= $video['title'] ?></p>
+                <p><?= $categoryName ?> - <?= $video['title'] ?></p>
+
             </div>
         <?php endforeach; ?>
     </div>
