@@ -22,7 +22,7 @@ $vedioTitleFromURL = str_replace('-', ' ', $lastPart);
 $videos = include "../../data/podcast-data.php";
 
 $filteredCEOPodcastVedios = array_filter($videos, function ($item) use ($vedioTitleFromURL) {
-    return $item['category'] === 'news-commentary' && $item['scope'] === 'public' && strtolower($item['title']) === $vedioTitleFromURL;
+    return $item['category'] === 'news-commentary' && strtolower($item['title']) === $vedioTitleFromURL;
 });
 
 

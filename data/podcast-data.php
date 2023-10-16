@@ -8,6 +8,13 @@ $videos = [
         'scope' => "public"
     ],
     [
+        'title' => "Ezra Cohen Tempus Labs",
+        'videoID' => "Ez4gXwP56Xo",
+        'date' => "September 16, 2023",
+        'category' => "ceo-podcast",
+        'scope' => "private"
+    ],
+    [
         'title' => "Steven Jonas UCLA",
         'videoID' => "LTzE5Y78RrU",
         'date' => "August 14, 2023",
