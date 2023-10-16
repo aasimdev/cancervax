@@ -178,6 +178,7 @@ include('header.php'); ?>
         }
         foreach ($latestVideosByCategory as $video) :
             $categoryName = ucwords(str_replace('-', ' ', $video['category']));
+            $categoryName = str_replace('Ceo', 'CEO', $categoryName);
         ?>
             <div class="cchat">
                 <div class="cchat-box">
