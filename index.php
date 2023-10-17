@@ -167,7 +167,7 @@ include('header.php'); ?>
 
         foreach ($categories as $category) {
             $filteredVideos = array_filter($videos, function ($video) use ($category) {
-                return $video['category'] === $category;
+                return $video['category'] === $category && $video['scope'] === 'public';
             });
             usort($filteredVideos, function ($a, $b) {
                 return strtotime($b['date']) - strtotime($a['date']);
