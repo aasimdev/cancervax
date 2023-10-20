@@ -159,24 +159,39 @@ include('header.php'); ?>
 </div>
 
 <section class="pvRecent pt-5 pb-4">
-   
     <div class="ceochats-carousel">
         <?php
         $categories = ['ceo-podcast', 'news-commentary', 'cancer-survivor-stories'];
-        $latestVideosByCategory = [];
+        $latestVideos = [];
 
         foreach ($categories as $category) {
             $filteredVideos = array_filter($videos, function ($video) use ($category) {
                 return $video['category'] === $category && $video['scope'] === 'public';
             });
+            if (!empty($filteredVideos)) {
+                usort($filteredVideos, function ($a, $b) {
+                    return strtotime($b['date']) - strtotime($a['date']);
+                });
+                $latestVideos[] = array_shift($filteredVideos);
+            }
+        }
+
+        $remainingVideoCount = 5 - count($latestVideos);
+        if ($remainingVideoCount > 0) {
+            $filteredVideos = array_filter($videos, function ($video) use ($categories, $latestVideos) {
+                return in_array($video['category'], $categories) && $video['scope'] === 'public' && !in_array($video, $latestVideos);
+            });
             usort($filteredVideos, function ($a, $b) {
                 return strtotime($b['date']) - strtotime($a['date']);
             });
-            $latestVideos = array_slice($filteredVideos, 0, 5);
 
-            $latestVideosByCategory = array_merge($latestVideosByCategory, $latestVideos);
+            $latestVideos = array_merge($latestVideos, array_slice($filteredVideos, 0, $remainingVideoCount));
         }
-        foreach ($latestVideosByCategory as $video) :
+
+        usort($latestVideos, function ($a, $b) {
+            return strtotime($b['date']) - strtotime($a['date']);
+        });
+        foreach ($latestVideos as $video) :
             $categoryName = ucwords(str_replace('-', ' ', $video['category']));
             $categoryName = str_replace('Ceo', 'CEO', $categoryName);
         ?>

@@ -115,8 +115,20 @@
         <div class="container-fluid">
             <div class="invest-bar-content">
                 <div class="invest-bar-text">
-                    <p>Help us beat cancer!</p>
-                    <a href="https://www.startengine.com/offering/cancervax" target="_blank">Invest Now</a>
+                    <div class="invest-bar-text-wrap">
+                        <p>Closing on Nov 7th</p>
+                        <a href="https://www.startengine.com/offering/cancervax" target="_blank">
+                            <img src="./assets/img/invest-btn.svg" alt="invest button">
+                        </a>
+                    </div>
+                    <div id="countdown">
+                        <ul class="countdown-header">
+                            <li><span id="days"></span>Days</li>
+                            <li><span id="hours"></span>Hours</li>
+                            <li><span id="minutes"></span>Minutes</li>
+                            <li><span id="seconds"></span>Seconds</li>
+                        </ul>
+                    </div>
                 </div>
                 <div class="tSocial d-none d-lg-block">
                     <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
