@@ -87,7 +87,7 @@ include('header.php'); ?>
                     <div class="col-lg-9">
                         <div class="devPlan-conten">
                             <h6>Universal Cancer Vaccine​ Platform (UCV)</h6>
-                            <p>A novel and customizable Universal Cancer Vaccine, to be delivered as a shot, that uses cutting-edge bioengineering and molecular technologies to uniquely detect, mark and kill only cancer cells. By forcing cancer cells to express a unique marker not found in healthy cells, custom antibody drugs and the body’s immune cells can target and destroy the cancer cells with precision. </p>
+                            <p>A novel and customizable Universal Cancer Vaccine (UCV), to be delivered as a shot, that uses cutting-edge bioengineering and molecular technologies to uniquely detect, mark and kill only cancer cells. By forcing cancer cells to express a unique marker not found in healthy cells, custom antibody drugs and the body’s immune cells can target and destroy the cancer cells with precision. </p>
                         </div>
                     </div>
                 </div>
