@@ -219,14 +219,19 @@ include('../header.php'); ?>
             $filteredlatestShortVideos = array_filter($videos, function ($item) {
                 return $item['category'] === 'short-videos' && $item['scope'] === 'public';
             });
-            usort($filteredlatestShortVideos, function ($a, $b) {
-                return strtotime($b['date']) - strtotime($a['date']);
-            });
-            
+            // usort($filteredlatestShortVideos, function ($a, $b) {
+            //     return strtotime($b['date']) - strtotime($a['date']);
+            // });
+
             $latestCancerShortVideos = array_slice($filteredlatestShortVideos, 0, 4);
             foreach ($latestCancerShortVideos as $video) {
                 $temp1 = strtolower($video['title']);
                 $string = str_replace(' ', '-', $temp1);
+                if ($video['date'] === " ") {
+                    $title = $video['date'] - $video['title'];
+                } else {
+                    $title = $video['title'];
+                }
                 echo "<div class=\"col-xl-3 col-lg-4 col-md-6\">
                 <div class=\"cchat\">
                 <div class=\"cchat-box mb-4\">
@@ -237,7 +242,7 @@ include('../header.php'); ?>
                     </div>
                     <i class=\"far fa-play-circle\"></i>
                 </div>            
-                <p class=\"mt-0\" >{$video['date']} - {$video['title']}</p>
+                <p class=\"mt-0\" >{$title}</p>
                 </div>
                 </div>";
             }
