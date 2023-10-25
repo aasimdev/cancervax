@@ -2,8 +2,8 @@
 $GLOBALS['title'] = "CancerVax - Immunotherapy";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
-$videos = include "data/carousel-videos.php";
 $videosCEOPodcast = include "data/podcast-data.php";
+$videos = include "data/carousel-videos.php";
 include('header.php'); ?>
 
 
@@ -109,7 +109,7 @@ include('header.php'); ?>
                 </div>
             </div>
             <div class="devPlan-heading pt-4">
-                <p>UCV and UCAR-T can be used separately. However, when used together, we can kill cancer cells with extreme precision using the body’s immune system at very low costs.  UCV detects and marks a unique target and UCAR-T makes T-cells attack that target.</p>
+                <p>UCV and UCAR-T can be used separately. However, when used together, we can kill cancer cells with extreme precision using the body’s immune system at very low costs. UCV detects and marks a unique target and UCAR-T makes T-cells attack that target.</p>
             </div>
         </div>
     </div>
@@ -165,37 +165,8 @@ include('header.php'); ?>
 <section class="pvRecent pt-5 pb-4">
     <div class="ceochats-carousel">
         <?php
-        $categories = ['ceo-podcast', 'news-commentary', 'cancer-survivor-stories'];
-        $latestVideos = [];
 
-        foreach ($categories as $category) {
-            $filteredVideos = array_filter($videos, function ($video) use ($category) {
-                return $video['category'] === $category && $video['scope'] === 'public';
-            });
-            if (!empty($filteredVideos)) {
-                usort($filteredVideos, function ($a, $b) {
-                    return strtotime($b['date']) - strtotime($a['date']);
-                });
-                $latestVideos[] = array_shift($filteredVideos);
-            }
-        }
-
-        $remainingVideoCount = 5 - count($latestVideos);
-        if ($remainingVideoCount > 0) {
-            $filteredVideos = array_filter($videos, function ($video) use ($categories, $latestVideos) {
-                return in_array($video['category'], $categories) && $video['scope'] === 'public' && !in_array($video, $latestVideos);
-            });
-            usort($filteredVideos, function ($a, $b) {
-                return strtotime($b['date']) - strtotime($a['date']);
-            });
-
-            $latestVideos = array_merge($latestVideos, array_slice($filteredVideos, 0, $remainingVideoCount));
-        }
-
-        usort($latestVideos, function ($a, $b) {
-            return strtotime($b['date']) - strtotime($a['date']);
-        });
-        foreach ($latestVideos as $video) :
+        foreach ($videos as $video) :
             $categoryName = ucwords(str_replace('-', ' ', $video['category']));
             $categoryName = str_replace('Ceo', 'CEO', $categoryName);
         ?>
@@ -493,7 +464,7 @@ include('header.php'); ?>
         </div>
 
         <div class="row">
-        <?php
+            <?php
             $filteredlatestCeoPodcast = array_filter($videosCEOPodcast, function ($item) {
                 return $item['category'] === 'ceo-podcast' && $item['scope'] === 'public';
             });
@@ -513,9 +484,9 @@ include('header.php'); ?>
                 <p class=\"mt-0\">{$video['date']} - {$video['title']}</p>
                 </div>
                 </div>";
-            }
+            };
             ?>
-        
+
         </div>
     </div>
 
