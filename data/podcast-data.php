@@ -120,20 +120,6 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Nobel Prize goes to scientists behind mRNA Covid vaccines",
-        'videoID' => "UHdlK8SnWQ4",
-        'date' => "October 3, 2023",
-        'category' => "news-commentary",
-        'scope' => "public"
-    ],
-    [
-        'title' => "Zoleka Mandela",
-        'videoID' => "vQKXp2rZN8Y",
-        'date' => "September 30, 2023",
-        'category' => "news-commentary",
-        'scope' => "public"
-    ],
-    [
         'title' => "Breakthroughs in Cancer Treatment and Research",
         'videoID' => "ISxuj7njZRg",
         'date' => "September 20, 2023",
@@ -147,6 +133,7 @@ $videos = [
         'category' => "news-commentary",
         'scope' => "public"
     ],
+
     [
         'title' => "A Monumental Meeting at UCLA",
         'videoID' => "jB-J8DP7oDQ",
@@ -154,6 +141,7 @@ $videos = [
         'category' => "news-commentary",
         'scope' => "public"
     ],
+  
     [
         'title' => "Fighting Cancer with Microsoft AI",
         'videoID' => "6VT9poigwYA",
@@ -175,6 +163,23 @@ $videos = [
         'category' => "news-commentary",
         'scope' => "public"
     ],
+    [
+        'title' => "Brian Sevy Cancer Research",
+        'videoID' => "Fe8Y2KOdUug",
+        'date' => "August 25, 2023",
+        'category' => "news-commentary",
+        'scope' => "public"
+    ],
+    // [
+    //     'title' => "Nobel Prize goes to scientists behind mRNA Covid vaccines",
+    //     'videoID' => "UHdlK8SnWQ4",
+    //     'date' => "October 3, 2023",
+    //     'category' => "news-commentary",
+    //     'scope' => "public"
+    // ],
+
+ 
+   
     [
         'title' => "National Cancer Plan",
         'videoID' => "T7vHpIKySWk",
@@ -210,7 +215,13 @@ $videos = [
         'category' => "news-commentary",
         'scope' => "public"
     ],
-   
+       [
+        'title' => "Zoleka Mandela",
+        'videoID' => "vQKXp2rZN8Y",
+        'date' => "September 30, 2023",
+        'category' => "news-commentary",
+        'scope' => "public"
+    ],
     [
         'title' => "mRNA Vaccine",
         'videoID' => "fcAUnmxnmK4",

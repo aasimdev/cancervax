@@ -137,9 +137,9 @@ include('../header.php'); ?>
             });
 
             // Sort the filtered videos by date in descending order
-            usort($filteredNewsCommentaryVideos, function ($a, $b) {
-                return strtotime($b['date']) - strtotime($a['date']);
-            });
+            // usort($filteredNewsCommentaryVideos, function ($a, $b) {
+            //     return strtotime($b['date']) - strtotime($a['date']);
+            // });
 
             // Take the latest 4 videos for "news-commentary"
             $latestNewsCommentary = array_slice($filteredNewsCommentaryVideos, 0, 4);

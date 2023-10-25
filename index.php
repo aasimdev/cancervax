@@ -3,6 +3,7 @@ $GLOBALS['title'] = "CancerVax - Immunotherapy";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 $videos = include "data/carousel-videos.php";
+$videosCEOPodcast = include "data/podcast-data.php";
 include('header.php'); ?>
 
 
@@ -492,54 +493,29 @@ include('header.php'); ?>
         </div>
 
         <div class="row">
-            <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=RJYGOJSKKLk"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
+        <?php
+            $filteredlatestCeoPodcast = array_filter($videosCEOPodcast, function ($item) {
+                return $item['category'] === 'ceo-podcast' && $item['scope'] === 'public';
+            });
+            $latestCeoPodcast = array_slice($filteredlatestCeoPodcast, 0, 4);
+            foreach ($latestCeoPodcast as $video) {
+                $temp1 = strtolower($video['title']);
+                $string = str_replace(' ', '-', $temp1);
+                echo "<div class=\"col-lg-6\">
+                <div class=\"cchat\">
+                <div class=\"cchat-box mb-4\">
+                <a href=\"ceo-podcast/{$string}\"></a>
+                    <div class=\"cchat-thumbnail thumbnail-overlay\">
+                    <img src=\"//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"Thumbnail\">
                     </div>
-                    <p class="mt-0">CancerVAX CEO Discusses Expanded Pipeline at UCLA</p>
-
+                    <i class=\"far fa-play-circle\"></i>
+                </div>            
+                <p class=\"mt-0\">{$video['date']} - {$video['title']}</p>
                 </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=LTzE5Y78RrU"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p class="mt-0">August 14, 2023 - Steven Jonas - UCLA</p>
-
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=nb4DZ-G49c8"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                            <img src="https://i.ytimg.com/vi/nb4DZ-G49c8/maxresdefault.jpg" alt="chat">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>June 28 , 2023 - Lara Sullivan - Pyxis Oncology</p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=c123rkMsmVQ"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                            <img src="https://i.ytimg.com/vi/kLHL6Sw-QDI/maxresdefault.jpg" alt="chat">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>June 16, 2023 - Michael Smith - KalVista Pharmaceuticals</p>
-                </div>
-            </div>
+                </div>";
+            }
+            ?>
+        
         </div>
     </div>
 
