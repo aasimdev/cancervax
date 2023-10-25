@@ -504,7 +504,7 @@ include('header.php'); ?>
                 echo "<div class=\"col-lg-6\">
                 <div class=\"cchat\">
                 <div class=\"cchat-box mb-4\">
-                <a href=\"ceo-podcast/{$string}\"></a>
+                <a href=\"videos/ceo-podcast/{$string}\"></a>
                     <div class=\"cchat-thumbnail thumbnail-overlay\">
                     <img src=\"//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"Thumbnail\">
                     </div>

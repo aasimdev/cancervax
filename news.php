@@ -61,7 +61,7 @@ include('header.php'); ?>
                 echo "<div class=\"col-lg-4 col-md-6\">
                 <div class=\"cchat\">
                 <div class=\"cchat-box\">
-                <a href=\"ceo-podcast/{$string}\"></a>
+                <a href=\"videos/news-commentary/{$string}\"></a>
                     <div class=\"cchat-thumbnail thumbnail-overlay\">
                     <img src=\"//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"Thumbnail\">
                     </div>
