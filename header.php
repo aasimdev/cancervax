@@ -118,7 +118,7 @@
                     <div class="invest-bar-text-wrap">
                         <p>Closing on Nov 7th</p>
                         <a href="https://www.startengine.com/offering/cancervax" target="_blank">
-                            <img src="./assets/img/invest-btn.svg" alt="invest button">
+                            <img src="<?php echo  $full_url; ?>/assets/img/invest-btn.svg" alt="invest button">
                         </a>
                     </div>
                     <div id="countdown">
