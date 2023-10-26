@@ -20,7 +20,7 @@ include('../header.php'); ?>
                     <div class="cchat">
                         <div class="cchat-box mb-4" data-video="trend">
                             <a class="getThumbnail" href="../expanded-ucla-pipeline.php"></a>
-                            <div class="cchat-thumbnail thumbnail-overlay">
+                            <div class="cchat-thumbnail thumbnail-overlay h-auto">
                                 <img src="//img.youtube.com/vi/RJYGOJSKKLk/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">
                             </div>
                             <i class="far fa-play-circle"></i>
