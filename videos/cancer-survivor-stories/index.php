@@ -8,9 +8,17 @@ $is_https = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on';
 $protocol = $is_https ? 'https' : 'http';
 $current_url = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 $current_url_check = $protocol . "://" . $_SERVER['HTTP_HOST'];
+$domain = $_SERVER['HTTP_HOST'];
 $showAllVideo = 1;
-if($current_url !== $current_url_check . '/videos/cancer-survivor-stories/'){
-    $showAllVideo = 0;
+
+if ($domain === 'localhost' || $domain === '127.0.0.1') {
+    if($current_url !== 'http://localhost/cancervax/videos/cancer-survivor-stories/'){
+        $showAllVideo = 0;
+    }
+} else {
+    if($current_url !== $current_url_check . '/videos/cancer-survivor-stories/'){
+        $showAllVideo = 0;
+    }
 }
 
 $parts = explode('/', rtrim(parse_url($current_url, PHP_URL_PATH), '/'));

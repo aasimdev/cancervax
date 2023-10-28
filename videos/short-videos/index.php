@@ -7,11 +7,19 @@ $is_https = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on';
 // Construct the URL for the YouTube search
 $protocol = $is_https ? 'https' : 'http';
 $current_url = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+$domain = $_SERVER['HTTP_HOST'];
 $current_url_check = $protocol . "://" . $_SERVER['HTTP_HOST'];
 $showAllVideo = 1;
-if($current_url !== $current_url_check . '/videos/short-videos/'){
-    $showAllVideo = 0;
+if ($domain === 'localhost' || $domain === '127.0.0.1') {
+    if($current_url !== 'http://localhost/cancervax/videos/short-videos/'){
+        $showAllVideo = 0;
+    }
+} else {
+    if($current_url !== $current_url_check . '/videos/short-videos/'){
+        $showAllVideo = 0;
+    }
 }
+
 
 $parts = explode('/', rtrim(parse_url($current_url, PHP_URL_PATH), '/'));
 $lastPart = end($parts);
@@ -25,9 +33,7 @@ $filteredCEOPodcastVedios = array_filter($videos, function ($item) use ($vedioTi
     return $item['category'] === 'short-videos' && strtolower($item['title']) === $vedioTitleFromURL;
 });
 
-
-
-$GLOBALS['title'] = $vedioTitleFromURL. " - CancerVax";
+$GLOBALS['title'] = ucwords($vedioTitleFromURL). " - CancerVax";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 
@@ -76,8 +82,6 @@ if($showAllVideo == 1){
                 <p class=\"mt-0\" >{$title}</p>
                 </div>
                 </div>";
-            }
-            ?>
             }
             ?>
 
