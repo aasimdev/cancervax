@@ -27,11 +27,11 @@ $vedioTitleFromURL = str_replace('-', ' ', $lastPart);
 
 $videos = include "../../data/podcast-data.php";
 
-$filteredCEOPodcastVedios1 = array_filter($videos, function ($item) use ($vedioTitleFromURL) {
-    return $item['category'] === 'ceo-podcast' && strtolower($item['title']) === $vedioTitleFromURL;
+$filteredCEOPodcastVedios1 = array_filter($videos, function ($item) use ($lastPart) {
+    return $item['category'] === 'ceo-podcast' && strtolower($item['slug']) === $lastPart;
 });
 
-$GLOBALS['title'] = $vedioTitleFromURL . " - CancerVax";
+$GLOBALS['title'] = ucwords($vedioTitleFromURL). " - CancerVax";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 
@@ -66,13 +66,11 @@ if ($showAllVideo == 1) {
                     return $item['category'] === 'ceo-podcast' && $item['scope'] === 'public';
                 });
                 foreach ($filteredCEOPodcast as $video) {
-                    $temp1 = strtolower($video['title']);
-                    $string = str_replace(' ', '-', $temp1);
                     echo "<div class=\"col-lg-6\">
                 <div class=\"cchat\">
                 <div class=\"cchat-box mb-4\">
                 <a class=\"popup-youtube getThumbnail\" href=\"https://www.youtube.com/watch?v={$video['videoID']}\"></a>
-                <a href=\"{$string}\"></a>
+                <a href=\"{$video['slug']}\"></a>
                     <div class=\"cchat-thumbnail thumbnail-overlay\">
                     <img src=\"//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"Thumbnail\">
                     </div>

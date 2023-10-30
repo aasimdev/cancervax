@@ -100,13 +100,11 @@ include('../header.php'); ?>
 
             $latestCeoPodcast = array_slice($filteredlatestCeoPodcast, 0, 4);
             foreach ($latestCeoPodcast as $video) {
-                $temp1 = strtolower($video['title']);
-                $string = str_replace(' ', '-', $temp1);
                 echo "<div class=\"col-xl-3 col-lg-4 col-md-6\">
                 <div class=\"cchat\">
                 <div class=\"cchat-box mb-4\">
                 <a class=\"popup-youtube getThumbnail\" href=\"https://www.youtube.com/watch?v={$video['videoID']}\"></a>
-                <a href=\"ceo-podcast/{$string}\"></a>
+                <a href=\"ceo-podcast/{$video['slug']}\"></a>
                     <div class=\"cchat-thumbnail thumbnail-overlay\">
                     <img src=\"//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"Thumbnail\">
                     </div>
@@ -145,13 +143,11 @@ include('../header.php'); ?>
             $latestNewsCommentary = array_slice($filteredNewsCommentaryVideos, 0, 4);
 
             foreach ($latestNewsCommentary as $video) {
-                $temp1 = strtolower($video['title']);
-                $string = str_replace(' ', '-', $temp1);
                 echo "<div class=\"col-xl-3 col-lg-4 col-md-6\">
             <div class=\"cchat\">
             <div class=\"cchat-box mb-4\">
             <a class=\"popup-youtube getThumbnail\" href=\"https://www.youtube.com/watch?v={$video['videoID']}\"></a>
-            <a href=\"news-commentary/{$string}\"></a>
+            <a href=\"news-commentary/{$video['slug']}\"></a>
                 <div class=\"cchat-thumbnail thumbnail-overlay\">
                 <img src=\"//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"Thumbnail\">
                 </div>
@@ -192,7 +188,7 @@ include('../header.php'); ?>
                 echo "<div class=\"col-xl-3 col-lg-4 col-md-6\">
                 <div class=\"cchat\">
                     <div class=\"cchat-box mb-4\">
-                    <a href=\"cancer-survivor-stories/{$string}\"></a>
+                    <a href=\"cancer-survivor-stories/{$video['slug']}\"></a>
                     <div class=\"cchat-thumbnail thumbnail-overlay\">
                     <img src=\"//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"Thumbnail\">
                     </div>
@@ -225,8 +221,7 @@ include('../header.php'); ?>
 
             $latestCancerShortVideos = array_slice($filteredlatestShortVideos, 0, 4);
             foreach ($latestCancerShortVideos as $video) {
-                $temp1 = strtolower($video['title']);
-                $string = str_replace(' ', '-', $temp1);
+             
                 if ($video['date'] === " ") {
                     $title = $video['date'] - $video['title'];
                 } else {
@@ -236,7 +231,7 @@ include('../header.php'); ?>
                 <div class=\"cchat\">
                 <div class=\"cchat-box mb-4\">
                 <a class=\"popup-youtube getThumbnail\" href=\"https://www.youtube.com/watch?v={$video['videoID']}\"></a>
-                <a href=\"short-videos/{$string}\"></a>
+                <a href=\"short-videos/{$video['slug']}\"></a>
                     <div class=\"cchat-thumbnail thumbnail-overlay\">
                     <img src=\"//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"Thumbnail\">
                     </div>

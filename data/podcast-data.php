@@ -5,6 +5,7 @@ $videos = [
         'videoID' => "RJYGOJSKKLk",
         'date' => "October 2, 2023",
         'category' => "ceo-podcast",
+        'slug' => "cancervax-ceo-discusses-expanded-pipeline-at-ucla",
         'scope' => "public"
     ],
     [
@@ -12,111 +13,127 @@ $videos = [
         'videoID' => "Ez4gXwP56Xo",
         'date' => "September 16, 2023",
         'category' => "ceo-podcast",
+        'slug' => "ezra-cohen-tempus-labs",
         'scope' => "private"
     ],
     [
-        'title' => "Steven Jonas UCLA",
+        'title' => "Steven Jonas - UCLA",
         'videoID' => "LTzE5Y78RrU",
         'date' => "August 14, 2023",
         'category' => "ceo-podcast",
+        'slug' => "steven-jonas-ucla",
         'scope' => "public"
     ],
     [
-        'title' => "Lara Sullivan Pyxis Oncology",
+        'title' => "Lara Sullivan - Pyxis Oncology",
         'videoID' => "nb4DZ-G49c8",
-        'date' => "June 28 , 2023",
+        'date' => "June 28, 2023",
         'category' => "ceo-podcast",
+        'slug' => "lara-sullivan-pyxis-oncology",
         'scope' => "public"
     ],
     [
-        'title' => "Michael Smith KalVista Pharmaceuticals",
+        'title' => "Michael Smith - KalVista Pharmaceuticals",
         'videoID' => "c123rkMsmVQ",
         'date' => "June 16, 2023",
         'category' => "ceo-podcast",
+        'slug' => "michael-smith-kalvista-pharmaceuticals",
         'scope' => "public"
     ],
     [
-        'title' => "Raymond Vennare Predictive Oncology Inc",
+        'title' => "Raymond Vennare - Predictive Oncology Inc.",
         'videoID' => "JHsQN8AMBbw",
         'date' => "May 24, 2023",
         'category' => "ceo-podcast",
+        'slug' => "raymond-vennare-predictive-oncology-inc",
         'scope' => "public"
     ],
     [
-        'title' => "Dr. Dinesh Patel Xenocor, Inc",
+        'title' => "Dr. Dinesh Patel - Xenocor, Inc.",
         'videoID' => "twJxMzdSS4A",
         'date' => "May 17, 2023",
         'category' => "ceo-podcast",
+        'slug' => "dr-dinesh-patel-xenocor-inc",
         'scope' => "public"
     ],
     [
-        'title' => "Stephen Diamond LEXEO Therapeutics",
+        'title' => "Stephen Diamond - LEXEO Therapeutics",
         'videoID' => "W6FG-viYbKM",
-        'date' => "Apr 20, 2023",
+        'date' => "April 20, 2023",
         'category' => "ceo-podcast",
+        'slug' => "stephen-diamond-lexeo-therapeutics",
         'scope' => "public"
     ],
     [
-        'title' => "Dr. Satiro De Oliveira UCLA",
+        'title' => "Dr. Satiro De Oliveira - UCLA",
         'videoID' => "QAFbMKCJcgk",
-        'date' => "Apr 12, 2023",
+        'date' => "April 12, 2023",
         'category' => "ceo-podcast",
+        'slug' => "dr-satiro-de-oliveira-ucla",
         'scope' => "public"
     ],
     [
-        'title' => "Ryan looper Curza",
+        'title' => "Ryan looper - Curza",
         'videoID' => "5LRM7n5IleQ",
-        'date' => "Mar 23, 2023",
+        'date' => "March 23, 2023",
         'category' => "ceo-podcast",
+        'slug' => "ryan-looper-curza",
         'scope' => "public"
     ],
     [
-        'title' => "Jonathan Lakey XOStem, Inc",
+        'title' => "Jonathan Lakey - XOStem, Inc",
         'videoID' => "kS54nCFPPVM",
-        'date' => "Mar 21, 2023",
+        'date' => "March 21, 2023",
         'category' => "ceo-podcast",
+        'slug' => "jonathan-lakey-xostem-inc",
         'scope' => "public"
     ],
     [
-        'title' => "Dr. David Bearss Halia Therapeutics",
+        'title' => "Dr. David Bearss - Halia Therapeutics",
         'videoID' => "kTZYBVC_Gig",
-        'date' => "Mar 19, 2023",
+        'date' => "March 19, 2023",
         'category' => "ceo-podcast",
+        'slug' => "dr-david-bearss-halia-therapeutics",
         'scope' => "public"
     ],
     [
-        'title' => "Todd Kinard Curza",
+        'title' => "Todd Kinard - Curza",
         'videoID' => "OYoOgSZ8HK4",
-        'date' => "Mar 15, 2023",
+        'date' => "March 15, 2023",
         'category' => "ceo-podcast",
+        'slug' => "todd-kinard-curza",
         'scope' => "public"
     ],
     [
         'title' => "Partnered with Jonsson Comprehensive Cancer Center",
         'videoID' => "JbE5nKVJAMo",
-        'date' => "Mar 15, 2023",
+        'date' => "March 15, 2023",
         'category' => "ceo-podcast",
+        'slug' => "partnered-with-jonsson-comprehensive-cancer-center",
         'scope' => "public"
     ],
     [
         'title' => "Seeking Immunotherapy Solutions that Prevent Cancer",
         'videoID' => "rMhbq_yeWEg",
-        'date' => "Mar 15, 2023",
+        'date' => "March 15, 2023",
         'category' => "ceo-podcast",
+        'slug' => "seeking-immunotherapy-solutions-that-prevent-cancer",
         'scope' => "public"
     ],
     [
         'title' => "Unlike Any Other Industry CancerVAX CEO Ryan Davies talks Biotech",
         'videoID' => "1tqn7-LXYfY",
-        'date' => "Mar 15, 2023",
+        'date' => "March 15, 2023",
         'category' => "ceo-podcast",
+        'slug' => "unlike-any-other-industry-cancervax-ceo-ryan-davies-talks-biotech",
         'scope' => "public"
     ],
     [
         'title' => "Biomedical Research without Traditional Overhead Costs at CancerVA",
         'videoID' => "O7-OAT0ejxE",
-        'date' => "Mar 15, 2023",
+        'date' => "March 15, 2023",
         'category' => "ceo-podcast",
+        'slug' => "biomedical-research-without-traditional-overhead-costs-at-cancerva",
         'scope' => "public"
     ],
     [
@@ -124,6 +141,7 @@ $videos = [
         'videoID' => "ISxuj7njZRg",
         'date' => "September 20, 2023",
         'category' => "news-commentary",
+        'slug' => "breakthroughs-in-cancer-treatment-and-research",
         'scope' => "public"
     ],
     [
@@ -131,6 +149,7 @@ $videos = [
         'videoID' => "JUp6iwaYiyY",
         'date' => "September 16, 2023",
         'category' => "news-commentary",
+        'slug' => "the-financial-burden",
         'scope' => "public"
     ],
 
@@ -139,6 +158,7 @@ $videos = [
         'videoID' => "jB-J8DP7oDQ",
         'date' => "September 16, 2023",
         'category' => "news-commentary",
+        'slug' => "a-monumental-meeting-at-ucla",
         'scope' => "public"
     ],
   
@@ -147,6 +167,7 @@ $videos = [
         'videoID' => "6VT9poigwYA",
         'date' => "September 13, 2023",
         'category' => "news-commentary",
+        'slug' => "fighting-cancer-with-microsoft-ai",
         'scope' => "public"
     ],
     [
@@ -154,6 +175,7 @@ $videos = [
         'videoID' => "oueUZrh_3-Y",
         'date' => "September 11, 2023",
         'category' => "news-commentary",
+        'slug' => "early-onset-cancer",
         'scope' => "public"
     ],
     [
@@ -161,13 +183,15 @@ $videos = [
         'videoID' => "ICJmkBLkPQk",
         'date' => "September 11, 2023",
         'category' => "news-commentary",
+        'slug' => "jimmy-buffett",
         'scope' => "public"
     ],
     [
-        'title' => "Brian Sevy Cancer Research",
+        'title' => "Brian Sevy - Cancer Research",
         'videoID' => "Fe8Y2KOdUug",
         'date' => "August 25, 2023",
         'category' => "news-commentary",
+        'slug' => "brian-sevy-cancer-research",
         'scope' => "public"
     ],
     // [
@@ -185,6 +209,7 @@ $videos = [
         'videoID' => "T7vHpIKySWk",
         'date' => "August 13, 2023",
         'category' => "news-commentary",
+        'slug' => "national-cancer-plan",
         'scope' => "public"
     ],
     [
@@ -192,6 +217,7 @@ $videos = [
         'videoID' => "vNserFeYYh4",
         'date' => "August 9, 2023",
         'category' => "news-commentary",
+        'slug' => "onset-colon-cancer",
         'scope' => "public"
     ],
     [
@@ -199,6 +225,7 @@ $videos = [
         'videoID' => "5gR8ssdsRgE",
         'date' => "August 3, 2023",
         'category' => "news-commentary",
+        'slug' => "paul-reubens",
         'scope' => "public"
     ],
     [
@@ -206,6 +233,7 @@ $videos = [
         'videoID' => "2jmJ2r0GKc0",
         'date' => "June 28, 2023",
         'category' => "news-commentary",
+        'slug' => "research-turning-point",
         'scope' => "public"
     ],
     [
@@ -213,6 +241,7 @@ $videos = [
         'videoID' => "FoiGO6QzS-U",
         'date' => "May 26, 2023",
         'category' => "news-commentary",
+        'slug' => "mammograms",
         'scope' => "public"
     ],
        [
@@ -220,6 +249,7 @@ $videos = [
         'videoID' => "vQKXp2rZN8Y",
         'date' => "September 30, 2023",
         'category' => "news-commentary",
+        'slug' => "zoleka-mandela",
         'scope' => "public"
     ],
     [
@@ -227,66 +257,76 @@ $videos = [
         'videoID' => "fcAUnmxnmK4",
         'date' => "May 24, 2023",
         'category' => "news-commentary",
+        'slug' => "mrna-vaccine",
         'scope' => "public"
     ],
     [
-        'title' => "Paul Chretien Colorectal Cancer",
-        'videoID' => "n_Qrx_TbdAk",
-        'date' => "August 22, 2023",
+        'title' => "Paul Chretien - Colorectal Cancer",
+        'videoID' => "0Bga027vcFc",
+        'date' => "August 15, 2023",
         'category' => "cancer-survivor-stories",
+        'slug' => "paul-chretien-colorectal-cancer",
         'scope' => "public"
     ],
     [
-        'title' => "Andrew Van Noy Retinoblastoma",
+        'title' => "Andrew Van Noy - Retinoblastoma",
         'videoID' => "y9gaBzk8c5g",
         'date' => "July 25, 2023",
         'category' => "cancer-survivor-stories",
+        'slug' => "andrew-van-noy-retinoblastoma",
         'scope' => "public"
     ],
     [
-        'title' => "Juli Mathews Leukemia",
+        'title' => "Juli Mathews - Leukemia",
         'videoID' => "bYhTlLSvwvU",
         'date' => "July 24, 2023",
         'category' => "cancer-survivor-stories",
+        'slug' => "juli-mathews-leukemia",
         'scope' => "public"
     ],
     [
-        'title' => "Rod Davies Prostate Cancer",
+        'title' => "Rod Davies - Prostate Cancer",
         'videoID' => "PrKWO9o6IFE",
         'date' => "July 13, 2023",
         'category' => "cancer-survivor-stories",
+        'slug' => "rod-davies-prostate-cancer",
         'scope' => "public"
     ],
     [
-        'title' => "Chris Westerkamp Pancreatic Cancer",
+        'title' => "Chris Westerkamp - Pancreatic Cancer",
         'videoID' => "cVNEyN2pIUI",
         'date' => "May 27, 2023",
         'category' => "cancer-survivor-stories",
+        'slug' => "chris-esterkamp-pancreatic-cancer",
         'scope' => "public"
     ],
     [
-        'title' => "Jeff Lipschitz Prostate Cancer",
+        'title' => "Jeff Lipschitz - Prostate Cancer",
         'videoID' => "eWtiq6e0YO0",
         'date' => "May 27, 2023",
         'category' => "cancer-survivor-stories",
+        'slug' => "jeff-lipschitz-prostate-cancer",
         'scope' => "public"
     ],
     [
-        'title' => "Don Elm Stomach Cancer and Colon Cancer",
+        'title' => "Don Elm - Stomach Cancer and Colon Cancer",
         'videoID' => "n39f-EMmaWw",
         'date' => "Mar 24, 2023",
         'category' => "cancer-survivor-stories",
+        'slug' => "don-elm-stomach-cance-and-colon-cancer",
         'scope' => "public"
     ],
     [
-        'title' => "Byron Elton Prostate Cancer",
+        'title' => "Byron Elton - Prostate Cancer",
         'videoID' => "kLHL6Sw-QDI",
         'date' => "Mar 24, 2023",
         'category' => "cancer-survivor-stories",
+        'slug' => "byron-elton-prostate-cancer",
         'scope' => "public"
     ],
     [
         'title' => "What Nature Gives Us",
+        'slug' => "what-nature-gives-us",
         'videoID' => "HpdTxIysqxI",
         'date' => "",
         'category' => "short-videos",
@@ -294,6 +334,7 @@ $videos = [
     ],
     [
         'title' => "Mother Nature Produces & We Create Natural Products",
+        'slug' => "mother-nature-produces-we-create-natural-products",
         'videoID' => "hK6WIJ8ms_g",
         'date' => "",
         'category' => "short-videos",
@@ -301,6 +342,7 @@ $videos = [
     ],
     [
         'title' => "The Problem With Antibiotic Drug Research",
+        'slug' => "the-problem-with-antibiotic-drug-research",
         'videoID' => "HZnxUe6R9ho",
         'date' => "Mar 31, 2023",
         'category' => "short-videos",
@@ -308,6 +350,7 @@ $videos = [
     ],
     [
         'title' => "Bridging The Gap Between Teaching And Biotech",
+        'slug' => "bridging-the-gap-between-teaching-and-biotech",
         'videoID' => "pfq5iEefouI",
         'date' => "Mar 30, 2023",
         'category' => "short-videos",
@@ -315,6 +358,7 @@ $videos = [
     ],
     [
         'title' => "63 Year Old Female Skateboarding Pioneer Breaking Barriers & Going FAST",
+        'slug' => "63-year-old-female-skateboarding-pioneer-breaking-barriers-going-fast",
         'videoID' => "fcHpec4qy4k",
         'date' => "",
         'category' => "short-videos",
@@ -322,6 +366,7 @@ $videos = [
     ],
     [
         'title' => "Biotech and Teaching… Is It Possible?",
+        'slug' => "biotech-and-teaching-is-it-possible",
         'videoID' => "5Lr2hv11at0",
         'date' => "Mar 29, 2023",
         'category' => "short-videos",
@@ -329,6 +374,7 @@ $videos = [
     ],
     [
         'title' => "Educators Save Lives",
+        'slug' => "educators-save-lives",
         'videoID' => "B_J6M7drtrs",
         'date' => "Mar 28, 2023",
         'category' => "short-videos",
@@ -336,6 +382,7 @@ $videos = [
     ],
     [
         'title' => "The Future Is Now!",
+        'slug' => "the-future-is-now",
         'videoID' => "93YdwJ2rUng",
         'date' => "Mar 27, 2023",
         'category' => "short-videos",
@@ -343,6 +390,7 @@ $videos = [
     ],
     [
         'title' => "What An Award-Winning Researcher Looks Like",
+        'slug' => "what-an-award-winning-researcher-looks-like",
         'videoID' => "OEUmfuO1M8k",
         'date' => "Mar 26, 2023",
         'category' => "short-videos",
@@ -350,11 +398,13 @@ $videos = [
     ],
     [
         'title' => "Preserved and isolated cells saved the lives of children",
+        'slug' => "preserved-and-isolated-cells-saved-the-lives-of-children",
         'videoID' => "8vJdFMREpJY",
         'date' => "",
         'category' => "short-videos",
         'scope' => "public"
-    ],[
+    ],
+    [
         'title' => "Why I Love Biotech",
         'videoID' => "kVn3bhtOHRM",
         'date' => "Mar 25, 2023",
