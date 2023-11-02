@@ -143,14 +143,14 @@ if ($page_name != "index.php") {
     </div>
 </div>
 
-<script src="./assets/js/jquery-3.1.1.min.js"></script>
-<script src="./assets/js/slick.min.js"></script>
-<script src="./assets/js/jquery.magnific-popup.min.js"></script>
-<script src="./assets/js/particles.js"></script>
-<script src="./assets/js/bootstrap.bundle.min.js"></script>
-<script src="./assets/js/typed.min.js"></script>
+<script src="<?php echo  $full_url; ?>/assets/js/jquery-3.1.1.min.js"></script>
+<script src="<?php echo  $full_url; ?>/assets/js/slick.min.js"></script>
+<script src="<?php echo  $full_url; ?>/assets/js/jquery.magnific-popup.min.js"></script>
+<script src="<?php echo  $full_url; ?>/assets/js/particles.js"></script>
+<script src="<?php echo  $full_url; ?>/assets/js/bootstrap.bundle.min.js"></script>
+<script src="<?php echo  $full_url; ?>/assets/js/typed.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.js"></script>
-<script src="./assets/js/main.js"></script>
+<script src="<?php echo  $full_url; ?>/assets/js/main.js"></script>
 
 </body>
 

@@ -7,11 +7,19 @@ $is_https = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on';
 // Construct the URL for the YouTube search
 $protocol = $is_https ? 'https' : 'http';
 $current_url = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+$domain = $_SERVER['HTTP_HOST'];
 $current_url_check = $protocol . "://" . $_SERVER['HTTP_HOST'];
 $showAllVideo = 1;
-if($current_url !== $current_url_check . '/videos/short-videos/'){
-    $showAllVideo = 0;
+if ($domain === 'localhost' || $domain === '127.0.0.1') {
+    if($current_url !== 'http://localhost/cancervax/videos/short-videos/'){
+        $showAllVideo = 0;
+    }
+} else {
+    if($current_url !== $current_url_check . '/videos/short-videos/'){
+        $showAllVideo = 0;
+    }
 }
+
 
 $parts = explode('/', rtrim(parse_url($current_url, PHP_URL_PATH), '/'));
 $lastPart = end($parts);
@@ -21,13 +29,11 @@ $vedioTitleFromURL = str_replace('-', ' ', $lastPart);
 
 $videos = include "../../data/podcast-data.php";
 
-$filteredCEOPodcastVedios = array_filter($videos, function ($item) use ($vedioTitleFromURL) {
-    return $item['category'] === 'short-videos' && strtolower($item['title']) === $vedioTitleFromURL;
+$filteredCEOPodcastVedios = array_filter($videos, function ($item) use ($lastPart) {
+    return $item['category'] === 'short-videos' && strtolower($item['slug']) === $lastPart;
 });
 
-
-
-$GLOBALS['title'] = $vedioTitleFromURL. " - CancerVax";
+$GLOBALS['title'] = ucwords($vedioTitleFromURL). " - CancerVax";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 
@@ -56,23 +62,24 @@ if($showAllVideo == 1){
                 return $item['category'] === 'short-videos' && $item['scope'] === 'public';
             });
             foreach ($latestCancerShortVideos as $video) {
-                $temp1 = strtolower($video['title']);
-                $string = str_replace(' ', '-', $temp1);
+                if ($video['date'] === " ") {
+                    $title = $video['date'] - $video['title'];
+                } else {
+                    $title = $video['title'];
+                }
                 echo "<div class=\"col-xl-3 col-lg-4 col-md-6\">
                 <div class=\"cchat\">
                 <div class=\"cchat-box mb-4\">
                 <a class=\"popup-youtube getThumbnail\" href=\"https://www.youtube.com/watch?v={$video['videoID']}\"></a>
-                <a href=\"{$string}\"></a>
+                <a href=\"{$video['slug']}\"></a>
                     <div class=\"cchat-thumbnail thumbnail-overlay\">
                     <img src=\"//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"Thumbnail\">
                     </div>
                     <i class=\"far fa-play-circle\"></i>
                 </div>            
-                <p class=\"mt-0\" >{$video['date']} - {$video['title']}</p>
+                <p class=\"mt-0\" >{$title}</p>
                 </div>
                 </div>";
-            }
-            ?>
             }
             ?>
 

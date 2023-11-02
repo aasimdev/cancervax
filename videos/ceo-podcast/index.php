@@ -8,10 +8,17 @@ $protocol = $is_https ? 'https' : 'http';
 $current_url = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 $current_url_check = $protocol . "://" . $_SERVER['HTTP_HOST'];
 // print_r($current_url_check);
+$domain = $_SERVER['HTTP_HOST'];
 $showAllVideo = 1;
 
-if ($current_url !== $current_url_check . '/videos/ceo-podcast/') {
-    $showAllVideo = 0;
+if ($domain === 'localhost' || $domain === '127.0.0.1') {
+    if($current_url !== 'http://localhost/cancervax/videos/ceo-podcast/'){
+        $showAllVideo = 0;
+    }
+} else {
+    if($current_url !== $current_url_check . '/videos/ceo-podcast/'){
+        $showAllVideo = 0;
+    }
 }
 
 $parts = explode('/', rtrim(parse_url($current_url, PHP_URL_PATH), '/'));
@@ -20,11 +27,11 @@ $vedioTitleFromURL = str_replace('-', ' ', $lastPart);
 
 $videos = include "../../data/podcast-data.php";
 
-$filteredCEOPodcastVedios1 = array_filter($videos, function ($item) use ($vedioTitleFromURL) {
-    return $item['category'] === 'ceo-podcast' && strtolower($item['title']) === $vedioTitleFromURL;
+$filteredCEOPodcastVedios1 = array_filter($videos, function ($item) use ($lastPart) {
+    return $item['category'] === 'ceo-podcast' && strtolower($item['slug']) === $lastPart;
 });
 
-$GLOBALS['title'] = $vedioTitleFromURL . " - CancerVax";
+$GLOBALS['title'] = ucwords($vedioTitleFromURL). " - CancerVax";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 
@@ -59,13 +66,11 @@ if ($showAllVideo == 1) {
                     return $item['category'] === 'ceo-podcast' && $item['scope'] === 'public';
                 });
                 foreach ($filteredCEOPodcast as $video) {
-                    $temp1 = strtolower($video['title']);
-                    $string = str_replace(' ', '-', $temp1);
                     echo "<div class=\"col-lg-6\">
                 <div class=\"cchat\">
                 <div class=\"cchat-box mb-4\">
                 <a class=\"popup-youtube getThumbnail\" href=\"https://www.youtube.com/watch?v={$video['videoID']}\"></a>
-                <a href=\"{$string}\"></a>
+                <a href=\"{$video['slug']}\"></a>
                     <div class=\"cchat-thumbnail thumbnail-overlay\">
                     <img src=\"//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"Thumbnail\">
                     </div>
