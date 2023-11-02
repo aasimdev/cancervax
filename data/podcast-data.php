@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "Ezra Cohen Tempus Labs",
+        'videoID' => "Ez4gXwP56Xo",
+        'date' => "November 2, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "ezra-cohen-tempus-labs",
+        'scope' => "public"
+    ],
+    [
         'title' => "CancerVAX CEO Discusses Expanded Pipeline at UCLA",
         'videoID' => "RJYGOJSKKLk",
         'date' => "October 2, 2023",
@@ -8,14 +16,7 @@ $videos = [
         'slug' => "cancervax-ceo-discusses-expanded-pipeline-at-ucla",
         'scope' => "public"
     ],
-    [
-        'title' => "Ezra Cohen Tempus Labs",
-        'videoID' => "Ez4gXwP56Xo",
-        'date' => "September 16, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "ezra-cohen-tempus-labs",
-        'scope' => "public"
-    ],
+  
     [
         'title' => "Steven Jonas - UCLA",
         'videoID' => "LTzE5Y78RrU",
