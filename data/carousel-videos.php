@@ -26,11 +26,11 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "The Financial Burden",
-        'videoID' => "JUp6iwaYiyY",
+        'title' => "Ezra Cohen Tempus Labs",
+        'videoID' => "Ez4gXwP56Xo",
         'date' => "September 16, 2023",
-        'category' => "news-commentary",
-        'slug' => "the-financial-burden",
+        'category' => "ceo-podcast",
+        'slug' => "ezra-cohen-tempus-labs",
         'scope' => "public"
     ],
 

@@ -14,7 +14,7 @@ $videos = [
         'date' => "September 16, 2023",
         'category' => "ceo-podcast",
         'slug' => "ezra-cohen-tempus-labs",
-        'scope' => "private"
+        'scope' => "public"
     ],
     [
         'title' => "Steven Jonas - UCLA",
@@ -137,6 +137,14 @@ $videos = [
         'scope' => "public"
     ],
     [
+        'title' => "Zoleka Mandela",
+        'videoID' => "vQKXp2rZN8Y",
+        'date' => "September 30, 2023",
+        'category' => "news-commentary",
+        'slug' => "zoleka-mandela",
+        'scope' => "public"
+    ],
+    [
         'title' => "Breakthroughs in Cancer Treatment and Research",
         'videoID' => "ISxuj7njZRg",
         'date' => "September 20, 2023",
@@ -244,14 +252,7 @@ $videos = [
         'slug' => "mammograms",
         'scope' => "public"
     ],
-       [
-        'title' => "Zoleka Mandela",
-        'videoID' => "vQKXp2rZN8Y",
-        'date' => "September 30, 2023",
-        'category' => "news-commentary",
-        'slug' => "zoleka-mandela",
-        'scope' => "public"
-    ],
+    
     [
         'title' => "mRNA Vaccine",
         'videoID' => "fcAUnmxnmK4",
