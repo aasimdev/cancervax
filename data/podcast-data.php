@@ -138,6 +138,14 @@ $videos = [
         'scope' => "public"
     ],
     [
+        'title' => "Bridgette Wilson Sampras",
+        'videoID' => "mXQBBs36mUQ",
+        'date' => "November 3, 2023",
+        'category' => "news-commentary",
+        'slug' => "bridgette-wilson-sampras",
+        'scope' => "public"
+    ],
+    [
         'title' => "Zoleka Mandela",
         'videoID' => "vQKXp2rZN8Y",
         'date' => "September 30, 2023",
@@ -901,7 +909,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Cancer Diagnoses for Those Under 50 Have Increased 80%",
+        'title' => "Cancer is Creating Debilitating Debt—Here is How We Help",
         'videoID' => "WUXUiMYlBwY",
         'date' => "",
         'category' => "short-videos",
@@ -914,6 +922,14 @@ $videos = [
         'date' => "",
         'category' => "short-videos",
         'slug' => "pioneering-progress-in-the-fight-against-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Positive News in the Fight Against Cancer!",
+        'videoID' => "4BbjU8TLXIk",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "positive-news-in-the-fight-against-cancer",
         'scope' => "public"
     ],
   
@@ -1014,7 +1030,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Humanity most important fight is being waged against the most devastating disease",
+        'title' => "Humanity's most important fight is being waged against the most devastating disease.",
         'videoID' => "83nCGJB4YRQ",
         'date' => "",
         'category' => "short-videos",
