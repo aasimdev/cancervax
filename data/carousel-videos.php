@@ -3,7 +3,7 @@ $videos = [
     [
         'title' => "Bridgette Wilson Sampras",
         'videoID' => "mXQBBs36mUQ",
-        'date' => "November 3, 2023",
+        'date' => "November 4, 2023",
         'category' => "news-commentary",
         'slug' => "bridgette-wilson-sampras",
         'scope' => "public"
