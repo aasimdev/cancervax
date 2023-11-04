@@ -138,6 +138,14 @@ $videos = [
         'scope' => "public"
     ],
     [
+        'title' => "Bridgette Wilson Sampras",
+        'videoID' => "mXQBBs36mUQ",
+        'date' => "November 3, 2023",
+        'category' => "news-commentary",
+        'slug' => "bridgette-wilson-sampras",
+        'scope' => "public"
+    ],
+    [
         'title' => "Zoleka Mandela",
         'videoID' => "vQKXp2rZN8Y",
         'date' => "September 30, 2023",

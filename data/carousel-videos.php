@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "Bridgette Wilson Sampras",
+        'videoID' => "mXQBBs36mUQ",
+        'date' => "November 3, 2023",
+        'category' => "news-commentary",
+        'slug' => "bridgette-wilson-sampras",
+        'scope' => "public"
+    ],
+    [
         'title' => "Ezra Cohen Tempus Labs",
         'videoID' => "Ez4gXwP56Xo",
         'date' => "November 2, 2023",
@@ -31,16 +39,6 @@ $videos = [
         'date' => "September 20, 2023",
         'category' => "news-commentary",
         'slug' => "breakthroughs-in-cancer-treatment-and-research",
-        'scope' => "public"
-    ],
- 
-   
-    [
-        'title' => "A Monumental Meeting at UCLA",
-        'videoID' => "jB-J8DP7oDQ",
-        'date' => "September 16, 2023",
-        'category' => "news-commentary",
-        'slug' => "a-monumental-meeting-at-ucla",
         'scope' => "public"
     ],
 ];
