@@ -356,6 +356,9 @@
     .invest-bar-text{
         flex-direction: column;
     }
+    .invest-text {
+        margin-top: 150px;
+    }
 }
 
 @media (max-width: 767px) {
@@ -905,5 +908,8 @@
     }
     .invest-bar-text-wrap {
         gap: 5px;
+    }
+    .invest-text {
+        margin-top: 110px;
     }
 }
