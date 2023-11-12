@@ -18,7 +18,7 @@ include('header.php');
 <section class="abtceo">
     <div class="container">
         <div class="abtceo-heading">
-            <h2>CEO Podcast</h2>
+            <h2>Podcast</h2>
         </div>
         <div class="abtceo-wrap">
             <div class="abt-ceo-img">

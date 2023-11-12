@@ -20,7 +20,7 @@ include('header.php'); ?>
 
         <p>“I’m excited to be working with Ryan and the CancerVAX team.  This is a noble cause and I am honored to have a part in the exciting work CancerVAX is doing”, said Dr. Lakey.   </p>
 
-       <p>Dr. Lakey recently appeared on the CancerVAX CEO Podcast and the video can be viewed at <a href="https://www.youtube.com/watch?v=kS54nCFPPVM" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=kS54nCFPPVM</a></p>
+       <p>Dr. Lakey recently appeared on the CancerVAX Podcast and the video can be viewed at <a href="https://www.youtube.com/watch?v=kS54nCFPPVM" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=kS54nCFPPVM</a></p>
 
         <p>For more information about CancerVAX, please visit <a href="http://www.cancervax.com/">http://www.cancervax.com/</a>. </p>
 
