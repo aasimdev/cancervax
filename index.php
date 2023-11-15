@@ -168,7 +168,9 @@ include('header.php'); ?>
 
         foreach ($videos as $video) :
             $categoryName = ucwords(str_replace('-', ' ', $video['category']));
-            $categoryName = str_replace('Ceo', 'CEO', $categoryName);
+            if($video['category'] === "ceo-podcast"){
+                $categoryName = "Podcast";
+            }
         ?>
             <div class="cchat">
                 <div class="cchat-box">

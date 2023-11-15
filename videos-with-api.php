@@ -34,7 +34,7 @@ $ceo_podcasts = json_decode(file_get_contents('https://www.googleapis.com/youtub
 <section class="nCommentary theme-bg">
     <div class="container">
         <div class="nCommentary-heading">
-            <h3>CEO Podcast</h3>
+            <h3>Podcast</h3>
             <a href="/ceo-podcast">See All</a>
         </div>
         <div class="row">
