@@ -6,7 +6,7 @@ $videos = [
         'date' => "November 12, 2023",
         'category' => "ceo-podcast",
         'slug' => "ann-romney",
-        'scope' => "public"
+        'scope' => "private"
     ],
     [
         'title' => "Ezra Cohen Tempus Labs",
