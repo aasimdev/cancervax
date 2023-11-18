@@ -7,7 +7,7 @@ include('header.php'); ?>
 <section class="abtBanner">
     <div class="container">
         <div class="abtBanner-text">
-            <h1 >CancerVAX is a pre-clinical biotechnology company working with
+            <h1>CancerVAX is a pre-clinical biotechnology company working with
                 UCLA to develop immunotherapy cancer treatments that use the body’s
                 immune system to fight cancer. We aim to develop transformative
                 therapies to protect and improve people’s lives.</h1>
@@ -124,12 +124,11 @@ include('header.php'); ?>
     </div>
 </section>
 
-<section class="coreTeam">
-
+<section class="coreTeam" id="team">
     <div class="container">
-    <h3 style="text-align:center;color:black;margin-bottom:30px;" >CancerVAX Team</h3>
+        <h3 style="text-align:center;color:black;margin-bottom:30px;">CancerVAX Team</h3>
         <div class="row justify-content-center">
-       
+
             <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
@@ -209,7 +208,7 @@ include('header.php'); ?>
 
 <section class="otherteam">
     <div class="container">
-        <h3 style="text-align:center;margin-bottom:35px;" >UCLA Team</h3>
+        <h3 style="text-align:center;margin-bottom:35px;">UCLA Team</h3>
         <div class="row justify-content-center">
             <div class="col-md-6 col-xl-4">
                 <div class="team-box">

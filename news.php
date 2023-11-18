@@ -82,6 +82,14 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="https://ceoblognation.com/2023/11/22-entrepreneurs-explain-what-being-a-ceo-means-to-them/" target="_blank"></a>
+                    <img src="./assets/img/news-logo-5.png" alt="news" class="news-logo-n" style="heiht:50px;">
+                    <span style="margin-top:20px;">November 12, 2023</span>
+                    <h3>22 Entrepreneurs Explain What Being a CEO Means to Them</h3>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
                     <a href="https://valiantceo.com/ryan-davies-cancervax/" target="_blank"></a>
                     <img src="./assets/img/news-logo-7.png" alt="news" class="news-logo-n" style="heiht:50px;">
                     <span style="margin-top:20px;">October 12, 2023</span>
@@ -182,7 +190,7 @@ include('header.php'); ?>
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-ceo-ryan-davies-discusses-cancer-drug-development-with-dr-ezra-cohen.php"></a>
                     <span>November 2, 2023 </span>
