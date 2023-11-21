@@ -34,17 +34,17 @@ include('../header.php'); ?>
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="vCatBox">
                     <a href="#news-commentary">
                         <div class="vCatBox-thumb">
                             <img src="../assets/img/news-commentary.png" alt="video">
                         </div>
-                        <span>News <br> Commentary</span>
+                        <span>News Commentary</span>
                     </a>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="vCatBox">
                     <a href="#ceo-podcast">
                         <div class="vCatBox-thumb">
@@ -54,19 +54,8 @@ include('../header.php'); ?>
                     </a>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="vCatBox">
-                    <a href="#cancer-survivor-stories">
-                        <div class="vCatBox-thumb">
-                            <img src="../assets/img/cancer-survivor-stories.png" alt="video">
-                        </div>
-                        <span>Cancer Survivor <br>
-                            Stories
-                        </span>
-                    </a>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
+
+            <div class="col-lg-4 col-md-6">
                 <div class="vCatBox">
                     <a href="#short-videos">
                         <div class="vCatBox-thumb">
@@ -165,11 +154,11 @@ include('../header.php'); ?>
 
 
 
-<section class="nCommentary theme-bg" id="cancer-survivor-stories">
+<section class="nCommentary theme-bg pb-0">
     <div class="container">
         <div class="nCommentary-heading">
-            <h3>Cancer Survivor Stories</h3>
-            <a href="./cancer-survivor-stories">See All</a>
+            <h3>Short Videos</h3>
+            <a href="./short-videos">See All</a>
         </div>
         <div class="row">
 
@@ -205,10 +194,7 @@ include('../header.php'); ?>
 
 <section class="nCommentary theme-bg" id="short-videos">
     <div class="container">
-        <div class="nCommentary-heading">
-            <h3>Short Videos</h3>
-            <a href="./short-videos">See All</a>
-        </div>
+       
         <div class="row">
 
             <?php
@@ -221,7 +207,7 @@ include('../header.php'); ?>
 
             $latestCancerShortVideos = array_slice($filteredlatestShortVideos, 0, 4);
             foreach ($latestCancerShortVideos as $video) {
-             
+
                 if ($video['date'] === " ") {
                     $title = $video['date'] - $video['title'];
                 } else {
