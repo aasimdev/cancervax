@@ -12,11 +12,11 @@ $domain = $_SERVER['HTTP_HOST'];
 $showAllVideo = 1;
 
 if ($domain === 'localhost' || $domain === '127.0.0.1') {
-    if($current_url !== 'http://localhost/cancervax/videos/ceo-podcast/'){
+    if($current_url !== 'http://localhost/cancervax/videos/podcast/'){
         $showAllVideo = 0;
     }
 } else {
-    if($current_url !== $current_url_check . '/videos/ceo-podcast/'){
+    if($current_url !== $current_url_check . '/videos/podcast/'){
         $showAllVideo = 0;
     }
 }
