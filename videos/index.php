@@ -46,7 +46,7 @@ include('../header.php'); ?>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="vCatBox">
-                    <a href="#ceo-podcast">
+                    <a href="#podcast">
                         <div class="vCatBox-thumb">
                             <img src="../assets/img/ceo-podcast.png" alt="video">
                         </div>
@@ -71,7 +71,7 @@ include('../header.php'); ?>
     </div>
 </div>
 
-<section class="nCommentary theme-bg" id="ceo-podcast">
+<section class="nCommentary theme-bg" id="podcast">
     <div class="container">
         <div class="nCommentary-heading">
             <h3>Podcast</h3>
