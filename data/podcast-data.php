@@ -707,7 +707,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "The key is within all of us",
+        'title' => "The key is within all of us.",
         'videoID' => "CYTV-v0iYcY",
         'date' => "",
         'category' => "short-videos",
@@ -715,7 +715,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "A universal cancer treatment means universal hope",
+        'title' => "A universal cancer treatment means universal hope.",
         'videoID' => "YCcs-YpnCF0",
         'date' => "",
         'category' => "short-videos",
@@ -731,7 +731,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Cancer treatments should only affect cancer cells",
+        'title' => "Cancer treatments should only affect cancer cells.",
         'videoID' => "l0V0iGyaqMo",
         'date' => "",
         'category' => "short-videos",
@@ -739,7 +739,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Boldly go where no treatments have gone before",
+        'title' => "Boldly go where no treatments have gone before.",
         'videoID' => "5fl7mSlZE-8",
         'date' => "",
         'category' => "short-videos",
@@ -747,7 +747,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Even in the darkest hours, it's important to stay strong",
+        'title' => "Even in the darkest hours, it's important to stay strong.",
         'videoID' => "-DJiPph3p8w",
         'date' => "",
         'category' => "short-videos",
@@ -763,7 +763,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Cancer research is the catalyst for change",
+        'title' => "Cancer research is the catalyst for change.",
         'videoID' => "RqnEnMjDS8Y",
         'date' => "",
         'category' => "short-videos",
@@ -779,7 +779,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "The world needs better cancer treatments",
+        'title' => "The world needs better cancer treatments.",
         'videoID' => "DbzkZGydm6I",
         'date' => "",
         'category' => "short-videos",
@@ -787,7 +787,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Together we can change the face of cancer",
+        'title' => "Together we can change the face of cancer.",
         'videoID' => "RX_l8NnY7Oo",
         'date' => "",
         'category' => "short-videos",
@@ -795,7 +795,8 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "It does not matter how big you are Sometimes the smallest teams yield the biggest results",
+        'title' => "It doesn’t matter how big you are. Sometimes the smallest teams yield the biggest results.
+        ",
         'videoID' => "m40G2E8Ipn4",
         'date' => "",
         'category' => "short-videos",
@@ -829,7 +830,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Patients should be able to focus on battling cancer, and cancer alone",
+        'title' => "Patients should be able to focus on battling cancer, and cancer alone.",
         'videoID' => "HBu8WUrTZuE",
         'date' => "",
         'category' => "short-videos",
@@ -837,7 +838,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Protect your health one checkup at a time",
+        'title' => "Protect your health one checkup at a time.",
         'videoID' => "So8faP3Xhik",
         'date' => "",
         'category' => "short-videos",
@@ -845,7 +846,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Our universal cancer treatment is being tailored to precisely detect and attack any cancer cells",
+        'title' => "Our universal cancer treatment is being tailored to precisely detect and attack any cancer cells.",
         'videoID' => "icNsXLsdScc",
         'date' => "",
         'category' => "short-videos",
@@ -853,7 +854,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Immunotherapy is on the upswing",
+        'title' => "Immunotherapy is on the upswing.",
         'videoID' => "smPLl0kYvI4",
         'date' => "",
         'category' => "short-videos",
@@ -885,7 +886,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "In a healthy body cells grow divide and eventually die in a controlled manner",
+        'title' => "In a healthy body, cells grow, divide, and eventually die in a controlled manner.",
         'videoID' => "0-bugvaMkks",
         'date' => "",
         'category' => "short-videos",
@@ -901,7 +902,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Cancer Rates are Rising How We Can Stop It",
+        'title' => "Cancer Rates are Rising. How We Can Stop It:",
         'videoID' => "vJISkAnYahE",
         'date' => "",
         'category' => "short-videos",
@@ -974,7 +975,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Research is going incredibly well with our partners at UCLA",
+        'title' => "Research is going incredibly well with our partners at UCLA.",
         'videoID' => "ClN4VOWK2TE",
         'date' => "",
         'category' => "short-videos",
@@ -982,7 +983,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "The Greatest Game Changer in Cancer Treatment",
+        'title' => "The Greatest Game-Changer in Cancer Treatment",
         'videoID' => "W_G2o5uaMLQ",
         'date' => "",
         'category' => "short-videos",
@@ -1014,7 +1015,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "A universal treatment takes universal support",
+        'title' => "A universal treatment takes universal support.",
         'videoID' => "guuDtcctbqo",
         'date' => "",
         'category' => "short-videos",
@@ -1054,7 +1055,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "We have the hope that a groundbreaking difference can be made",
+        'title' => "We have the hope that a groundbreaking difference can be made.",
         'videoID' => "dgkZbANffww",
         'date' => "",
         'category' => "short-videos",
@@ -1062,7 +1063,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Progress is exponential Little wins today create massive victories tomorrow",
+        'title' => "Progress is exponential. Little wins today create massive victories tomorrow.",
         'videoID' => "Dvapc6iUKOU",
         'date' => "",
         'category' => "short-videos",
@@ -1070,7 +1071,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "The most important battle is happening in our labs",
+        'title' => "The most important battle is happening in our labs.",
         'videoID' => "NxTHYMdzAtk",
         'date' => "",
         'category' => "short-videos",
@@ -1078,7 +1079,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "CancerVAX is pioneering the biotechnology that will empower safer more effective cancer treatments",
+        'title' => "CancerVAX is pioneering the biotechnology that will empower safer, more effective cancer treatments.",
         'videoID' => "-hChbsUq0Io",
         'date' => "",
         'category' => "short-videos",
@@ -1110,7 +1111,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "The Real Reason We Fight Cancer",
+        'title' => "The Real Reason We Fight Cancer...",
         'videoID' => "RgZ4cs-Plb8",
         'date' => "",
         'category' => "short-videos",
@@ -1145,7 +1146,7 @@ $videos = [
     ],
 
     [
-        'title' => "Almost everybody has a cancer story",
+        'title' => "Almost everybody has a cancer story....",
         'videoID' => "q0myRKeoF7M",
         'date' => "",
         'category' => "short-videos",
@@ -1163,7 +1164,7 @@ $videos = [
     ],
 
     [
-        'title' => "The future of cancer treatment is being decided now",
+        'title' => "The future of cancer treatment is being decided now.",
         'videoID' => "kPJMBWf2f2E",
         'date' => "",
         'category' => "short-videos",
