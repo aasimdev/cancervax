@@ -343,6 +343,134 @@ $videos = [
         'scope' => "public"
     ],
     [
+        'title' => "None of this would be possible without their hard work and dedication.",
+        'slug' => "none-of-this-would-be-possible-without-their-hard-work-and-dedication",
+        'videoID' => "8ijpYDW8f6w",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Cancer affects all of us, which is why the search for a cure is worth it.",
+        'slug' => "cancer-affects-all-of-us-which-is-why-the-search-for-a-cure-is-worth-it",
+        'videoID' => "eHwpsca0RTU",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "This cancer primarily attacks children and young adults aging from 10-20 years old.",
+        'slug' => "this-cancer-primarily-attacks-children-and-young-adults-aging-from-10-20-years-old",
+        'videoID' => "RUf6CF7pBXs",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Tragic News for the Tennis Community",
+        'slug' => "tragi-news-for-the-tennis-community",
+        'videoID' => "lbKb7PQnH3Q",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Stories of Strength from the Sampras Family",
+        'slug' => "stories-of-strength-from-the-sampras-family",
+        'videoID' => "YuE6S5I5vLw",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Better Treatments are Needed Today",
+        'slug' => "better-treatments-are-needed-today",
+        'videoID' => "FAk2lplxfbY",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Breast Cancer Numbers Most Slow Down",
+        'slug' => "breast-cancer-numbers-most-slow-down",
+        'videoID' => "sosCLpjXoL4",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Ovarian Cancer Is Relentless",
+        'slug' => "ovarian-cancer-is-relentless",
+        'videoID' => "2c_97RoKpv4",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "70 People Per Minute Die from Cancer",
+        'slug' => "70-people-per-minute-die-from-ancer",
+        'videoID' => "5IqNr90LWE8",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "How many people die from cancer every minute?",
+        'slug' => "how-many-people-die-from-cancer-every-minute",
+        'videoID' => "pSft1HfClck",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "What You Can Do this Breast Cancer Awareness Month",
+        'slug' => "what-you-can-do-this-breast-cancer-awareness-month",
+        'videoID' => "uBfGqlm0QAw",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Making the Case for Breast Cancer Awareness",
+        'slug' => "making-the-case-for-breast-cancer-awareness",
+        'videoID' => "lBCWGFPaRZs",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "While you were watching this video, 40 people died of cancer…",
+        'slug' => "while-you-were-watching-this-video-40-people-died-of-cance",
+        'videoID' => "LOaLjtaypJw",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "What the Noble Prize Means for the Future of Vaccines.",
+        'slug' => "what-the-noble-prize-means-for-the-future-of-vaccines",
+        'videoID' => "uuhwpOnFMzc",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Bring Biotechnology to the Battle Against Cancer!",
+        'slug' => "bring-biotechnology-to-the-battle-against-cancer",
+        'videoID' => "ph1BcIq-2rs",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Cancer Treatment's Prime Time",
+        'slug' => "cancer-treatment-prime-time",
+        'videoID' => "fgYtAK7DjXc",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
         'title' => "What Nature Gives Us",
         'slug' => "what-nature-gives-us",
         'videoID' => "HpdTxIysqxI",
