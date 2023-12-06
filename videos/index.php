@@ -25,7 +25,7 @@ include('../header.php'); ?>
                             </div>
                             <i class="far fa-play-circle"></i>
                             <div class="trend-video-ucla">
-                                <img src="./assets/img/ucla.png" alt="ucla">
+                                <img src="../assets/img/ucla.png" alt="ucla">
                             </div>
                         </div>
                         <p class="mt-0">CancerVAX CEO Discusses Expanded Pipeline at UCLA</p>
@@ -40,7 +40,7 @@ include('../header.php'); ?>
                             </div>
                             <i class="far fa-play-circle"></i>
                             <div class="trend-video-ucla">
-                                <img src="./assets/img/ucla.png" alt="ucla">
+                                <img src="../assets/img/ucla.png" alt="ucla">
                             </div>
                         </div>
                         <p class="mt-0">Ann Romney Discusses Immunotherapy with CancerVAX CEO</p>
