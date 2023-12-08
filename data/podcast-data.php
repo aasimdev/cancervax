@@ -343,6 +343,78 @@ $videos = [
         'scope' => "public"
     ],
     [
+        'title' => "CancerVAX is creating cancer treatments that are accessible, affordable, and effective.",
+        'slug' => "cancervax-is-creating-cancer-treatments-that-are-accessible-affordable-and-effective",
+        'videoID' => "BPjTUao0TNc",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "How big is the cancer drug development market?",
+        'slug' => "how-big-is-the-cancer-drug-development-market",
+        'videoID' => "PHjS2iBvGEY",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "As Simple as a Flu Shot",
+        'slug' => "as-simple-as-a-flu-shot",
+        'videoID' => "-_zX2jhR9gM",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "What is CancerVAX, and why do we matter?",
+        'slug' => "what-is-cancervax-and-why-do-we-matter",
+        'videoID' => "wwWstzEu0Hs",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Cancer treatments should only affect cancer cells",
+        'slug' => "cancer-treatments-should-only-affect-cancer-cells",
+        'videoID' => "QZFBJS7qrJs",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "More effective, more efficient, and more affordable",
+        'slug' => "more-effective-more-efficient-and-more-affordable",
+        'videoID' => "grrRnc774ek",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "How is MRNA changing how we view cancer treatment?",
+        'slug' => "how-is-mrna-changing-how-we-view-cancer-treatment",
+        'videoID' => "2PDM9tUeM6g",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Harnessing the power of the body's own immune system",
+        'slug' => "harnessing-the-power-of-the-body-own-immune-system",
+        'videoID' => "4C_YiqSQH7c",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "What is immunotherapy, and why does it matter?",
+        'slug' => "what-is-immunotherapy-and-why-does-it-matter",
+        'videoID' => "sAW-qLua3jw",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
         'title' => "None of this would be possible without their hard work and dedication.",
         'slug' => "none-of-this-would-be-possible-without-their-hard-work-and-dedication",
         'videoID' => "8ijpYDW8f6w",
