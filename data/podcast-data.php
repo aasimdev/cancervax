@@ -1,12 +1,12 @@
 <?php
 $videos = [
     [
-        'title' => "Ann Romney",
+        'title' => "Ann Romney Discusses Immunotherapy with CancerVAX CEO",
         'videoID' => "Pv0cUKdpL_I",
         'date' => "November 12, 2023",
         'category' => "ceo-podcast",
-        'slug' => "ann-romney",
-        'scope' => "private"
+        'slug' => "ann-romney-discusses-immunotherapy-with-cancervax-ceo",
+        'scope' => "public"
     ],
     [
         'title' => "Ezra Cohen Tempus Labs",
@@ -340,6 +340,206 @@ $videos = [
         'date' => "Mar 24, 2023",
         'category' => "cancer-survivor-stories",
         'slug' => "byron-elton-prostate-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "CancerVAX is creating cancer treatments that are accessible, affordable, and effective.",
+        'slug' => "cancervax-is-creating-cancer-treatments-that-are-accessible-affordable-and-effective",
+        'videoID' => "BPjTUao0TNc",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "How big is the cancer drug development market?",
+        'slug' => "how-big-is-the-cancer-drug-development-market",
+        'videoID' => "PHjS2iBvGEY",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "As Simple as a Flu Shot",
+        'slug' => "as-simple-as-a-flu-shot",
+        'videoID' => "-_zX2jhR9gM",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "What is CancerVAX, and why do we matter?",
+        'slug' => "what-is-cancervax-and-why-do-we-matter",
+        'videoID' => "wwWstzEu0Hs",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Cancer treatments should only affect cancer cells",
+        'slug' => "cancer-treatments-should-only-affect-cancer-cells",
+        'videoID' => "QZFBJS7qrJs",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "More effective, more efficient, and more affordable",
+        'slug' => "more-effective-more-efficient-and-more-affordable",
+        'videoID' => "grrRnc774ek",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "How is MRNA changing how we view cancer treatment?",
+        'slug' => "how-is-mrna-changing-how-we-view-cancer-treatment",
+        'videoID' => "2PDM9tUeM6g",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Harnessing the power of the body's own immune system",
+        'slug' => "harnessing-the-power-of-the-body-own-immune-system",
+        'videoID' => "4C_YiqSQH7c",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "What is immunotherapy, and why does it matter?",
+        'slug' => "what-is-immunotherapy-and-why-does-it-matter",
+        'videoID' => "sAW-qLua3jw",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "None of this would be possible without their hard work and dedication.",
+        'slug' => "none-of-this-would-be-possible-without-their-hard-work-and-dedication",
+        'videoID' => "8ijpYDW8f6w",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Cancer affects all of us, which is why the search for a cure is worth it.",
+        'slug' => "cancer-affects-all-of-us-which-is-why-the-search-for-a-cure-is-worth-it",
+        'videoID' => "eHwpsca0RTU",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "This cancer primarily attacks children and young adults aging from 10-20 years old.",
+        'slug' => "this-cancer-primarily-attacks-children-and-young-adults-aging-from-10-20-years-old",
+        'videoID' => "RUf6CF7pBXs",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Tragic News for the Tennis Community",
+        'slug' => "tragi-news-for-the-tennis-community",
+        'videoID' => "lbKb7PQnH3Q",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Stories of Strength from the Sampras Family",
+        'slug' => "stories-of-strength-from-the-sampras-family",
+        'videoID' => "YuE6S5I5vLw",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Better Treatments are Needed Today",
+        'slug' => "better-treatments-are-needed-today",
+        'videoID' => "FAk2lplxfbY",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Breast Cancer Numbers Most Slow Down",
+        'slug' => "breast-cancer-numbers-most-slow-down",
+        'videoID' => "sosCLpjXoL4",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Ovarian Cancer Is Relentless",
+        'slug' => "ovarian-cancer-is-relentless",
+        'videoID' => "2c_97RoKpv4",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "70 People Per Minute Die from Cancer",
+        'slug' => "70-people-per-minute-die-from-ancer",
+        'videoID' => "5IqNr90LWE8",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "How many people die from cancer every minute?",
+        'slug' => "how-many-people-die-from-cancer-every-minute",
+        'videoID' => "pSft1HfClck",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "What You Can Do this Breast Cancer Awareness Month",
+        'slug' => "what-you-can-do-this-breast-cancer-awareness-month",
+        'videoID' => "uBfGqlm0QAw",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Making the Case for Breast Cancer Awareness",
+        'slug' => "making-the-case-for-breast-cancer-awareness",
+        'videoID' => "lBCWGFPaRZs",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "While you were watching this video, 40 people died of cancer…",
+        'slug' => "while-you-were-watching-this-video-40-people-died-of-cance",
+        'videoID' => "LOaLjtaypJw",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "What the Noble Prize Means for the Future of Vaccines.",
+        'slug' => "what-the-noble-prize-means-for-the-future-of-vaccines",
+        'videoID' => "uuhwpOnFMzc",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Bring Biotechnology to the Battle Against Cancer!",
+        'slug' => "bring-biotechnology-to-the-battle-against-cancer",
+        'videoID' => "ph1BcIq-2rs",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Cancer Treatment's Prime Time",
+        'slug' => "cancer-treatment-prime-time",
+        'videoID' => "fgYtAK7DjXc",
+        'date' => "",
+        'category' => "short-videos",
         'scope' => "public"
     ],
     [
@@ -707,7 +907,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "The key is within all of us",
+        'title' => "The key is within all of us.",
         'videoID' => "CYTV-v0iYcY",
         'date' => "",
         'category' => "short-videos",
@@ -715,7 +915,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "A universal cancer treatment means universal hope",
+        'title' => "A universal cancer treatment means universal hope.",
         'videoID' => "YCcs-YpnCF0",
         'date' => "",
         'category' => "short-videos",
@@ -731,7 +931,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Cancer treatments should only affect cancer cells",
+        'title' => "Cancer treatments should only affect cancer cells.",
         'videoID' => "l0V0iGyaqMo",
         'date' => "",
         'category' => "short-videos",
@@ -739,7 +939,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Boldly go where no treatments have gone before",
+        'title' => "Boldly go where no treatments have gone before.",
         'videoID' => "5fl7mSlZE-8",
         'date' => "",
         'category' => "short-videos",
@@ -747,7 +947,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Even in the darkest hours, it's important to stay strong",
+        'title' => "Even in the darkest hours, it's important to stay strong.",
         'videoID' => "-DJiPph3p8w",
         'date' => "",
         'category' => "short-videos",
@@ -763,7 +963,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Cancer research is the catalyst for change",
+        'title' => "Cancer research is the catalyst for change.",
         'videoID' => "RqnEnMjDS8Y",
         'date' => "",
         'category' => "short-videos",
@@ -779,7 +979,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "The world needs better cancer treatments",
+        'title' => "The world needs better cancer treatments.",
         'videoID' => "DbzkZGydm6I",
         'date' => "",
         'category' => "short-videos",
@@ -787,7 +987,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Together we can change the face of cancer",
+        'title' => "Together we can change the face of cancer.",
         'videoID' => "RX_l8NnY7Oo",
         'date' => "",
         'category' => "short-videos",
@@ -795,7 +995,8 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "It does not matter how big you are Sometimes the smallest teams yield the biggest results",
+        'title' => "It doesn’t matter how big you are. Sometimes the smallest teams yield the biggest results.
+        ",
         'videoID' => "m40G2E8Ipn4",
         'date' => "",
         'category' => "short-videos",
@@ -829,7 +1030,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Patients should be able to focus on battling cancer, and cancer alone",
+        'title' => "Patients should be able to focus on battling cancer, and cancer alone.",
         'videoID' => "HBu8WUrTZuE",
         'date' => "",
         'category' => "short-videos",
@@ -837,7 +1038,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Protect your health one checkup at a time",
+        'title' => "Protect your health one checkup at a time.",
         'videoID' => "So8faP3Xhik",
         'date' => "",
         'category' => "short-videos",
@@ -845,7 +1046,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Our universal cancer treatment is being tailored to precisely detect and attack any cancer cells",
+        'title' => "Our universal cancer treatment is being tailored to precisely detect and attack any cancer cells.",
         'videoID' => "icNsXLsdScc",
         'date' => "",
         'category' => "short-videos",
@@ -853,7 +1054,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Immunotherapy is on the upswing",
+        'title' => "Immunotherapy is on the upswing.",
         'videoID' => "smPLl0kYvI4",
         'date' => "",
         'category' => "short-videos",
@@ -885,7 +1086,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "In a healthy body cells grow divide and eventually die in a controlled manner",
+        'title' => "In a healthy body, cells grow, divide, and eventually die in a controlled manner.",
         'videoID' => "0-bugvaMkks",
         'date' => "",
         'category' => "short-videos",
@@ -901,7 +1102,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Cancer Rates are Rising How We Can Stop It",
+        'title' => "Cancer Rates are Rising. How We Can Stop It:",
         'videoID' => "vJISkAnYahE",
         'date' => "",
         'category' => "short-videos",
@@ -974,7 +1175,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Research is going incredibly well with our partners at UCLA",
+        'title' => "Research is going incredibly well with our partners at UCLA.",
         'videoID' => "ClN4VOWK2TE",
         'date' => "",
         'category' => "short-videos",
@@ -982,7 +1183,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "The Greatest Game Changer in Cancer Treatment",
+        'title' => "The Greatest Game-Changer in Cancer Treatment",
         'videoID' => "W_G2o5uaMLQ",
         'date' => "",
         'category' => "short-videos",
@@ -1014,7 +1215,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "A universal treatment takes universal support",
+        'title' => "A universal treatment takes universal support.",
         'videoID' => "guuDtcctbqo",
         'date' => "",
         'category' => "short-videos",
@@ -1054,7 +1255,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "We have the hope that a groundbreaking difference can be made",
+        'title' => "We have the hope that a groundbreaking difference can be made.",
         'videoID' => "dgkZbANffww",
         'date' => "",
         'category' => "short-videos",
@@ -1062,7 +1263,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Progress is exponential Little wins today create massive victories tomorrow",
+        'title' => "Progress is exponential. Little wins today create massive victories tomorrow.",
         'videoID' => "Dvapc6iUKOU",
         'date' => "",
         'category' => "short-videos",
@@ -1070,7 +1271,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "The most important battle is happening in our labs",
+        'title' => "The most important battle is happening in our labs.",
         'videoID' => "NxTHYMdzAtk",
         'date' => "",
         'category' => "short-videos",
@@ -1078,7 +1279,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "CancerVAX is pioneering the biotechnology that will empower safer more effective cancer treatments",
+        'title' => "CancerVAX is pioneering the biotechnology that will empower safer, more effective cancer treatments.",
         'videoID' => "-hChbsUq0Io",
         'date' => "",
         'category' => "short-videos",
@@ -1110,7 +1311,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "The Real Reason We Fight Cancer",
+        'title' => "The Real Reason We Fight Cancer...",
         'videoID' => "RgZ4cs-Plb8",
         'date' => "",
         'category' => "short-videos",
@@ -1145,7 +1346,7 @@ $videos = [
     ],
 
     [
-        'title' => "Almost everybody has a cancer story",
+        'title' => "Almost everybody has a cancer story....",
         'videoID' => "q0myRKeoF7M",
         'date' => "",
         'category' => "short-videos",
@@ -1163,7 +1364,7 @@ $videos = [
     ],
 
     [
-        'title' => "The future of cancer treatment is being decided now",
+        'title' => "The future of cancer treatment is being decided now.",
         'videoID' => "kPJMBWf2f2E",
         'date' => "",
         'category' => "short-videos",

@@ -16,7 +16,7 @@ include('../header.php'); ?>
     <div class="container">
         <div class="trend-video">
             <div class="row justify-content-center">
-                <div class="col-lg-7">
+                <div class="col-lg-6">
                     <div class="cchat">
                         <div class="cchat-box mb-4" data-video="trend">
                             <a class="getThumbnail" href="../expanded-ucla-pipeline.php"></a>
@@ -25,10 +25,25 @@ include('../header.php'); ?>
                             </div>
                             <i class="far fa-play-circle"></i>
                             <div class="trend-video-ucla">
-                                <img src="./assets/img/ucla.png" alt="ucla">
+                                <img src="../assets/img/ucla.png" alt="ucla">
                             </div>
                         </div>
                         <p class="mt-0">CancerVAX CEO Discusses Expanded Pipeline at UCLA</p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="cchat">
+                        <div class="cchat-box mb-4" data-video="trend">
+                            <a class="getThumbnail" href="../videos/ceo-podcast/ann-romney-discusses-immunotherapy-with-cancervax-ceo"></a>
+                            <div class="cchat-thumbnail thumbnail-overlay h-auto">
+                                <img src="//img.youtube.com/vi/Pv0cUKdpL_I/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">
+                            </div>
+                            <i class="far fa-play-circle"></i>
+                            <div class="trend-video-ucla">
+                                <img src="../assets/img/ucla.png" alt="ucla">
+                            </div>
+                        </div>
+                        <p class="mt-0">Ann Romney Discusses Immunotherapy with CancerVAX CEO</p>
                     </div>
                 </div>
             </div>
@@ -194,7 +209,7 @@ include('../header.php'); ?>
 
 <section class="nCommentary theme-bg" id="short-videos">
     <div class="container">
-       
+
         <div class="row">
 
             <?php
