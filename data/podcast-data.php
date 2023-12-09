@@ -1078,14 +1078,6 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "This cancer primarily attacks children and young adults aging from 10-20 years old.",
-        'videoID' => "YLLF_LgM4pg",
-        'date' => "",
-        'category' => "short-videos",
-        'slug' => "this-cancer-primarily-attacks-children-and-young-adults-aging-from-10-20-years-old",
-        'scope' => "public"
-    ],
-    [
         'title' => "In a healthy body, cells grow, divide, and eventually die in a controlled manner.",
         'videoID' => "0-bugvaMkks",
         'date' => "",
