@@ -6,7 +6,7 @@ $videos = [
         'date' => "November 12, 2023",
         'category' => "ceo-podcast",
         'slug' => "ann-romney-discusses-immunotherapy-with-cancervax-ceo",
-        'scope' => "public"
+        'scope' => "private"
     ],
     [
         'title' => "Ezra Cohen Tempus Labs",

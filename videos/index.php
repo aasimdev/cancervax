@@ -31,7 +31,7 @@ include('../header.php'); ?>
                         <p class="mt-0">CancerVAX CEO Discusses Expanded Pipeline at UCLA</p>
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <!-- <div class="col-lg-6">
                     <div class="cchat">
                         <div class="cchat-box mb-4" data-video="trend">
                             <a class="getThumbnail" href="../videos/ceo-podcast/ann-romney-discusses-immunotherapy-with-cancervax-ceo"></a>
@@ -45,7 +45,7 @@ include('../header.php'); ?>
                         </div>
                         <p class="mt-0">Ann Romney Discusses Immunotherapy with CancerVAX CEO</p>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
         <div class="row">
