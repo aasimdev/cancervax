@@ -343,6 +343,70 @@ $videos = [
         'scope' => "public"
     ],
     [
+        'title' => "The story of cancer is still unfolding...",
+        'slug' => "the-story-of-cancer-is-still-unfolding",
+        'videoID' => "Ym8TWv8uQys",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The most prevalent form of cancer affecting men in the United States",
+        'slug' => "the-most-prevalent-form-of-cancer-affecting-men-in-the-united-states",
+        'videoID' => "e59jUy3Fu8k",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "CancerVAX has already made incredible strides in the development of biotechnology",
+        'slug' => "cancervax-has-already-made-incredible-strides-in-the-development-of-biotechnology",
+        'videoID' => "X2I-te-DhgY",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Future of Vaccines",
+        'slug' => "the-future-of-vaccines",
+        'videoID' => "fhhUSbuLEAM",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The real reason better treatments matter.",
+        'slug' => "the-real-reason-better-treatments-matter",
+        'videoID' => "O-zTRaJEnZM",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Trillion-Dollar Revolution",
+        'slug' => "the-trillion-dollar-revolution",
+        'videoID' => "NrATsUEGnSU",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "What it takes to bring cancer treatment to millions",
+        'slug' => "what-it-takes-to-bring-cancer-treatment-to-millions",
+        'videoID' => "JFmI46CN7Fk",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Making Cancer Treatment Accessible to Everyone",
+        'slug' => "making-cancer-treatment-accessible-to-everyone",
+        'videoID' => "O0dnLqAusJU",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
         'title' => "CancerVAX is creating cancer treatments that are accessible, affordable, and effective.",
         'slug' => "cancervax-is-creating-cancer-treatments-that-are-accessible-affordable-and-effective",
         'videoID' => "BPjTUao0TNc",
