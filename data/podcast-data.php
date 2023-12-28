@@ -343,6 +343,54 @@ $videos = [
         'scope' => "public"
     ],
     [
+        'title' => "Shaping the future of children's cancer research",
+        'slug' => "shaping-the-future-of-children-cancer-research",
+        'videoID' => "MXArxSyGTlA",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "242,000 Cases of Breast Cancer are Diagnosed Each Year",
+        'slug' => "242,000-cases-of-breast-cancer-are-diagnosed-each-year",
+        'videoID' => "JuVU-8HrVwE",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Creating a better future for those who matter most....",
+        'slug' => "creating-a-better-future-for-those-who-matter-most",
+        'videoID' => "1tKG4Es0kq0",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Pushing boundaries of early detection and treatment",
+        'slug' => "pushing-boundaries-of-early-detection-and-treatment",
+        'videoID' => "7XagWMbr2es",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "CancerVAX is paving the way for better safer, more effective cancer treatments.",
+        'slug' => "cancervax-is-paving-the-way-for-better-safer-more-effective-cancer-treatments.",
+        'videoID' => "58aPMoSKjWQ",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "CancerVAX is creating better ways to identify, diagnose, and treat cancer one day at a time.",
+        'slug' => "cancervax-is-creating-better-ways-to-identify-diagnose-and-treat-cancer-one-day-at-a-time",
+        'videoID' => "YLZQqWgqmXU",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
         'title' => "The story of cancer is still unfolding...",
         'slug' => "the-story-of-cancer-is-still-unfolding",
         'videoID' => "Ym8TWv8uQys",
