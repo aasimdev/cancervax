@@ -100,6 +100,9 @@
 
 <body>
 
+    <iframe src="https://api.leadconnectorhq.com/widget/form/9FhG94iUqdLfUS9ybhYu" style="display:none;width:100%;height:100%;border:none;border-radius:1px" id="popup-9FhG94iUqdLfUS9ybhYu" data-layout="{'id':'POPUP'}" data-trigger-type="showAfter" data-trigger-value="3" data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="leadCollected" data-deactivation-value="" data-form-name="Text Alerts" data-height="491" data-layout-iframe-id="popup-9FhG94iUqdLfUS9ybhYu" data-form-id="9FhG94iUqdLfUS9ybhYu" title="Text Alerts"> </iframe>
+    <script src="https://link.msgsndr.com/js/form_embed.js"></script>
+
     <?php
     function active($currect_page)
     {
@@ -110,88 +113,69 @@
         }
     }
     ?>
-
-    <div class="invest-bar">
-        <div class="container-fluid">
-            <div class="invest-bar-content">
-                <!-- <div class="invest-bar-text">
-                    <div class="invest-bar-text-wrap">
-                        <p>Closing on Nov 7th</p>
-                        <a href="https://www.startengine.com/offering/cancervax" target="_blank">
-                            <img src="<?php echo  $full_url; ?>/assets/img/invest-btn.svg" alt="invest button">
-                        </a>
+    <div class="header-top">
+        <div class="invest-bar">
+            <div class="container-fluid">
+                <div class="invest-bar-content">
+                    <div class="tSocial d-none d-lg-block">
+                        <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
+                        <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
                     </div>
-                    <div id="countdown">
-                        <ul class="countdown-header">
-                            <li><span id="days"></span>Days</li>
-                            <li><span id="hours"></span>Hours</li>
-                            <li><span id="minutes"></span>Minutes</li>
-                            <li><span id="seconds"></span>Seconds</li>
-                        </ul>
-                    </div>
-                </div> -->
-                <div class="tSocial d-none d-lg-block">
-                    <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
-                    <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
-                    <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
-                    <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
                 </div>
             </div>
         </div>
-    </div>
 
-    <div class="socialHeader d-none d-lg-block">
-        <div class="container-fluid">
 
-        </div>
-    </div>
-    <!-- Hedaer -->
-    <nav class="navbar navbar-expand-lg navbar-dark">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="/">
-                <img src="<?php echo  $full_url; ?>/assets/img/logo.png" alt="logo">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('about'); ?>" href="/about">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('pipeline'); ?>" href="/pipeline">Pipeline</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('immunotherapy'); ?>" href="/immunotherapy">Immunotherapy</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('market'); ?>" href="/market">Market</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('news'); ?>" href="/news">Newsroom</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('investors'); ?>" href="/investors">Investors</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('contact'); ?>" href="/contact">Contact</a>
-                    </li>
+        <!-- Hedaer -->
+        <nav class="navbar navbar-expand-lg navbar-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="/">
+                    <img src="<?php echo  $full_url; ?>/assets/img/logo.png" alt="logo">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('about'); ?>" href="/about">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('pipeline'); ?>" href="/pipeline">Pipeline</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('immunotherapy'); ?>" href="/immunotherapy">Immunotherapy</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('market'); ?>" href="/market">Market</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('news'); ?>" href="/news">Newsroom</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('investors'); ?>" href="/investors">Investors</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('contact'); ?>" href="/contact">Contact</a>
+                        </li>
 
-                </ul>
-                <div class="socialHeader d-lg-none">
-                    <div class="container-fluid">
-                        <div class="tSocial">
-                            <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
-                            <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
-                            <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
-                            <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
+                    </ul>
+                    <div class="socialHeader d-lg-none">
+                        <div class="container-fluid">
+                            <div class="tSocial">
+                                <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
+                                <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
+                                <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </nav>
+        </nav>
+    </div>

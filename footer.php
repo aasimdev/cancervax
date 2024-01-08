@@ -106,7 +106,7 @@ if ($page_name != "index.php") {
             </div>
         </div>
         <div class="footer-bottom">
-            <p>© 2023 CancerVax. All rights reserved</p>
+            <p>© 2024 CancerVax. All rights reserved</p>
         </div>
     </div>
 </footer>
