@@ -343,6 +343,62 @@ $videos = [
         'scope' => "public"
     ],
     [
+        'title' => "A universal treatment takes universal effort!",
+        'slug' => "a-universal-treatment-takes-universal-effort",
+        'videoID' => "fzg0mJSum4c",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Unraveling the Mysteries!",
+        'slug' => "unraveling-the-mysteries",
+        'videoID' => "lHiXiD8Nbt4",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Transforming the Surface of Biotechnology",
+        'slug' => "transforming-the-surface-of-biotechnology",
+        'videoID' => "a6aNVIYk_iI",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Investing in the Future Means Investing In the Now",
+        'slug' => "investing-in-the-future-means-investing-In-the-now",
+        'videoID' => "2e_Ikln3JLU",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The future of health is being created today!",
+        'slug' => "the-future-of-health-is-being-created-today",
+        'videoID' => "zznjDppaV6c",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "An act of kindness can change everything...",
+        'slug' => "an-act-of-kindness-can-change-everything...",
+        'videoID' => "l_d7hTW80IM",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Turning on the Beacon",
+        'slug' => "turning-on-the-beacon",
+        'videoID' => "rGG2t6lTP18",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
         'title' => "Shaping the future of children's cancer research",
         'slug' => "shaping-the-future-of-children-cancer-research",
         'videoID' => "MXArxSyGTlA",
