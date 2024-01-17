@@ -17,9 +17,7 @@
     min-height: 62px;
     display: flex;
     align-items: center;
-    @media (max-width: 576px) {
-       display: none;
-    }
+ 
     &-text {
         display: flex;
         align-items: center;

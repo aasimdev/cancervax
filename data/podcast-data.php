@@ -343,6 +343,62 @@ $videos = [
         'scope' => "public"
     ],
     [
+        'title' => "A New Wave of Biotechnology is Here!",
+        'slug' => "a-new-wave-of-biotechnology-is-here",
+        'videoID' => "gdX7L4WQTpc",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Future of Biotechnology....",
+        'slug' => "the-future-of-biotechnology",
+        'videoID' => "JckuM1PKp74",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Turn on the light!",
+        'slug' => "turn-on-the-light",
+        'videoID' => "k-iACEu49ko",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Catalyst for Change is Coming...",
+        'slug' => "the-catalyst-for-change-is-coming",
+        'videoID' => "C7oS1XNwLdc",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Progress is Limitless",
+        'slug' => "progress-is-limitless",
+        'videoID' => "VcYO6LYegro",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Better Biotech for a Safer Future",
+        'slug' => "better-biotech-for-a-safer-future",
+        'videoID' => "NGK7vCVfh7U",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "One Discovery at a Time",
+        'slug' => "one-discovery-at-a-time",
+        'videoID' => "T2zUGibKEVg",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
         'title' => "A universal treatment takes universal effort!",
         'slug' => "a-universal-treatment-takes-universal-effort",
         'videoID' => "fzg0mJSum4c",
