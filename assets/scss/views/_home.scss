@@ -41,7 +41,7 @@
     &-text {
         h1 {
             font-family: $fontMain;
-            font-size: 50px;
+            font-size: 32px;
             font-weight: 400;
             letter-spacing: -1px;
             margin-bottom: 0;
@@ -49,11 +49,12 @@
         }
 
         p {
-            font-size: 20px;
+            font-size: 14px;
             line-height: 1.5em;
             color: #fdfdfd;
-            margin: 20px 0;
+            margin: 10px 0;
             max-width: 578px;
+            letter-spacing: unset;
         }
     }
 
@@ -630,7 +631,7 @@ body.modal-open {
         margin: auto;
 
         h1 {
-            font-size: 48px;
+            font-size: 28px;
             font-weight: 300;
             text-decoration: none;
             line-height: 1.3em;
