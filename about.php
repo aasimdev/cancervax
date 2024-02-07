@@ -137,7 +137,7 @@ include('header.php'); ?>
                         Ryan Davies
                     </h5>
                     <p>
-                        CEO
+                        Chairman
                     </p>
                     <div class="team-description">
                         <p>Ryan has had a successful career as an entrepreneur, business executive and public servant. Prior to joining CancerVAX, Ryan co-founded several biotech companies/technologies including a nitric oxide topical wound-care product, a medical device company (drug delivery system) and an antibiotic drug development company. Ryan served as CEO of Curza, a small molecule therapeutics company focused on developing new antibiotics; SVP at Clarke Capital Partners, a private growth equity investment firm; co-founder of a software/ecommerce company Found.com (acquired by CRS Retail Systems); co-founder of a software company O2 Blue (acquired by Prebon Yamane). His public service activities include serving on the Draper, Utah City Council and serving on the campaigns of two U.S. presidential candidates, one U.S. senate candidate and two gubernatorial candidates. Ryan holds degrees in Business Management from Ricks College and Political Science from Brigham Young University.</p>
@@ -155,7 +155,7 @@ include('header.php'); ?>
                         Byron Elton
                     </h5>
                     <p>
-                        CMO
+                        President & CEO
                     </p>
                     <div class="team-description">
                         <p>Mr. Elton is an experienced media and marketing executive with a proven record in pioneering new business development strategies and building top-flight marketing organizations. Since June 2018, he has been President of Elton Enterprises, Inc., which is involved in the wellness, fitness and health sector. He is a co-founder since June 2017 of Pardue Associates, operating monsho, a brand-centric, creative communications agency focused on delivering results. From 2013 to 2017, Mr. Elton was a partner of Clear Search, an executive search firm. Prior to that, from 2009 until 2013, Mr. Elton served as President and Chief Executive Officer of Carbon Sciences, Inc., a cleantech company developing a technology to convert earth destroying carbon dioxide into a useful form. Mr. Elton previously served as Senior Vice President of Sales for Univision Online from 2007 to 2008. Mr. Elton also served for eight years as an executive at AOL Media Networks from 2000 to 2007, where his assignments included Regional Vice President of Sales for AOL and Senior Vice President of E-Commerce for AOL Canada. His broadcast media experience includes leading the ABC affiliate in Santa Barbara, California in 1995 to 2000 and the CBS affiliate in Monterrey, California from 1998 to 1999, in addition to serving as President of the Alaskan Television Network from 1995 to 1999. Mr. Elton studied Advertising and Marketing Communications at Brigham Young University.</p>

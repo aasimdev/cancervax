@@ -21,12 +21,21 @@ include('header.php'); ?>
             <div class="row align-items-center">
                 <div class="col-lg-7">
                     <div class="banner-text">
-                        <h1> Creating a Better Way to Treat Cancer <br> <span>Universal Cancer Vaccine</span></h1>
+                        <h1> Creating a Better Way <br> to Treat Cancer <br> <span>Universal Cancer Vaccine</span></h1>
+                        <div class="banner-video d-lg-none">
+                            <div class="banner-thumbnail">
+                                <img src="https://i.ytimg.com/vi/2OHGmKOqOYE/maxresdefault.jpg" alt="thumbnail">
+                            </div>
+                            <a href="http://www.youtube.com/watch?v=2OHGmKOqOYE" class="theme-btn text-uppercase popup-youtube">
+                                <i class="far fa-play-circle"></i>
+                                <span>Watch video</span>
+                            </a>
+                        </div>
                         <p>Working with a world-class team of experienced cancer researchers and physicians at UCLA, we are developing creating a breakthrough Universal Cancer Vaccine platform (UCV). This cancer treatment is designed to be customizable, be administered as a shot, and leverage state-of-the-art bioengineering and molecular technologies. Our innovative approach detects, marks, and kills cancer cells exclusively. By inducing cancer cells to express a distinct marker absent in healthy cells, custom antibody drugs and the body's immune cells can precisely target and eradicate cancer cells.</p>
                         <p> Cancer is the second leading cause of death in the US, following heart disease. While we don’t have a solution to prevent cancer, our objective is to develop our Universal Cancer Vaccine platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities.</p>
                         <p> We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer. </p>
 
-                        <div class="banner-video">
+                        <!-- <div class="banner-video">
                             <div class="banner-thumbnail">
                                 <img src="https://i.ytimg.com/vi/IySdl6Eo0rw/maxresdefault.jpg" alt="thumbnail">
                             </div>
@@ -34,11 +43,20 @@ include('header.php'); ?>
                                 <i class="far fa-play-circle"></i>
                                 <span>Watch video</span>
                             </a>
-                        </div>
+                        </div> -->
 
                     </div>
                 </div>
                 <div class="col-lg-5">
+                    <div class="banner-video d-none d-lg-block">
+                        <div class="banner-thumbnail">
+                            <img src="https://i.ytimg.com/vi/2OHGmKOqOYE/maxresdefault.jpg" alt="thumbnail">
+                        </div>
+                        <a href="http://www.youtube.com/watch?v=2OHGmKOqOYE" class="theme-btn text-uppercase popup-youtube">
+                            <i class="far fa-play-circle"></i>
+                            <span>Watch video</span>
+                        </a>
+                    </div>
                     <div class="banner-object">
                         <div class="objectd">
                             <img src="./assets/img/banner-object.png" alt="object">

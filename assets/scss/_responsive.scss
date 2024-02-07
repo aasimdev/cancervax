@@ -133,9 +133,7 @@
         padding-left: 15px;
     }
 
-    .banner-text h1 {
-        font-size: 52px;
-    }
+   
 
     .fcancervax-img {
         text-align: center;
@@ -226,16 +224,16 @@
     }
 
     .banner-object {
-        margin: -125px -284px 0 -284px;
+        margin: -125px -284px 0 170px;
         position: absolute;
         top: 0;
     }
 
     .banner-text {
-        text-align: center;
+        text-align: left;
         position: relative;
         z-index: 1;
-        margin-bottom: 70px;
+        margin-bottom: 10px;
     }
 
     .banner-video {
@@ -244,12 +242,8 @@
         max-width: 100%;
     }
 
-    .banner-text p {
-        text-align: center;
-    }
-
     .banner {
-        height: 910px;
+        height: 1100px;
     }
 
     .nCommentary .cchat {
@@ -358,6 +352,14 @@
     }
     .invest-text {
         margin-top: 150px;
+    }
+    .banner-video{
+        position: relative;
+        margin: 30px auto;
+    }
+    .banner-text p{
+        font-size: 16px;
+        max-width: 100%;
     }
 }
 
@@ -491,10 +493,10 @@
     }
 
     .banner-text h1 {
-        font-size: 38px;
+        font-size: 32px;
     }
 
-    .banner-text p,
+   
     .newsletter p {
         text-align: center;
     }
@@ -693,6 +695,9 @@
 
     .banner-video .theme-btn {
         padding: 0.5em 1em;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        bottom: unset;
     }
 
 
