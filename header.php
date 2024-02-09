@@ -112,15 +112,17 @@
             }
 
             .ep-close-icon {
-                padding: 5px 10px 15px !important;
+                padding: 9px 10px 12px !important;
                 border: 5px solid black !important;
                 position: relative;
                 top: 20px !important;
-                font-size: 35px !important;
+                font-size: 22px !important;
                 font-family: Arial, Helvetica, sans-serif !important;
                 display: flex;
                 align-items: center;
                 justify-content: center;
+                width: 30px;
+    height: 30px;
             }
         </style>
         <iframe src="https://api.leadconnectorhq.com/widget/form/9FhG94iUqdLfUS9ybhYu" style="display:none;width:100%;height:100%;border:none;border-radius:1px" id="popup-9FhG94iUqdLfUS9ybhYu" data-layout="{'id':'POPUP'}" data-trigger-type="alwaysShow" data-trigger-value="" data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="neverDeactivate" data-deactivation-value="" data-form-name="Text Alerts" data-height="537" data-layout-iframe-id="popup-9FhG94iUqdLfUS9ybhYu" data-form-id="9FhG94iUqdLfUS9ybhYu" title="Text Alerts">
