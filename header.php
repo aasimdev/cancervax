@@ -104,76 +104,97 @@
     $page_name = basename($_SERVER['PHP_SELF']);
     if ($page_name != "index.php" || $page_name != "" || $page_name != "/") {
     ?>
-        <iframe src="https://api.leadconnectorhq.com/widget/form/9FhG94iUqdLfUS9ybhYu" style="display:none;width:100%;height:100%;border:none;border-radius:1px" id="popup-9FhG94iUqdLfUS9ybhYu" data-layout="{'id':'POPUP'}" data-trigger-type="showAfter" data-trigger-value="3" data-activation-type="activateOnVisit" data-activation-value="1" data-deactivation-type="deactivateAfter" data-deactivation-value="2" data-form-name="Text Alerts" data-height="533" data-layout-iframe-id="popup-9FhG94iUqdLfUS9ybhYu" data-form-id="9FhG94iUqdLfUS9ybhYu" title="Text Alerts"> </iframe>
-            <script src="https://link.msgsndr.com/js/form_embed.js"></script>
-        <?php } ?>
-
-
-
-        <?php
-        function active($currect_page)
-        {
-            $url_array =  explode('/', $_SERVER['REQUEST_URI']);
-            $url = end($url_array);
-            if ($currect_page == $url) {
-                echo 'active'; //class name in css 
+        <style>
+            .ep-iFrameContainer.ep-popup.ep-iFrameLarge {
+                height: auto;
+                padding: 0px;
+                background-color: transparent !important;
             }
+
+            .ep-close-icon {
+                padding: 5px 10px 15px !important;
+                border: 5px solid black !important;
+                position: relative;
+                top: 20px !important;
+                font-size: 35px !important;
+                font-family: Arial, Helvetica, sans-serif !important;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+        </style>
+        <iframe src="https://api.leadconnectorhq.com/widget/form/9FhG94iUqdLfUS9ybhYu" style="display:none;width:100%;height:100%;border:none;border-radius:1px" id="popup-9FhG94iUqdLfUS9ybhYu" data-layout="{'id':'POPUP'}" data-trigger-type="alwaysShow" data-trigger-value="" data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="neverDeactivate" data-deactivation-value="" data-form-name="Text Alerts" data-height="537" data-layout-iframe-id="popup-9FhG94iUqdLfUS9ybhYu" data-form-id="9FhG94iUqdLfUS9ybhYu" title="Text Alerts">
+
+        </iframe>
+        <script src="https://link.msgsndr.com/js/form_embed.js"></script>
+    <?php } ?>
+
+
+
+    <?php
+    function active($currect_page)
+    {
+        $url_array =  explode('/', $_SERVER['REQUEST_URI']);
+        $url = end($url_array);
+        if ($currect_page == $url) {
+            echo 'active'; //class name in css 
         }
-        ?>
-        <div class="header-top">
-            <div class="invest-bar">
-                <div class="container-fluid">
-                    <div class="invest-bar-content">
-                        <div class="tSocial">
-                            <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
-                            <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
-                            <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
-                            <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
-                        </div>
+    }
+    ?>
+    <div class="header-top">
+        <div class="invest-bar">
+            <div class="container-fluid">
+                <div class="invest-bar-content">
+                    <div class="tSocial">
+                        <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
+                        <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
                     </div>
                 </div>
             </div>
-
-
-            <!-- Hedaer -->
-            <nav class="navbar navbar-expand-lg navbar-dark">
-                <div class="container-fluid">
-                    <a class="navbar-brand" href="/">
-                        <img src="<?php echo  $full_url; ?>/assets/img/logo.png" alt="logo">
-                    </a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                            <li class="nav-item">
-                                <a class="nav-link <?php active('about'); ?>" href="/about">About</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link <?php active('pipeline'); ?>" href="/pipeline">Pipeline</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link <?php active('immunotherapy'); ?>" href="/immunotherapy">Immunotherapy</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link <?php active('market'); ?>" href="/market">Market</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link <?php active('news'); ?>" href="/news">Newsroom</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link <?php active('investors'); ?>" href="/investors">Investors</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link <?php active('contact'); ?>" href="/contact">Contact</a>
-                            </li>
-
-                        </ul>
-
-                    </div>
-                </div>
-            </nav>
         </div>
+
+
+        <!-- Hedaer -->
+        <nav class="navbar navbar-expand-lg navbar-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="/">
+                    <img src="<?php echo  $full_url; ?>/assets/img/logo.png" alt="logo">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('about'); ?>" href="/about">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('pipeline'); ?>" href="/pipeline">Pipeline</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('immunotherapy'); ?>" href="/immunotherapy">Immunotherapy</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('market'); ?>" href="/market">Market</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('news'); ?>" href="/news">Newsroom</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('investors'); ?>" href="/investors">Investors</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('contact'); ?>" href="/contact">Contact</a>
+                        </li>
+
+                    </ul>
+
+                </div>
+            </div>
+        </nav>
+    </div>
