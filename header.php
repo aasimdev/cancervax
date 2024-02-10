@@ -100,8 +100,38 @@
 
 <body>
 
-    <iframe src="https://api.leadconnectorhq.com/widget/form/9FhG94iUqdLfUS9ybhYu" style="display:none;width:100%;height:100%;border:none;border-radius:1px" id="popup-9FhG94iUqdLfUS9ybhYu" data-layout="{'id':'POPUP'}" data-trigger-type="showAfter" data-trigger-value="3" data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="leadCollected" data-deactivation-value="" data-form-name="Text Alerts" data-height="491" data-layout-iframe-id="popup-9FhG94iUqdLfUS9ybhYu" data-form-id="9FhG94iUqdLfUS9ybhYu" title="Text Alerts"> </iframe>
-    <script src="https://link.msgsndr.com/js/form_embed.js"></script>
+    <?php
+    $page_name = basename($_SERVER['PHP_SELF']);
+    if ($page_name != "index.php" && $page_name != "" && $page_name != "/") {
+    ?>
+        <style>
+            .ep-iFrameContainer.ep-popup.ep-iFrameLarge {
+                height: auto;
+                padding: 0px;
+                background-color: transparent !important;
+            }
+
+            .ep-close-icon {
+                padding: 9px 10px 12px !important;
+                border: 5px solid black !important;
+                position: relative;
+                top: 20px !important;
+                font-size: 22px !important;
+                font-family: Arial, Helvetica, sans-serif !important;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 30px;
+    height: 30px;
+            }
+        </style>
+        <iframe src="https://api.leadconnectorhq.com/widget/form/9FhG94iUqdLfUS9ybhYu" style="display:none;width:100%;height:100%;border:none;border-radius:1px" id="popup-9FhG94iUqdLfUS9ybhYu" data-layout="{'id':'POPUP'}" data-trigger-type="alwaysShow" data-trigger-value="" data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="neverDeactivate" data-deactivation-value="" data-form-name="Text Alerts" data-height="537" data-layout-iframe-id="popup-9FhG94iUqdLfUS9ybhYu" data-form-id="9FhG94iUqdLfUS9ybhYu" title="Text Alerts">
+
+        </iframe>
+        <script src="https://link.msgsndr.com/js/form_embed.js"></script>
+    <?php } ?>
+
+
 
     <?php
     function active($currect_page)
@@ -117,7 +147,7 @@
         <div class="invest-bar">
             <div class="container-fluid">
                 <div class="invest-bar-content">
-                    <div class="tSocial d-none d-lg-block">
+                    <div class="tSocial">
                         <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
                         <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
                         <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
@@ -165,16 +195,7 @@
                         </li>
 
                     </ul>
-                    <div class="socialHeader d-lg-none">
-                        <div class="container-fluid">
-                            <div class="tSocial">
-                                <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
-                                <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
-                                <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
-                                <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
-                            </div>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </nav>

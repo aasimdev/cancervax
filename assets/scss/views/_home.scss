@@ -34,26 +34,29 @@
         height: 100%;
         display: flex;
         align-items: center;
-        padding-top: 50px;
+        padding-top: 70px;
         width: 100%;
     }
 
     &-text {
         h1 {
             font-family: $fontMain;
-            font-size: 50px;
+            font-size: 46px;
             font-weight: 400;
             letter-spacing: -1px;
             margin-bottom: 0;
-
+            span{
+                color: #46C4CD;
+            }
         }
 
         p {
-            font-size: 20px;
+            font-size: 16px;
             line-height: 1.5em;
             color: #fdfdfd;
-            margin: 20px 0;
+            margin: 10px 0;
             max-width: 578px;
+            letter-spacing: unset;
         }
     }
 
@@ -91,9 +94,9 @@
     }
 
     &-video {
-        position: relative;
-        max-width: 420px;
-
+        position: absolute;
+        max-width: 500px;
+        z-index: 1;
         .theme-btn {
             position: absolute;
             left: 50%;
@@ -630,7 +633,7 @@ body.modal-open {
         margin: auto;
 
         h1 {
-            font-size: 48px;
+            font-size: 28px;
             font-weight: 300;
             text-decoration: none;
             line-height: 1.3em;

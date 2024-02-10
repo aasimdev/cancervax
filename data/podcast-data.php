@@ -2,7 +2,7 @@
 $videos = [
     [
         'title' => "Ann Romney Discusses Immunotherapy with CancerVAX CEO",
-        'videoID' => "Pv0cUKdpL_I",
+        'videoID' => "E8PLvkVjYtY",
         'date' => "November 12, 2023",
         'category' => "ceo-podcast",
         'slug' => "ann-romney-discusses-immunotherapy-with-cancervax-ceo",
@@ -340,6 +340,118 @@ $videos = [
         'date' => "Mar 24, 2023",
         'category' => "cancer-survivor-stories",
         'slug' => "byron-elton-prostate-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Work Toward Your Healthy Tomorrow",
+        'slug' => "work-toward-your-healthy-tomorrow",
+        'videoID' => "IUQwQI6-QOU",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Help Them Celebrate More Birthdays",
+        'slug' => "help-them-celebrate-more-birthdays",
+        'videoID' => "JHciO9uVFds",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Get Tested For Early Detection",
+        'slug' => "get-tested-for-early-detection",
+        'videoID' => "Mo10gLT8i4I",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Saving Lives, Saving Childhoods",
+        'slug' => "saving-lives-saving-childhoods",
+        'videoID' => "7QD-SWfN8CE",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Winning the War",
+        'slug' => "winning-the-ar",
+        'videoID' => "90zLFQOMcpg",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Changing the face of medicine forever....",
+        'slug' => "changing-the-face-of-medicine-forever",
+        'videoID' => "wQQ4aV8d1r8",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Hope for the future....",
+        'slug' => "hope-for-the-future",
+        'videoID' => "K6X6Rg2PGts",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "A New Wave of Biotechnology is Here!",
+        'slug' => "a-new-wave-of-biotechnology-is-here",
+        'videoID' => "gdX7L4WQTpc",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Future of Biotechnology....",
+        'slug' => "the-future-of-biotechnology",
+        'videoID' => "JckuM1PKp74",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Turn on the light!",
+        'slug' => "turn-on-the-light",
+        'videoID' => "k-iACEu49ko",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Catalyst for Change is Coming...",
+        'slug' => "the-catalyst-for-change-is-coming",
+        'videoID' => "C7oS1XNwLdc",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Progress is Limitless",
+        'slug' => "progress-is-limitless",
+        'videoID' => "VcYO6LYegro",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Better Biotech for a Safer Future",
+        'slug' => "better-biotech-for-a-safer-future",
+        'videoID' => "NGK7vCVfh7U",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "One Discovery at a Time",
+        'slug' => "one-discovery-at-a-time",
+        'videoID' => "T2zUGibKEVg",
+        'date' => "",
+        'category' => "short-videos",
         'scope' => "public"
     ],
     [
