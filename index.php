@@ -119,7 +119,7 @@ include('header.php'); ?>
                     </div>
                 </div>
             </div>
-            <div class="devPlan-item">
+            <!-- <div class="devPlan-item">
                 <div class="row align-items-center">
                     <div class="col-lg-3">
                         <div class="devPlan-graphic">
@@ -133,7 +133,7 @@ include('header.php'); ?>
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="devPlan-heading pt-4">
                 <p>UCV and UCAR-T can be used separately. However, when used together, we can kill cancer cells with extreme precision using the body’s immune system at very low costs. UCV detects and marks a unique target and UCAR-T makes T-cells attack that target.</p>
