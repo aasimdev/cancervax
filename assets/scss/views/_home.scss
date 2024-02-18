@@ -45,7 +45,8 @@
             font-weight: 400;
             letter-spacing: -1px;
             margin-bottom: 0;
-            span{
+
+            span {
                 color: #46C4CD;
             }
         }
@@ -97,6 +98,7 @@
         position: absolute;
         max-width: 500px;
         z-index: 1;
+
         .theme-btn {
             position: absolute;
             left: 50%;
@@ -765,9 +767,11 @@ body.modal-open {
             font-size: 15px;
             font-weight: 500;
         }
-        &-img{
+
+        &-img {
             height: auto;
-            img{
+
+            img {
                 width: auto;
                 height: auto;
                 border-radius: 0;
@@ -1758,13 +1762,16 @@ label.error {
         margin-bottom: 0;
         padding-left: 15px;
         padding-right: 15px;
-        &-thumbnail{
+
+        &-thumbnail {
             height: auto;
-            img{
+
+            img {
                 width: auto;
                 height: auto;
             }
         }
+
         p {
             margin-top: 16px;
             font-size: 20px;
@@ -2300,8 +2307,11 @@ label.error {
     }
 
     &-heading {
-        text-align: center;
+        text-align: left;
         padding-bottom: 22px;
+        // max-width: 780px;
+        margin-left: auto;
+        margin-right: auto;
 
         h3 {
             font-size: 38px;
@@ -2315,10 +2325,6 @@ label.error {
             color: #ababab;
             font-size: 18px;
             word-wrap: break-word;
-            max-width: 780px;
-            text-align: center;
-            margin-left: auto;
-            margin-right: auto;
             line-height: 26px;
         }
     }
