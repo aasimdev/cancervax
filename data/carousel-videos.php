@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "CancerVax News",
+        'videoID' => "guuT0fk6wOQ",
+        'date' => "February 18, 2024",
+        'category' => "news-commentary",
+        'slug' => "cancervax-news",
+        'scope' => "public"
+    ],
+    [
         'title' => "Bridgette Wilson Sampras",
         'videoID' => "mXQBBs36mUQ",
         'date' => "November 4, 2023",
@@ -32,15 +40,7 @@ $videos = [
         'category' => "news-commentary",
         'slug' => "zoleka-mandela",
         'scope' => "public"
-    ],
-    [
-        'title' => "Breakthroughs in Cancer Treatment and Research",
-        'videoID' => "ISxuj7njZRg",
-        'date' => "September 20, 2023",
-        'category' => "news-commentary",
-        'slug' => "breakthroughs-in-cancer-treatment-and-research",
-        'scope' => "public"
-    ],
+    ]
 ];
 
 return $videos;

@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "CancerVax News",
+        'videoID' => "guuT0fk6wOQ",
+        'date' => "February 18, 2024",
+        'category' => "news-commentary",
+        'slug' => "cancervax-news",
+        'scope' => "public"
+    ],
+    [
         'title' => "Ann Romney Discusses Immunotherapy with CancerVAX CEO",
         'videoID' => "E8PLvkVjYtY",
         'date' => "November 12, 2023",
