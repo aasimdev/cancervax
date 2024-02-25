@@ -9,6 +9,14 @@ $videos = [
         'scope' => "public"
     ],
     [
+        'title' => "Ken Horton - Patent Lawyer - Intellectual Property Law",
+        'videoID' => "qH0mzQEm7aM",
+        'date' => "February 22, 2024 ",
+        'category' => "ceo-podcast",
+        'slug' => "ken-horton-patent-lawyer-intellectual-property-law",
+        'scope' => "private"
+    ],
+    [
         'title' => "Ann Romney Discusses Immunotherapy with CancerVAX CEO",
         'videoID' => "E8PLvkVjYtY",
         'date' => "November 12, 2023",
