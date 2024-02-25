@@ -183,9 +183,6 @@ include "header.php";
                         <p>While there is no such thing as a magic vaccine that can prevent people from getting cancer, we can borrow many of the techniques and technologies from modern preventative flu or COVID vaccines, and use the body’s immune system to target and treat cancers.</p>
                         <p>Our immunotherapy technologies being developed at UCLA are designed to be delivered as simple injections. With our development of a Universal Cancer Vaccine platform, we look forward to the day when treating cancer will be as simple as getting a flu shot – <span>We believe immunotherapy is a better way to treat cancer.</span></p>
                         <p>CancerVAX has exclusive rights to license and commercialize the technology and patents that result from these UCLA research programs.</p>
-
-
-                        <div class="additional">Additional Immunotherapy Projects</div>
                         <h5>Additional Immunotherapy Projects</h5>
                         <p>In addition to our Universal Cancer Vaccine platform, we are also working with UCLA to create two other immunotherapy technologies.</p>
 
