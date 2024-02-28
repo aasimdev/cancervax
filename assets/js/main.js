@@ -1,12 +1,22 @@
 $(function () {
-    $(window).scroll(function(){
+    $(window).scroll(function () {
         if ($(window).scrollTop() >= 50) {
-          $('.header-top').addClass('fixed');
-         }
-         else {
-          $('.header-top').removeClass('fixed');
-         }
-      });
+            $('.header-top').addClass('fixed');
+        }
+        else {
+            $('.header-top').removeClass('fixed');
+        }
+    });
+
+    $("[href^='#']").click(function () {
+        id = $(this).attr("href");
+        console.log('asdfasdfa sdfasdfasd fasd fa sdf');
+        $('html, body').animate({
+            scrollTop: $(id).offset().top - 253.42
+        });
+    });
+
+
     const teamModal = new bootstrap.Modal(document.getElementById('team'));
     $('.team-box-img').on('click', function (e) {
         e.preventDefault();

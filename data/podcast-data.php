@@ -1,12 +1,28 @@
 <?php
 $videos = [
     [
+        'title' => "CancerVax News Commentary",
+        'videoID' => "wuGFRaoGPSo",
+        'date' => "February 27, 2024",
+        'category' => "news-commentary-commentary",
+        'slug' => "cancervax-news",
+        'scope' => "public"
+    ],
+    [
         'title' => "CancerVax News",
         'videoID' => "guuT0fk6wOQ",
         'date' => "February 18, 2024",
         'category' => "news-commentary",
         'slug' => "cancervax-news",
         'scope' => "public"
+    ],
+    [
+        'title' => "Rob Etherington - CEO/President at Clene Nanomedicine",
+        'videoID' => "a7ycw2A94uI",
+        'date' => "February 12, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "rob-etherington-president-at-clene-nanomedicine",
+        'scope' => "private"
     ],
     [
         'title' => "Ken Horton - Patent Lawyer - Intellectual Property Law",

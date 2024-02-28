@@ -45,7 +45,6 @@
     <link rel="stylesheet" href="<?php echo  $full_url; ?>/assets/css/slick.min.css">
     <link rel="stylesheet" href="<?php echo  $full_url; ?>/assets/css/slick-theme.min.css">
     <link rel="stylesheet" href="<?php echo  $full_url; ?>/assets/css/style.min.css">
-    <link rel="stylesheet" href="<?php echo  $full_url; ?>/assets/css/modal.style.css">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-7D9TX20JND"></script>
@@ -122,12 +121,12 @@
                 align-items: center;
                 justify-content: center;
                 width: 30px;
-    height: 30px;
+                height: 30px;
             }
         </style>
-        <iframe src="https://api.leadconnectorhq.com/widget/form/9FhG94iUqdLfUS9ybhYu" style="display:none;width:100%;height:100%;border:none;border-radius:1px" id="popup-9FhG94iUqdLfUS9ybhYu" data-layout="{'id':'POPUP'}" data-trigger-type="alwaysShow" data-trigger-value="" data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="neverDeactivate" data-deactivation-value="" data-form-name="Text Alerts" data-height="537" data-layout-iframe-id="popup-9FhG94iUqdLfUS9ybhYu" data-form-id="9FhG94iUqdLfUS9ybhYu" title="Text Alerts">
+        <!-- <iframe src="https://api.leadconnectorhq.com/widget/form/9FhG94iUqdLfUS9ybhYu" style="display:none;width:100%;height:100%;border:none;border-radius:1px" id="popup-9FhG94iUqdLfUS9ybhYu" data-layout="{'id':'POPUP'}" data-trigger-type="alwaysShow" data-trigger-value="" data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="neverDeactivate" data-deactivation-value="" data-form-name="Text Alerts" data-height="537" data-layout-iframe-id="popup-9FhG94iUqdLfUS9ybhYu" data-form-id="9FhG94iUqdLfUS9ybhYu" title="Text Alerts">
 
-        </iframe>
+        </iframe> -->
         <script src="https://link.msgsndr.com/js/form_embed.js"></script>
     <?php } ?>
 
