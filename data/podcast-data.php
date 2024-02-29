@@ -4,8 +4,8 @@ $videos = [
         'title' => "CancerVax News Commentary",
         'videoID' => "wuGFRaoGPSo",
         'date' => "February 27, 2024",
-        'category' => "news-commentary-commentary",
-        'slug' => "cancervax-news",
+        'category' => "news-commentary",
+        'slug' => "cancervax-news-commentary",
         'scope' => "public"
     ],
     [
