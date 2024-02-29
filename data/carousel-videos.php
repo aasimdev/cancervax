@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "CancerVax News Commentary",
+        'videoID' => "wuGFRaoGPSo",
+        'date' => "February 27, 2024",
+        'category' => "news-commentary",
+        'slug' => "cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
         'title' => "CancerVax News",
         'videoID' => "guuT0fk6wOQ",
         'date' => "February 18, 2024",
@@ -30,15 +38,6 @@ $videos = [
         'date' => "October 3, 2023",
         'category' => "news-commentary",
         'slug' => "nobel-prize-goes-to-scientists-behind-mrna-covid-vaccines",
-        'scope' => "public"
-    ],
-
-    [
-        'title' => "Zoleka Mandela",
-        'videoID' => "vQKXp2rZN8Y",
-        'date' => "September 30, 2023",
-        'category' => "news-commentary",
-        'slug' => "zoleka-mandela",
         'scope' => "public"
     ]
 ];
