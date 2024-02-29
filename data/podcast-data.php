@@ -1,6 +1,38 @@
 <?php
 $videos = [
     [
+        'title' => "CancerVax News Commentary",
+        'videoID' => "wuGFRaoGPSo",
+        'date' => "February 27, 2024",
+        'category' => "news-commentary",
+        'slug' => "cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "CancerVax News",
+        'videoID' => "guuT0fk6wOQ",
+        'date' => "February 18, 2024",
+        'category' => "news-commentary",
+        'slug' => "cancervax-news",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Rob Etherington - CEO/President at Clene Nanomedicine",
+        'videoID' => "a7ycw2A94uI",
+        'date' => "February 12, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "rob-etherington-president-at-clene-nanomedicine",
+        'scope' => "private"
+    ],
+    [
+        'title' => "Ken Horton - Patent Lawyer - Intellectual Property Law",
+        'videoID' => "qH0mzQEm7aM",
+        'date' => "February 22, 2024 ",
+        'category' => "ceo-podcast",
+        'slug' => "ken-horton-patent-lawyer-intellectual-property-law",
+        'scope' => "private"
+    ],
+    [
         'title' => "Ann Romney Discusses Immunotherapy with CancerVAX CEO",
         'videoID' => "Pv0cUKdpL_I",
         'date' => "November 12, 2023",
