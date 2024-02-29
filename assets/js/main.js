@@ -1,5 +1,12 @@
 $(function () {
-
+    $(window).scroll(function(){
+        if ($(window).scrollTop() >= 50) {
+          $('.header-top').addClass('fixed');
+         }
+         else {
+          $('.header-top').removeClass('fixed');
+         }
+      });
     const teamModal = new bootstrap.Modal(document.getElementById('team'));
     $('.team-box-img').on('click', function (e) {
         e.preventDefault();
@@ -175,31 +182,7 @@ $(function () {
 })
 
 
-$(function () {
-    const second = 1000,
-        minute = second * 60,
-        hour = minute * 60,
-        day = hour * 24;
 
-    // Set the target date and time for the countdown (November 7th at midnight, Pacific Time)
-    const targetDate = new Date('2023-11-07T00:00:00-08:00'); // Pacific Time (PST, UTC-8)
-
-    const x = setInterval(function () {
-        const now = new Date().getTime();
-        const distance = targetDate - now;
-
-        if (distance < 0) {
-            document.getElementById("countdown").style.display = "none";
-            clearInterval(x);
-        } else {
-            // Update the countdown
-            document.getElementById("days").innerText = Math.floor(distance / day);
-            document.getElementById("hours").innerText = Math.floor((distance % day) / hour);
-            document.getElementById("minutes").innerText = Math.floor((distance % hour) / minute);
-            document.getElementById("seconds").innerText = Math.floor((distance % minute) / second);
-        }
-    }, 1000); // Update every 1 second
-})();
 
 
 if (!$('.invkeywords').length == 0) {
@@ -241,3 +224,28 @@ if ($('.particleinn').length != 0) {
 }
 
 
+$(function () {
+    const second = 1000,
+        minute = second * 60,
+        hour = minute * 60,
+        day = hour * 24;
+
+    // Set the target date and time for the countdown (November 7th at midnight, Pacific Time)
+    const targetDate = new Date('2023-11-07T00:00:00-08:00'); // Pacific Time (PST, UTC-8)
+
+    const x = setInterval(function () {
+        const now = new Date().getTime();
+        const distance = targetDate - now;
+
+        if (distance < 0) {
+            document.getElementById("countdown").style.display = "none";
+            clearInterval(x);
+        } else {
+            // Update the countdown
+            document.getElementById("days").innerText = Math.floor(distance / day);
+            document.getElementById("hours").innerText = Math.floor((distance % day) / hour);
+            document.getElementById("minutes").innerText = Math.floor((distance % hour) / minute);
+            document.getElementById("seconds").innerText = Math.floor((distance % minute) / second);
+        }
+    }, 1000); // Update every 1 second
+})();

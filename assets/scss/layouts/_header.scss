@@ -1,15 +1,23 @@
+.header-top{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9;
+    &.fixed{
+        background-color: #000;
+        transition: all .5s ease;
+    }
+}
 .invest-bar {
     background-color: #1d8f97;
     padding: 0 45px;
-    position: sticky;
-    top: 0;
+    // position: sticky;
+    // top: 0;
     z-index: 9;
     min-height: 62px;
     display: flex;
     align-items: center;
-    @media (max-width: 576px) {
-       display: none;
-    }
+ 
     &-text {
         display: flex;
         align-items: center;
@@ -54,7 +62,7 @@
 .navbar {
     padding: 15px 30px;
     background: transparent;
-    position: absolute;
+    // position: absolute;
     width: 100%;
     z-index: 2;
 

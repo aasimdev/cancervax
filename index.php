@@ -21,10 +21,23 @@ include('header.php'); ?>
             <div class="row align-items-center">
                 <div class="col-lg-7">
                     <div class="banner-text">
-                        <h1>Using the Body’s Immune <br> System to Fight Cancer</h1>
-                        <p>CancerVAX is a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer. Our goal is to develop transformative therapies to protect and improve people’s lives.</p>
+                        <h1> Creating a Better Way <br> to Treat Cancer <br> <span>Universal Cancer Vaccine</span></h1>
+                        <div class="banner-video d-lg-none">
+                            <div class="banner-thumbnail">
+                                <img src="https://i.ytimg.com/vi/2OHGmKOqOYE/maxresdefault.jpg" alt="thumbnail">
+                            </div>
+                            <a href="http://www.youtube.com/watch?v=2OHGmKOqOYE" class="theme-btn text-uppercase popup-youtube">
+                                <i class="far fa-play-circle"></i>
+                                <span>Watch video</span>
+                            </a>
+                        </div>
+                        <p>Working with a world-class team of experienced cancer researchers and physicians at UCLA, we are creating a breakthrough Universal Cancer Vaccine platform (UCV).</p>
+                        <p> This cancer treatment is designed to be customizable, be administered as a shot, and leverage state-of-the-art bioengineering and molecular technologies.</p>
+                        <p> Our innovative approach detects, marks, and kills cancer cells exclusively. By inducing cancer cells to express a distinct marker absent in healthy cells, custom antibody drugs and the body's immune cells can precisely target and eradicate cancer cells.</p>
+                        <p> Cancer is the second leading cause of death in the US, following heart disease. While we don’t have a solution to prevent cancer, our objective is to develop our Universal Cancer Vaccine platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities.</p>
 
-                        <div class="banner-video">
+
+                        <!-- <div class="banner-video">
                             <div class="banner-thumbnail">
                                 <img src="https://i.ytimg.com/vi/IySdl6Eo0rw/maxresdefault.jpg" alt="thumbnail">
                             </div>
@@ -32,11 +45,20 @@ include('header.php'); ?>
                                 <i class="far fa-play-circle"></i>
                                 <span>Watch video</span>
                             </a>
-                        </div>
+                        </div> -->
 
                     </div>
                 </div>
                 <div class="col-lg-5">
+                    <div class="banner-video d-none d-lg-block">
+                        <div class="banner-thumbnail">
+                            <img src="https://i.ytimg.com/vi/2OHGmKOqOYE/maxresdefault.jpg" alt="thumbnail">
+                        </div>
+                        <a href="http://www.youtube.com/watch?v=2OHGmKOqOYE" class="theme-btn text-uppercase popup-youtube">
+                            <i class="far fa-play-circle"></i>
+                            <span>Watch video</span>
+                        </a>
+                    </div>
                     <div class="banner-object">
                         <div class="objectd">
                             <img src="./assets/img/banner-object.png" alt="object">
@@ -59,9 +81,26 @@ include('header.php'); ?>
         <div class="devPlan-wrap">
             <div class="devPlan-heading">
                 <h3>Our Development Pipeline</h3>
-                <p>All of our immunotherapy technologies are designed to be delivered as simple injections.
+                <p>In addition to our Universal Cancer Vaccine platform, we are also working with UCLA to create two other immunotherapy technologies.</p>
+            </div>
+            <div class="devPlan-item">
+                <div class="row align-items-center">
+                    <div class="col-lg-3">
+                        <div class="devPlan-graphic">
 
-                    We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer. </p>
+                            <img src="./assets/img/universal-cart.png" alt="cancer">
+                        </div>
+                    </div>
+                    <div class="col-lg-9">
+                        <div class="devPlan-conten">
+                            <h6>Universal CAR-T Cell Platform (UCAR-T) </h6>
+                            <p>Our UCAR-T Cell platform is a novel and customizable low-cost cancer treatment platform, delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. Our goal is to lower the cost to a few thousand dollars per dose by helping the body make its own CAR T cells.
+                                 <br><br>
+                                Our Universal Cancer Vaccine platform and our UCAR-T Cell platform can be used separately, however, when used together, we believe that we can kill cancer cells with extreme precision using the body’s immune system at very low costs. Our Universal Cancer Vaccine platform detects and marks a unique target and our UCAR-T Cell platform makes T-cells that attack that target.
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="devPlan-item">
                 <div class="row align-items-center">
@@ -72,13 +111,15 @@ include('header.php'); ?>
                     </div>
                     <div class="col-lg-9">
                         <div class="devPlan-conten">
-                            <h6>Children’s Cancer </h6>
-                            <p>A disease-specific immunotherapy targeted at treating Ewing sarcoma, a rare but deadly bone and soft tissue cancer that affects children and young adults. <span>Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%.</span> </p>
+                            <h6>Children’s Cancer</h6>
+                            <p>We are creating a disease-specific immunotherapy targeted at treating Ewing sarcoma, a rare but deadly bone and soft tissue cancer that affects children and young adults. <span>Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%.</span>
+                                    <br><br>
+                                All our immunotherapy technologies are designed to be delivered as simple injections. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer. </p>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="devPlan-item">
+            <!-- <div class="devPlan-item">
                 <div class="row align-items-center">
                     <div class="col-lg-3">
                         <div class="devPlan-graphic">
@@ -92,22 +133,8 @@ include('header.php'); ?>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="devPlan-item">
-                <div class="row align-items-center">
-                    <div class="col-lg-3">
-                        <div class="devPlan-graphic">
-                            <img src="./assets/img/universal-cart.png" alt="cancer">
-                        </div>
-                    </div>
-                    <div class="col-lg-9">
-                        <div class="devPlan-conten">
-                            <h6>Universal CAR-T Cell Platform (UCAR-T)</h6>
-                            <p>A novel and customizable low-cost treatment platform, to be delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. Our goal is to lower the cost to a few thousand dollars per dose by helping the body make its own CAR T-cells. </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            </div> -->
+
             <div class="devPlan-heading pt-4">
                 <p>UCV and UCAR-T can be used separately. However, when used together, we can kill cancer cells with extreme precision using the body’s immune system at very low costs. UCV detects and marks a unique target and UCAR-T makes T-cells attack that target.</p>
             </div>
@@ -168,7 +195,7 @@ include('header.php'); ?>
 
         foreach ($videos as $video) :
             $categoryName = ucwords(str_replace('-', ' ', $video['category']));
-            if($video['category'] === "ceo-podcast"){
+            if ($video['category'] === "ceo-podcast") {
                 $categoryName = "Podcast";
             }
         ?>
@@ -500,7 +527,7 @@ include('header.php'); ?>
     <div class="container">
         <h4>News Highlights</h4>
         <div class="row">
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-ceo-ryan-davies-discusses-cancer-drug-development-with-dr-ezra-cohen.php"></a>
                     <span>November 2, 2023 </span>
