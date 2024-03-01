@@ -2661,3 +2661,64 @@ label.error {
         margin-top: 50px;
     }
 }
+
+.faqs {
+    padding: 100px 0;
+
+    .col-md-8 {
+        &>h2 {
+            font-size: 34px;
+            font-weight: 500;
+            word-wrap: break-word;
+            text-align: center;
+            max-width: 740px;
+            margin-inline: auto;
+            line-height: 1.36em;
+            margin-bottom: 16px;
+        }
+    }
+
+
+    .accordion-item {
+        background-color: transparent;
+        border: 0;
+        border-bottom: 1px solid #fff;
+        &:last-of-type{
+            border-bottom: 1px solid #fff; 
+        }
+    }
+
+    .accordion-button {
+        color: #fdfdfd;
+        text-align: left;
+        background-color: transparent;
+        padding: 24px 16px;
+        font-size: 18px;
+
+        &:focus {
+            box-shadow: none;
+        }
+
+        &::after {
+            background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'><path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/></svg>")
+        }
+    }
+
+    .accordion-body {
+        padding: 0 16px 24px;
+
+        p {
+            font-size: 16px;
+            line-height: 1.3;
+            letter-spacing: 0;
+            color: #fdfdfd;
+
+            a {
+                color: #1d8f97;
+            }
+        }
+    }
+    #accordionFlushExample{
+        margin-bottom: 100px;
+    }
+}

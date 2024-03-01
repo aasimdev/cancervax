@@ -106,7 +106,7 @@ include "header.php";
                                         <div class="cardActual">
                                             $2.10
                                         </div>
-                                        <div class="cardPrice">
+                                        <div class="cardPrice" id="bonus-shares">
                                             BONUS SHARES
                                         </div>
                                         <div class="cardActualBottom">Up to 30%</div>
