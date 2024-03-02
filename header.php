@@ -98,7 +98,31 @@
 
 </head>
 
+
+<!-- Google Tag Manager -->
+<script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-K6D95QZP');
+</script>
+<!-- End Google Tag Manager -->
+
 <body>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6D95QZP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <?php
     $page_name = basename($_SERVER['PHP_SELF']);
@@ -122,7 +146,7 @@
                 align-items: center;
                 justify-content: center;
                 width: 30px;
-    height: 30px;
+                height: 30px;
             }
         </style>
         <iframe src="https://api.leadconnectorhq.com/widget/form/9FhG94iUqdLfUS9ybhYu" style="display:none;width:100%;height:100%;border:none;border-radius:1px" id="popup-9FhG94iUqdLfUS9ybhYu" data-layout="{'id':'POPUP'}" data-trigger-type="alwaysShow" data-trigger-value="" data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="neverDeactivate" data-deactivation-value="" data-form-name="Text Alerts" data-height="537" data-layout-iframe-id="popup-9FhG94iUqdLfUS9ybhYu" data-form-id="9FhG94iUqdLfUS9ybhYu" title="Text Alerts">
