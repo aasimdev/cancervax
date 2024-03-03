@@ -48,6 +48,16 @@
   padding: 0 40px;
   border-bottom: 2px solid #e2e2e2;
 
+  .nav-pills .nav-link {
+    border-radius: 0;
+
+    &.active,
+    &:hover {
+      color: #191a1d;
+      background-color: transparent;
+    }
+  }
+
   a {
     padding: 14px 19px 0px;
     font-size: 14px;
@@ -132,6 +142,15 @@
   }
 }
 
+.prob-block {
+  margin-top: 40px;
+}
+
+.prob-img {
+  margin: 60px auto 0px;
+  max-width: 530px;
+}
+
 .odp-main {
   h4 {
     color: #191a1d;
@@ -163,6 +182,11 @@
 
 .currentCard {
   margin-top: 25px;
+}
+
+.offer-main {
+  position: relative;
+  background: #fff;
 }
 
 .paraThreeCA {
@@ -301,8 +325,10 @@
   box-shadow: 0px 4px 4px 0px #b4b4b44d, 0px 8px 12px 6px #00000026;
   margin-left: 12px;
   position: sticky;
-  top: 254px;
+  top: 300px;
   width: 370px;
+  color: #191A1D;
+  margin: 50px auto;
 }
 
 .priceDetails {
@@ -322,12 +348,15 @@
   font-size: 18px;
   font-weight: 600;
   margin-bottom: 20px;
+  margin-top: 10px;
 }
 
 .cardActualBottom {
   font-size: 18px;
   font-weight: 600;
   margin-bottom: 20px;
+  display: inline-block;
+  margin-top: 10px;
 }
 
 .brokerCard {
@@ -347,7 +376,6 @@
 
 /* 3rd Section */
 .problemSection {
-  background-color: #f5f5f3;
   padding: 50px 0;
   color: #191a1d;
 
@@ -372,14 +400,14 @@
 .marketSection {
   h6 {
     color: #191a1d;
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 500;
     line-height: 1;
   }
 
   h4 {
-    font-size: 32px;
-    font-weight: 500;
+    font-size: 42px;
+    font-weight: 700;
     margin: 5px 0 50px 0;
   }
 }
@@ -408,6 +436,8 @@
 .learnImg {
   display: flex;
   justify-content: end;
+  max-width: 387px;
+  margin-top: 32px;
 }
 
 .img-fluid-ca {
@@ -439,8 +469,14 @@
   color: #191a1d;
   font-weight: 500;
   font-size: 26px;
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   position: relative;
+  text-align: center;
+
+  sup {
+    font-size: 16px;
+    top: -12px;
+  }
 }
 
 .billion-text-last {
@@ -475,7 +511,6 @@
 
 .priceDescription {
   padding: 50px 0;
-  background-color: #f5f5f3;
   color: #191a1d;
 
   h4 {
@@ -524,12 +559,12 @@
 
   h4 {
     color: #191a1d;
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 500;
   }
 
   h5 {
-    font-size: 32px;
+    font-size: 42px;
     color: #191a1d;
     font-weight: 500;
     line-height: 56.25px;
@@ -562,6 +597,7 @@
 
 .offerGreenSpace {
   margin-bottom: 40px;
+  padding-left: 140px;
 }
 
 .offerGreenSpaceOP {
@@ -578,7 +614,7 @@
 .offer-price {
   font-size: 20px;
   font-weight: 600;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }
 
 .min-inv {
@@ -618,18 +654,6 @@
   font-weight: 600;
 }
 
-@media screen and (max-width: 768px) {
-  .investment-table {
-    display: block;
-    white-space: nowrap;
-  }
-
-  .investment-table th,
-  .investment-table td {
-    display: inline-block;
-    min-width: 150px;
-  }
-}
 
 .spa-up {
   margin: 100px 0 50px 0;
@@ -708,6 +732,65 @@
   border-bottom: 0;
 }
 
+.priceCardmob {
+  box-shadow: rgba(0, 0, 0, 0.03) -0.217625px -6.99662px 28px, rgba(0, 0, 0, 0.02) -0.141053px -4.53484px 16.3981px, rgba(0, 0, 0, 0.016) -0.0838259px -2.69499px 8.91852px, rgba(0, 0, 0, 0.01) -0.043525px -1.39932px 4.55px, rgba(0, 0, 0, 0.01) -0.0177324px -0.570095px 2.28148px, rgba(0, 0, 0, 0.008) -0.00403009px -0.129567px 1.10185px;
+  background: rgb(255, 255, 255);
+  width: 100%;
+  display: flex;
+  padding: 20px 0px;
+  justify-content: space-around;
+  -webkit-box-align: center;
+  align-items: center;
+  position: fixed;
+  bottom: 0px;
+  z-index: 10;
+
+  &-text {
+    p {
+      color: #000;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 700;
+      letter-spacing: 0;
+      line-height: 25px;
+
+      span {
+        border-radius: 14.161px;
+        background: #85E9ED;
+        display: inline-block;
+        padding: 0px 6px;
+      }
+    }
+
+    a {
+      color: #000;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 25px;
+      text-decoration-line: underline;
+    }
+  }
+
+  .offerInvest {
+    a {
+      margin: 0 !important;
+      width: auto;
+      border-radius: 10px;
+      background: #1D8F97;
+      box-shadow: 0px 1px 2px 0px rgba(105, 81, 255, 0.05);
+      padding: 12px 18px;
+      color: #fff;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 24px;
+      /* 150% */
+      text-transform: uppercase;
+    }
+  }
+}
+
 /* Responsive */
 @media (max-width: 991px) {
   .first-mobile {
@@ -739,6 +822,10 @@
     .small-number {
       display: none;
     }
+  }
+
+  .offerInvest {
+    text-align: center;
   }
 }
 
@@ -1123,6 +1210,12 @@
       }
     }
   }
+
+  .investment-table th,
+  .investment-table td {
+    // display: inline-block;
+    min-width: 150px;
+  }
 }
 
 @media (max-width: 576px) {
@@ -1174,16 +1267,28 @@
   .investor-navbar {
     padding: 0;
     width: 100%;
-    overflow-x: auto;
+
+    .nav-pills {
+      justify-content: space-between;
+      width: 100%;
+      overflow-x: auto;
+    }
 
     a {
-      height: 71px;
-      min-width: 130px;
-      padding: 14px 0px 0px;
+      height: 50px;
+      padding: 0px;
     }
   }
 
   .nav-section {
     top: 130.38px;
+    padding: 0 0 16px;
   }
+
+  .prob-img {
+    margin: 20px auto 0px;
+  }
+  .prob-block {
+    margin-top: 20px;
+}
 }

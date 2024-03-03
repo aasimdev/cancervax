@@ -10,12 +10,10 @@ $(function () {
 
     $("[href^='#']").click(function () {
         id = $(this).attr("href");
-        console.log('asdfasdfa sdfasdfasd fasd fa sdf');
         $('html, body').animate({
             scrollTop: $(id).offset().top - 253.42
         });
     });
-
 
     const teamModal = new bootstrap.Modal(document.getElementById('team'));
     $('.team-box-img').on('click', function (e) {
@@ -192,6 +190,24 @@ $(function () {
 })
 
 
+$(document).ready(function () {
+    $(window).scroll(function () {
+        var offerMain = $('.offer-main');
+        var priceCardmob = $('.priceCardmob');
+
+        // Get the top position of offer-main relative to the viewport
+        var offerMainTop = offerMain.offset().top;
+        var offerMainBottom = offerMainTop + offerMain.outerHeight();
+        var viewportBottom = $(window).scrollTop() + $(window).height();
+
+        // If the top of offer-main is within the viewport, show the priceCardmob, otherwise hide it
+        if (offerMainTop < viewportBottom && offerMainBottom > $(window).scrollTop()) {
+            priceCardmob.css('display', 'flex');
+        } else {
+            priceCardmob.css('display', 'none');
+        }
+    });
+});
 
 
 
@@ -234,28 +250,28 @@ if ($('.particleinn').length != 0) {
 }
 
 
-$(function () {
-    const second = 1000,
-        minute = second * 60,
-        hour = minute * 60,
-        day = hour * 24;
+// $(function () {
+//     const second = 1000,
+//         minute = second * 60,
+//         hour = minute * 60,
+//         day = hour * 24;
 
-    // Set the target date and time for the countdown (November 7th at midnight, Pacific Time)
-    const targetDate = new Date('2023-11-07T00:00:00-08:00'); // Pacific Time (PST, UTC-8)
+//     // Set the target date and time for the countdown (November 7th at midnight, Pacific Time)
+//     const targetDate = new Date('2023-11-07T00:00:00-08:00'); // Pacific Time (PST, UTC-8)
 
-    const x = setInterval(function () {
-        const now = new Date().getTime();
-        const distance = targetDate - now;
+//     const x = setInterval(function () {
+//         const now = new Date().getTime();
+//         const distance = targetDate - now;
 
-        if (distance < 0) {
-            document.getElementById("countdown").style.display = "none";
-            clearInterval(x);
-        } else {
-            // Update the countdown
-            document.getElementById("days").innerText = Math.floor(distance / day);
-            document.getElementById("hours").innerText = Math.floor((distance % day) / hour);
-            document.getElementById("minutes").innerText = Math.floor((distance % hour) / minute);
-            document.getElementById("seconds").innerText = Math.floor((distance % minute) / second);
-        }
-    }, 1000); // Update every 1 second
-})();
+//         if (distance < 0) {
+//             document.getElementById("countdown").style.display = "none";
+//             clearInterval(x);
+//         } else {
+//             // Update the countdown
+//             document.getElementById("days").innerText = Math.floor(distance / day);
+//             document.getElementById("hours").innerText = Math.floor((distance % day) / hour);
+//             document.getElementById("minutes").innerText = Math.floor((distance % hour) / minute);
+//             document.getElementById("seconds").innerText = Math.floor((distance % minute) / second);
+//         }
+//     }, 1000); // Update every 1 second
+// })();
