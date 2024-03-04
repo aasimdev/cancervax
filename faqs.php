@@ -14,7 +14,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8">
-                <h2>Investment Portal FAQ</h2>
+                <h2>CancerVax, Inc Investment Portal FAQ</h2>
                 <div class="accordion accordion-flush" id="accordionFlushExample">
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingOne">
@@ -73,7 +73,7 @@ include('header.php'); ?>
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingThree">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5" aria-expanded="false" aria-controls="faq5">
-                                How do I Is there a minimum investment amount?
+                                Is there a minimum investment amount?
                             </button>
                         </h2>
                         <div id="faq5" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">

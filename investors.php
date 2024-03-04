@@ -16,7 +16,7 @@ include "header.php";
                         <div class="heroSection-content">
                             <h2> Using the Body’s Immune System to Fight Cancer</h2>
                             <div class="video-section first-mobile text-center">
-                                <a href="https://www.youtube.com/watch?v=QNFte4x413Y" target="_blank">
+                                <a href="https://www.youtube.com/watch?v=QNFte4x413Y" class="popup-youtube">
                                     <img src="assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
                                     <div class="reason">4 Reasons to invest</div>
                                 </a>
@@ -81,12 +81,12 @@ include "header.php";
                                 <div class="investReasons">
                                     <div class="wrapInvest">
                                         <div class="reasonNumber">1</div>
-                                        <p>According to the American Cancer Society,<span> cancer is the second leading cause of death in the United States in 2022,</span> more than COVID deaths. According to Fortune Business Insights, the global cancer drugs market is projected to grow from $205 billion in 2023 to <a href="#">$484 billion by 2030</a></p>
+                                        <p>According to the American Cancer Society,<span> cancer is the second leading cause of death in the United States in 2022,</span> more than COVID deaths. According to Fortune Business Insights, the global cancer drugs market is projected to grow from $205 billion in 2023 to <a href="#">$484 billion by 2030 </a><sup>(2)</sup>.</p>
                                     </div>
 
                                     <div class="wrapInvest">
                                         <div class="reasonNumber">2</div>
-                                        <p>Cancer affects many lives as the second leading cause of death in the US. While we don’t have a solution to prevent cancer, our objective is to develop our Universal Cancer Vaccine platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities.</p>
+                                        <p>Cancer affects many lives as the second leading cause of death in the US. <sup>(1)</sup> While we don’t have a solution to prevent cancer, our objective is to develop our Universal Cancer Vaccine platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities. </p>
                                     </div>
 
                                     <div class="wrapInvest">
@@ -110,7 +110,7 @@ include "header.php";
 
                             <div class="prob-block">
                                 <h4> Help Millions Get Better, Without Feeling Worse</h4>
-                                <p> Cancer is the second leading cause of death in the United States – responsible for more than 1.9 million diagnosed cases and 609,360 deaths in 2022.</p>
+                                <p> Cancer is the second leading cause of death in the United States – responsible for more than 1.9 million diagnosed cases and 609,360 deaths in 2022. <sup>(3)</sup></p>
                                 <div class="prob-img mt-4">
                                     <img src="assets/img/solution1.png" alt="hero" class="img-fluid">
                                 </div>
