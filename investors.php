@@ -321,7 +321,8 @@ include "header.php";
 
                                 </div>
                             </div>
-                            <h4 id="bonus-shared">Bonus Shares</h4>
+                            <a name="bonus-shared" style="position: relative; top:-260px"></a>
+                            <h4>Bonus Shares</h4>
                             <h5>Invest More And Get More!</h5>
                             <p>Investors in this offering are eligible to receive bonus shares of Common Stock, which effectively gives them a discount on their investment.  Investors receiving the Bonus Shares will pay an effective price less than the $2.10 offering price.</p>
                             <div class="invest-table">
