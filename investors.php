@@ -377,7 +377,7 @@ include "header.php";
                                 </table>
                             </div>
                             <h4 id="updates">Updates</h4>
-                            <div class="placeholder-he">Placeholder</div>
+                            <div class="placeholder-he"></div>
                             <h4>Market Statistics</h4>
 
                             <div class="link-placeholder">
