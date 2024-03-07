@@ -46,7 +46,13 @@
 .investor-navbar {
   display: inline-flex;
   padding: 0 40px;
-  border-bottom: 2px solid #e2e2e2;
+
+  justify-content: center;
+  width: 100%;
+
+  .nav-pills {
+    border-bottom: 2px solid #e2e2e2;
+  }
 
   .nav-pills .nav-link {
     border-radius: 0;
@@ -60,8 +66,8 @@
 
   a {
     padding: 14px 19px 0px;
-    font-size: 14px;
-    font-weight: 700;
+    font-size: 18px;
+    font-weight: 500;
     color: #191a1d;
     height: 70px;
     display: inline-flex;
@@ -357,6 +363,11 @@
   margin-bottom: 20px;
   display: inline-block;
   margin-top: 10px;
+  text-decoration: underline;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 .brokerCard {
@@ -375,6 +386,24 @@
 }
 
 /* 3rd Section */
+.prob-video {
+  margin-top: 32px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 16px;
+
+  i {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+    font-size: 100px;
+    color: #fff;
+    text-shadow: 1px 0 6px rgba(0, 0, 0, .3);
+  }
+}
+
 .problemSection {
   padding: 50px 0;
   color: #191a1d;
@@ -789,6 +818,10 @@
       text-transform: uppercase;
     }
   }
+}
+
+.pipeline-virus-left {
+  max-width: 600px;
 }
 
 /* Responsive */
@@ -1288,7 +1321,12 @@
   .prob-img {
     margin: 20px auto 0px;
   }
+
   .prob-block {
     margin-top: 20px;
-}
+  }
+
+  .prob-video i {
+    font-size: 64px;
+  }
 }

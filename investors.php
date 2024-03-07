@@ -27,16 +27,13 @@ include "header.php";
                         </div>
 
                         <div class="offerInvest">
-                            <a href="#">Invest Here</a>
+                            <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here</a>
                         </div>
                     </div>
                     <div class="col-lg-6 d-none d-lg-block">
                         <div class="video-section">
                             <a href="https://www.youtube.com/watch?v=QNFte4x413Y" class="popup-youtube">
-                                <div>
-                                    <img src="assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
-                                    <div class="reason mt-2">4 Reasons to invest</div>
-                                </div>
+                                <img src="assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
                             </a>
                         </div>
                     </div>
@@ -62,7 +59,7 @@ include "header.php";
                             <a class="nav-link" href="#bonus-shared">Bonus Shared</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/faqs">FAQ</a>
+                            <a class="nav-link" href="/faqs" target="_blank">FAQ</a>
                         </li>
                     </ul>
                 </div>
@@ -71,8 +68,8 @@ include "header.php";
 
         <div class="offer-main">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-6">
+                <div class="row justify-content-lg-between">
+                    <div class="col-lg-7">
                         <!-- 2nd Section -->
                         <div class="investSection">
                             <div class="offeringTitleTwoWrap">
@@ -107,6 +104,12 @@ include "header.php";
                             <h3>The Problem & Our Solution -
                                 Universal Cancer Vaccine Platform</h3>
 
+                                <div class="prob-video">
+                                    <a href="https://www.youtube.com/watch?v=zbnhGW5Zz4c" class="popup-youtube">
+                                        <img src="./assets/img/ucv-thumbnail.png" alt="ucv-thumbnail">
+                                        <i class="far fa-play-circle"></i>
+                                    </a>
+                                </div>
 
                             <div class="prob-block">
                                 <h4> Help Millions Get Better, Without Feeling Worse</h4>
@@ -140,7 +143,6 @@ include "header.php";
                                 <h4>Our Development Pipeline</h4>
                                 <a class="video-section-our popup-youtube" href="http://www.youtube.com/watch?v=2OHGmKOqOYE">
                                     <img src="assets/img/opd-ucla-offer.png" alt="hero" class="img-fluid w-100 d-block">
-                                    <div class="reason">Our Development Pipeline</div>
                                 </a>
                                 <p>In recent years, advances in science and biotechnology have proven that the body’s immune system is very effective at targeting and killing abnormal cells, germs and viruses, and has been doing it since the beginning of time. The problem is that cancer is not a foreign invader and grows much faster than the body’s normal immune response rate.</p>
                                 <p>Much like COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer immunotherapies can train the body to target and destroy specific cancer cells. <span> Cancer immunotherapies are also known as cancer treatment vaccines.</span> </p>
@@ -163,8 +165,9 @@ include "header.php";
                             </div>
                             <div class="pipeline-virus-left">
                                 <img src="assets/img/pipeline-virus-left.jpg" alt="hero" class="img-fluid">
+                                <img src="assets/img/pipeline-virus-right.jpg" alt="hero" class="img-fluid">
                             </div>
-                            <img src="assets/img/pipeline-virus-right.jpg" alt="hero" class="img-fluid">
+                           
 
 
                             <div class="Children">
@@ -424,11 +427,11 @@ include "header.php";
                         </div>
 
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-4">
                         <div class="priceCardLeft d-none d-lg-block">
 
                             <div class="offerInvestTwo">
-                                <a href="#">Invest Here</a>
+                                <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here</a>
                             </div>
 
                             <div class="priceDetails">
@@ -470,7 +473,7 @@ include "header.php";
                     <a href="#">Earn Bonus Shares</a>
                 </div>
                 <div class="offerInvest">
-                    <a href="#">Invest Here</a>
+                    <a href="#" href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here</a>
                 </div>
             </div>
         </div>
