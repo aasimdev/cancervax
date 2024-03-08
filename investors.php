@@ -18,7 +18,6 @@ include "header.php";
                             <div class="video-section first-mobile text-center">
                                 <a href="https://www.youtube.com/watch?v=QNFte4x413Y" class="popup-youtube">
                                     <img src="assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
-                                    <div class="reason">4 Reasons to invest</div>
                                 </a>
                             </div>
                             <p> CancerVAX is a pre-clinical biotech company working with a world-class team of experienced cancer researchers and physicians at UCLA to create a breakthrough Universal Cancer Vaccine platform (UCV).</p>
