@@ -104,12 +104,12 @@ include "header.php";
                             <h3>The Problem & Our Solution -
                                 Universal Cancer Vaccine Platform</h3>
 
-                                <div class="prob-video">
-                                    <a href="https://www.youtube.com/watch?v=zbnhGW5Zz4c" class="popup-youtube">
-                                        <img src="./assets/img/ucv-thumbnail.png" alt="ucv-thumbnail">
-                                        <i class="far fa-play-circle"></i>
-                                    </a>
-                                </div>
+                            <div class="prob-video">
+                                <a href="https://www.youtube.com/watch?v=zbnhGW5Zz4c" class="popup-youtube">
+                                    <img src="./assets/img/ucv-thumbnail.png" alt="ucv-thumbnail">
+                                    <i class="far fa-play-circle"></i>
+                                </a>
+                            </div>
 
                             <div class="prob-block">
                                 <h4> Help Millions Get Better, Without Feeling Worse</h4>
@@ -155,7 +155,7 @@ include "header.php";
                                 <div class="universal-heading">
                                     Universal CAR-T Cell Platform (UCAR-T)
                                     <div class="learnMore mb-0 mt-3">
-                                        <a href="#">Learn More</a>
+                                        <a href="/pipeline">Learn More</a>
                                     </div>
                                 </div>
 
@@ -167,16 +167,14 @@ include "header.php";
                                 <img src="assets/img/pipeline-virus-left.jpg" alt="hero" class="img-fluid">
                                 <img src="assets/img/pipeline-virus-right.jpg" alt="hero" class="img-fluid">
                             </div>
-                           
+
 
 
                             <div class="Children">
-                                <div class="cardActualBottom">
-                                    Children’s Cancer
-                                </div>
+                                <h4> Children’s Cancer</h4>
 
                                 <div class="learnMore">
-                                    <a href="#">Learn More</a>
+                                    <a href="/pipeline">Learn More</a>
                                 </div>
 
                                 <div class="learnImg first-mobile"> <img src="assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
@@ -458,11 +456,7 @@ include "header.php";
                                     <a href="https://www.sec.gov/" target="_blank" class="cardActualBottom">See on SEC.gov</a>
                                 </div>
                             </div>
-                            <div class="brokerCard">BROKER DEALER
-                                <a href="https://dalmoregroup.com/about-dalmore/" target="_blank">
-                                    <img src="assets/img/DallMore.png" alt="hero" class="img-fluid">
-                                </a>
-                            </div>
+                           
                         </div>
                     </div>
                 </div>
