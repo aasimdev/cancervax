@@ -438,10 +438,10 @@ include "header.php";
                                     <div class="cardActual">
                                         $2.10
                                     </div>
-                                    <div class="cardPrice" id="bonus-shares">
+                                    <div class="cardPrice">
                                         BONUS SHARES
                                     </div>
-                                    <a href="#bonus-shared" class="cardActualBottom">Up to 30%</a>
+                                    <a href="#bonus-shares" class="cardActualBottom">Up to 30%</a>
                                 </div>
                                 <div>
                                     <div class=" cardPrice">
