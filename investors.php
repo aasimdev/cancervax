@@ -162,9 +162,8 @@ include "header.php";
 
                                 <p>Our Universal Cancer Vaccine platform and our UCAR-T Cell platform can be used separately, however, when used together, we believe that we can kill cancer cells with extreme precision using the body’s immune system at very low costs. Our Universal Cancer Vaccine platform detects and marks a unique target our UCAR-T Cell platform makes T-cells that attack that target.</p>
                             </div>
-                            <div class="pipeline-virus-left">
-                                <img src="assets/img/pipeline-virus-left.jpg" alt="hero" class="img-fluid">
-                                <img src="assets/img/pipeline-virus-right.jpg" alt="hero" class="img-fluid">
+                            <div class="pipeline-virus-left mt-4">
+                                <img src="assets/img/pipeline-virus-left.png" alt="hero" class="img-fluid">
                             </div>
 
 
