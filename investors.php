@@ -55,7 +55,7 @@ include "header.php";
                             <a class="nav-link" href="#updates">Updates</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#bonus-shared">Bonus Shared</a>
+                            <a class="nav-link" href="#bonus-shares">Bonus Shares</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/faqs" target="_blank">FAQ</a>
