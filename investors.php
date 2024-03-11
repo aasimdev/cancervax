@@ -103,12 +103,12 @@ include "header.php";
                             <h3>The Problem & Our Solution -
                                 Universal Cancer Vaccine Platform</h3>
 
-                            <div class="prob-video">
+                            <!-- <div class="prob-video">
                                 <a href="https://www.youtube.com/watch?v=zbnhGW5Zz4c" class="popup-youtube">
                                     <img src="./assets/img/ucv-thumbnail.png" alt="ucv-thumbnail">
                                     <i class="far fa-play-circle"></i>
                                 </a>
-                            </div>
+                            </div> -->
 
                             <div class="prob-block">
                                 <h4> Help Millions Get Better, Without Feeling Worse</h4>
@@ -454,7 +454,9 @@ include "header.php";
                                     <a href="https://www.sec.gov/" target="_blank" class="cardActualBottom">See on SEC.gov</a>
                                 </div>
                             </div>
-                           
+                            <div class="brokerCard">BROKER DEALER
+                            <img src="assets/img/DallMore.png" alt="hero" class="img-fluid">
+                            </div>
                         </div>
                     </div>
                 </div>
