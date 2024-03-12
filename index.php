@@ -412,7 +412,7 @@ include('header.php'); ?>
                             </a>
                         </div>
                         <h5>
-                            Christopher Seet, MD/phd
+                            Christopher Seet, MD/PHD
                         </h5>
                         <p>
                             Principal Investigator
