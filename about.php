@@ -120,7 +120,7 @@ include('header.php'); ?>
         </div>
     </div>
 </section>
-
+<a name="about-team"></a>
 <section class="coreTeam" id="team">
     <div class="container">
         <h3 style="text-align:center;color:black;margin-bottom:30px;">CancerVAX Team</h3>
@@ -202,7 +202,7 @@ include('header.php'); ?>
         </div>
     </div>
 </section>
-<a name="about-team"></a>
+
 <section class="otherteam">
     <div class="container">
         <h3 style="text-align:center;margin-bottom:35px;">UCLA Team</h3>
