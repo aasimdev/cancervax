@@ -320,8 +320,7 @@ include "header.php";
                                         </div>
                                         <div class="term-blo">
                                             <div class="offer-title">OFFERING CIRCULAR</div>
-                                            <a href="#" class="offer-price last-offer mb-0">See on SEC.gov</a>
-                                            <div ></div>
+                                            <a href="https://www.sec.gov/" target="_blank" class="offer-price last-offer mb-0">See on SEC.gov</a>
                                         </div>
                                     </div>
 
