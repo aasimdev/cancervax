@@ -233,7 +233,7 @@ include('header.php'); ?>
                         </a>
                     </div>
                     <h5>
-                        Satiro De Oliveira, MD
+                        Satiro de oliveira, MD
                     </h5>
                     <p>
                         Principal Investigator
@@ -242,7 +242,7 @@ include('header.php'); ?>
                         Watch Interview
                     </a>
                     <div class="team-description">
-                        <p>Dr. De Oliveira is a board-certified pediatrician and board-certified pediatric hematology/oncologist. He received his medical degree in Brazil and completed his pediatric residency at Woodhull Medical and Mental Health Center in New York and his pediatric hematology/oncology fellowship at the Children’s Hospital Lost Angeles. His clinical focus is on pediatric oncology and gene therapies and his research focus is on cancer immunotherapy and biology of stem cell transplantation.</p>
+                        <p>Dr. De Oliveira is a board-certified pediatrician and board-certified pediatric hematology/oncologist. He received his medical degree in Brazil and completed his pediatric residency at Woodhull Medical and Mental Health Center in New York and his pediatric hematology/oncology fellowship at the Children’s Hospital Los Angeles. His clinical focus is on pediatric oncology and gene therapies and his research focus is on cancer immunotherapy and biology of stem cell transplantation.</p>
                     </div>
                 </div>
             </div>
