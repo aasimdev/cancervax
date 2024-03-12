@@ -191,22 +191,22 @@ $(function () {
 
 
 $(document).ready(function () {
-    $(window).scroll(function () {
-        var offerMain = $('.offer-main');
-        var priceCardmob = $('.priceCardmob');
+    if (!$('.invkeywords').length == 0) {
+        $(window).scroll(function () {
+            var offerMain = $('.offer-main');
+            var priceCardmob = $('.priceCardmob');
 
-        // Get the top position of offer-main relative to the viewport
-        var offerMainTop = offerMain.offset().top;
-        var offerMainBottom = offerMainTop + offerMain.outerHeight();
-        var viewportBottom = $(window).scrollTop() + $(window).height();
+            var offerMainTop = offerMain.offset().top;
+            var offerMainBottom = offerMainTop + offerMain.outerHeight();
+            var viewportBottom = $(window).scrollTop() + $(window).height();
 
-        // If the top of offer-main is within the viewport, show the priceCardmob, otherwise hide it
-        if (offerMainTop < viewportBottom && offerMainBottom > $(window).scrollTop()) {
-            priceCardmob.css('display', 'flex');
-        } else {
-            priceCardmob.css('display', 'none');
-        }
-    });
+            if (offerMainTop < viewportBottom && offerMainBottom > $(window).scrollTop()) {
+                priceCardmob.css('display', 'flex');
+            } else {
+                priceCardmob.css('display', 'none');
+            }
+        });
+    }
 });
 
 
