@@ -274,10 +274,15 @@ include "header.php";
                                 <div class="the-team">
                                     <h5>The Team </h5>
                                 </div>
-                                <div class="d-none d-sm-block"> <img src="assets/img/offer-team.jpg" alt="hero" class="img-fluid">
+                                <div class="d-none d-sm-block">
+                                    <a href="/about">
+                                        <img src="assets/img/offer-team.jpg" alt="hero" class="img-fluid">
+                                    </a>
                                 </div>
-                                <div class="d-sm-none"> <img src="assets/img/Mobile_Team.png" alt="hero" class="img-fluid">
-
+                                <div class="d-sm-none">
+                                    <a href="/about">
+                                        <img src="assets/img/Mobile_Team.png" alt="hero" class="img-fluid">
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -286,9 +291,7 @@ include "header.php";
                         <div class="termSection" id='terms'>
                             <h4>Terms</h4>
                             <div class="term-card">
-                                <div class="offerGreen offerGreenSpace">
-                                    Overview
-                                </div>
+                               
                                 <div class="row justify-content-center">
                                     <div class="col-md-4">
                                         <div class="term-blo">
@@ -313,9 +316,13 @@ include "header.php";
                                         </div>
                                         <div class="term-blo">
                                             <div class="offer-title">SHARES OFFERED</div>
-                                            <div class="offer-price last-offer mb-0">Common Stock</div>
+                                            <div class="offer-price last-offer">Common Stock</div>
                                         </div>
-
+                                        <div class="term-blo">
+                                            <div class="offer-title">OFFERING CIRCULAR</div>
+                                            <a href="#" class="offer-price last-offer mb-0">See on SEC.gov</a>
+                                            <div ></div>
+                                        </div>
                                     </div>
 
                                 </div>
@@ -455,7 +462,7 @@ include "header.php";
                                 </div>
                             </div>
                             <div class="brokerCard">BROKER DEALER
-                            <img src="assets/img/DallMore.png" alt="hero" class="img-fluid">
+                                <img src="assets/img/DallMore.png" alt="hero" class="img-fluid">
                             </div>
                         </div>
                     </div>
@@ -464,10 +471,10 @@ include "header.php";
             <div class="priceCardmob d-lg-none">
                 <div class="priceCardmob-text">
                     <p><span>$2.10</span> per share</p>
-                    <a href="#">Earn Bonus Shares</a>
+                    <a href="#bonus-shares">Earn Bonus Shares</a>
                 </div>
                 <div class="offerInvest">
-                    <a href="#" href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here</a>
+                    <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here</a>
                 </div>
             </div>
         </div>
