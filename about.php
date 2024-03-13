@@ -121,7 +121,7 @@ include('header.php'); ?>
     </div>
 </section>
 <a name="about-team" style="position: relative; top:-200px"></a>
-<section class="coreTeam" id="team">
+<section class="coreTeam">
     <div class="container">
         <h3 style="text-align:center;color:black;margin-bottom:30px;">CancerVAX Team</h3>
         <div class="row justify-content-center">
