@@ -233,7 +233,7 @@ include('header.php'); ?>
                         </a>
                     </div>
                     <h5>
-                        Satiro De Oliveira, MD
+                        Satiro de oliveira, MD
                     </h5>
                     <p>
                         Principal Investigator
