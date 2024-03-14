@@ -320,7 +320,7 @@ include "header.php";
                                         </div>
                                         <div class="term-blo">
                                             <div class="offer-title">OFFERING CIRCULAR</div>
-                                            <a href="https://www.sec.gov/" target="_blank" class="offer-price last-offer mb-0">See on SEC.gov</a>
+                                            <a href="https://cancervax.com/2024oc" target="_blank" class="offer-price last-offer mb-0">See on SEC.gov</a>
                                         </div>
                                     </div>
 
@@ -451,7 +451,7 @@ include "header.php";
                                         $525.00 </div>
                                     <div class="cardPrice">
                                         OFFERING CIRCULAR </div>
-                                    <a href="https://www.sec.gov/" target="_blank" class="cardActualBottom">See on SEC.gov</a>
+                                    <a href="https://cancervax.com/2024oc" target="_blank" class="cardActualBottom">See on SEC.gov</a>
                                 </div>
                             </div>
                             <div class="brokerCard">BROKER DEALER
