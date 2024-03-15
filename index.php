@@ -395,7 +395,7 @@ include('header.php'); ?>
                         </a>
 
                         <div class="team-description">
-                            <p>Dr. De Oliveira is a board-certified pediatrician and board-certified pediatric
+                            <p>Dr. de oliveira is a board-certified pediatrician and board-certified pediatric
                                 hematology/oncologist. He received his medical degree in Brazil and completed his
                                 pediatric residency at Woodhull Medical and Mental Health Center in New York and his
                                 pediatric hematology/oncology fellowship at the Children’s Hospital Los Angeles.
