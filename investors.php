@@ -154,7 +154,7 @@ include "header.php";
                                 <div class="universal-heading">
                                     Universal CAR-T Cell Platform (UCAR-T)
                                     <div class="learnMore mb-0 mt-3">
-                                        <a href="/pipeline">Learn More</a>
+                                        <a href="/pipeline" target="_blank">Learn More</a>
                                     </div>
                                 </div>
 
@@ -172,7 +172,7 @@ include "header.php";
                                 <h4> Children’s Cancer</h4>
 
                                 <div class="learnMore">
-                                    <a href="/pipeline">Learn More</a>
+                                    <a href="/pipeline" target="_blank">Learn More</a>
                                 </div>
 
                                 <div class="learnImg first-mobile"> <img src="assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
@@ -261,8 +261,10 @@ include "header.php";
 
                             <h5>Let's Beat Cancer</h5>
                             <p>Pharmaceutical research is booming from the effects of the COVID-19 pandemic, where the medical community learned how to use mRNA to recognize and fight specific disease states. A similar concept is being applied by CancerVAX to create immunotherapy treatments with the purpose of using a patient’s immune system to detect, mark, and kill cancer.</p>
-
-                            <img src="assets/img/invest-microscope.png" alt="hero" class="img-fluid mt-4">
+                         
+                            <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank" rel="noopener noreferrer">
+                                <img src="assets/img/invest-microscope.png" alt="hero" class="img-fluid mt-4">
+                            </a>
 
                             <div class="the-model">
                                 <p> The CancerVAX business model involves partnering with experienced cancer research institutions, like UCLA, to develop new life-changing drugs, followed by plans to license and/or sell the company’s drugs, or license technologies to major pharmaceutical companies. <br><br> As a biotech company, CancerVAX’s goal is to create value for our company and our shareholders at every step of incremental success we make on the path to FDA approval.</p>
@@ -291,7 +293,7 @@ include "header.php";
                         <div class="termSection" id='terms'>
                             <h4>Terms</h4>
                             <div class="term-card">
-                               
+
                                 <div class="row justify-content-center">
                                     <div class="col-md-4">
                                         <div class="term-blo">
