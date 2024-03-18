@@ -203,7 +203,7 @@ include('header.php'); ?>
                         </h2>
                         <div id="faq14" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlush2">
                             <div class="accordion-body">
-                                <p>You can monitor your investments through the IssuerName’s portal, where you will have access to your investment dashboard showing all your investments and their performance. You can access this link by going to our website and clicking on Investor Login. 
+                                <p>You can monitor your investments through our investment portal, where you will have access to your investment dashboard showing all your investments and their performance. You can also access this <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank" rel="noopener noreferrer">link</a> by going to our website and clicking on Investor Login. 
                                 </p>
                             </div>
                         </div>

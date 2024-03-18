@@ -20,7 +20,7 @@ include "header.php";
                                     <img src="assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
                                 </a>
                             </div>
-                            <p> CancerVAX is a pre-clinical biotech company working with a world-class team of experienced cancer researchers and physicians at UCLA to create a breakthrough Universal Cancer Vaccine platform (UCV).</p>
+                            <p> CancerVAX is a pre-clinical biotech company working with a world-class team of experienced cancer researchers and physicians at UCLA to create a breakthrough <strong>Universal Cancer Vaccine</strong> platform (UCV).</p>
                             <p> Our cancer treatment is designed to be customizable, administered as a shot, and leverage state-of-the-art bioengineering and molecular technologies.</p>
                             <p> This innovative approach detects, marks, and kills cancer cells exclusively. By inducing cancer cells to express a distinct marker absent in healthy cells, custom antibody drugs and the body's immune cells can precisely target and eradicate cancer cells.</p>
                         </div>
