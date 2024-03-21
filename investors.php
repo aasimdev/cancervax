@@ -261,7 +261,7 @@ include "header.php";
 
                             <h5>Let's Beat Cancer</h5>
                             <p>Pharmaceutical research is booming from the effects of the COVID-19 pandemic, where the medical community learned how to use mRNA to recognize and fight specific disease states. A similar concept is being applied by CancerVAX to create immunotherapy treatments with the purpose of using a patient’s immune system to detect, mark, and kill cancer.</p>
-                         
+
                             <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank" rel="noopener noreferrer">
                                 <img src="assets/img/invest-microscope.png" alt="hero" class="img-fluid mt-4">
                             </a>
@@ -294,35 +294,54 @@ include "header.php";
                             <h4>Terms</h4>
                             <div class="term-card">
 
-                                <div class="row justify-content-center">
-                                    <div class="col-md-4">
+                                <div class="row">
+                                    <div class="col-6">
                                         <div class="term-blo">
                                             <div class="offer-title">OFFERING SIZE</div>
                                             <div class="offer-price">$5,000,000</div>
                                         </div>
-                                        <div class="term-blo">
+                                    </div>
+                                    <div class="col-6">
+                                    <div class="term-blo">
                                             <div class="offer-title">PRICE FOR SHARE</div>
                                             <div class="offer-price">$2.10</div>
                                         </div>
-                                        <div class="term-blo">
+                                    </div>
+                                    <div class="col-6">
+                                    <div class="term-blo">
                                             <div class="offer-title">MIN INVESTMENT</div>
                                             <div class="offer-price">$525</div>
                                         </div>
-                                        <div class="term-blo">
+                                    </div>
+                                    <div class="col-6">
+                                    <div class="term-blo">
                                             <div class="offer-title">OFFERING TYPE</div>
                                             <div class="offer-price">Equity</div>
                                         </div>
-                                        <div class="term-blo">
+                                    </div>
+                                    <div class="col-6">
+                                    <div class="term-blo">
                                             <div class="offer-title">ASSET TYPE</div>
                                             <div class="offer-price">Common Stock</div>
                                         </div>
-                                        <div class="term-blo">
+                                    </div>
+                                    <div class="col-6">
+                                    <div class="term-blo">
                                             <div class="offer-title">SHARES OFFERED</div>
                                             <div class="offer-price">Common Stock</div>
                                         </div>
-                                        <div class="term-blo d-flex flex-column">
+                                    </div>
+                                    <div class="col-6">
+                                    <div class="term-blo d-flex flex-column">
                                             <div class="offer-title">OFFERING CIRCULAR</div>
                                             <a href="https://cancervax.com/2024oc" target="_blank" class="offer-price last-offer mb-0">See on SEC.gov</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-6">
+ 
+                                    <div class="term-blo">
+                                            <div class="offer-title">BROKER DEALER</div>
+                                            <img src="./assets/img/DallMore.png" alt="dallmore">
                                         </div>
                                     </div>
 

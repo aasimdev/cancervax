@@ -515,7 +515,7 @@
 }
 
 .small-number {
-  font-size: 14px;
+  font-size: 16px;
   position: absolute;
   top: -12px;
   left: calc(100% + 4px);
@@ -620,7 +620,7 @@
 
 .term-card {
   margin: 35px 0 100px;
-  padding: 35px 0px;
+  padding: 35px;
   border-radius: 10px;
   box-shadow: 0px 6px 10px 4px #00000026;
 }
@@ -643,6 +643,9 @@
 .term-blo{
   a{
     text-decoration: underline;
+  }
+  img{
+    max-width: 200px;
   }
 }
 
@@ -881,6 +884,7 @@
   }
 
   .term-card {
+    padding: 24px;
     margin: 30px 0 40px 0;
   }
 
@@ -901,7 +905,7 @@
   }
 
   .priceDescription p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 20px;
   }
 
@@ -958,7 +962,7 @@
   }
 
   .heroSection-content p {
-    font-size: 14px;
+    font-size: 16px;
   }
 
   .offerInvest a {
@@ -968,7 +972,7 @@
   }
 
   .investReasons p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 20px;
   }
 
@@ -1017,7 +1021,7 @@
   .problemSection {
     p {
       margin: 10px 0;
-      font-size: 14px;
+      font-size: 16px;
       line-height: 20px;
     }
   }
@@ -1052,12 +1056,10 @@
   }
 
   .odp-main p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 20px;
 
     &+p {
-      font-size: 14px;
-      line-height: 20px;
       margin-top: 20px;
     }
   }
@@ -1163,16 +1165,16 @@
   }
 
   .offer-title {
-    padding: 0 30px;
-    font-size: 14px;
+    font-size: 16px;
   }
 
   .offer-price {
-    padding: 0 30px;
-    font-size: 14px;
+    font-size: 16px;
     margin-bottom: 30px;
   }
-
+  .term-blo img {
+    max-width: 100%;
+}
   .offerGreenSpaceOP {
     display: none;
   }
@@ -1189,7 +1191,7 @@
   }
 
   .link-placeholder a {
-    font-size: 14px;
+    font-size: 16px;
   }
 
   .link-placeholder {
@@ -1287,7 +1289,7 @@
   }
 
   .termSection p {
-    font-size: 14px;
+    font-size: 16px;
     margin-top: 25px !important;
   }
 
@@ -1297,7 +1299,7 @@
   }
 
   .investment-table td {
-    font-size: 14px;
+    font-size: 16px;
     padding: 15px 10px;
   }
 
@@ -1323,7 +1325,7 @@
     a {
       height: 50px;
       padding: 0px;
-      font-size: 14px;
+      font-size: 16px;
     }
   }
 

@@ -26,17 +26,15 @@
 
         p {
             font-size: 28px;
-            text-transform: uppercase;
             font-weight: 500;
         }
 
         a {
-            // background: #fff;
-            // padding: 10px;
+            background: #fff;
+            padding: 12px 10px;
             font-size: 17px;
             border-radius: 10px;
             font-weight: 600;
-            text-transform: uppercase;
         }
         &-wrap{
             display: flex;
@@ -58,6 +56,8 @@
         transform: translateY(-50%);
     }
 }
+
+
 
 .navbar {
     padding: 15px 30px;
