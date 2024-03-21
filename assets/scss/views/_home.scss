@@ -2683,8 +2683,9 @@ label.error {
         background-color: transparent;
         border: 0;
         border-bottom: 1px solid #fff;
-        &:last-of-type{
-            border-bottom: 1px solid #fff; 
+
+        &:last-of-type {
+            border-bottom: 1px solid #fff;
         }
     }
 
@@ -2718,7 +2719,20 @@ label.error {
             }
         }
     }
-    #accordionFlushExample{
+
+    #accordionFlushExample {
         margin-bottom: 100px;
+    }
+
+    .theme-btn {
+        padding: 4px 16px;
+        color: #fff !important;
+        border: 0;
+        border-radius: 5px;
+        display: inline-block;
+        margin-top: 12px;
+        &:hover{
+            color: #1d8f97 !important;
+        }
     }
 }
