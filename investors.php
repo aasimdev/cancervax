@@ -87,7 +87,7 @@ include "header.php";
 
                                     <div class="wrapInvest">
                                         <div class="reasonNumber">3</div>
-                                        <p>CancerVAX is proud to be working with a world-class team of experienced cancer researchers and physicians at UCLA. This team of MDs and PhDs has 80+ years of combined experience in cancer research and clinical treatment. Combined with the strong management team at CancerVAX, we are undertaking a bold and innovative immunotherapy research approaches - a Universal Cancer Vaccine platform - a better way to treat cancer.</p>
+                                        <p>CancerVAX is proud to be working with a world-class team of experienced cancer researchers and physicians at UCLA. This team of MDs and PhDs has 80+ years of combined experience in cancer research and clinical treatment. Combined with the strong management team at CancerVAX, we are undertaking a bold and innovative immunotherapy research approach - a Universal Cancer Vaccine platform - a better way to treat cancer.</p>
                                     </div>
                                     <div class="wrapInvestZero">
                                         <div class="reasonNumber">4</div>
