@@ -17,7 +17,7 @@ include "header.php";
                             <h2> Using the Body’s Immune System to Fight Cancer</h2>
                             <div class="video-section first-mobile text-center">
                                 <a href="https://www.youtube.com/watch?v=QNFte4x413Y" class="popup-youtube">
-                                    <img src="assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
+                                    <img src="./assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
                                 </a>
                             </div>
                             <p> CancerVAX is a pre-clinical biotech company working with a world-class team of experienced cancer researchers and physicians at UCLA to create a breakthrough <strong>Universal Cancer Vaccine</strong> platform (UCV).</p>
@@ -32,7 +32,7 @@ include "header.php";
                     <div class="col-lg-6 d-none d-lg-block">
                         <div class="video-section">
                             <a href="https://www.youtube.com/watch?v=QNFte4x413Y" class="popup-youtube">
-                                <img src="assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
+                                <img src="./assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
                             </a>
                         </div>
                     </div>
@@ -87,7 +87,7 @@ include "header.php";
 
                                     <div class="wrapInvest">
                                         <div class="reasonNumber">3</div>
-                                        <p>CancerVAX is proud to be working with a world-class team of experienced cancer researchers and physicians at UCLA. This team of MDs and PhDs has 80+ years of combined experience in cancer research and clinical treatment. Combined with the strong management team at CancerVAX, we are undertaking bold and innovative immunotherapy research approaches to create a better way to treat cancer.</p>
+                                        <p>CancerVAX is proud to be working with a world-class team of experienced cancer researchers and physicians at UCLA. This team of MDs and PhDs has 80+ years of combined experience in cancer research and clinical treatment. Combined with the strong management team at CancerVAX, we are undertaking a bold and innovative immunotherapy research approaches - a Universal Cancer Vaccine platform - a better way to treat cancer.</p>
                                     </div>
                                     <div class="wrapInvestZero">
                                         <div class="reasonNumber">4</div>
@@ -114,14 +114,14 @@ include "header.php";
                                 <h4> Help Millions Get Better, Without Feeling Worse</h4>
                                 <p> Cancer is the second leading cause of death in the United States – responsible for more than 1.9 million diagnosed cases and 609,360 deaths in 2022. <sup>(3)</sup></p>
                                 <div class="prob-img mt-4">
-                                    <img src="assets/img/solution1.png" alt="hero" class="img-fluid">
+                                    <img src="./assets/img/solution1.png" alt="hero" class="img-fluid">
                                 </div>
                             </div>
 
                             <div class="prob-block">
                                 <p>Current cancer treatments still haven’t progressed past the options of surgery, chemotherapy, and radiation, which have extreme, life-long side effects. In addition to being toxic and harmful, treatments like chemotherapy can be very expensive.</p>
                                 <div class="prob-img">
-                                    <img src="assets/img/solution2.png" alt="hero" class="img-fluid">
+                                    <img src="./assets/img/solution2.png" alt="hero" class="img-fluid">
                                 </div>
                             </div>
 
@@ -130,7 +130,7 @@ include "header.php";
                                 <p>Working with the world-class research team at UCLA, CancerVAX is developing a Universal Cancer Vaccine platform to target and destroy cancer cells with precision.</p>
 
                                 <div class="prob-img">
-                                    <img src="assets/img/solution3.png" alt="hero" class="img-fluid">
+                                    <img src="./assets/img/solution3.png" alt="hero" class="img-fluid">
                                 </div>
                             </div>
 
@@ -141,7 +141,7 @@ include "header.php";
                             <div class="offeringTitleTwoWrap">
                                 <h4>Our Development Pipeline</h4>
                                 <a class="video-section-our popup-youtube" href="http://www.youtube.com/watch?v=2OHGmKOqOYE">
-                                    <img src="assets/img/opd-ucla-offer.png" alt="hero" class="img-fluid w-100 d-block">
+                                    <img src="./assets/img/opd-ucla-offer.png" alt="hero" class="img-fluid w-100 d-block">
                                 </a>
                                 <p>In recent years, advances in science and biotechnology have proven that the body’s immune system is very effective at targeting and killing abnormal cells, germs and viruses, and has been doing it since the beginning of time. The problem is that cancer is not a foreign invader and grows much faster than the body’s normal immune response rate.</p>
                                 <p>Much like COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer immunotherapies can train the body to target and destroy specific cancer cells. <span> Cancer immunotherapies are also known as cancer treatment vaccines.</span> </p>
@@ -163,7 +163,7 @@ include "header.php";
                                 <p>Our Universal Cancer Vaccine platform and our UCAR-T Cell platform can be used separately, however, when used together, we believe that we can kill cancer cells with extreme precision using the body’s immune system at very low costs. Our Universal Cancer Vaccine platform detects and marks a unique target our UCAR-T Cell platform makes T-cells that attack that target.</p>
                             </div>
                             <div class="pipeline-virus-left mt-4">
-                                <img src="assets/img/pipeline-virus-left.png" alt="hero" class="img-fluid">
+                                <img src="./assets/img/pipeline-virus-left.png" alt="hero" class="img-fluid">
                             </div>
 
 
@@ -175,12 +175,12 @@ include "header.php";
                                     <a href="/pipeline" target="_blank">Learn More</a>
                                 </div>
 
-                                <div class="learnImg first-mobile"> <img src="assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
+                                <div class="learnImg first-mobile"> <img src="./assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
                                 </div>
                                 <p>We are creating a disease-specific immunotherapy targeted at treating Ewing sarcoma, a rare but deadly bone and soft tissue cancer that affects children and young adults. Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%.</p>
                                 <p>All our immunotherapy technologies are designed to be delivered as simple injections. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.</p>
 
-                                <div class="learnImg first-desktop"> <img src="assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
+                                <div class="learnImg first-desktop"> <img src="./assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
                                 </div>
                             </div>
 
@@ -250,11 +250,11 @@ include "header.php";
                         <!-- 5th Section -->
                         <div class="priceDescription">
                             <div class="Investor_Growth d-none d-sm-block">
-                                <img src="assets/img/Investor_Growth.jpg" alt="hero" class="img-fluid">
+                                <img src="./assets/img/Investor_Growth.jpg" alt="hero" class="img-fluid">
                             </div>
 
                             <div class="Investor_Growth d-sm-none">
-                                <img src="assets/img/Mobile_Growth.png" alt="hero" class="img-fluid">
+                                <img src="./assets/img/Mobile_Growth.png" alt="hero" class="img-fluid">
                             </div>
 
                             <h4 class="why-b"> Why Invest  </h4>
@@ -263,7 +263,7 @@ include "header.php";
                             <p>Pharmaceutical research is booming from the effects of the COVID-19 pandemic, where the medical community learned how to use mRNA to recognize and fight specific disease states. A similar concept is being applied by CancerVAX to create immunotherapy treatments with the purpose of using a patient’s immune system to detect, mark, and kill cancer.</p>
 
                             <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank" rel="noopener noreferrer">
-                                <img src="assets/img/invest-microscope.png" alt="hero" class="img-fluid mt-4">
+                                <img src="./assets/img/invest-microscope.png" alt="hero" class="img-fluid mt-4">
                             </a>
 
                             <div class="the-model">
@@ -278,12 +278,12 @@ include "header.php";
                                 </div>
                                 <div class="d-none d-sm-block">
                                     <a href="/about#about-team">
-                                        <img src="assets/img/offer-team.jpg" alt="hero" class="img-fluid">
+                                        <img src="./assets/img/offer-team.jpg" alt="hero" class="img-fluid">
                                     </a>
                                 </div>
                                 <div class="d-sm-none">
                                     <a href="/about#about-team">
-                                        <img src="assets/img/Mobile_Team.png" alt="hero" class="img-fluid">
+                                        <img src="./assets/img/Mobile_Team.png" alt="hero" class="img-fluid">
                                     </a>
                                 </div>
                             </div>
@@ -476,7 +476,7 @@ include "header.php";
                                 </div>
                             </div>
                             <div class="brokerCard">BROKER DEALER
-                                <img src="assets/img/DallMore.png" alt="hero" class="img-fluid">
+                                <img src="./assets/img/DallMore.png" alt="hero" class="img-fluid">
                             </div>
                         </div>
                     </div>
