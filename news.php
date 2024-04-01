@@ -54,7 +54,7 @@ include('header.php'); ?>
         </div>
     </div>
 </section>
-<section class="news">
+<!-- <section class="news">
     <div class="container">
         <h4>Major Press Releases</h4>
         <div class="row">
@@ -82,7 +82,7 @@ include('header.php'); ?>
 
         </div>
     </div>
-</section>
+</section> -->
 
 
 <section class="nCommentary">
