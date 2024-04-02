@@ -11,7 +11,7 @@ if ($domain === 'localhost' || $domain === '127.0.0.1') {
 } else {
     $full_url = $current_url . '/';
 }
-if ($page_name != "index.php") {
+if ($page_name != "index.php" && $page_name != "investors.php" && $page_name != "investors") {
 ?>
     <section class="newsletter">
         <div class="container">

@@ -56,7 +56,6 @@ $videos = [
         'slug' => "cancervax-ceo-discusses-expanded-pipeline-at-ucla",
         'scope' => "public"
     ],
-  
     [
         'title' => "Steven Jonas - UCLA",
         'videoID' => "LTzE5Y78RrU",
@@ -218,7 +217,6 @@ $videos = [
         'slug' => "a-monumental-meeting-at-ucla",
         'scope' => "public"
     ],
-  
     [
         'title' => "Fighting Cancer with Microsoft AI",
         'videoID' => "6VT9poigwYA",
@@ -258,9 +256,6 @@ $videos = [
     //     'category' => "news-commentary",
     //     'scope' => "public"
     // ],
-
- 
-   
     [
         'title' => "National Cancer Plan",
         'videoID' => "T7vHpIKySWk",
@@ -301,7 +296,6 @@ $videos = [
         'slug' => "mammograms",
         'scope' => "public"
     ],
-    
     [
         'title' => "mRNA Vaccine",
         'videoID' => "fcAUnmxnmK4",
@@ -373,6 +367,295 @@ $videos = [
         'category' => "cancer-survivor-stories",
         'slug' => "byron-elton-prostate-cancer",
         'scope' => "public"
+    ],
+    // new
+    [
+        'title' => "Biotechnology in oncology",
+        'videoID' => "0Gd8mmrkB1s",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "biotechnology-in-oncology",
+        "display" => true
+    ],
+    [
+        'title' => "Biotechnology vs. Radiation",
+        'videoID' => "3FTkHLiN6ns",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "biotechnology-vs-radiation",
+        "display" => true
+    ],
+    [
+        'title' => "Biotechnology in oncology.",
+        'videoID' => "x2QLVy0Ia3o",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "biotechnology-in-oncology",
+        "display" => true
+    ],
+    [
+        'title' => "We are gearing up for a leap",
+        'videoID' => "o_jqz_3seF8",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "we-are-gearing-up-for-a-leap",
+        "display" => true
+    ],
+    [
+        'title' => "Stuart Scott: A voice of sports with a heart of courage.",
+        'videoID' => "TROtlmNE9sk",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "stuart-scott-a-voice-of-sports-with-a-heart-of-courage",
+        "display" => true
+    ],
+    [
+        'title' => "A heart of a champion in the battle against cancer",
+        'videoID' => "JO9tpnza6O0",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "a-heart-of-a-champion-in-the-battle-against-cancer",
+        "display" => true
+    ],
+    [
+        'title' => "Biotechnology will be the leader in advancing medicine",
+        'videoID' => "9g4dP6oSki4",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "biotechnology-will-be-the-leader-in-advancing-medicine",
+        "display" => true
+    ],
+    [
+        'title' => "Immunotherapy is a natural defense system that will always protect the body if treated correctly!",
+        'videoID' => "zRGGXilqV3w",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "immunotherapy-is-a-natural-defense-system-that-will-always-protect-the-body-if-treated-correctly",
+        "display" => true
+    ],
+    [
+        'title' => "Biotech is the future of medicine and we are leaders of the sector.",
+        'videoID' => "2OBgpjM-NjU",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "biotech-is-the-future-of-medicine-and-we-are-leaders-of-the-sector",
+        "display" => true
+    ],
+    [
+        'title' => "Tell our CMO, Byron, Happy Birthday in the comments!",
+        'videoID' => "8wbePFi3g0w",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "tell-our-cmo-byron-happy-birthday-in-the-comments",
+        "display" => true
+    ],
+    [
+        'title' => "Let's create a Better Way To Treat Cancer for the ladies.",
+        'videoID' => "HjmRWx63SHs",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "lets-create-a-better-way-to-treat-cancer-for-the-ladies",
+        "display" => true
+    ],
+    [
+        'title' => "Science and Art Intertwine",
+        'videoID' => "agNveiHM8qU",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "science-and-art-intertwine",
+        "display" => true
+    ],
+    [
+        'title' => "Another way to treat cancer has been necessary and wanted for a long time.",
+        'videoID' => "2fVaHvXdC9Q",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "another-way-to-treat-cancer-has-been-necessary-and-wanted-for-a-long-time",
+        "display" => true
+    ],
+    [
+        'title' => "Meet Byron Elton, President and CEO of CancerVAX",
+        'videoID' => "5g8yAG8ZnN4",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "meet-byron-elton-president-and-ceo-of-cancervax",
+        "display" => true
+    ],
+    [
+        'title' => "Old cancer treatments are very harmful and sometimes can cause more damage than help.",
+        'videoID' => "h22JBcfSZtc",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "old-cancer-treatments-are-very-harmful-and-sometimes-can-cause-more-damage-than-help",
+        "display" => true
+    ],
+    [
+        'title' => "As the population grows, so does the number of cancer cases",
+        'videoID' => "kvN-AoMYaKE",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "as-the-population-grows-so-does-the-number-of-cancer-cases",
+        "display" => true
+    ],
+    [
+        'title' => "Join us as we unlock the immune system's power to fight cancer",
+        'videoID' => "FD9zg3SoeSw",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "join-us-as-we-unlock-the-immune-systems-power-to-fight-cancer",
+        "display" => true
+    ],
+    [
+        'title' => "CancerVAX's Quest for Breakthroughs in Cancer Treatment",
+        'videoID' => "sHSxuQmKHNg",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "cancervaxs-quest-for-breakthroughs-in-cancer-treatment",
+        "display" => true
+    ],
+    [
+        'title' => "When new knowledge is discovered, new advancements are pushed forward",
+        'videoID' => "Dy2qWmqYQUU",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "when-new-knowledge-is-discovered-new-advancements-are-pushed-forward",
+        "display" => true
+    ],
+    [
+        'title' => "CancerVAX is here to create a Better Way To Treat Cancer",
+        'videoID' => "bs1avzWERFM",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "cancervax-is-here-to-create-a-better-way-to-treat-cancer",
+        "display" => true
+    ],
+    [
+        'title' => "Every minute 70 people die from cancer",
+        'videoID' => "REkZn04FP3M",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "every-minute-70-people-die-from-cancer",
+        "display" => true
+    ],
+    [
+        'title' => "Major advancements are happening right now in the cancer treatment industry.",
+        'videoID' => "JL63jQXPZDQ",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "major-advancements-are-happening-right-now-in-the-cancer-treatment-industry",
+        "display" => true
+    ],
+    [
+        'title' => "How extinction creates strain in research",
+        'videoID' => "DEpMSnHoqeM",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "how-extinction-creates-strain-in-research",
+        "display" => true
+    ],
+    [
+        'title' => "What nature gives us",
+        'videoID' => "yV4Swf6AZus",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "what-nature-gives-us",
+        "display" => true
+    ],
+    [
+        'title' => "Empowerment begins with understanding.",
+        'videoID' => "3FcduzxgEOw",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "empowerment-begins-with-understanding",
+        "display" => true
+    ],
+    [
+        'title' => "Every breath matters, and so does understanding",
+        'videoID' => "WSXxo4XTYMU",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "every-breath-matters-and-so-does-understanding",
+        "display" => true
+    ],
+    [
+        'title' => "Prostate cancer is a silent killer in men.",
+        'videoID' => "XEaAS8Wjtek",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "prostate-cancer-is-a-silent-killer-in-men",
+        "display" => true
+    ],
+    [
+        'title' => "Do you know what pancreatic cancer is?",
+        'videoID' => "8MYaRjhcsqY",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "do-you-know-what-pancreatic-cancer-is",
+        "display" => true
+    ],
+    [
+        'title' => "Let's protect the children and ultimately protect the planet's future.",
+        'videoID' => "r93su5Ibc4w",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "lets-protect-the-children-and-ultimately-protect-the-planets-future",
+        "display" => true
+    ],
+    [
+        'title' => "Cancer is a disease we all wish to never have",
+        'videoID' => "Ax_ZLmdHC5M",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "cancer-is-a-disease-we-all-wish-to-never-have",
+        "display" => true
+    ],
+    [
+        'title' => "Small Gestures Can Create Powerful Effects",
+        'videoID' => "Sk8jYTdKZDE",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "small-gestures-can-create-powerful-effects",
+        "display" => true
+    ],
+    [
+        'title' => "Here's What Biotechnology Is",
+        'videoID' => "v2Z4Gvz2CFA",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "heres-what-biotechnology-is",
+        "display" => true
     ],
     [
         'title' => "Work Toward Your Healthy Tomorrow",
@@ -886,7 +1169,7 @@ $videos = [
         'category' => "short-videos",
         'scope' => "public"
     ],
-  
+
     [
         'title' => "Biotech and Teaching… Is It Possible?",
         'slug' => "biotech-and-teaching-is-it-possible",
@@ -1168,8 +1451,8 @@ $videos = [
 
 
 
-   
-   
+
+
     [
         'title' => "Tanner",
         'videoID' => "1AJgWMvVbFQ",
@@ -1445,7 +1728,7 @@ $videos = [
         'slug' => "positive-news-in-the-fight-against-cancer",
         'scope' => "public"
     ],
-  
+
     [
         'title' => "What is CancerVAX's Mission?",
         'videoID' => "wIUDlfLljtg",
@@ -1760,5 +2043,3 @@ $videos = [
 ];
 
 return $videos;
-
-?>
