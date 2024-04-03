@@ -390,9 +390,7 @@ include('header.php'); ?>
                         <p>
                             Principal Investigator
                         </p>
-                        <a href="http://www.youtube.com/watch?v=DcFor_Vo4MU" class="popup-youtube intertext">
-                            Watch Interview
-                        </a>
+                      
 
                         <div class="team-description">
                             <p>Dr. de oliveira is a board-certified pediatrician and board-certified pediatric
