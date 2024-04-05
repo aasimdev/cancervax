@@ -19,7 +19,7 @@ include "header.php";
                             </a>
                             <div class="reason">4 Reasons to invest</div>
                         </div>
-                        <p> CancerVAX is a pre-clinical biotech company working with a world-class team of experienced cancer researchers and physicians at UCLA to create a breakthrough Universal Cancer Vaccine platform (UCV).</p>
+                        <p> CancerVax is a pre-clinical biotech company working with a world-class team of experienced cancer researchers and physicians at UCLA to create a breakthrough Universal Cancer Vaccine platform (UCV).</p>
                         <p> Our cancer treatment is designed to be customizable, administered as a shot, and leverage state-of-the-art bioengineering and molecular technologies.</p>
                         <p> This innovative approach detects, marks, and kills cancer cells exclusively. By inducing cancer cells to express a distinct marker absent in healthy cells, custom antibody drugs and the body's immune cells can precisely target and eradicate cancer cells.</p>
                     </div>
@@ -62,11 +62,11 @@ include "header.php";
 
                             <div class="wrapInvest">
                                 <div class="reasonNumber">3</div>
-                                <p>CancerVAX is proud to be working with a world-class team of experienced cancer researchers and physicians at UCLA. This team of MDs and PhDs has 80+ years of combined experience in cancer research and clinical treatment. Combined with the strong management team at CancerVAX, we are undertaking bold and innovative immunotherapy research approaches to create a better way to treat cancer.</p>
+                                <p>CancerVax is proud to be working with a world-class team of experienced cancer researchers and physicians at UCLA. This team of MDs and PhDs has 80+ years of combined experience in cancer research and clinical treatment. Combined with the strong management team at CancerVax, we are undertaking bold and innovative immunotherapy research approaches to create a better way to treat cancer.</p>
                             </div>
                             <div class="wrapInvestZero">
                                 <div class="reasonNumber">4</div>
-                                <p>CancerVAX has previously raised over <span>$3.3 million in funding.</span></p>
+                                <p>CancerVax has previously raised over <span>$3.3 million in funding.</span></p>
                             </div>
                         </div>
 
@@ -152,7 +152,7 @@ include "header.php";
             <div class="row">
                 <div class="col-lg-6">
                     <p> Cancer immunotherapy is the next generation weapon in the fight against cancer.  It uses the body’s own immune system to target and kill cancer cells. </p>
-                    <p>Working with the world-class research team at UCLA, CancerVAX is developing a Universal Cancer Vaccine platform to target and destroy cancer cells with precision.</p>
+                    <p>Working with the world-class research team at UCLA, CancerVax is developing a Universal Cancer Vaccine platform to target and destroy cancer cells with precision.</p>
 
                 </div>
                 <div class="col-lg-6">
@@ -182,7 +182,7 @@ include "header.php";
                         <p>Much like COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer immunotherapies can train the body to target and destroy specific cancer cells. <span> Cancer immunotherapies are also known as cancer treatment vaccines.</span> </p>
                         <p>While there is no such thing as a magic vaccine that can prevent people from getting cancer, we can borrow many of the techniques and technologies from modern preventative flu or COVID vaccines, and use the body’s immune system to target and treat cancers.</p>
                         <p>Our immunotherapy technologies being developed at UCLA are designed to be delivered as simple injections. With our development of a Universal Cancer Vaccine platform, we look forward to the day when treating cancer will be as simple as getting a flu shot – <span>We believe immunotherapy is a better way to treat cancer.</span></p>
-                        <p>CancerVAX has exclusive rights to license and commercialize the technology and patents that result from these UCLA research programs.</p>
+                        <p>CancerVax has exclusive rights to license and commercialize the technology and patents that result from these UCLA research programs.</p>
                         <h5>Additional Immunotherapy Projects</h5>
                         <p>In addition to our Universal Cancer Vaccine platform, we are also working with UCLA to create two other immunotherapy technologies.</p>
 
@@ -297,7 +297,7 @@ include "header.php";
                         <p>The global biotechnology market is projected to grow from $1.3 trillion in 2023 to $3.2 trillion by 2030. (5)</p>
                     </div>
                     <div class="col-12 mt-5">
-                        <p>CancerVAX is working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer. The company also has exclusive rights to license new intellectual property that may be developed by UCLA under research programs, which offers other potential revenue streams.</p>
+                        <p>CancerVax is working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer. The company also has exclusive rights to license new intellectual property that may be developed by UCLA under research programs, which offers other potential revenue streams.</p>
                     </div>
 
                 </div>
@@ -322,20 +322,20 @@ include "header.php";
             <div class="row">
                 <div class="col-lg-6">
                     <h5>Let's Beat Cancer</h5>
-                    <p>Pharmaceutical research is booming from the effects of the COVID-19 pandemic, where the medical community learned how to use mRNA to recognize and fight specific disease states. A similar concept is being applied by CancerVAX to create immunotherapy treatments with the purpose of using a patient’s immune system to detect, mark, and kill cancer.</p>
+                    <p>Pharmaceutical research is booming from the effects of the COVID-19 pandemic, where the medical community learned how to use mRNA to recognize and fight specific disease states. A similar concept is being applied by CancerVax to create immunotherapy treatments with the purpose of using a patient’s immune system to detect, mark, and kill cancer.</p>
                 </div>
                 <div class="col-lg-6 first-desktop"> <img src="assets/img/invest-microscope.png" alt="hero" class="img-fluid">
                 </div>
             </div>
             <div class="row the-model">
                 <div class="col-lg-6">
-                    <p> The CancerVAX business model involves partnering with experienced cancer research institutions, like UCLA, to develop new life-changing drugs, followed by plans to license and/or sell the company’s drugs, or license technologies to major pharmaceutical companies. <br><br> As a biotech company, CancerVAX’s goal is to create value for our company and our shareholders at every step of incremental success we make on the path to FDA approval.</p>
+                    <p> The CancerVax business model involves partnering with experienced cancer research institutions, like UCLA, to develop new life-changing drugs, followed by plans to license and/or sell the company’s drugs, or license technologies to major pharmaceutical companies. <br><br> As a biotech company, CancerVax’s goal is to create value for our company and our shareholders at every step of incremental success we make on the path to FDA approval.</p>
 
                 </div>
                 <div class="col-lg-6">
-                    <p>From discovery, to optimization, to pre-clinical trials, and additional future phases (phase 1 clinical trials, phase 2 clinical trials, phase 3 clinical trials), every step is a value inflection point that CancerVAX believes could increase the company’s value and bring it one step closer to curing cancer.
+                    <p>From discovery, to optimization, to pre-clinical trials, and additional future phases (phase 1 clinical trials, phase 2 clinical trials, phase 3 clinical trials), every step is a value inflection point that CancerVax believes could increase the company’s value and bring it one step closer to curing cancer.
 
-                        <br><br> Join CancerVAX and invest in our breakthrough technologies to help beat cancer!
+                        <br><br> Join CancerVax and invest in our breakthrough technologies to help beat cancer!
                     </p>
                 </div>
                 <div class="the-team">

@@ -16,7 +16,7 @@ include('header.php'); ?>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/TNhuPuylpyg?si=QlHa5PYNhRJVkvO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
         <div class="perks-text">
-            <p><span>Up to 30% bonus</span> CancerVAX shares are available.</p>
+            <p><span>Up to 30% bonus</span> CancerVax shares are available.</p>
             <p>
                 Take advantage of our valuable investor perks. <span>The more you invest, the larger discount you get in the form of bonus shares!</span></p>
             <p>
@@ -35,10 +35,10 @@ include('header.php'); ?>
                 Tier 5 | Invest $100,000+ and receive <span>20% bonus shares</span>.
             </p>
             <p> 10% StartEngine Owners' Bonus + Amount-Based Bonus Shares = <span>Up to 30% Bonus Shares</span>.</p>
-            <p> CancerVAX is revolutionizing cancer treatment using the body's immune system to fight cancer.</p>
+            <p> CancerVax is revolutionizing cancer treatment using the body's immune system to fight cancer.</p>
             <p> Each week our research teams make progress in their mission.</p>
             <p> We invite you to join us and earn some <span>BONUS SHARES</span>.</p>
-            <p> Help us in the fight against cancer by investing in CancerVAX.</p>
+            <p> Help us in the fight against cancer by investing in CancerVax.</p>
         </div>
     </div>
 </section>

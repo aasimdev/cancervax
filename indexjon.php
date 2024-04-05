@@ -328,7 +328,7 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p>CancerVAX Podcast - Stephen Diamond</p>
+                    <p>CancerVax Podcast - Stephen Diamond</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -379,7 +379,7 @@ include('header.php'); ?>
                 <div class="news-item">
                     <a href="former-pfizer-legal-counsel-discusses-gene-therapy-with-cancervax-ceo-ryan-davies.php"></a>
                     <span>April 20, 2023</span>
-                    <h3>Former Pfizer Legal Counsel Discusses Gene Therapy with CancerVAX CEO Ryan Davies</h3>
+                    <h3>Former Pfizer Legal Counsel Discusses Gene Therapy with CancerVax CEO Ryan Davies</h3>
                     <p>Stephen Diamond, Senior Vice President, General Counsel, and Secretary of Freeline, discussed his unique path from the legal and business worlds to gene therapy and next-generation therapeutics.</p>
 
                 </div>
@@ -389,7 +389,7 @@ include('header.php'); ?>
                 <div class="news-item">
                     <a href="cancervax-ceo-ryan-davies-discusses-cancer-research-with-leading-pediatric-hematologic-oncologist.php"></a>
                     <span>April 12, 2023</span>
-                    <h3>CancerVAX CEO Ryan Davies Discusses Cancer Research with Leading Pediatric Hematologic Oncologist</h3>
+                    <h3>CancerVax CEO Ryan Davies Discusses Cancer Research with Leading Pediatric Hematologic Oncologist</h3>
                     <p>Dr. Satiro De Oliveira, a principal investigator in the Company’s cancer research program at UCLA, comments about the importance of cancer immunotherapy</p>
 
                 </div>
@@ -399,7 +399,7 @@ include('header.php'); ?>
                 <div class="news-item">
                     <a href="cancervax-lands-byron-elton.php"></a>
                     <span>April 3, 2023</span>
-                    <h3>CancerVAX Lands Byron Elton</h3>
+                    <h3>CancerVax Lands Byron Elton</h3>
                     <p>Experienced business executive to help establish the Company as a significant force in the field of cancer research</p>
 
                 </div>
@@ -410,7 +410,7 @@ include('header.php'); ?>
                     <a href="cancervax-ceo-ryan-davies-speaks-with-university-of-utah-chemistry-professor-about-the-future-of-fherapeutic-research.php"></a>
                     <span>March 24, 2023</span>
                     <h3>CancerVax CEO Ryan Davies Speaks with University of Utah Chemistry Professor about the Future of Therapeutic Research</h3>
-                    <p>Dr. Ryan Looper, a chemistry Professor at the University of Utah, sat down with CancerVAX CEO Ryan Davies to discuss the future of novel therapeutics and how the industry can encourage young scientists to enter the field.</p>
+                    <p>Dr. Ryan Looper, a chemistry Professor at the University of Utah, sat down with CancerVax CEO Ryan Davies to discuss the future of novel therapeutics and how the industry can encourage young scientists to enter the field.</p>
 
                 </div>
 
@@ -424,7 +424,7 @@ include('header.php'); ?>
                         <img src="./assets/img/news2.jpg" alt="news">
                     </div>
                     <span>March 20, 2023</span>
-                    <p>CancerVAX CEO Ryan Davies Sits Down with Oncology Research Leader</p>
+                    <p>CancerVax CEO Ryan Davies Sits Down with Oncology Research Leader</p>
 
                     <a href="cancervax-ceo-ryan-davies-sits-down-with-oncology-research-leader.php"></a>
                 </div>
@@ -435,7 +435,7 @@ include('header.php'); ?>
                         <img src="./assets/img/screenshot.jpg" alt="news">
                     </div>
                     <span>August 31, 2022</span>
-                    <p>CancerVAX Announces Research Program to Develop Its Second Immunotherapy Cancer Treatment</p>
+                    <p>CancerVax Announces Research Program to Develop Its Second Immunotherapy Cancer Treatment</p>
 
                     <a href="cancervax-announces-research-program-to-develop-its-second-immunotherapy-cancer-treatment.php"></a>
                 </div>
@@ -446,7 +446,7 @@ include('header.php'); ?>
                         <img src="./assets/img/news3.jpg" alt="news">
                     </div>
                     <span>October 6, 2021</span>
-                    <p>CancerVAX Files Provisional Patent for a Universal Cancer Vaccine</p>
+                    <p>CancerVax Files Provisional Patent for a Universal Cancer Vaccine</p>
                     <a href="cancervax-files-provisional-patent-for-a-universal-cancer-vaccine.php"></a>
                 </div>
             </div>
@@ -456,7 +456,7 @@ include('header.php'); ?>
                         <img src="./assets/img/news1.jpg" alt="news">
                     </div>
                     <span>October 1, 2021</span>
-                    <p>Biotech Executive Joins CancerVAX</p>
+                    <p>Biotech Executive Joins CancerVax</p>
                     <a href="biotech-executive-joins-cancervax.php"></a>
                 </div>
             </div>
@@ -466,7 +466,7 @@ include('header.php'); ?>
                         <img src="./assets/img/screenshot4.jpg" alt="news">
                     </div>
                     <span>May 26, 2021</span>
-                    <p>CancerVAX Announces Research Program</p>
+                    <p>CancerVax Announces Research Program</p>
                     <a href="cancervax-announces-research-program.php"></a>
                 </div>
             </div>
@@ -478,7 +478,7 @@ include('header.php'); ?>
                         <img src="./assets/img/screenshot1-1.jpg" alt="news">
                     </div>
                     <span>March 30, 2021</span>
-                    <p>CancerVAX Closes Series A Funding Round</p>
+                    <p>CancerVax Closes Series A Funding Round</p>
                     <a href="cancervax-closes-series-a-funding-round.php"></a>
                 </div>
             </div>

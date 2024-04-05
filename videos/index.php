@@ -28,7 +28,7 @@ include('../header.php'); ?>
                                 <img src="../assets/img/ucla.png" alt="ucla">
                             </div>
                         </div>
-                        <p class="mt-0">CancerVAX CEO Discusses Expanded Pipeline at UCLA</p>
+                        <p class="mt-0">CancerVax CEO Discusses Expanded Pipeline at UCLA</p>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -43,7 +43,7 @@ include('../header.php'); ?>
                                 <img src="../assets/img/ucla.png" alt="ucla">
                             </div>
                         </div>
-                        <p class="mt-0">Ann Romney Discusses Immunotherapy with CancerVAX CEO</p>
+                        <p class="mt-0">Ann Romney Discusses Immunotherapy with CancerVax CEO</p>
                     </div>
                 </div>
             </div>

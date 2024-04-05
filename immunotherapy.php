@@ -178,7 +178,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="mcta-bg" style="background: url(./assets/img/imm-cta.jpg) no-repeat center / cover">
             <div class="mcta-text">
-                <h2 class="text-center">CancerVAX Mission</h2>
+                <h2 class="text-center">CancerVax Mission</h2>
                 <p>To significantly improve the clinical outcomes of cancer patients through the development of innovative and effective cancer immunotherapy treatments and drugs by collaborating with leading medical researchers and clinicians.</p>
             </div>
         </div>

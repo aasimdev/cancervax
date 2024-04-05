@@ -7,7 +7,7 @@ include('header.php'); ?>
 <section class="abtBanner">
     <div class="container">
         <div class="abtBanner-text">
-            <h1>CancerVAX, Inc. is a pre-clinical biotechnology company working with a world-class team of experienced cancer researchers and physicians at UCLA to create a breakthrough Universal Cancer Vaccine platform, designed to be customizable and delivered as a shot, using cutting-edge bioengineering and molecular technologies to uniquely detect, mark and kill only cancer cells. By forcing cancer cells to express a unique marker not found in healthy cells, custom antibody drugs and the body’s immune cells can target and destroy the cancer cells with precision. We are also working with UCLA to develop two additional immunotherapy technologies: (1) a low- cost Universal CAR-T Cell platform that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells, and (2) a disease-specific immunotherapy targeted at treating Ewing sarcoma, a deadly children’s cancer. All our immunotherapy technologies are designed to be delivered as injections. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.  </h1>
+            <h1>CancerVax, Inc. is a pre-clinical biotechnology company working with a world-class team of experienced cancer researchers and physicians at UCLA to create a breakthrough Universal Cancer Vaccine platform, designed to be customizable and delivered as a shot, using cutting-edge bioengineering and molecular technologies to uniquely detect, mark and kill only cancer cells. By forcing cancer cells to express a unique marker not found in healthy cells, custom antibody drugs and the body’s immune cells can target and destroy the cancer cells with precision. We are also working with UCLA to develop two additional immunotherapy technologies: (1) a low- cost Universal CAR-T Cell platform that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells, and (2) a disease-specific immunotherapy targeted at treating Ewing sarcoma, a deadly children’s cancer. All our immunotherapy technologies are designed to be delivered as injections. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.  </h1>
         </div>
     </div>
 </section>
@@ -123,7 +123,7 @@ include('header.php'); ?>
 <a name="about-team" style="position: relative; top:-200px"></a>
 <section class="coreTeam">
     <div class="container">
-        <h3 style="text-align:center;color:black;margin-bottom:30px;">CancerVAX Team</h3>
+        <h3 style="text-align:center;color:black;margin-bottom:30px;">CancerVax Team</h3>
         <div class="row justify-content-center">
 
             <div class="col-md-6 col-xl-3">
@@ -140,7 +140,7 @@ include('header.php'); ?>
                         Chairman
                     </p>
                     <div class="team-description">
-                        <p>Ryan has had a successful career as an entrepreneur, business executive and public servant. Prior to joining CancerVAX, Ryan co-founded several biotech companies/technologies including a nitric oxide topical wound-care product, a medical device company (drug delivery system) and an antibiotic drug development company. Ryan served as CEO of Curza, a small molecule therapeutics company focused on developing new antibiotics; SVP at Clarke Capital Partners, a private growth equity investment firm; co-founder of a software/ecommerce company Found.com (acquired by CRS Retail Systems); co-founder of a software company O2 Blue (acquired by Prebon Yamane). His public service activities include serving on the Draper, Utah City Council and serving on the campaigns of two U.S. presidential candidates, one U.S. senate candidate and two gubernatorial candidates. Ryan holds degrees in Business Management from Ricks College and Political Science from Brigham Young University.</p>
+                        <p>Ryan has had a successful career as an entrepreneur, business executive and public servant. Prior to joining CancerVax, Ryan co-founded several biotech companies/technologies including a nitric oxide topical wound-care product, a medical device company (drug delivery system) and an antibiotic drug development company. Ryan served as CEO of Curza, a small molecule therapeutics company focused on developing new antibiotics; SVP at Clarke Capital Partners, a private growth equity investment firm; co-founder of a software/ecommerce company Found.com (acquired by CRS Retail Systems); co-founder of a software company O2 Blue (acquired by Prebon Yamane). His public service activities include serving on the Draper, Utah City Council and serving on the campaigns of two U.S. presidential candidates, one U.S. senate candidate and two gubernatorial candidates. Ryan holds degrees in Business Management from Ricks College and Political Science from Brigham Young University.</p>
                     </div>
                 </div>
             </div>
