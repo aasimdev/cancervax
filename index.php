@@ -486,7 +486,7 @@ include('header.php'); ?>
 <section class="ceochats">
     <div class="container">
         <div class="ceochats-heading">
-            <span>Cancervax</span>
+            <span>CancerVax</span>
             <h2>Podcast</h2>
         </div>
 
