@@ -34,7 +34,7 @@ include('header.php'); ?>
                         <h2>Our Story</h2>
                     </div>
                     <div class="col-sm-9 col-md-8 col-xl-6">
-                        <p>We started working with UCLA in early 2021 on a single-disease immunotherapy targeted at Ewing Sarcoma, a deadly children’s cancer. Existing immunotherapies target natural cancer cell markers, which unfortunately appear in health cells as well, resulting in the destruction of healthy cells and causing various levels of toxicity and side effects. <br><br>
+                        <p>We started working with UCLA in early 2021 on a single-disease immunotherapy targeted at Ewing Sarcoma, a deadly children’s cancer. Existing immunotherapies target natural cancer cell markers, which unfortunately appear in healthy cells as well, resulting in the destruction of healthy cells and causing various levels of toxicity and side effects. <br><br>
                             Through a series of brainstorm sessions that started in late 2021, we developed the concept of a customizable Universal Cancer Vaccine Platform (UCV) that can potentially target cancer cells with a high degree of precision and force only the cancer cells to express a unique marker that we can easily target for destruction. The UCV project kicked off in 2022. <br><br>
                             The UCV project progressed methodically with the development of various innovative technologies, including a foundational nanoparticle technology which can be programmed to target specific cells and deliver customized cargos. <br><br>
                             In a pivotal project meeting in the summer of 2023, the UCLA team reported positive progress on Ewing sarcoma and UCV. Surprisingly, the highly customizable low-cost nanoparticle technology developed for UCV can be adapted to perform an existing cancer immunotherapy (CAR-T Cell) at an extremely low cost. Thus, the Universal CAR-T Cell Platform was born. <br><br>
@@ -233,7 +233,7 @@ include('header.php'); ?>
                         </a>
                     </div>
                     <h5>
-                        Satiro de oliveira, MD
+                        Satiro De Oliveira, MD
                     </h5>
                     <p>
                         Principal Investigator
