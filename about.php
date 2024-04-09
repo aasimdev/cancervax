@@ -120,7 +120,7 @@ include('header.php'); ?>
         </div>
     </div>
 </section>
-<a name="about-team" id="about-team" style="position: relative; top:-200px"></a>
+<a name="about-team" id="about-team" style="position: relative; top:-80px"></a>
 <section class="coreTeam">
     <div class="container">
         <h3 style="text-align:center;color:black;margin-bottom:30px;">CancerVax Team</h3>
