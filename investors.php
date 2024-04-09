@@ -277,12 +277,12 @@ include "header.php";
                                     <h5>The Team </h5>
                                 </div>
                                 <div class="d-none d-sm-block">
-                                    <a href="/about#about-team">
+                                    <a href="/about?target=about-team">
                                         <img src="./assets/img/offer-team.jpg" alt="hero" class="img-fluid">
                                     </a>
                                 </div>
                                 <div class="d-sm-none">
-                                    <a href="/about#about-team">
+                                    <a href="/about?target=about-team">
                                         <img src="./assets/img/Mobile_Team.png" alt="hero" class="img-fluid">
                                     </a>
                                 </div>
