@@ -277,7 +277,7 @@ include "header.php";
                                     <h5>The Team </h5>
                                 </div>
                                 <div class="d-none d-sm-block">
-                                    <a href="/cancervax/about?target=about-team">
+                                    <a href="/about?target=about-team">
                                         <img src="./assets/img/offer-team.jpg" alt="hero" class="img-fluid">
                                     </a>
                                 </div>
