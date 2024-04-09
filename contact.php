@@ -30,14 +30,7 @@ include('header.php'); ?>
                             </div>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-sm-5">
-                            <div class="contact-info-item">
-                                <h3>UTAH</h3>
-                                <p><a href="https://goo.gl/maps/5Thg5NvcUgT5S5zJ9" target="_blank" rel="noopener noreferrer">2701 N. Thanksgiving Way Lehi, UT 84043</a></p>
-                            </div>
-                        </div>
-                    </div>
+                  
                 </div>
             </div>
             <div class="col-lg-5">
