@@ -390,9 +390,7 @@ include('header.php'); ?>
                         <p>
                             Principal Investigator
                         </p>
-                        <a href="http://www.youtube.com/watch?v=DcFor_Vo4MU" class="popup-youtube intertext">
-                            Watch Interview
-                        </a>
+                      
 
                         <div class="team-description">
                             <p>Dr. de oliveira is a board-certified pediatrician and board-certified pediatric
@@ -527,6 +525,14 @@ include('header.php'); ?>
     <div class="container">
         <h4>News Highlights</h4>
         <div class="row">
+        <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancervax-launches-5-million-funding-round.php"></a>
+                    <span> April 3, 2024 </span>
+                    <h3>CancerVax Launches $5 Million Funding Round </h3>
+                    <p> CancerVax, Inc., developer of a breakthrough Universal Cancer Vaccine treatment that will use the body’s immune system to fight cancer, today announced that its Reg A+ offering has been qualified by the SEC allowing the Company to formally launch a funding round of up to $5 million. Proceeds from the SEC qualified Reg A+ offering will be used by the Company to continue work on its breakthrough cancer treatments </p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-ceo-ryan-davies-discusses-cancer-drug-development-with-dr-ezra-cohen.php"></a>
@@ -551,14 +557,7 @@ include('header.php'); ?>
                     <p>CancerVAX, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, spoke with and UCLA cancer physician and researcher, Dr. Steven Jonas, about his journey to becoming both a practicing cancer doctor and active cancer researcher</p>
                 </div>
             </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="world-renowned-biomedical-professor-jonathan-lakey-joins-cancervax-board-of-advisors.php"></a>
-                    <span>July 25, 2023 </span>
-                    <h3>World Renowned Biomedical Professor Jonathan Lakey Joins CancerVAX Board of Advisors</h3>
-                    <p>Dr. Lakey has been recognized nationally and internationally for his groundbreaking research in cell and tissue transplantation for patients suffering from diabetes and cancer</p>
-                </div>
-            </div>
+       
         </div>
 
     </div>

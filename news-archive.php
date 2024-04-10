@@ -17,6 +17,14 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="cancervax-launches-5-million-funding-round.php"></a>
+                    <span> April 3, 2024 </span>
+                    <h3>CancerVax Launches $5 Million Funding Round </h3>
+                    <p> CancerVax, Inc., developer of a breakthrough Universal Cancer Vaccine treatment that will use the body’s immune system to fight cancer, today announced that its Reg A+ offering has been qualified by the SEC allowing the Company to formally launch a funding round of up to $5 million. Proceeds from the SEC qualified Reg A+ offering will be used by the Company to continue work on its breakthrough cancer treatments </p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancervax-ceo-ryan-davies-discusses-cancer-drug-development-with-dr-ezra-cohen.php"></a>
                     <span>November 2, 2023 </span>
                     <h3>CancerVAX CEO Ryan Davies Discusses Cancer Drug Development with Dr. Ezra Cohen</h3>
