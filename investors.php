@@ -277,12 +277,12 @@ include "header.php";
                                     <h5>The Team </h5>
                                 </div>
                                 <div class="d-none d-sm-block">
-                                    <a href="/about#about-team">
+                                     <a href="/about?target=about-team">
                                         <img src="./assets/img/offer-team.jpg" alt="hero" class="img-fluid">
                                     </a>
                                 </div>
                                 <div class="d-sm-none">
-                                    <a href="/about#about-team">
+                                     <a href="/about?target=about-team">
                                         <img src="./assets/img/Mobile_Team.png" alt="hero" class="img-fluid">
                                     </a>
                                 </div>
@@ -302,46 +302,48 @@ include "header.php";
                                         </div>
                                     </div>
                                     <div class="col-6">
-                                    <div class="term-blo">
+                                        <div class="term-blo">
                                             <div class="offer-title">PRICE FOR SHARE</div>
                                             <div class="offer-price">$2.10</div>
                                         </div>
                                     </div>
                                     <div class="col-6">
-                                    <div class="term-blo">
+                                        <div class="term-blo">
                                             <div class="offer-title">MIN INVESTMENT</div>
                                             <div class="offer-price">$525</div>
                                         </div>
                                     </div>
                                     <div class="col-6">
-                                    <div class="term-blo">
+                                        <div class="term-blo">
                                             <div class="offer-title">OFFERING TYPE</div>
                                             <div class="offer-price">Equity</div>
                                         </div>
                                     </div>
                                     <div class="col-6">
-                                    <div class="term-blo">
+                                        <div class="term-blo">
                                             <div class="offer-title">ASSET TYPE</div>
                                             <div class="offer-price">Common Stock</div>
                                         </div>
                                     </div>
                                     <div class="col-6">
-                                    <div class="term-blo">
+                                        <div class="term-blo">
                                             <div class="offer-title">SHARES OFFERED</div>
                                             <div class="offer-price">Common Stock</div>
                                         </div>
                                     </div>
                                     <div class="col-6">
-                                    <div class="term-blo d-flex flex-column">
+                                        <div class="term-blo d-flex flex-column">
                                             <div class="offer-title">OFFERING CIRCULAR</div>
                                             <a href="https://cancervax.com/2024oc" target="_blank" class="offer-price last-offer mb-0">See on SEC.gov</a>
                                         </div>
                                     </div>
                                     <div class="col-6">
- 
-                                    <div class="term-blo">
+
+                                        <div class="term-blo">
                                             <div class="offer-title">BROKER DEALER</div>
-                                            <img src="./assets/img/DallMore.png" alt="dallmore">
+                                            <a href="https://dalmoregroup.com/about-dalmore/" target="_blank" rel="noopener noreferrer">
+                                                <img src="./assets/img/DallMore.png" alt="hero" class="img-fluid">
+                                            </a>
                                         </div>
                                     </div>
 
@@ -476,7 +478,9 @@ include "header.php";
                                 </div>
                             </div>
                             <div class="brokerCard">BROKER DEALER
-                                <img src="./assets/img/DallMore.png" alt="hero" class="img-fluid">
+                                <a href="https://dalmoregroup.com/about-dalmore/" target="_blank" rel="noopener noreferrer">
+                                    <img src="./assets/img/DallMore.png" alt="hero" class="img-fluid">
+                                </a>
                             </div>
                         </div>
                     </div>

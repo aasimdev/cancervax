@@ -103,6 +103,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-T6HDQWW7');</script>
 <!-- End Google Tag Manager -->
 
+<script>
+        // Immediately scroll to the target section upon page load
+        document.addEventListener('DOMContentLoaded', function() {
+            var sectionId = getQueryParam('target'); // Extract section ID from URL parameter
+            var section = document.getElementById(sectionId);
+            if (section) {
+                section.scrollIntoView({
+                    behavior: 'smooth'
+                });
+            }
+        });
+
+        // Function to extract URL parameter by name
+        function getQueryParam(name) {
+            var urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+    </script>
+
 </head>
 
 
@@ -124,6 +143,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     })(window, document, 'script', 'dataLayer', 'GTM-K6D95QZP');
 </script>
 <!-- End Google Tag Manager -->
+
+
 
 <body>
 
