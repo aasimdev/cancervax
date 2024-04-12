@@ -22,14 +22,14 @@ include('investor-header.php'); ?>
                         <p>These increases are not confined to the US, studies say. A review of cancer registry records in 44 countries, published last year, found that th<span style="font-size: 14px;">e i</span><span style="font-size: 14px;">ncidence of early-onset cancers is&nbsp;</span><strong><span>rising rapidly for 14 types of cancer,</span></strong> many of which affect the digestive system.</p>
                         <p>These findings are consistent with other reports that suggest that worldwide by 2040, the number of new <strong><span>cancer cases per year is expected to rise to 29.5 million.</span></strong></p>
                         <p>This presents a <strong><span>unique challenge and opportunity.</span></strong></p>
-                        <p><strong><span>CancerVAX is revolutionizing cancer treatment</span></strong> using the body's immune system to fight cancer.</p>
+                        <p><strong><span>CancerVax is revolutionizing cancer treatment</span></strong> using the body's immune system to fight cancer.</p>
                         <p>According to Bloomberg Business, the <strong><span>cancer immunotherapy market is expected to grow to $196 billion by 2030.&nbsp;</span></strong></p>
-                        <p>&nbsp;We invite you to<span><strong>&nbsp;help us in the fight against cancer</strong></span> by investing in CancerVAX.</p>
+                        <p>&nbsp;We invite you to<span><strong>&nbsp;help us in the fight against cancer</strong></span> by investing in CancerVax.</p>
                     </div>
                     <div class="inPost-btn"><a href="https://join.cancervax.com/act" target="_blank" rel="noopener noreferrer"><img src="https://d2j6gq8tvnyhoe.cloudfront.net/f50c1cb1-2916-4e4d-a9bf-e4deb3e9f2d7.png"></a>
                     </div>
                     <div class="inPost-abt">
-                        <p>For more information about CancerVAX, please visit <a href="https://www.cancervax.com/" target="_blank" rel="noopener noreferrer">https://www.cancervax.com/</a></p>
+                        <p>For more information about CancerVax, please visit <a href="https://www.cancervax.com/" target="_blank" rel="noopener noreferrer">https://www.cancervax.com/</a></p>
                         <h5>This investment is speculative, illiquid, and involves a high degree of risk, including the possible loss of your entire investment.</h5>
                     </div>
                 </div>

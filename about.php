@@ -7,7 +7,7 @@ include('header.php'); ?>
 <section class="abtBanner">
     <div class="container">
         <div class="abtBanner-text">
-            <h1>CancerVAX, Inc. is a pre-clinical biotechnology company working with a world-class team of experienced cancer researchers and physicians at UCLA to create a breakthrough Universal Cancer Vaccine platform, designed to be customizable and delivered as a shot, using cutting-edge bioengineering and molecular technologies to uniquely detect, mark and kill only cancer cells. By forcing cancer cells to express a unique marker not found in healthy cells, custom antibody drugs and the body’s immune cells can target and destroy the cancer cells with precision. We are also working with UCLA to develop two additional immunotherapy technologies: (1) a low- cost Universal CAR-T Cell platform that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells, and (2) a disease-specific immunotherapy targeted at treating Ewing sarcoma, a deadly children’s cancer. All our immunotherapy technologies are designed to be delivered as injections. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.  </h1>
+            <h1>CancerVax, Inc. is a pre-clinical biotechnology company working with a world-class team of experienced cancer researchers and physicians at UCLA to create a breakthrough Universal Cancer Vaccine platform, designed to be customizable and delivered as a shot, using cutting-edge bioengineering and molecular technologies to uniquely detect, mark and kill only cancer cells. By forcing cancer cells to express a unique marker not found in healthy cells, custom antibody drugs and the body’s immune cells can target and destroy the cancer cells with precision. We are also working with UCLA to develop two additional immunotherapy technologies: (1) a low- cost Universal CAR-T Cell platform that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells, and (2) a disease-specific immunotherapy targeted at treating Ewing sarcoma, a deadly children’s cancer. All our immunotherapy technologies are designed to be delivered as injections. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.  </h1>
         </div>
     </div>
 </section>
@@ -34,7 +34,7 @@ include('header.php'); ?>
                         <h2>Our Story</h2>
                     </div>
                     <div class="col-sm-9 col-md-8 col-xl-6">
-                        <p>We started working with UCLA in early 2021 on a single-disease immunotherapy targeted at Ewing Sarcoma, a deadly children’s cancer. Existing immunotherapies target natural cancer cell markers, which unfortunately appear in health cells as well, resulting in the destruction of healthy cells and causing various levels of toxicity and side effects. <br><br>
+                        <p>We started working with UCLA in early 2021 on a single-disease immunotherapy targeted at Ewing Sarcoma, a deadly children’s cancer. Existing immunotherapies target natural cancer cell markers, which unfortunately appear in healthy cells as well, resulting in the destruction of healthy cells and causing various levels of toxicity and side effects. <br><br>
                             Through a series of brainstorm sessions that started in late 2021, we developed the concept of a customizable Universal Cancer Vaccine Platform (UCV) that can potentially target cancer cells with a high degree of precision and force only the cancer cells to express a unique marker that we can easily target for destruction. The UCV project kicked off in 2022. <br><br>
                             The UCV project progressed methodically with the development of various innovative technologies, including a foundational nanoparticle technology which can be programmed to target specific cells and deliver customized cargos. <br><br>
                             In a pivotal project meeting in the summer of 2023, the UCLA team reported positive progress on Ewing sarcoma and UCV. Surprisingly, the highly customizable low-cost nanoparticle technology developed for UCV can be adapted to perform an existing cancer immunotherapy (CAR-T Cell) at an extremely low cost. Thus, the Universal CAR-T Cell Platform was born. <br><br>
@@ -123,7 +123,7 @@ include('header.php'); ?>
 <a name="about-team" id="about-team" style="position: relative; top:-80px"></a>
 <section class="coreTeam">
     <div class="container">
-        <h3 style="text-align:center;color:black;margin-bottom:30px;">CancerVAX Team</h3>
+        <h3 style="text-align:center;color:black;margin-bottom:30px;">CancerVax Team</h3>
         <div class="row justify-content-center">
 
             <div class="col-md-6 col-xl-3">
@@ -140,7 +140,7 @@ include('header.php'); ?>
                         Chairman
                     </p>
                     <div class="team-description">
-                        <p>Ryan has had a successful career as an entrepreneur, business executive and public servant. Prior to joining CancerVAX, Ryan co-founded several biotech companies/technologies including a nitric oxide topical wound-care product, a medical device company (drug delivery system) and an antibiotic drug development company. Ryan served as CEO of Curza, a small molecule therapeutics company focused on developing new antibiotics; SVP at Clarke Capital Partners, a private growth equity investment firm; co-founder of a software/ecommerce company Found.com (acquired by CRS Retail Systems); co-founder of a software company O2 Blue (acquired by Prebon Yamane). His public service activities include serving on the Draper, Utah City Council and serving on the campaigns of two U.S. presidential candidates, one U.S. senate candidate and two gubernatorial candidates. Ryan holds degrees in Business Management from Ricks College and Political Science from Brigham Young University.</p>
+                        <p>Ryan has had a successful career as an entrepreneur, business executive and public servant. Prior to joining CancerVax, Ryan co-founded several biotech companies/technologies including a nitric oxide topical wound-care product, a medical device company (drug delivery system) and an antibiotic drug development company. Ryan served as CEO of Curza, a small molecule therapeutics company focused on developing new antibiotics; SVP at Clarke Capital Partners, a private growth equity investment firm; co-founder of a software/ecommerce company Found.com (acquired by CRS Retail Systems); co-founder of a software company O2 Blue (acquired by Prebon Yamane). His public service activities include serving on the Draper, Utah City Council and serving on the campaigns of two U.S. presidential candidates, one U.S. senate candidate and two gubernatorial candidates. Ryan holds degrees in Business Management from Ricks College and Political Science from Brigham Young University.</p>
                     </div>
                 </div>
             </div>
@@ -233,14 +233,14 @@ include('header.php'); ?>
                         </a>
                     </div>
                     <h5>
-                        Satiro de oliveira, MD
+                        Satiro De Oliveira, MD
                     </h5>
                     <p>
                         Principal Investigator
                     </p>
                 
                     <div class="team-description">
-                        <p>Dr. de oliveira is a board-certified pediatrician and board-certified pediatric hematology/oncologist. He received his medical degree in Brazil and completed his pediatric residency at Woodhull Medical and Mental Health Center in New York and his pediatric hematology/oncology fellowship at the Children’s Hospital Los Angeles. His clinical focus is on pediatric oncology and gene therapies and his research focus is on cancer immunotherapy and biology of stem cell transplantation.</p>
+                        <p>Dr. De Oliveira is a board-certified pediatrician and board-certified pediatric hematology/oncologist. He received his medical degree in Brazil and completed his pediatric residency at Woodhull Medical and Mental Health Center in New York and his pediatric hematology/oncology fellowship at the Children’s Hospital Los Angeles. His clinical focus is on pediatric oncology and gene therapies and his research focus is on cancer immunotherapy and biology of stem cell transplantation.</p>
                     </div>
                 </div>
             </div>

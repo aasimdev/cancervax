@@ -27,7 +27,7 @@ include('header.php'); ?>
                                 <img src="./assets/img/ucla.png" alt="ucla">
                             </div>
                         </div>
-                        <p class="mt-0">CancerVAX CEO Discusses Expanded Pipeline at UCLA</p>
+                        <p class="mt-0">CancerVax CEO Discusses Expanded Pipeline at UCLA</p>
 
                     </div>
                 </div>
@@ -97,7 +97,7 @@ include('header.php'); ?>
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
-                    <p class="mt-0">CancerVAX CEO Discusses Expanded Pipeline at UCLA</p>
+                    <p class="mt-0">CancerVax CEO Discusses Expanded Pipeline at UCLA</p>
 
                 </div>
             </div>

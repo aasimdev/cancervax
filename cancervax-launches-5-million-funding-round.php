@@ -18,7 +18,7 @@ include('header.php'); ?>
 
         <p>The offering is available to the general public. For more information about the offering, please visit <a href="https://cancervax.com/investors">https://cancervax.com/investors</a>.   </p>
 
-        <p>For more information about CancerVAX, please visit <a href="http://www.cancervax.com/">http://www.cancervax.com/</a>. </p>
+        <p>For more information about CancerVax, please visit <a href="http://www.cancervax.com/">http://www.cancervax.com/</a>. </p>
 
             <p><i>This offering is made in reliance on Regulation A+ under the Securities Act of 1933. The securities offered are speculative, illiquid, and an investor could lose the entire investment. Investors should read the relevant Offering Circular and consider the risks disclosed therein before investing. For full disclaimers, visit <a href="https://www.sec.gov/Archives/edgar/data/1905495/000149315224009596/partiiandiii.htm" target="_blank" rel="noopener noreferrer">SEC.gov</a>. </i></p>
 
@@ -31,7 +31,7 @@ include('header.php'); ?>
         <p>This press release may contain “forward-looking statements” within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements are neither historical facts nor assurances of future performance. Instead, they are based only on our current beliefs, expectations, and assumptions regarding the future of our business, plans and strategies, projections, anticipated events and trends, the economy, and other future conditions. Because forward-looking statements relate to the future, they are subject to inherent uncertainties, risks, and changes in circumstances that are difficult to predict, many of which are outside our control. Our actual results and financial condition may differ materially from those in the forward-looking statements. Therefore, you should not rely on any of these forward-looking statements. Any forward-looking statement made by us in this release is based only on information currently available to us and speaks only as of the date it is made. We undertake no obligation to publicly update any forward-looking statement, whether written or oral, that may be made from time to time, whether as a result of new information, future developments, or otherwise.  </p>
 
         <p>Press Contact: <br>
-            CancerVAX, Inc. <br>
+            CancerVax, Inc. <br>
             Tel: <a href="tel:8053561810">(805) 356-1810</a> <br>
             <a href="mailto:communications@cancervax.com">communications@cancervax.com</a>
         </p>

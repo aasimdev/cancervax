@@ -102,7 +102,7 @@ include('header.php'); ?>
                                 <li> They are then given to the patient by intravenous infusion. </;>
                                 <li>The CAR protein on the surface of the CAR T cells bind to antigens on the cancer cells and kill them. </li>
                             </ul>
-                            <h6>CancerVAX Envisioned CAR-T Cells Steps:</h6>
+                            <h6>CancerVax Envisioned CAR-T Cells Steps:</h6>
                             <ul class="count-list">
                                 <li>Genetic codes for targeting specific proteins on cancer cells are loaded into a smart nanoparticle using an innovative high-speed, low-cost manufacturing process. </li>
                                 <li>

@@ -11,7 +11,7 @@ include('investor-header.php'); ?>
                 <div class="inPost-box">
                     <h1>EXPLOSION OF ATTENTION as CEO explains the mission</h1>
                     <div class="inPost-description">
-                        <p>CancerVAX CEO, <strong><span>Ryan Davies, took to social media recently to thank everyone for their support</span></strong> and to lay out the company's mission.</p>
+                        <p>CancerVax CEO, <strong><span>Ryan Davies, took to social media recently to thank everyone for their support</span></strong> and to lay out the company's mission.</p>
                     </div>
                     <div class="inPost-img">
                         <img src="./assets/img/inpost-6.jpeg" alt="invest post">
@@ -22,12 +22,12 @@ include('investor-header.php'); ?>
                         <p>“The attention we are getting drives the team to strive every day and we know who we are fighting for,” Ryan explained.</p>
                         <p>The research team, working with professors, physicians, and investigators at UCLA, <strong><span>continues to make progress on a universal cancer vaccine treatment.</span></strong>&nbsp;</p>
                         <p>“We can’t do this alone. We need help and resources to win this battle,” Ryan concluded.</p>
-                        <p class="text-center">We invite you to <strong><span>help us in the fight against cancer</span></strong> by investing in CancerVAX.</p>
+                        <p class="text-center">We invite you to <strong><span>help us in the fight against cancer</span></strong> by investing in CancerVax.</p>
                     </div>
                     <div class="inPost-btn"><a href="https://join.cancervax.com/act" target="_blank" rel="noopener noreferrer"><img src="https://d2j6gq8tvnyhoe.cloudfront.net/f50c1cb1-2916-4e4d-a9bf-e4deb3e9f2d7.png"></a>
                     </div>
                     <div class="inPost-abt">
-                        <p>For more information about CancerVAX, please visit <a href="https://www.cancervax.com/" target="_blank" rel="noopener noreferrer">https://www.cancervax.com/</a></p>
+                        <p>For more information about CancerVax, please visit <a href="https://www.cancervax.com/" target="_blank" rel="noopener noreferrer">https://www.cancervax.com/</a></p>
                         <h5>This investment is speculative, illiquid, and involves a high degree of risk, including the possible loss of your entire investment.</h5>
                     </div>
                 </div>

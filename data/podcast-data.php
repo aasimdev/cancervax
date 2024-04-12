@@ -33,7 +33,7 @@ $videos = [
         'scope' => "private"
     ],
     [
-        'title' => "Ann Romney Discusses Immunotherapy with CancerVAX CEO",
+        'title' => "Ann Romney Discusses Immunotherapy with CancerVax CEO",
         'videoID' => "E8PLvkVjYtY",
         'date' => "November 12, 2023",
         'category' => "ceo-podcast",
@@ -49,7 +49,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "CancerVAX CEO Discusses Expanded Pipeline at UCLA",
+        'title' => "CancerVax CEO Discusses Expanded Pipeline at UCLA",
         'videoID' => "RJYGOJSKKLk",
         'date' => "October 2, 2023",
         'category' => "ceo-podcast",
@@ -161,7 +161,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Unlike Any Other Industry CancerVAX CEO Ryan Davies talks Biotech",
+        'title' => "Unlike Any Other Industry CancerVax CEO Ryan Davies talks Biotech",
         'videoID' => "1tqn7-LXYfY",
         'date' => "March 15, 2023",
         'category' => "ceo-podcast",
@@ -487,7 +487,7 @@ $videos = [
         "display" => true
     ],
     [
-        'title' => "Meet Byron Elton, President and CEO of CancerVAX",
+        'title' => "Meet Byron Elton, President and CEO of CancerVax",
         'videoID' => "5g8yAG8ZnN4",
         'date' => "",
         'category' => "short-videos",
@@ -523,7 +523,7 @@ $videos = [
         "display" => true
     ],
     [
-        'title' => "CancerVAX's Quest for Breakthroughs in Cancer Treatment",
+        'title' => "CancerVax's Quest for Breakthroughs in Cancer Treatment",
         'videoID' => "sHSxuQmKHNg",
         'date' => "",
         'category' => "short-videos",
@@ -541,7 +541,7 @@ $videos = [
         "display" => true
     ],
     [
-        'title' => "CancerVAX is here to create a Better Way To Treat Cancer",
+        'title' => "CancerVax is here to create a Better Way To Treat Cancer",
         'videoID' => "bs1avzWERFM",
         'date' => "",
         'category' => "short-videos",
@@ -858,7 +858,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "CancerVAX is paving the way for better safer, more effective cancer treatments.",
+        'title' => "CancerVax is paving the way for better safer, more effective cancer treatments.",
         'slug' => "cancervax-is-paving-the-way-for-better-safer-more-effective-cancer-treatments.",
         'videoID' => "58aPMoSKjWQ",
         'date' => "",
@@ -866,7 +866,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "CancerVAX is creating better ways to identify, diagnose, and treat cancer one day at a time.",
+        'title' => "CancerVax is creating better ways to identify, diagnose, and treat cancer one day at a time.",
         'slug' => "cancervax-is-creating-better-ways-to-identify-diagnose-and-treat-cancer-one-day-at-a-time",
         'videoID' => "YLZQqWgqmXU",
         'date' => "",
@@ -890,7 +890,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "CancerVAX has already made incredible strides in the development of biotechnology",
+        'title' => "CancerVax has already made incredible strides in the development of biotechnology",
         'slug' => "cancervax-has-already-made-incredible-strides-in-the-development-of-biotechnology",
         'videoID' => "X2I-te-DhgY",
         'date' => "",
@@ -938,7 +938,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "CancerVAX is creating cancer treatments that are accessible, affordable, and effective.",
+        'title' => "CancerVax is creating cancer treatments that are accessible, affordable, and effective.",
         'slug' => "cancervax-is-creating-cancer-treatments-that-are-accessible-affordable-and-effective",
         'videoID' => "BPjTUao0TNc",
         'date' => "",
@@ -962,7 +962,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "What is CancerVAX, and why do we matter?",
+        'title' => "What is CancerVax, and why do we matter?",
         'slug' => "what-is-cancervax-and-why-do-we-matter",
         'videoID' => "wwWstzEu0Hs",
         'date' => "",
@@ -1730,7 +1730,7 @@ $videos = [
     ],
 
     [
-        'title' => "What is CancerVAX's Mission?",
+        'title' => "What is CancerVax's Mission?",
         'videoID' => "wIUDlfLljtg",
         'date' => "",
         'category' => "short-videos",
@@ -1818,7 +1818,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "CancerVAX is at the forefront of progress towards better, safer cancer treatment!",
+        'title' => "CancerVax is at the forefront of progress towards better, safer cancer treatment!",
         'videoID' => "sIWib7gr4Uw",
         'date' => "",
         'category' => "short-videos",
@@ -1834,7 +1834,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "CancerVAX is at the forefront of the fight against cancer, and making incredible progress every day!",
+        'title' => "CancerVax is at the forefront of the fight against cancer, and making incredible progress every day!",
         'videoID' => "YA14B0E3n30",
         'date' => "",
         'category' => "short-videos",
@@ -1866,7 +1866,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "CancerVAX is pioneering the biotechnology that will empower safer, more effective cancer treatments.",
+        'title' => "CancerVax is pioneering the biotechnology that will empower safer, more effective cancer treatments.",
         'videoID' => "-hChbsUq0Io",
         'date' => "",
         'category' => "short-videos",
@@ -1874,7 +1874,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "CancerVAX is pushing progress toward better cancer treatment for everyone!",
+        'title' => "CancerVax is pushing progress toward better cancer treatment for everyone!",
         'videoID' => "Bq2KHeCYSH4",
         'date' => "",
         'category' => "short-videos",
