@@ -17,6 +17,14 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php"></a>
+                    <span> April 16, 2024 </span>
+                    <h3>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer  </h3>
+                    <p> CancerVax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has created a promising new drug candidate for treating recurrent Ewing sarcoma, a deadly children’s cancer </p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancervax-launches-5-million-funding-round.php"></a>
                     <span> April 3, 2024 </span>
                     <h3>CancerVax Launches $5 Million Funding Round </h3>

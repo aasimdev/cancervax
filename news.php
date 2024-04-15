@@ -17,6 +17,14 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php"></a>
+                    <span> April 16, 2024 </span>
+                    <h3>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer  </h3>
+                    <p> CancerVax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has created a promising new drug candidate for treating recurrent Ewing sarcoma, a deadly children’s cancer </p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancervax-launches-5-million-funding-round.php"></a>
                     <span> April 3, 2024 </span>
                     <h3>CancerVax Launches $5 Million Funding Round </h3>
@@ -39,14 +47,7 @@ include('header.php'); ?>
                     <p> CancerVax, Inc., a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer, today announced an expansion of its development pipeline to include a Universal CAR-T Cell Platform that can dramatically lower the cost of CAR-T cell cancer therapies</p>
                 </div>
             </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-ceo-ryan-davies-discussed-cancer-immunotherapy-with-ucla-physician-scientist.php"></a>
-                    <span>August 24, 2023 </span>
-                    <h3>CancerVax CEO Ryan Davies Discussed Cancer Immunotherapy with UCLA Physician-Scientist</h3>
-                    <p>CancerVax, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, spoke with and UCLA cancer physician and researcher, Dr. Steven Jonas, about his journey to becoming both a practicing cancer doctor and active cancer researcher</p>
-                </div>
-            </div>
+          
       
 
         </div>
