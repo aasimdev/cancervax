@@ -104,6 +104,11 @@ include('../header.php'); ?>
 
             $latestCeoPodcast = array_slice($filteredlatestCeoPodcast, 0, 4);
             foreach ($latestCeoPodcast as $video) {
+                if($video['date']){
+                    $title = $video['date']. " - " .$video['title'];
+                } else {
+                    $title = $video['title'];
+                }
                 echo "<div class=\"col-xl-3 col-lg-4 col-md-6\">
                 <div class=\"cchat\">
                 <div class=\"cchat-box mb-4\">
@@ -114,7 +119,7 @@ include('../header.php'); ?>
                     </div>
                     <i class=\"far fa-play-circle\"></i>
                 </div>            
-                <p class=\"mt-0\" >{$video['date']} - {$video['title']}</p>
+                <p class=\"mt-0\" >{$title}</p>
                 </div>
                 </div>";
             }
@@ -147,6 +152,11 @@ include('../header.php'); ?>
             $latestNewsCommentary = array_slice($filteredNewsCommentaryVideos, 0, 4);
 
             foreach ($latestNewsCommentary as $video) {
+                if($video['date']){
+                    $title = $video['date']. " - " .$video['title'];
+                } else {
+                    $title = $video['title'];
+                }
                 echo "<div class=\"col-xl-3 col-lg-4 col-md-6\">
             <div class=\"cchat\">
             <div class=\"cchat-box mb-4\">
@@ -157,7 +167,7 @@ include('../header.php'); ?>
                 </div>
                 <i class=\"far fa-play-circle\"></i>
             </div>            
-            <p class=\"mt-0\" >{$video['date']} - {$video['title']}</p>
+            <p class=\"mt-0\" >{$title}</p>
             </div>
         </div>";
             }
