@@ -70,6 +70,11 @@ if($showAllVideo == 1){
                 return $item['category'] === 'news-commentary' && $item['scope'] === 'public';
             });
             foreach ($latestNewsCommentary as $video) {
+                if($video['date']){
+                    $title = $video['date']. " - " .$video['title'];
+                } else {
+                    $title = $video['title'];
+                }
                 echo "<div class=\"col-lg-6\">
                 <div class=\"cchat\">
                 <div class=\"cchat-box mb-4\">
@@ -80,7 +85,7 @@ if($showAllVideo == 1){
                     </div>
                     <i class=\"far fa-play-circle\"></i>
                 </div>            
-                <p class=\"mt-0\" >{$video['date']} - {$video['title']}</p>
+                <p class=\"mt-0\" >{$title}</p>
                 </div>
                 </div>";
             }
