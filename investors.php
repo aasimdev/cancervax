@@ -15,6 +15,11 @@ include "header.php";
                     <div class="col-lg-6">
                         <div class="heroSection-content">
                             <h2> Using the Body’s Immune System to Fight Cancer</h2>
+                            <div class="banner-announcement d-lg-none">
+                                <h4>Breaking News</h4>
+                                <p>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer</p>
+                                <a href="/news" class="theme-btn">Learn More</a>
+                            </div>
                             <div class="video-section first-mobile text-center">
                                 <a href="https://www.youtube.com/watch?v=QNFte4x413Y" class="popup-youtube">
                                     <img src="./assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
@@ -26,10 +31,15 @@ include "header.php";
                         </div>
 
                         <div class="offerInvest">
-                            <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here</a>
+                            <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
                         </div>
                     </div>
                     <div class="col-lg-6 d-none d-lg-block">
+                        <div class="banner-announcement">
+                            <h4>Breaking News</h4>
+                            <p>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer</p>
+                            <a href="/news" class="theme-btn">Learn More</a>
+                        </div>
                         <div class="video-section">
                             <a href="https://www.youtube.com/watch?v=QNFte4x413Y" class="popup-youtube">
                                 <img src="./assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
@@ -450,7 +460,7 @@ include "header.php";
                         <div class="priceCardLeft d-none d-lg-block">
 
                             <div class="offerInvestTwo">
-                                <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here</a>
+                                <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
                             </div>
 
                             <div class="priceDetails">
@@ -492,7 +502,7 @@ include "header.php";
                     <a href="#bonus-shares">Earn Bonus Shares</a>
                 </div>
                 <div class="offerInvest">
-                    <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here</a>
+                    <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
                 </div>
             </div>
         </div>

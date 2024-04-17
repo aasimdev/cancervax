@@ -22,6 +22,11 @@ include('header.php'); ?>
                 <div class="col-lg-7">
                     <div class="banner-text">
                         <h1> Creating a Better Way <br> to Treat Cancer <br> <span>Universal Cancer Vaccine</span></h1>
+                        <div class="banner-announcement d-lg-none">
+                        <h4>Breaking News</h4>
+                        <p>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer</p>
+                        <a href="/news" class="theme-btn">Learn More</a>
+                    </div>
                         <div class="banner-video d-lg-none">
                             <div class="banner-thumbnail">
                                 <img src="https://i.ytimg.com/vi/2OHGmKOqOYE/maxresdefault.jpg" alt="thumbnail">
@@ -50,6 +55,11 @@ include('header.php'); ?>
                     </div>
                 </div>
                 <div class="col-lg-5">
+                    <div class="banner-announcement d-none d-lg-block">
+                        <h4>Breaking News</h4>
+                        <p>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer</p>
+                        <a href="/news" class="theme-btn">Learn More</a>
+                    </div>
                     <div class="banner-video d-none d-lg-block">
                         <div class="banner-thumbnail">
                             <img src="https://i.ytimg.com/vi/2OHGmKOqOYE/maxresdefault.jpg" alt="thumbnail">
@@ -87,6 +97,25 @@ include('header.php'); ?>
                 <div class="row align-items-center">
                     <div class="col-lg-3">
                         <div class="devPlan-graphic">
+                            <img src="./assets/img/children-cancer.png" alt="cancer">
+                        </div>
+                    </div>
+                    <div class="col-lg-9">
+                        <div class="devPlan-conten">
+                            <h6>Children’s Cancer</h6>
+                            <p>We have created our first cancer drug candidate – a  single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%. ​
+
+​<br><br>
+
+Based on the positive data, we plan to launch FDA IND enabling studies needed to apply for approval to proceed with human trials. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.  </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="devPlan-item">
+                <div class="row align-items-center">
+                    <div class="col-lg-3">
+                        <div class="devPlan-graphic">
 
                             <img src="./assets/img/universal-cart.png" alt="cancer">
                         </div>
@@ -102,23 +131,7 @@ include('header.php'); ?>
                     </div>
                 </div>
             </div>
-            <div class="devPlan-item">
-                <div class="row align-items-center">
-                    <div class="col-lg-3">
-                        <div class="devPlan-graphic">
-                            <img src="./assets/img/children-cancer.png" alt="cancer">
-                        </div>
-                    </div>
-                    <div class="col-lg-9">
-                        <div class="devPlan-conten">
-                            <h6>Children’s Cancer</h6>
-                            <p>We are creating a disease-specific immunotherapy targeted at treating Ewing sarcoma, a rare but deadly bone and soft tissue cancer that affects children and young adults. <span>Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%.</span>
-                                    <br><br>
-                                All our immunotherapy technologies are designed to be delivered as simple injections. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer. </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+          
             <!-- <div class="devPlan-item">
                 <div class="row align-items-center">
                     <div class="col-lg-3">
@@ -390,7 +403,7 @@ include('header.php'); ?>
                         <p>
                             Principal Investigator
                         </p>
-                      
+
 
                         <div class="team-description">
                             <p>Dr. De Oliveira is a board-certified pediatrician and board-certified pediatric
@@ -525,7 +538,7 @@ include('header.php'); ?>
     <div class="container">
         <h4>News Highlights</h4>
         <div class="row">
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-launches-5-million-funding-round.php"></a>
                     <span> April 3, 2024 </span>
@@ -557,7 +570,7 @@ include('header.php'); ?>
                     <p>CancerVax, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, spoke with and UCLA cancer physician and researcher, Dr. Steven Jonas, about his journey to becoming both a practicing cancer doctor and active cancer researcher</p>
                 </div>
             </div>
-       
+
         </div>
 
     </div>
