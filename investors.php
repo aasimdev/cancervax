@@ -162,58 +162,61 @@ include "header.php";
                                 <p>In addition to our Universal Cancer Vaccine platform, we are also working with UCLA to create two other immunotherapy technologies.</p>
 
                                 <div class="Children">
-                                <h4> Children’s Cancer</h4>
+                                    <h4> Children’s Cancer</h4>
 
-                                <div class="learnMore">
-                                    <a href="/pipeline" target="_blank">Learn More</a>
-                                </div>
+                                    <div class="learnMore">
+                                        <a href="/pipeline" target="_blank">Learn More</a>
+                                    </div>
 
-                                <div class="learnImg first-mobile"> <img src="./assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
-                                </div>
-                                <p>We are creating a disease-specific immunotherapy targeted at treating Ewing sarcoma, a rare but deadly bone and soft tissue cancer that affects children and young adults. Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%.</p>
-                                <p>All our immunotherapy technologies are designed to be delivered as simple injections. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.</p>
+                                    <div class="learnImg first-mobile"> <img src="./assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
+                                    </div>
+                              
 
-                                <div class="learnImg first-desktop"> <img src="./assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
-                                </div>
-                            </div>
+                                    <p>We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%. ​
+                                    </p>
+                                    <p>Based on the positive data, we plan to launch FDA IND enabling studies needed to apply for approval to proceed with human trials. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.</p>
 
-                            <div class="priceDescriptionCard">
-                                <div class="billion">
-                                    $183 Billion
-                                </div>
-                                <div class="billion-wrap">
-                                    <div class="billion-text">
-                                        <span>U.S. cancer healthcare spend in 2015 <sup>(4)</sup></span>
+                                    <div class="learnImg first-desktop"> <img src="./assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
                                     </div>
                                 </div>
 
-                                <div class="billion">
-                                    $246 Billion
-                                </div>
-                                <div class="billion-wrap">
-                                    <div class="billion-text">
-                                        <span>Projected U.S. cancer healthcare spend by 2030 <sup>(4)</sup></span>
+                                <div class="priceDescriptionCard">
+                                    <div class="billion">
+                                        $183 Billion
                                     </div>
-                                </div>
+                                    <div class="billion-wrap">
+                                        <div class="billion-text">
+                                            <span>U.S. cancer healthcare spend in 2015 <sup>(4)</sup></span>
+                                        </div>
+                                    </div>
 
-                                <div class="billion">
-                                    $484 Billion
-                                </div>
-                                <div class="billion-wrap">
-                                    <div class="billion-text">
-                                        <span>Projected global cancer drugs market by 2030 <sup>(2)</sup></span>
+                                    <div class="billion">
+                                        $246 Billion
                                     </div>
-                                </div>
+                                    <div class="billion-wrap">
+                                        <div class="billion-text">
+                                            <span>Projected U.S. cancer healthcare spend by 2030 <sup>(4)</sup></span>
+                                        </div>
+                                    </div>
 
-                                <div class="billion">
-                                    $3.2 Trillion
-                                </div>
-                                <div class="billion-wrap">
-                                    <div class="billion-text billion-text-last">
-                                        <span>Projected global biotechnology market by 2030 <sup>(5)</sup></span>
+                                    <div class="billion">
+                                        $484 Billion
+                                    </div>
+                                    <div class="billion-wrap">
+                                        <div class="billion-text">
+                                            <span>Projected global cancer drugs market by 2030 <sup>(2)</sup></span>
+                                        </div>
+                                    </div>
+
+                                    <div class="billion">
+                                        $3.2 Trillion
+                                    </div>
+                                    <div class="billion-wrap">
+                                        <div class="billion-text billion-text-last">
+                                            <span>Projected global biotechnology market by 2030 <sup>(5)</sup></span>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
 
 
                                 <div class="universal-heading">
@@ -233,7 +236,7 @@ include "header.php";
 
 
 
-                           
+
 
                             <div class="marketSection">
                                 <h6>The Market</h6>
