@@ -15,15 +15,15 @@ include('header.php'); ?>
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php"></a>
                     <span> April 16, 2024 </span>
-                    <h3>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer  </h3>
+                    <h3>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer </h3>
                     <p> CancerVax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has created a promising new drug candidate for treating recurrent Ewing sarcoma, a deadly children’s cancer </p>
                 </div>
             </div>
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-launches-5-million-funding-round.php"></a>
                     <span> April 3, 2024 </span>
@@ -47,12 +47,16 @@ include('header.php'); ?>
                     <p> CancerVax, Inc., a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer, today announced an expansion of its development pipeline to include a Universal CAR-T Cell Platform that can dramatically lower the cost of CAR-T cell cancer therapies</p>
                 </div>
             </div>
-          
-      
+
+
 
         </div>
         <div class="news-see-archive">
             <a href="/news-archive">See All</a>
+        </div>
+
+        <div class="offerInvest">
+            <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
         </div>
     </div>
 </section>

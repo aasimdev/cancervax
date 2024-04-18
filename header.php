@@ -200,9 +200,9 @@
                 <div class="invest-bar-content">
                     <div class="invest-bar-text">
                         <p>Help Us Beat Cancer</p>
-                        <a href="<?php $page_name = basename($_SERVER['PHP_SELF']); if ($page_name == "investors.php") { ?>https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/<?php } else { ?>/investors<?php } ?>" target="<?php if ($page_name == "investors.php") { ?>_blank<?php } else { ?>_self<?php } ?>">Invest Here</a>
+                        <a href="<?php $page_name = basename($_SERVER['PHP_SELF']); if ($page_name == "investors.php") { ?>https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/<?php } else { ?>/investors<?php } ?>" target="<?php if ($page_name == "investors.php") { ?>_blank<?php } else { ?>_self<?php } ?>">Invest Here <span>Secure Direct Invest Platform</span></a>
                     </div>
-                    <div class="tSocial d-none d-sm-block">
+                    <div class="tSocial d-none d-md-block">
                         <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
                         <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
                         <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>

@@ -43,7 +43,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="pC-pipeline-item" id="children-cancer">
             <h4>Children’s Cancer</h4>
-            <p>We are developing a disease-specific immunotherapy targeted at treating Ewing Sarcoma, a rare but deadly bone and soft tissue cancer that affects children and young adults. There are currently no treatment options available for recurrence of Ewing Sarcoma. This research effort is led by a team of cancer researchers and physicians who run the Ewing Sarcoma Program at the UCLA Jonsson Comprehensive Cancer Center. </p>
+            <p>Working with a team of cancer researchers and physicians who run the Ewing Sarcoma Program at the UCLA Jonsson Comprehensive Cancer Center, we have created our first cancer drug candidate – a  single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Based on the positive data, we plan to launch FDA IND enabling studies needed to apply for approval to proceed with human trials. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer. </p>
 
             <div class="row align-items-center mt-sm-4 mt-3 mb-0">
                 <div class="col-lg-7">

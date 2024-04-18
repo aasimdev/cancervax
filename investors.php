@@ -15,6 +15,11 @@ include "header.php";
                     <div class="col-lg-6">
                         <div class="heroSection-content">
                             <h2> Using the Body’s Immune System to Fight Cancer</h2>
+                            <div class="banner-announcement d-lg-none">
+                                <h4>Breaking News</h4>
+                                <p>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer</p>
+                                <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php" class="theme-btn">Learn More</a>
+                            </div>
                             <div class="video-section first-mobile text-center">
                                 <a href="https://www.youtube.com/watch?v=QNFte4x413Y" class="popup-youtube">
                                     <img src="./assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
@@ -26,10 +31,15 @@ include "header.php";
                         </div>
 
                         <div class="offerInvest">
-                            <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here</a>
+                            <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
                         </div>
                     </div>
                     <div class="col-lg-6 d-none d-lg-block">
+                        <div class="banner-announcement">
+                            <h4>Breaking News</h4>
+                            <p>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer</p>
+                            <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php" class="theme-btn">Learn More</a>
+                        </div>
                         <div class="video-section">
                             <a href="https://www.youtube.com/watch?v=QNFte4x413Y" class="popup-youtube">
                                 <img src="./assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
@@ -151,24 +161,7 @@ include "header.php";
                                 <h5>Additional Immunotherapy Projects</h5>
                                 <p>In addition to our Universal Cancer Vaccine platform, we are also working with UCLA to create two other immunotherapy technologies.</p>
 
-                                <div class="universal-heading">
-                                    Universal CAR-T Cell Platform (UCAR-T)
-                                    <div class="learnMore mb-0 mt-3">
-                                        <a href="/pipeline" target="_blank">Learn More</a>
-                                    </div>
-                                </div>
-
-                                <p>Our UCAR-T Cell platform is a novel and customizable low-cost cancer treatment platform, delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. Our goal is to lower the cost to a few thousand dollars per dose by helping the body make its own CAR T-cells.</p>
-
-                                <p>Our Universal Cancer Vaccine platform and our UCAR-T Cell platform can be used separately, however, when used together, we believe that we can kill cancer cells with extreme precision using the body’s immune system at very low costs. Our Universal Cancer Vaccine platform detects and marks a unique target our UCAR-T Cell platform makes T-cells that attack that target.</p>
-                            </div>
-                            <div class="pipeline-virus-left mt-4">
-                                <img src="./assets/img/pipeline-virus-left.png" alt="hero" class="img-fluid">
-                            </div>
-
-
-
-                            <div class="Children">
+                                <div class="Children">
                                 <h4> Children’s Cancer</h4>
 
                                 <div class="learnMore">
@@ -221,6 +214,26 @@ include "header.php";
                                     </div>
                                 </div>
                             </div>
+
+
+                                <div class="universal-heading">
+                                    Universal CAR-T Cell Platform (UCAR-T)
+                                    <div class="learnMore mb-0 mt-3">
+                                        <a href="/pipeline" target="_blank">Learn More</a>
+                                    </div>
+                                </div>
+
+                                <p>Our UCAR-T Cell platform is a novel and customizable low-cost cancer treatment platform, delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. Our goal is to lower the cost to a few thousand dollars per dose by helping the body make its own CAR T-cells.</p>
+
+                                <p>Our Universal Cancer Vaccine platform and our UCAR-T Cell platform can be used separately, however, when used together, we believe that we can kill cancer cells with extreme precision using the body’s immune system at very low costs. Our Universal Cancer Vaccine platform detects and marks a unique target our UCAR-T Cell platform makes T-cells that attack that target.</p>
+                            </div>
+                            <div class="pipeline-virus-left mt-4">
+                                <img src="./assets/img/pipeline-virus-left.png" alt="hero" class="img-fluid">
+                            </div>
+
+
+
+                           
 
                             <div class="marketSection">
                                 <h6>The Market</h6>
@@ -450,7 +463,7 @@ include "header.php";
                         <div class="priceCardLeft d-none d-lg-block">
 
                             <div class="offerInvestTwo">
-                                <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here</a>
+                                <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
                             </div>
 
                             <div class="priceDetails">
@@ -492,7 +505,7 @@ include "header.php";
                     <a href="#bonus-shares">Earn Bonus Shares</a>
                 </div>
                 <div class="offerInvest">
-                    <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here</a>
+                    <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
                 </div>
             </div>
         </div>

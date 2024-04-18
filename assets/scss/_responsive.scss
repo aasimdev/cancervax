@@ -18,11 +18,15 @@
     }
 
     .banner-object {
-        margin: -270px -380px -380px -100px;
+        margin: -480px -380px -380px -100px;
     }
 
     .banner__content {
         padding-top: 0;
+    }
+
+    .banner-announcement {
+        margin-top: 150px;
     }
 }
 
@@ -133,7 +137,7 @@
         padding-left: 15px;
     }
 
-   
+
 
     .fcancervax-img {
         text-align: center;
@@ -243,7 +247,11 @@
     }
 
     .banner {
-        height: 1100px;
+        height: 1250px;
+    }
+
+    .banner-text {
+        padding-top: 70px;
     }
 
     .nCommentary .cchat {
@@ -347,24 +355,42 @@
     .pC-pipeline-img {
         margin-top: 28px;
     }
- 
+
     .invest-text {
         margin-top: 150px;
     }
-    .banner-video{
+
+    .banner-video {
         position: relative;
         margin: 30px auto;
     }
-    .banner-text p{
+
+    .banner-text p {
         font-size: 16px;
         max-width: 100%;
     }
+
     .abtBanner {
         min-height: auto;
         padding-top: 120px;
     }
-    .abtBanner-text h1{
+
+    .abtBanner-text h1 {
         font-size: 20px;
+    }
+
+    .banner-announcement {
+        margin-bottom: 0;
+        max-width: 100%;
+        margin-top: 20px;
+    }
+
+    .invest-bar-text {
+        justify-content: flex-start;
+    }
+
+    .heroSection .video-section {
+        max-width: 100%;
     }
 }
 
@@ -422,10 +448,12 @@
 
     .pipelinebanner {
         padding: 120px 0px 80px;
+        margin-top: 42px;
     }
 
     .marketbanner {
         padding-top: 120px;
+        margin-top: 42px;
     }
 
     .marketbanner h1 {
@@ -434,6 +462,7 @@
 
     .news-detail {
         padding-top: 110px;
+        margin-top: 42px;
     }
 
     .news-detail .post-title h1 {
@@ -468,6 +497,11 @@
     .abtBanner {
         position: relative;
         padding-top: 85px;
+        margin-top: 42px;
+    }
+
+    .invest-bar-text a {
+        flex: 0 0 auto;
     }
 
 }
@@ -495,7 +529,7 @@
         font-size: 32px;
     }
 
-   
+
     .newsletter p {
         text-align: center;
     }
@@ -651,6 +685,11 @@
 
     .cchatsbanner {
         padding: 120px 0px 40px 0px;
+        margin-top: 42px;
+    }
+
+    .podcast-detail {
+        margin-top: 42px;
     }
 
     .abtceo {
@@ -907,17 +946,55 @@
     .podcast-detail h1 {
         font-size: 30px;
     }
+
     .podcast-video iframe {
         height: 260px;
     }
+
     .invest-bar-text-wrap {
         gap: 5px;
     }
+
     .invest-text {
         margin-top: 110px;
     }
+
     .billion-text sup {
         font-size: 12px;
         top: -0.5em;
+    }
+
+    .banner-announcement {
+        border: 10px solid #1d8f97;
+        padding: 12px;
+    }
+
+    .banner-announcement h4 {
+        margin-top: 0 !important;
+    }
+
+    .banner-announcement p {
+        color: #070707;
+        font-size: 15px;
+        margin-top: 12px;
+    }
+
+    .invest-bar-text {
+        flex-direction: column;
+        gap: 4px;
+    }
+
+    .invest-bar-text a {
+        padding: 5px 30px;
+    }
+
+    .priceCardmob .offerInvest a {
+        padding: 6px 13px;
+        font-size: 14px;
+
+        span {
+            font-size: 10px;
+            line-height: 1;
+        }
     }
 }
