@@ -25,7 +25,7 @@ include('header.php'); ?>
                         <div class="banner-announcement d-lg-none">
                         <h4>Breaking News</h4>
                         <p>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer</p>
-                        <a href="/news" class="theme-btn">Learn More</a>
+                        <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php" class="theme-btn">Learn More</a>
                     </div>
                         <div class="banner-video d-lg-none">
                             <div class="banner-thumbnail">
@@ -58,7 +58,7 @@ include('header.php'); ?>
                     <div class="banner-announcement d-none d-lg-block">
                         <h4>Breaking News</h4>
                         <p>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer</p>
-                        <a href="/news" class="theme-btn">Learn More</a>
+                        <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php" class="theme-btn">Learn More</a>
                     </div>
                     <div class="banner-video d-none d-lg-block">
                         <div class="banner-thumbnail">
