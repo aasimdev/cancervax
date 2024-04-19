@@ -10,7 +10,7 @@ include "header.php";
         <!-- Section 1 -->
         <div class="heroSection" id="overview">
             <div class="container">
-                <h1>Creating a Better Way to Treat Cancer</h1>
+                <h1>Invest in a Better Way to Treat Cancer</h1>
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="heroSection-content">
