@@ -517,11 +517,17 @@
 }
 
 @media only screen and (max-width: 991px) and (orientation : landscape) {
-    .priceCardmob{
+    .priceCardmob {
         display: none;
     }
-    .nav-section{
+
+    .nav-section {
         display: none;
+    }
+
+    .navbar-collapse {
+        max-height: 200px;
+        overflow-y: auto;
     }
 }
 
