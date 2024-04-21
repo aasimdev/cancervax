@@ -1,4 +1,19 @@
 $(function () {
+    $(window).scroll(function () {
+        if ($(window).scrollTop() >= 50) {
+            $('.header-top').addClass('fixed');
+        }
+        else {
+            $('.header-top').removeClass('fixed');
+        }
+    });
+
+    $("[href^='#']").click(function () {
+        id = $(this).attr("href");
+        $('html, body').animate({
+            scrollTop: $(id).offset().top - 253.42
+        });
+    });
 
     const teamModal = new bootstrap.Modal(document.getElementById('team'));
     $('.team-box-img').on('click', function (e) {
@@ -9,6 +24,11 @@ $(function () {
         $('#team').find('.modal-body').html(decription);
         teamModal.show();
     });
+
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl)
+    })
 
 
     $('.ceochats-carousel').slick({
@@ -160,21 +180,40 @@ $(function () {
 
 
 
-    $('.cchat-box').each(function (e) {
+    $(".cchat-box:not([data-video='trend'])").each(function (e) {
         var videoSrc = $(this).find('.getThumbnail').attr('href');
         var videoID = videoSrc.match(/youtube\.com.*(\?v=|\/embed\/)(.{11})/).pop();
         var video_thumbnail = $('<img src="//img.youtube.com/vi/' + videoID + '/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">');
         $(this).find('.getThumbnail').siblings('.cchat-thumbnail').html(video_thumbnail);
     });
 
-
 })
+
+
+$(document).ready(function () {
+    if (!$('.invkeywords').length == 0) {
+        $(window).scroll(function () {
+            var offerMain = $('.offer-main');
+            var priceCardmob = $('.priceCardmob');
+
+            var offerMainTop = offerMain.offset().top;
+            var offerMainBottom = offerMainTop + offerMain.outerHeight();
+            var viewportBottom = $(window).scrollTop() + $(window).height();
+
+            if (offerMainTop < viewportBottom && offerMainBottom > $(window).scrollTop()) {
+                priceCardmob.css('display', 'flex');
+            } else {
+                priceCardmob.css('display', 'none');
+            }
+        });
+    }
+});
 
 
 
 if (!$('.invkeywords').length == 0) {
     var typing = new Typed(".invkeywords", {
-        strings: ["", "Invest", "Partner", "Associate"],
+        strings: ["", "Invest", "Partner", "JOIN THE FIGHT"],
         typeSpeed: 150,
         backSpeed: 50,
         loop: true,
@@ -211,3 +250,28 @@ if ($('.particleinn').length != 0) {
 }
 
 
+// $(function () {
+//     const second = 1000,
+//         minute = second * 60,
+//         hour = minute * 60,
+//         day = hour * 24;
+
+//     // Set the target date and time for the countdown (November 7th at midnight, Pacific Time)
+//     const targetDate = new Date('2023-11-07T00:00:00-08:00'); // Pacific Time (PST, UTC-8)
+
+//     const x = setInterval(function () {
+//         const now = new Date().getTime();
+//         const distance = targetDate - now;
+
+//         if (distance < 0) {
+//             document.getElementById("countdown").style.display = "none";
+//             clearInterval(x);
+//         } else {
+//             // Update the countdown
+//             document.getElementById("days").innerText = Math.floor(distance / day);
+//             document.getElementById("hours").innerText = Math.floor((distance % day) / hour);
+//             document.getElementById("minutes").innerText = Math.floor((distance % hour) / minute);
+//             document.getElementById("seconds").innerText = Math.floor((distance % minute) / second);
+//         }
+//     }, 1000); // Update every 1 second
+// })();

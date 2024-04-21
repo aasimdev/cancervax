@@ -2,6 +2,8 @@
 $GLOBALS['title'] = "CancerVax - Immunotherapy";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
+$videosCEOPodcast = include "data/podcast-data.php";
+$videos = include "data/carousel-videos.php";
 include('header.php'); ?>
 
 
@@ -19,22 +21,54 @@ include('header.php'); ?>
             <div class="row align-items-center">
                 <div class="col-lg-7">
                     <div class="banner-text">
-                        <h1>Developing a Breakthrough Universal Cancer Vaccine</h1>
-                        <p>Using the body’s immune system to fight cancer</p>
-
-                        <div class="banner-video">
+                        <h1> Creating a Better Way <br> to Treat Cancer <br> <span>Universal Cancer Vaccine</span></h1>
+                        <div class="banner-announcement d-lg-none">
+                            <h4>Breaking News</h4>
+                            <p>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer</p>
+                            <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php" class="theme-btn">Learn More</a>
+                        </div>
+                        <div class="banner-video d-lg-none">
                             <div class="banner-thumbnail">
-                                <img src="./assets/img/thumbnail.png" alt="thumbnail">
+                                <img src="https://i.ytimg.com/vi/2OHGmKOqOYE/maxresdefault.jpg" alt="thumbnail">
                             </div>
-                            <a href="http://www.youtube.com/watch?v=zbnhGW5Zz4c" class="theme-btn text-uppercase popup-youtube">
+                            <a href="http://www.youtube.com/watch?v=2OHGmKOqOYE" class="theme-btn text-uppercase popup-youtube">
                                 <i class="far fa-play-circle"></i>
                                 <span>Watch video</span>
                             </a>
                         </div>
+                        <p>Working with a world-class team of experienced cancer researchers and physicians at UCLA, we are creating a breakthrough Universal Cancer Vaccine platform (UCV).</p>
+                        <p> This cancer treatment is designed to be customizable, be administered as a shot, and leverage state-of-the-art bioengineering and molecular technologies.</p>
+                        <p> Our innovative approach detects, marks, and kills cancer cells exclusively. By inducing cancer cells to express a distinct marker absent in healthy cells, custom antibody drugs and the body's immune cells can precisely target and eradicate cancer cells.</p>
+                        <p> Cancer is the second leading cause of death in the US, following heart disease. While we don’t have a solution to prevent cancer, our objective is to develop our Universal Cancer Vaccine platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities.</p>
+
+
+                        <!-- <div class="banner-video">
+                            <div class="banner-thumbnail">
+                                <img src="https://i.ytimg.com/vi/IySdl6Eo0rw/maxresdefault.jpg" alt="thumbnail">
+                            </div>
+                            <a href="http://www.youtube.com/watch?v=IySdl6Eo0rw" class="theme-btn text-uppercase popup-youtube">
+                                <i class="far fa-play-circle"></i>
+                                <span>Watch video</span>
+                            </a>
+                        </div> -->
 
                     </div>
                 </div>
                 <div class="col-lg-5">
+                    <div class="banner-announcement d-none d-lg-block">
+                        <h4>Breaking News</h4>
+                        <p>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer</p>
+                        <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php" class="theme-btn">Learn More</a>
+                    </div>
+                    <div class="banner-video d-none d-lg-block">
+                        <div class="banner-thumbnail">
+                            <img src="https://i.ytimg.com/vi/2OHGmKOqOYE/maxresdefault.jpg" alt="thumbnail">
+                        </div>
+                        <a href="http://www.youtube.com/watch?v=2OHGmKOqOYE" class="theme-btn text-uppercase popup-youtube">
+                            <i class="far fa-play-circle"></i>
+                            <span>Watch video</span>
+                        </a>
+                    </div>
                     <div class="banner-object">
                         <div class="objectd">
                             <img src="./assets/img/banner-object.png" alt="object">
@@ -44,7 +78,7 @@ include('header.php'); ?>
                 </div>
             </div>
             <div class="developed-logo">
-                <p>In Collaboration with &nbsp;</p>
+                <p>Working with &nbsp;</p>
                 <img src="./assets/img/ucla.png" alt="UCLA">
             </div>
         </div>
@@ -52,56 +86,149 @@ include('header.php'); ?>
 
 </section>
 
-<!-- <section class="pvRecent">
-    <div class="ceochats-carousel">
+<div class="devPlan">
+    <div class="container">
+        <div class="devPlan-wrap">
+            <div class="devPlan-heading">
+                <h3>Our Development Pipeline</h3>
+                <p>In addition to our Universal Cancer Vaccine platform, we are also working with UCLA to create two other immunotherapy technologies.</p>
+            </div>
+            <div class="devPlan-item">
+                <div class="row align-items-center">
+                    <div class="col-lg-3">
+                        <div class="devPlan-graphic">
+                            <img src="./assets/img/children-cancer.png" alt="cancer">
+                        </div>
+                    </div>
+                    <div class="col-lg-9">
+                        <div class="devPlan-conten">
+                            <h6>Children’s Cancer</h6>
+                            <p>We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%. ​
 
-        <div class="cchat">
-            <div class="cchat-box">
-                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
-                <div class="cchat-thumbnail thumbnail-overlay">
-                    <img src="https://i.ytimg.com/vi/H_qdeW3CGmA/maxresdefault.jpg" alt="chat">
+                                ​<br><br>
+
+                                Based on the positive data, we plan to launch FDA IND enabling studies needed to apply for approval to proceed with human trials. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer. </p>
+                        </div>
+                    </div>
                 </div>
-                <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVAX Podcast - Stephen Diamond</p>
-            <span>5/2/2023</span>
-        </div>
-        <div class="cchat">
-            <div class="cchat-box">
-                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=DcFor_Vo4MU"></a>
-                <div class="cchat-thumbnail thumbnail-overlay">
-                    <img src="https://i.ytimg.com/vi/DcFor_Vo4MU/maxresdefault.jpg" alt="chat">
+            <div class="devPlan-item">
+                <div class="row align-items-center">
+                    <div class="col-lg-3">
+                        <div class="devPlan-graphic">
+
+                            <img src="./assets/img/universal-cart.png" alt="cancer">
+                        </div>
+                    </div>
+                    <div class="col-lg-9">
+                        <div class="devPlan-conten">
+                            <h6>Universal CAR-T Cell Platform (UCAR-T) </h6>
+                            <p>Our UCAR-T Cell platform is a novel and customizable low-cost cancer treatment platform, delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. Our goal is to lower the cost to a few thousand dollars per dose by helping the body make its own CAR T cells.
+                                 <br><br>
+                                Our Universal Cancer Vaccine platform and our UCAR-T Cell platform can be used separately, however, when used together, we believe that we can kill cancer cells with extreme precision using the body’s immune system at very low costs. Our Universal Cancer Vaccine platform detects and marks a unique target and our UCAR-T Cell platform makes T-cells that attack that target.
+                            </p>
+                        </div>
+                    </div>
                 </div>
-                <i class="far fa-play-circle"></i>
             </div>
-            <p>CancerVax Podcast - Dr. Satiro De Oliveira</p>
-            <span>5/2/2023</span>
-        </div>
-        <div class="cchat">
-            <div class="cchat-box">
-                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=uDGsblCmks4"></a>
-                <div class="cchat-thumbnail thumbnail-overlay">
-                    <img src="https://i.ytimg.com/vi/uDGsblCmks4/maxresdefault.jpg" alt="chat">
+
+            <!-- <div class="devPlan-item">
+                <div class="row align-items-center">
+                    <div class="col-lg-3">
+                        <div class="devPlan-graphic">
+                            <img src="./assets/img/ucv-platform.png" alt="cancer">
+                        </div>
+                    </div>
+                    <div class="col-lg-9">
+                        <div class="devPlan-conten">
+                            <h6>Universal Cancer Vaccine​ Platform (UCV)</h6>
+                            <p>A novel and customizable Universal Cancer Vaccine, to be delivered as a shot, that uses cutting-edge bioengineering and molecular technologies to uniquely detect, mark and kill only cancer cells. By forcing cancer cells to express a unique marker not found in healthy cells, custom antibody drugs and the body’s immune cells can target and destroy the cancer cells with precision. </p>
+                        </div>
+                    </div>
                 </div>
-                <i class="far fa-play-circle"></i>
+            </div> -->
+
+            <div class="devPlan-heading pt-4">
+                <p>UCV and UCAR-T can be used separately. However, when used together, we can kill cancer cells with extreme precision using the body’s immune system at very low costs. UCV detects and marks a unique target and UCAR-T makes T-cells attack that target.</p>
             </div>
-            <p>CancerVax Podcast - Ryan looper</p>
-            <span>5/2/2023</span>
-        </div>
-        <div class="cchat">
-            <div class="cchat-box">
-                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=Z2e7PrrDNvw"></a>
-                <div class="cchat-thumbnail thumbnail-overlay">
-                    <img src="https://i.ytimg.com/vi/Z2e7PrrDNvw/maxresdefault.jpg" alt="chat">
-                </div>
-                <i class="far fa-play-circle"></i>
-            </div>
-            <p>CancerVax Podcast - Jonathan Lakey</p>
-            <span>5/2/2023</span>
         </div>
     </div>
+</div>
 
-</section> -->
+<div class="ctreament">
+    <div class="container">
+        <div class="ctreament-wrap">
+            <div class="ctreament-heading">
+                <h3>Massive Market Opportunity</h3>
+            </div>
+            <div class="market-opp">
+                <div class="row pt-md-5 pt-3 align-items-center">
+                    <div class="col-lg-8">
+                        <h4>How big is the biotechnology market?</h4>
+                        <p>According to Precedence Research, the global biotechnology market is projected to grow from $1.3 trillion in 2023 to <span>$3.2 trillion by 2030</span>
+                        </p>
+                    </div>
+                    <div class="col-lg-4 text-center">
+                        <div class="market-opp-box">
+                            <span>Biotech <br>
+                                $3.2 trillion</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row pt-md-4 pt-3 align-items-center">
+                    <div class="col-lg-8">
+                        <h4>How big is the cancer drug development market?</h4>
+                        <p>According to Fortune Business Insights, the global oncology drugs market is projected to grow from $205 billion in 2023 to <span>$484 billion by 2030</span>.
+                        </p>
+                    </div>
+                    <div class="col-lg-4 text-center">
+                        <div class="market-opp-box">
+                            <span>Cancer <br>
+                                $484 billion</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- <ul class="ctreament-list">
+                <li> Former UCLA Faculty, Patrick Soon-Shiong, sold Abraxis BioSciences, a Developer of Cancer Chemotherapy, for $2.9 Billion to Celgene.</li>
+                <li> Sumitomo Dainippon Pharma Acquires Tolero Pharmaceuticals, a Developer of Cancer Therapies, for $780 million.</li>
+                <li> AbbVie Buys Cancer Drug Startup Stemcentrx, a Developer of Cancer Therapies, for $10.2 Billion.</li>
+                <li> Boston Biomedical, a Developer of Cancer Therapies, is Acquired by Dainippon Sumitomo Pharma for $2.63 Billion.</li>
+                <li>
+                    Juno Therapeutics, A Developer of Cancer Therapies, raises $310 Million Valuing the Company at $1.8 Billion.</li>
+                <li> Astellas Acquires Ganymed Pharmaceuticals, a Developer of Cancer Therapies, for $1.46 Billion.</li>
+            </ul> -->
+        </div>
+    </div>
+</div>
+
+<section class="pvRecent pt-5 pb-4">
+    <div class="ceochats-carousel">
+        <?php
+
+        foreach ($videos as $video) :
+            $categoryName = ucwords(str_replace('-', ' ', $video['category']));
+            if ($video['category'] === "ceo-podcast") {
+                $categoryName = "Podcast";
+            }
+        ?>
+            <div class="cchat">
+                <div class="cchat-box">
+                    <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=<?= $video['videoID'] ?>"></a>
+                    <div class="cchat-thumbnail thumbnail-overlay">
+                        <img src="//img.youtube.com/vi/<?= $video['videoID'] ?>/maxresdefault.jpg" alt="Thumbnail">
+                    </div>
+                    <i class="far fa-play-circle"></i>
+                </div>
+                <p><?= $categoryName ?> - <?= $video['title'] ?></p>
+
+            </div>
+        <?php endforeach; ?>
+    </div>
+</section>
+
+
+
 
 
 <section class="newsletter home-newsletter">
@@ -147,7 +274,8 @@ include('header.php'); ?>
 </section>
 
 
-<section class="fcancervax">
+
+<!-- <section class="fcancervax">
     <div class="container">
         <div class="fcancervax-box">
             <h4>Universal Cancer Vaccine</h4>
@@ -160,9 +288,9 @@ include('header.php'); ?>
                             bioengineering and molecular technologies to uniquely detect, mark and kill only cancer
                             cells. By forcing cancer cells to express a unique marker that healthy cells do not
                             have, custom antibody drugs and the body's immune system can target and destroy them
-                            with precision. Additionally, we intend to make cancer cell look like common diseases so
-                            that the body’s immune system can destroy them with ease. We have filed a patent
-                            application for the UCV and are partnering with UCLA to develop the platform, which may
+                            with precision. Additionally, we intend to make cancer cells look like common diseases so
+                            that the body’s immune system can easily destroy them. We have filed a patent
+                            application for the UCV and are working with UCLA to develop the platform, which may
                             be administered as a one or two-shot treatment.</p>
                     </div>
                 </div>
@@ -204,7 +332,7 @@ include('header.php'); ?>
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <section class="worldhealth">
@@ -270,20 +398,18 @@ include('header.php'); ?>
                             </a>
                         </div>
                         <h5>
-                            Satiro de oliveira, MD
+                            Satiro De Oliveira, MD
                         </h5>
                         <p>
                             Principal Investigator
                         </p>
-                        <a href="http://www.youtube.com/watch?v=DcFor_Vo4MU" class="popup-youtube intertext">
-                            Watch Interview
-                        </a>
+
 
                         <div class="team-description">
                             <p>Dr. De Oliveira is a board-certified pediatrician and board-certified pediatric
                                 hematology/oncologist. He received his medical degree in Brazil and completed his
                                 pediatric residency at Woodhull Medical and Mental Health Center in New York and his
-                                pediatric hematology/oncology fellowship at the Children’s Hospital Lost Angeles.
+                                pediatric hematology/oncology fellowship at the Children’s Hospital Los Angeles.
                                 His clinical focus is on pediatric oncology and gene therapies and his research
                                 focus is on cancer immunotherapy and biology of stem cell transplantation.</p>
                         </div>
@@ -297,7 +423,7 @@ include('header.php'); ?>
                             </a>
                         </div>
                         <h5>
-                            Christopher Seet, MD/phd
+                            Christopher Seet, MD/PHD
                         </h5>
                         <p>
                             Principal Investigator
@@ -373,56 +499,34 @@ include('header.php'); ?>
 <section class="ceochats">
     <div class="container">
         <div class="ceochats-heading">
-            <span>Cancervax</span>
+            <span>CancerVax</span>
             <h2>Podcast</h2>
         </div>
 
         <div class="row">
-        <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=Um1Ca045Beg"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
+            <?php
+            $filteredlatestCeoPodcast = array_filter($videosCEOPodcast, function ($item) {
+                return $item['category'] === 'ceo-podcast' && $item['scope'] === 'public';
+            });
+            $latestCeoPodcast = array_slice($filteredlatestCeoPodcast, 0, 4);
+            foreach ($latestCeoPodcast as $video) {
+                $temp1 = strtolower($video['title']);
+                $string = str_replace(' ', '-', $temp1);
+                echo "<div class=\"col-lg-6\">
+                <div class=\"cchat\">
+                <div class=\"cchat-box mb-4\">
+                <a href=\"videos/ceo-podcast/{$string}\"></a>
+                    <div class=\"cchat-thumbnail thumbnail-overlay\">
+                    <img src=\"//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"Thumbnail\">
                     </div>
-                    <p>CancerVAX Podcast - Dr. Dinesh Patel</p>
+                    <i class=\"far fa-play-circle\"></i>
+                </div>            
+                <p class=\"mt-0\">{$video['date']} - {$video['title']}</p>
                 </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=H_qdeW3CGmA"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>CancerVAX Podcast - Stephen Diamond</p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=DcFor_Vo4MU"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>CancerVax Podcast - Dr. Satiro De Oliveira</p>
+                </div>";
+            };
+            ?>
 
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="cchat">
-                    <div class="cchat-box">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=uDGsblCmks4"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p>CancerVax Podcast - Ryan looper</p>
-                </div>
-            </div>
         </div>
     </div>
 
@@ -436,42 +540,35 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="biotech-entrepreneur-and-venture-capitalist-dinesh-patel-discusses-therapeutics-and-medical-devices-with-cancervax-ceo-ryan-davies.php"></a>
-                    <span>May 17, 2023</span>
-                    <h3>Biotech Entrepreneur and Venture Capitalist Dinesh Patel Discusses Therapeutics and Medical Devices with CancerVAX CEO Ryan Davies</h3>
-                    <p>Lehi, UT – May 17, 2023 – CancerVAX, developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, today reported that the Company’s CEO, Ryan Davies</p>
-
+                    <a href="cancervax-launches-5-million-funding-round.php"></a>
+                    <span> April 3, 2024 </span>
+                    <h3>CancerVax Launches $5 Million Funding Round </h3>
+                    <p> CancerVax, Inc., developer of a breakthrough Universal Cancer Vaccine treatment that will use the body’s immune system to fight cancer, today announced that its Reg A+ offering has been qualified by the SEC allowing the Company to formally launch a funding round of up to $5 million. Proceeds from the SEC qualified Reg A+ offering will be used by the Company to continue work on its breakthrough cancer treatments </p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="former-pfizer-legal-counsel-discusses-gene-therapy-with-cancervax-ceo-ryan-davies.php"></a>
-                    <span>April 20, 2023</span>
-                    <h3>Former Pfizer Legal Counsel Discusses Gene Therapy with CancerVAX CEO Ryan Davies</h3>
-                    <p>Stephen Diamond, Senior Vice President, General Counsel, and Secretary of Freeline, discussed his unique path from the legal and business worlds to gene therapy and next-generation therapeutics.</p>
-
+                    <a href="cancervax-ceo-ryan-davies-discusses-cancer-drug-development-with-dr-ezra-cohen.php"></a>
+                    <span>November 2, 2023 </span>
+                    <h3>CancerVax CEO Ryan Davies Discusses Cancer Drug Development with Dr. Ezra Cohen</h3>
+                    <p> CancerVax, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, and Tempus Labs Chief Medical Officer for Oncology Dr. Ezra Cohen, discussed his time at Tempus Labs, Moores Cancer Center and University of Chicago </p>
                 </div>
-
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="cancervax-ceo-ryan-davies-discusses-cancer-research-with-leading-pediatric-hematologic-oncologist.php"></a>
-                    <span>April 12, 2023</span>
-                    <h3>CancerVAX CEO Ryan Davies Discusses Cancer Research with Leading Pediatric Hematologic Oncologist</h3>
-                    <p>Dr. Satiro De Oliveira, a principal investigator in the Company’s cancer research program at UCLA, comments about the importance of cancer immunotherapy</p>
-
+                    <a href="ucart-announcement.php"></a>
+                    <span>September 12, 2023 </span>
+                    <h3>CancerVax Expands Development Pipeline to Include a Universal CAR-T Cell Platform</h3>
+                    <p> CancerVax, Inc., a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer, today announced an expansion of its development pipeline to include a Universal CAR-T Cell Platform that can dramatically lower the cost of CAR-T cell cancer therapies</p>
                 </div>
-
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="cancervax-lands-byron-elton.php"></a>
-                    <span>April 3, 2023</span>
-                    <h3>CancerVAX Lands Byron Elton</h3>
-                    <p>Experienced business executive to help establish the Company as a significant force in the field of cancer research</p>
-
+                    <a href="cancervax-ceo-ryan-davies-discussed-cancer-immunotherapy-with-ucla-physician-scientist.php"></a>
+                    <span>August 24, 2023 </span>
+                    <h3>CancerVax CEO Ryan Davies Discussed Cancer Immunotherapy with UCLA Physician-Scientist</h3>
+                    <p>CancerVax, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, spoke with and UCLA cancer physician and researcher, Dr. Steven Jonas, about his journey to becoming both a practicing cancer doctor and active cancer researcher</p>
                 </div>
-
             </div>
 
         </div>

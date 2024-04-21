@@ -7,10 +7,7 @@ include('header.php'); ?>
 <section class="abtBanner">
     <div class="container">
         <div class="abtBanner-text">
-            <h1>CancerVAX is a pre-clinical biotechnology company working with
-                UCLA to develop immunotherapy cancer treatments that use the body’s
-                immune system to fight cancer. We aim to develop transformative
-                therapies to protect and improve people’s lives.</h1>
+            <h1>CancerVax, Inc. is a pre-clinical biotechnology company developing breakthrough cancer drugs that will use the body’s immune system to fight cancer. Working with a team of world class cancer researchers and oncologists at UCLA, we intend to create a Universal Cancer Vaccine that will detect, mark, and destroy only the diseased cells with incredible precision. Like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, our cancer vaccine will leverage the body’s immune system to destroy cancer cells. Also working with UCLA, we have created our first cancer drug candidate – a  single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Based on the positive data, we plan to launch FDA IND enabling studies needed to apply for approval to proceed with human trials. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.  </h1>
         </div>
     </div>
 </section>
@@ -20,7 +17,7 @@ include('header.php'); ?>
         <div class="abtinfo-wrap">
             <img src="./assets/img/abt.jpg" alt="abt">
             <p>
-                By leveraging cutting-edge bioengineering and molecular technologies, we are on a quest to develop a breakthrough Universal Cancer Vaccine. Similar to the way COVID-19 vaccines train the body to recognize and destroy the coronavirus, we are developing a universal cancer vaccine that uses the body’s immune system to detect, mark and destroy cancer cells.</p>
+                By leveraging cutting-edge bioengineering and molecular technologies, we are on a quest to develop innovative precision cancer immunotherapies. Inspired by the way COVID-19 vaccines train the body to recognize and destroy the coronavirus, we are developing cancer vaccines, also known as cancer immunotherapies, that uses the body’s immune system to fight cancer. </p>
         </div>
     </div>
 </section>
@@ -28,16 +25,40 @@ include('header.php'); ?>
 <section class="process">
     <div class="container">
         <div class="process-wrap">
-            <div class="divider"></div>
             <div class="process-object">
                 <img src="./assets/img/cell.png" alt="cell">
             </div>
             <div class="process-heading">
-                <h2>Process</h2>
-                <p>As we search for a universal cancer vaccine, we are also developing conventional immunotherapy treatments. One program, performed at the Jonsson Comprehensive Cancer Center, is targeted at treating Ewing Sarcoma, a rare but deadly bone and soft tissue cancer that primarily affects children and young adults. There is currently no FDA approved treatment for recurrence. We intend to become a dominant player in the immunotherapy space by partnering with leading researchers and institutions to develop a robust portfolio of cancer vaccines. We look forward to the day when treating cancer will be as simple as getting a flu shot.
-                </p>
+                <div class="row">
+                    <div class="col-sm-3 col-md-4 col-xl-6">
+                        <h2>Our Story</h2>
+                    </div>
+                    <div class="col-sm-9 col-md-8 col-xl-6">
+                        <p>We started working with UCLA in early 2021 on a single-disease immunotherapy targeted at Ewing Sarcoma, a deadly children’s cancer. Existing immunotherapies target natural cancer cell markers, which unfortunately appear in healthy cells as well, resulting in the destruction of healthy cells and causing various levels of toxicity and side effects. <br><br>
+                            Through a series of brainstorm sessions that started in late 2021, we developed the concept of a customizable Universal Cancer Vaccine Platform (UCV) that can potentially target cancer cells with a high degree of precision and force only the cancer cells to express a unique marker that we can easily target for destruction. The UCV project kicked off in 2022. <br><br>
+                            The UCV project progressed methodically with the development of various innovative technologies, including a foundational nanoparticle technology which can be programmed to target specific cells and deliver customized cargos. <br><br>
+                            In a pivotal project meeting in the summer of 2023, the UCLA team reported positive progress on Ewing sarcoma and UCV. Surprisingly, the highly customizable low-cost nanoparticle technology developed for UCV can be adapted to perform an existing cancer immunotherapy (CAR-T Cell) at an extremely low cost. Thus, the Universal CAR-T Cell Platform was born. <br><br>
+                            We now have a very exciting and important development pipeline consisting of three projects at UCLA.
+                        </p>
+                    </div>
+                </div>
+
+
             </div>
             <div class="process-stack">
+                <div class="row align-items-center justify-content-center">
+
+                    <div class="col-sm-9 col-md-8 col-xl-7">
+                        <div class="process-description text-center">
+                            <h5>Immunotherapy.</h5>
+
+                            <p class="text-center">Cancer vaccines can train the body to target and destroy specific cancer cells. Cancer vaccines are also known as immunotherapy.
+                                <br><br>
+                                Much like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer vaccines can train the body to target and destroy specific cancer cells.
+                            </p>
+                        </div>
+                    </div>
+                </div>
                 <div class="row align-items-center">
                     <div class="col-sm-3 col-md-4 col-xl-6">
                         <div class="process-title">
@@ -46,10 +67,12 @@ include('header.php'); ?>
                     </div>
                     <div class="col-sm-9 col-md-8 col-xl-6">
                         <div class="process-description">
-                            <h5>Immunotherapy.</h5>
-                            <p>Cancer vaccines can train the body to target and destroy specific cancer cells. Cancer vaccines are also known as immunotherapy. <br><br>
-
-                                Much like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer vaccines can train the body to target and destroy specific cancer cells.</p>
+                            <h5>
+                                Children’s Cancer.</h5>
+                            <p>We are developing a disease-specific immunotherapy targeted at treating Ewing sarcoma, a rare but deadly bone and soft tissue cancer that primarily affects children and young adults. There is currently no FDA approved treatment for recurrence. <strong>The death rate is 100% of patients with recurrent Ewing sarcoma.</strong>
+                                <br><br>
+                                We have entered into a sponsored research agreement with the University of California at Los Angeles (UCLA) to develop effective immunotherapies, such as CAR T-cell and monoclonal antibodies, for Ewing Sarcoma. We hold exclusive rights to license all intellectual property and related technology resulting from this research program. UCLA is a top-ranked university known for its cancer research and medical school.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -61,13 +84,12 @@ include('header.php'); ?>
                     </div>
                     <div class="col-sm-9 col-md-8 col-xl-6">
                         <div class="process-description">
-                            <h5>
-                                Universal Cancer Vaccine.</h5>
-                            <p>By leveraging cutting-edge bioengineering and molecular technologies, we developing a breakthrough Universal Cancer Vaccine (UCV).
+                            <h5>Universal Cancer Vaccine Platform</h5>
+                            <p>By leveraging cutting-edge bioengineering and molecular technologies, we are developing a breakthrough Universal Cancer Vaccine (UCV) Platform.
                                 <br><br>
-                                The UCV will force cancer cells to express a non-naturally occurring protein marker that can be used by the immune system and custom antibodies to precisely target cancer cells for destruction.
+                                The UCV will force cancer cells to express a unique protein marker that can be used by the immune system and custom antibodies to precisely target them for destruction. Additionally, we intend to make cancer cells look like common diseases so that the body’s natural immune system can easily destroy them.
                                 <br><br>
-                                We have entered into a sponsored research agreement (SRA) with the University of California at Los Angeles (UCLA) to help us develop this Universal Cancer Vaccine platform. We hold exclusive rights to license all intellectual property and related technology produced through our partnership with UCLA.
+                                We have entered into a sponsored research agreement (SRA) with UCLA to help us develop this Universal Cancer Vaccine platform. We hold exclusive rights to license all intellectual property and related technology resulting from this research program.
                             </p>
                         </div>
                     </div>
@@ -80,10 +102,16 @@ include('header.php'); ?>
                     </div>
                     <div class="col-sm-9 col-md-8 col-xl-6">
                         <div class="process-description">
-                            <h5>Ewing Sarcoma.</h5>
-                            <p>We are developing a disease-specific immunotherapy targeted at treating Ewing Sarcoma, a rare but deadly bone and soft tissue cancer that affects children and young adults.
+                            <h5>Universal CAR-T Cell Platform</h5>
+                            <p>Based on the foundational nanoparticle technology developed for UCV, we are developing a novel Universal CAR-T Cell therapy, to be delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy any targeted cancer cells.
+
+
                                 <br><br>
-                                We have entered into a sponsored research agreement (SRA) with the University of California at Los Angeles (UCLA), lead by a team of professors and physicians who run the Ewing Sarcoma Program at the UCLA Jonsson Comprehensive Cancer Center.
+                                CAR-T cell therapy is a type of FDA-approved immunotherapy in which a patient’s T-cells are genetically modified in the laboratory, then reinjected back into the patient, so they will bind to specific proteins (antigens) found on cancer cells and kill them. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. We believe we can dramatically lower the cost to a few thousand dollars per dose by simply helping the body make its own CAR T-cells.
+
+                                <br><br>
+
+                                Under the existing sponsored research agreement (SRA) with UCLA, we hold exclusive rights to license all intellectual property and related technologies.
                             </p>
                         </div>
                     </div>
@@ -92,51 +120,71 @@ include('header.php'); ?>
         </div>
     </div>
 </section>
-
+<a name="about-team" id="about-team" style="position: relative; top:-80px"></a>
 <section class="coreTeam">
     <div class="container">
+        <h3 style="text-align:center;color:black;margin-bottom:30px;">CancerVax Team</h3>
         <div class="row justify-content-center">
-            <div class="col-md-6 col-xl-4">
+
+            <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
-                            <img src="./assets/img/Ryan-Davies.jpg" alt="john">
+                            <img src="./assets/img/Ryan-Davies.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
                         </a>
                     </div>
                     <h5>
                         Ryan Davies
                     </h5>
                     <p>
-                        CEO
+                        Chairman
                     </p>
                     <div class="team-description">
-                        <p>Ryan has had a successful career as an entrepreneur, business executive and public servant. Prior to joining CancerVAX, Ryan co-founded several biotech companies/technologies including a nitric oxide topical wound-care product, a medical device company (drug delivery system) and an antibiotic drug development company. Ryan served as CEO of Curza, a small molecule therapeutics company focused on developing new antibiotics; SVP at Clarke Capital Partners, a private growth equity investment firm; co-founder of a software/ecommerce company Found.com (acquired by CRS Retail Systems); co-founder of a software company O2 Blue (acquired by Prebon Yamane). His public service activities include serving on the Draper, Utah City Council and serving on the campaigns of two U.S. presidential candidates, one U.S. senate candidate and two gubernatorial candidates. Ryan holds degrees in Business Management from Ricks College and Political Science from Brigham Young University.</p>
+                        <p>Ryan has had a successful career as an entrepreneur, business executive and public servant. Prior to joining CancerVax, Ryan co-founded several biotech companies/technologies including a nitric oxide topical wound-care product, a medical device company (drug delivery system) and an antibiotic drug development company. Ryan served as CEO of Curza, a small molecule therapeutics company focused on developing new antibiotics; SVP at Clarke Capital Partners, a private growth equity investment firm; co-founder of a software/ecommerce company Found.com (acquired by CRS Retail Systems); co-founder of a software company O2 Blue (acquired by Prebon Yamane). His public service activities include serving on the Draper, Utah City Council and serving on the campaigns of two U.S. presidential candidates, one U.S. senate candidate and two gubernatorial candidates. Ryan holds degrees in Business Management from Ricks College and Political Science from Brigham Young University.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-xl-4">
+            <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
-                            <img src="./assets/img/byron-cvax.jpg" class="object-fit-cover" alt="john">
+                            <img src="./assets/img/byron-cvax.png" class="object-fit-cover" alt="john">
                         </a>
                     </div>
                     <h5>
                         Byron Elton
                     </h5>
                     <p>
-                        CMO
+                        President & CEO
                     </p>
                     <div class="team-description">
                         <p>Mr. Elton is an experienced media and marketing executive with a proven record in pioneering new business development strategies and building top-flight marketing organizations. Since June 2018, he has been President of Elton Enterprises, Inc., which is involved in the wellness, fitness and health sector. He is a co-founder since June 2017 of Pardue Associates, operating monsho, a brand-centric, creative communications agency focused on delivering results. From 2013 to 2017, Mr. Elton was a partner of Clear Search, an executive search firm. Prior to that, from 2009 until 2013, Mr. Elton served as President and Chief Executive Officer of Carbon Sciences, Inc., a cleantech company developing a technology to convert earth destroying carbon dioxide into a useful form. Mr. Elton previously served as Senior Vice President of Sales for Univision Online from 2007 to 2008. Mr. Elton also served for eight years as an executive at AOL Media Networks from 2000 to 2007, where his assignments included Regional Vice President of Sales for AOL and Senior Vice President of E-Commerce for AOL Canada. His broadcast media experience includes leading the ABC affiliate in Santa Barbara, California in 1995 to 2000 and the CBS affiliate in Monterrey, California from 1998 to 1999, in addition to serving as President of the Alaskan Television Network from 1995 to 1999. Mr. Elton studied Advertising and Marketing Communications at Brigham Young University.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-xl-4">
+            <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
-                            <img src="./assets/img/Lindsay-Mann.jpg" alt="john">
+                            <img src="./assets/img/lakey.png" class="object-fit-cover" style="    object-position: bottom;" alt="john">
+                        </a>
+                    </div>
+                    <h5>
+                        Jonathan Lakey, PhD
+                    </h5>
+                    <p>
+                        Advisor
+                    </p>
+                    <div class="team-description">
+                        <p>Dr. Lakey graduated from the University of Alberta with a BS, MS and PhD degree and received post-doctoral training in Indianapolis and Seattle. Dr. Lakey is currently the Professor of Surgery and Biomedical Engineering and the Director of the Clinical Islet Program at University of California Irvine. Prior to that, he was the Director of the Comprehensive Tissue Bank at the University of Albert. Dr. Lakey is most well-known for co-inventing the “Edmonton Protocol”, along with Dr. James Shapiro, which aided in the improvement of islet isolation techniques for patients with Type 1 diabetes, a recognized major advancement in the treatment of diabetes. The Edmonton Protocol allows patients to receive islet transplants from the enzymes of cadavers and has had a success rate of over 75%. This development has informed treatments for diabetic patients, but has also opened the door for similar treatments for patients with cancer who have compromised organs from the disease or from chemotherapy and radiation. Dr. Lakey has done extensive research in the fields of oncology, stem cells and organ transplantation. He is the recipient of the Outstanding Leadership in Science Award from Alberta Science & Technology, Outstanding Achievement Award from the Canadian Diabetes Association, Awards from the Royal College of Physicians and Surgeons and was honored with the Meritorious Service Medal (2005) by the Governor-General of Canada. Dr. Lakey has published over 495 scientific papers, 45 book chapters, submitted over 500 scientific abstracts and published a book on islet isolation.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-xl-3">
+                <div class="team-box">
+                    <div class="team-box-img">
+                        <a href="#">
+                            <img src="./assets/img/Lindsay-Mann.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
                         </a>
                     </div>
                     <h5>
@@ -157,7 +205,7 @@ include('header.php'); ?>
 
 <section class="otherteam">
     <div class="container">
-        <h3>UCLA Team</h3>
+        <h3 style="text-align:center;margin-bottom:35px;">UCLA Team</h3>
         <div class="row justify-content-center">
             <div class="col-md-6 col-xl-4">
                 <div class="team-box">
@@ -190,11 +238,9 @@ include('header.php'); ?>
                     <p>
                         Principal Investigator
                     </p>
-                    <a href="http://www.youtube.com/watch?v=DcFor_Vo4MU" class="popup-youtube intertext">
-                        Watch Interview
-                    </a>
+                
                     <div class="team-description">
-                        <p>Dr. De Oliveira is a board-certified pediatrician and board-certified pediatric hematology/oncologist. He received his medical degree in Brazil and completed his pediatric residency at Woodhull Medical and Mental Health Center in New York and his pediatric hematology/oncology fellowship at the Children’s Hospital Lost Angeles. His clinical focus is on pediatric oncology and gene therapies and his research focus is on cancer immunotherapy and biology of stem cell transplantation.</p>
+                        <p>Dr. De Oliveira is a board-certified pediatrician and board-certified pediatric hematology/oncologist. He received his medical degree in Brazil and completed his pediatric residency at Woodhull Medical and Mental Health Center in New York and his pediatric hematology/oncology fellowship at the Children’s Hospital Los Angeles. His clinical focus is on pediatric oncology and gene therapies and his research focus is on cancer immunotherapy and biology of stem cell transplantation.</p>
                     </div>
                 </div>
             </div>

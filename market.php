@@ -52,7 +52,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="mcta-bg">
             <div class="mcta-text">
-                <h2>CANCERVAX VISION</h2>
+                <h2>CancerVax Vision</h2>
                 <p>To become a recognized leader in the field of cancer immunotherapies and vaccines by accelerating the translation of scientific knowledge into effective and commercially available cancer treatments.</p>
             </div>
         </div>
