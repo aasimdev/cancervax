@@ -2,7 +2,8 @@
 $GLOBALS["title"] = "Investors - CancerVax";
 $GLOBALS["desc"] = "";
 $GLOBALS["keywords"] = "";
-include "header.php";
+include "header.php"; 
+
 ?>
 
 <div class="offerScreen">
