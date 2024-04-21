@@ -53,7 +53,7 @@ include('header.php'); ?>
                         <div id="faq3" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
                                 <p> To create an account, visit our landing page (<a href="https://cancervax.com/investors">www.cancervax.com/investors</a>), click on the Invest Here button, and follow the instructions to complete your registration. <br> 
-                            <a href="https://cancervax.directinvest.io/register/?returnUrl=%2Fpurchase%2F65664bc380017111b27593bf%2F">Invest Here</a>
+                            <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/">Invest Here</a>
                             </p>
                             </div>
                         </div>

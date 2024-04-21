@@ -10,7 +10,7 @@ include "header.php";
         <!-- Section 1 -->
         <div class="heroSection" id="overview">
             <div class="container">
-                <h1>Creating a Better Way to Treat Cancer</h1>
+                <h1>Invest in a Better Way to Treat Cancer</h1>
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="heroSection-content">
@@ -170,7 +170,7 @@ include "header.php";
 
                                     <div class="learnImg first-mobile"> <img src="./assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
                                     </div>
-                              
+
 
                                     <p>We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%. ​
                                     </p>
@@ -418,7 +418,15 @@ include "header.php";
                                 </table>
                             </div>
                             <h4 id="updates">Updates</h4>
-                            <div class="placeholder-he"></div>
+                            <div class="cchat mt-5">
+                                    <div class="cchat-box pb-4" data-video="trend">
+                                        <a class="popup-youtube" href="https://www.youtube.com/watch?v=Bk39recgMGU"></a>
+                                        <div class="cchat-thumbnail thumbnail-overlay h-auto">
+                                            <img src="//img.youtube.com/vi/Bk39recgMGU/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">
+                                        </div>
+                                        <i class="far fa-play-circle"></i>
+                                    </div>
+                                </div>
                             <h4>Market Statistics</h4>
 
                             <div class="link-placeholder">
