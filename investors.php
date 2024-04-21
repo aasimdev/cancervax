@@ -5,6 +5,7 @@ $GLOBALS["keywords"] = "";
 include "header.php";
 ?>
 
+
 <div class="offerScreen">
     <div class="mainParent">
         <!-- Section 1 -->
