@@ -19,6 +19,7 @@ $(function () {
         var hasSubmitted = localStorage.getItem('emailSubmitted');
         if (!hasSubmitted) {
             $('#investModal').modal('show');
+            $('body').addClass('no-scroll');
         }
 
         $('#emailForm').submit(function (e) {
@@ -38,6 +39,7 @@ $(function () {
                         $('.invest-alert').fadeIn();
                         setTimeout(() => {
                             $('#investModal').modal('hide');
+                            $('body').removeClass('no-scroll');
                         }, 1500)
                     },
                     error: function (xhr, status, error) {
@@ -50,15 +52,8 @@ $(function () {
                 alert('Please enter your email.');
             }
         });
-
-        $("#investModal").on('show.bs.modal', function(event) {
-            $('html').addClass('no-scroll');
-        })
-        $("#investModal").on('hide.bs.modal', function(event) {
-        
-            $('html').removeClass('no-scroll');
-        })
     }
+
 
     const teamModal = new bootstrap.Modal(document.getElementById('team'));
     $('.team-box-img').on('click', function (e) {
