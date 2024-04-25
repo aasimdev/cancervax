@@ -17,12 +17,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		}
 
 		echo '<div class="alert notification alert-error">Error:<br><ul>' . $errortext . '</ul></div>';
+		echo '<script>alert("its not working fine"); </script>';
 	} else {
 		$mail = new PHPMailer;
 		$mail->CharSet = "UTF-8";
-		$mail->AddReplyTo($emailaddress, "Asim");
+		$mail->AddReplyTo($emailaddress);
 		$mail->addAddress('asimhameed11@gmail.com');
-		// $mail->Subject  = $guestname + '';
 		$mail->Subject = "CancerVax submission";
 		$mail->IsHTML(true);
 		$mail->Body    = '<html>
