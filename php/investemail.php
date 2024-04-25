@@ -35,7 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             echo "Mailer Error: " . $mail->ErrorInfo;
         } else {
             if ($redirectForm == true) {
-                echo '<script>alert("its working fine"); </script>';
+				echo '<script>setTimeout(function () { window.location.replace("/invest") }, 1000); </script>';
             }
         }
     }
