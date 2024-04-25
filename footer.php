@@ -152,7 +152,7 @@ if ($page_name != "index.php" && $page_name != "investors.php" && $page_name != 
                 <form id="emailForm" action="./php/investemail.php" method="POST">
                     <h3>Enter Your Best Email Below <br> to Learn More about CancerVax <br> and How You Can Earn Bonus Shares!</h3>
                     <div class="mb-3">
-                        <input type="email" class="form-control" id="email" aria-describedby="emailHelp" required>
+                        <input type="email" class="form-control" id="email" required>
                     </div>
                     <button type="submit">Enter</button>
                 </form>
