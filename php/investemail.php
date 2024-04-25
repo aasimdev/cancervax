@@ -21,6 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail = new PHPMailer;
         $mail->CharSet = "UTF-8";
         $mail->AddReplyTo($emailaddress);
+		$mail->From = "Asim Email";
         $mail->addAddress('asimhameed11@gmail.com');
         $mail->Subject = "CancerVax submission";
         $mail->IsHTML(true);
@@ -29,9 +30,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <p><span style="font-weight:bold;font-size:16px;padding-left:10px">New contact:</span> ' . $emailaddress . '</p>
             </body>
             </html>';
-        
-        // Set custom From header
-        $mail->addCustomHeader('From', 'Tariq Name <your_email@example.com>'); // Change 'Your Name' and 'your_email@example.com' accordingly
         
         // Check for errors while sending mail
         if (!$mail->send()) {
