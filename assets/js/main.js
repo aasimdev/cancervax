@@ -50,6 +50,14 @@ $(function () {
                 alert('Please enter your email.');
             }
         });
+
+        $("#investModal").on('show.bs.modal', function(event) {
+            $('html').addClass('no-scroll');
+        })
+        $("#investModal").on('hide.bs.modal', function(event) {
+        
+            $('html').removeClass('no-scroll');
+        })
     }
 
     const teamModal = new bootstrap.Modal(document.getElementById('team'));
