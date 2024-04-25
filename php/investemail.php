@@ -20,7 +20,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     } else {
         $mail = new PHPMailer;
         $mail->CharSet = "UTF-8";
-		$mail->From = "submitted email";
         $mail->AddReplyTo($emailaddress);
         $mail->addAddress('asimhameed11@gmail.com');
         $mail->Subject = "CancerVax submission";
