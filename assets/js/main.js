@@ -25,7 +25,7 @@ $(function () {
             e.preventDefault();
             var email = $('#email').val();
             $('.invest-sbmit-btn').hide();
-            $('.invest-modal .spinner-border').show().css('display', "inline-block");
+            $('.invest-modal .spinner-border').fadeIn().css('display', "inline-block");
             if (email.trim() !== '') {
                 $.ajax({
                     type: 'POST',
@@ -33,12 +33,12 @@ $(function () {
                     data: { email: email },
                     success: function (response) {
                         localStorage.setItem('emailSubmitted', 'true');
-                        $('.invest-sbmit-btn').show();
+                        $('.invest-sbmit-btn').fadeIn();
                         $('.invest-modal .spinner-border').hide();
-                        $('.invest-alert').show();
+                        $('.invest-alert').fadeIn();
                         setTimeout(() => {
                             $('#investModal').modal('hide');
-                        }, 1000)
+                        }, 1500)
                     },
                     error: function (xhr, status, error) {
                         console.error(xhr.responseText); // Log error message
