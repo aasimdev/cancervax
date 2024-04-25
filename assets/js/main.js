@@ -21,23 +21,20 @@ $(function () {
             $('#investModal').modal('show');
         }
 
-        // Prevent the modal from hiding until email is entered
-        $('#emailForm').submit(function(e){
-            e.preventDefault();
-            var email = $('#email').val();
-            if(email.trim() !== '') {
-                // You can process the email here
-                console.log('Email entered: ' + email);
+        // $('#emailForm').submit(function(e){
+        //     e.preventDefault();
+        //     var email = $('#email').val();
+        //     if(email.trim() !== '') {
+        //         console.log('Email entered: ' + email);
                 
-                // Set a flag in local storage to indicate that the user has submitted the form
-                localStorage.setItem('emailSubmitted', 'true');
+        //         localStorage.setItem('emailSubmitted', 'true');
 
-                // Close the modal
-                $('#investModal').modal('hide');
-            } else {
-                alert('Please enter your email.');
-            }
-        });
+        //         // Close the modal
+        //         $('#investModal').modal('hide');
+        //     } else {
+        //         alert('Please enter your email.');
+        //     }
+        // });
     }
 
     const teamModal = new bootstrap.Modal(document.getElementById('team'));
