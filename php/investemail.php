@@ -34,7 +34,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		 </html>';
 		$mail->send();
 		if ($redirectForm == true) {
-			echo '<script>setTimeout(function () { window.location.replace("' . $redirectForm_url . '") }, 1000); </script>';
+			echo '<script>alert("its working fine"); </script>';
 		}
 	}
 }
