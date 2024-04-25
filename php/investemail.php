@@ -21,6 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail = new PHPMailer;
         $mail->CharSet = "UTF-8";
         $mail->AddReplyTo($emailaddress);
+        $mail->setFrom($emailaddress, 'Asim Name'); // Change 'Your Name' to your desired sender name
         $mail->addAddress('asimhameed11@gmail.com');
         $mail->Subject = "CancerVax submission";
         $mail->IsHTML(true);
@@ -35,7 +36,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             echo "Mailer Error: " . $mail->ErrorInfo;
         } else {
             if ($redirectForm == true) {
-				echo '<script>setTimeout(function () { window.location.replace("/invest") }, 1000); </script>';
+                echo '<script>alert("its working fine"); </script>';
             }
         }
     }
