@@ -21,7 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail = new PHPMailer;
         $mail->CharSet = "UTF-8";
         $mail->AddReplyTo($emailaddress);
-        $mail->setFrom($emailaddress, 'Asim Name'); // Change 'Your Name' to your desired sender name
+		$mail->From = "info@deeppower.com";
         $mail->addAddress('asimhameed11@gmail.com');
         $mail->Subject = "CancerVax submission";
         $mail->IsHTML(true);
