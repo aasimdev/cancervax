@@ -21,7 +21,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail = new PHPMailer;
         $mail->CharSet = "UTF-8";
         $mail->AddReplyTo($emailaddress);
-		$mail->setFrom('your_email@example.com', 'Your Name'); // Change 'Your Name' to your desired sender name
         $mail->addAddress('asimhameed11@gmail.com');
         $mail->Subject = "CancerVax submission";
         $mail->IsHTML(true);
