@@ -8,34 +8,26 @@ require 'phpmailertesting/PHPMailer/class.phpmailer.php';
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$emailaddress = strip_tags(trim($_POST["email"]));
 
-	if ($errors) {
-		//Output errors in a list
-		$errortext = "";
-		foreach ($errors as $error) {
-			$errortext .= '<li>' . $error . "</li>";
-		}
-
-		echo '<div class="alert notification alert-error">Error:<br><ul>' . $errortext . '</ul></div>';
+	if ( isset($_SERVER["OS"]) && $_SERVER["OS"] == "Windows_NT" ) {
+		$hostname = strtolower($_SERVER["COMPUTERNAME"]);
 	} else {
-		$mail = new PHPMailer;
-		$mail->CharSet = "UTF-8";
-		$mail->From = "info@deeppower.com";
-		$mail->FromName = "DeepPower";
-		$mail->AddReplyTo($emailaddress, $guestname);
-		$mail->addAddress('asimhameed11@gmail.com');
-		// $mail->Subject  = $guestname + '';
-		$mail->Subject = "Newsletter Form";
-		$mail->IsHTML(true);
-		$mail->Body    = '<html>
-
-		 
-		 <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
-			<p><span style="font-weight:bold;font-size:16px;padding-left:10px">Subscriber Email:</span> ' . $emailaddress . '</p>	
-		 </body>
-		 </html>';
-		$mail->send();
-		if ($redirectForm == true) {
-			echo '<script>setTimeout(function () { window.location.replace("/subscriber-thankyou.php") }, 1000); </script>';
-		}
+		$hostname = `hostname`;
+		$hostnamearray = explode('.', $hostname);
+		$hostname = $hostnamearray[0];
 	}
+
+	header("Content-Type: text/plain");
+	header("X-Node: $hostname");
+	$from = "DLOC";
+	$toemail = "zack@digitallocations.com";
+	$subject = "Newsletter Form";
+	$message = '
+	 Email: ' . $emailaddress;
+	$result = mail($toemail, $subject, $message, "From: $from" );
+	if ( $result && $redirectForm == true) {
+		header("Location: /thank-you.php");
+	} else {
+		echo 'FAIL';
+	}
+
 }
