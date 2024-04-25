@@ -21,20 +21,29 @@ $(function () {
             $('#investModal').modal('show');
         }
 
-        // $('#emailForm').submit(function(e){
-        //     e.preventDefault();
-        //     var email = $('#email').val();
-        //     if(email.trim() !== '') {
-        //         console.log('Email entered: ' + email);
-                
-        //         localStorage.setItem('emailSubmitted', 'true');
-
-        //         // Close the modal
-        //         $('#investModal').modal('hide');
-        //     } else {
-        //         alert('Please enter your email.');
-        //     }
-        // });
+        $('#emailForm').submit(function(e){
+            e.preventDefault();
+            var email = $('#email').val();
+            if(email.trim() !== '') {
+                $.ajax({
+                    type: 'POST',
+                    url: '../../php/investemail.php', 
+                    data: { email: email }, 
+                    success: function(response){
+                        console.log("response", response);
+                        localStorage.setItem('emailSubmitted', 'true');
+                        $('#investModal').modal('hide');
+                    },
+                    error: function(xhr, status, error){
+                        console.error(xhr.responseText); // Log error message
+                        alert("Error submitting form. Please try again later.");
+                    }
+                });
+               
+            } else {
+                alert('Please enter your email.');
+            }
+        });
     }
 
     const teamModal = new bootstrap.Modal(document.getElementById('team'));
