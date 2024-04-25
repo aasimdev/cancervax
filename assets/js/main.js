@@ -21,25 +21,31 @@ $(function () {
             $('#investModal').modal('show');
         }
 
-        $('#emailForm').submit(function(e){
+        $('#emailForm').submit(function (e) {
             e.preventDefault();
             var email = $('#email').val();
-            if(email.trim() !== '') {
+            $('.invest-sbmit-btn').hide();
+            $('.invest-modal .spinner-border').show().css('display', "inline-block");
+            if (email.trim() !== '') {
                 $.ajax({
                     type: 'POST',
-                    url: '../../php/investemail.php', 
-                    data: { email: email }, 
-                    success: function(response){
-                        console.log("response", response);
+                    url: '../../php/investemail.php',
+                    data: { email: email },
+                    success: function (response) {
                         localStorage.setItem('emailSubmitted', 'true');
-                        $('#investModal').modal('hide');
+                        $('.invest-sbmit-btn').show();
+                        $('.invest-modal .spinner-border').hide();
+                        $('.invest-alert').show();
+                        setTimeout(() => {
+                            $('#investModal').modal('hide');
+                        }, 1000)
                     },
-                    error: function(xhr, status, error){
+                    error: function (xhr, status, error) {
                         console.error(xhr.responseText); // Log error message
                         alert("Error submitting form. Please try again later.");
                     }
                 });
-               
+
             } else {
                 alert('Please enter your email.');
             }

@@ -154,8 +154,16 @@ if ($page_name != "index.php" && $page_name != "investors.php" && $page_name != 
                     <div class="mb-3">
                         <input type="email" class="form-control" id="email" name="email" required>
                     </div>
-                    <button type="submit">Enter</button>
+                    <button type="submit">
+                        <span class="invest-sbmit-btn">Enter</span>
+                        <div class="spinner-border text-light" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                    </button>
                 </form>
+                <div class="alert alert-success invest-alert" role="alert">
+                    It's submitted successfully. 
+                </div>
             </div>
         </div>
     </div>
