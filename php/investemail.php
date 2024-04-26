@@ -21,7 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail = new PHPMailer;
         $mail->CharSet = "UTF-8";
         $mail->AddReplyTo($emailaddress);
-        $mail->addAddress('asimhameed11@gmail.com');
+        $mail->addAddress('zack@cancervax.com');
         $mail->Subject = "CancerVax submission";
         $mail->IsHTML(true);
         $mail->Body = '<html>
