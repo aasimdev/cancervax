@@ -15,7 +15,7 @@ $(function () {
         });
     });
 
-    if (window.location.pathname.includes("investors") && window.location.pathname.includes("investors.php")) {
+    if (window.location.pathname.includes("investors")) {
         var hasSubmitted = localStorage.getItem('emailSubmitted');
         if (!hasSubmitted) {
             $('#investModal').modal('show');
