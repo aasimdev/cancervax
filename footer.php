@@ -73,7 +73,7 @@ if ($page_name != "index.php" && $page_name != "investors.php" && $page_name != 
                                         <a href="/videos">Videos</a>
                                     </li>
                                     <li>
-                                        <a href="/investors">Investors</a>
+                                        <a href="/invest">Investors</a>
                                     </li>
                                     <li>
                                         <a href="/contact">Contact</a>

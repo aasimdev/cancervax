@@ -1,5 +1,5 @@
 <?php
-$GLOBALS["title"] = "Invest - CancerVax";
+$GLOBALS["title"] = "Investors - CancerVax";
 $GLOBALS["desc"] = "";
 $GLOBALS["keywords"] = "";
 include "header.php";
@@ -420,14 +420,14 @@ include "header.php";
                             </div>
                             <h4 id="updates">Updates</h4>
                             <div class="cchat mt-5">
-                                <div class="cchat-box pb-4" data-video="trend">
-                                    <a class="popup-youtube" href="https://www.youtube.com/watch?v=Bk39recgMGU"></a>
-                                    <div class="cchat-thumbnail thumbnail-overlay h-auto">
-                                        <img src="//img.youtube.com/vi/Bk39recgMGU/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">
+                                    <div class="cchat-box pb-4" data-video="trend">
+                                        <a class="popup-youtube" href="https://www.youtube.com/watch?v=Bk39recgMGU"></a>
+                                        <div class="cchat-thumbnail thumbnail-overlay h-auto">
+                                            <img src="//img.youtube.com/vi/Bk39recgMGU/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">
+                                        </div>
+                                        <i class="far fa-play-circle"></i>
                                     </div>
-                                    <i class="far fa-play-circle"></i>
                                 </div>
-                            </div>
                             <h4>Market Statistics</h4>
 
                             <div class="link-placeholder">
@@ -501,11 +501,6 @@ include "header.php";
                                         OFFERING CIRCULAR </div>
                                     <a href="https://cancervax.com/2024oc" target="_blank" class="cardActualBottom">See on SEC.gov</a>
                                 </div>
-                            </div>
-                            <div class="priceDetails-powered">
-                                <p> No Stock Broker Needed <br>
-                                    Direct Investment Opportunity <br>
-                                    Powered By</p>
                             </div>
                             <div class="brokerCard">BROKER DEALER
                                 <a href="https://dalmoregroup.com/about-dalmore/" target="_blank" rel="noopener noreferrer">
