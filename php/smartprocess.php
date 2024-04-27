@@ -22,7 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		$mail->CharSet = "UTF-8";
 		$mail->addAddress('zack@cancervax.com');
 		$mail->addCC('asimhameed11@gmail.com');
-		$mail->Subject = 'Anfrage von';
+		$mail->Subject = 'CancerVax submission';
 		$mail->IsHTML(true);
 		$mail->Body    = '<html>
 
