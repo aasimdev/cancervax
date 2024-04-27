@@ -502,7 +502,12 @@ include "header.php";
                                     <a href="https://cancervax.com/2024oc" target="_blank" class="cardActualBottom">See on SEC.gov</a>
                                 </div>
                             </div>
-                            <div class="brokerCard">BROKER DEALER
+                            <div class="priceDetails-powered">
+                                <p> No Stock Broker Needed <br>
+                                    Direct Investment Opportunity <br>
+                                    Powered By</p>
+                            </div>
+                            <div class="brokerCard">
                                 <a href="https://dalmoregroup.com/about-dalmore/" target="_blank" rel="noopener noreferrer">
                                     <img src="./assets/img/DallMore.png" alt="hero" class="img-fluid">
                                 </a>

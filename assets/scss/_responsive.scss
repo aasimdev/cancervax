@@ -1013,4 +1013,18 @@
             line-height: 1;
         }
     }
+    .invest-modal .modal-body h3{
+        font-size: 22px;
+        br{
+            display: none;
+        }
+    }
+    .invest-modal .modal-content {
+        padding: 12px;
+    }
+    .invest-modal .form-control {
+        width: 100%;
+    }
+    .invest-modal button[type=submit] {
+        font-size: 22px;}    
 }

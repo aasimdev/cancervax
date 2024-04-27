@@ -507,7 +507,7 @@ include "header.php";
                                     Direct Investment Opportunity <br>
                                     Powered By</p>
                             </div>
-                            <div class="brokerCard">BROKER DEALER
+                            <div class="brokerCard">
                                 <a href="https://dalmoregroup.com/about-dalmore/" target="_blank" rel="noopener noreferrer">
                                     <img src="./assets/img/DallMore.png" alt="hero" class="img-fluid">
                                 </a>
