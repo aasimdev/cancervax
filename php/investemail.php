@@ -1,33 +1,48 @@
 <?php
-use PHPMailer\PHPMailer\PHPMailer;
-use PHPMailer\PHPMailer\Exception;
-require 'src/Exception.php';
-require 'src/PHPMailer.php';
-require 'src/SMTP.php';
+require('phpmailer/class.phpmailer.php');
+$mail = new PHPMailer;
 
-$mail = new PHPMailer();
-// configure an SMTP
-$mail->isSMTP();
-$mail->Host = 'live.smtp.mailtrap.io';
-$mail->SMTPAuth = true;
-$mail->Username = 'api';
-$mail->Password = '1a2b3c4d5e6f7g';
-$mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-$mail->Port = 587;
+$name = 'name';
+$phone = 'phone';
+$email = 'email';
+$message = 'HI Friends How are you';
 
-$mail->setFrom('confirmation@registered.com', 'Your Hotel');
-$mail->addAddress('asimhameed11@gmail.com', 'Me');
-$mail->Subject = 'Thanks for choosing Our Hotel!';
-// Set HTML 
-$mail->isHTML(TRUE);
-$mail->Body = '<html>Hi there, we are happy to <br>confirm your booking.</br> Please check the document in the attachment.</html>';
-$mail->AltBody = 'Hi there, we are happy to confirm your booking. Please check the document in the attachment.';
+//$mail->SMTPDebug = 3;                               // Enable verbose debug output
+
+$mail->isMail();                                      // Set mailer to use SMTP
+$mail->Host = 'localhost';  // Specify main and backup SMTP servers
+$mail->SMTPAuth = true;                               // Enable SMTP authentication
+$mail->Username = 'it2@aps-group.org';                 // SMTP username
+$mail->Password = '*****';                           // SMTP password
+$mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
+$mail->Port = 486;                                    // TCP port to connect to
+
+$mail->From = 'it2@aps-group.org';
+$mail->FromName = $name;
+//$mail->addAddress('joe@example.net', 'Joe User');     // Add a recipient
+$mail->addAddress('mozammelctgmirbd@gmail.com');               // Name is optional
+
+//$mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
+
+$mail->isHTML(true);                                  // Set email format to HTML
+
+$mail->Subject = 'SASP Contact Form';
+$mail->Body = $message;
+$mail->Body .= "<br /><br />Below are my contact details <br /> Name: ";
+$mail->Body .= $name;
+$mail->Body .= "<br />My Phone number: ";
+$mail->Body .= $phone;
+$mail->Body .= "<br /> My email address: ";
+$mail->Body .= $email;
 
 
-// send the message
-if(!$mail->send()){
+$mail->AltBody = 'You are using basic web browser ';
+
+if(!$mail->send()) {
     echo 'Message could not be sent.';
     echo 'Mailer Error: ' . $mail->ErrorInfo;
 } else {
     echo 'Message has been sent';
+
 }
+?>
