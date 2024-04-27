@@ -8,7 +8,7 @@
 	/* Enter your message subject below
 	 * This subject is the one you will see in your email
 	------------------------------------------------------ */	
-	$receiver_subject = "New request via website";
+	$receiver_subject = "Neue Anfrage per Webseite";
 	
 	/* Form message will be sent to this email address
 	 * For more than one email go to smartprocess.php then
@@ -44,3 +44,4 @@
 	 * Change the autoresponder option below from (false) to (true)
 	-------------------------------------------------------------------- */	
 	$autoResponder = false;
+?>
