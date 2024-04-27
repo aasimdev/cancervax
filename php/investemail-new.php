@@ -19,10 +19,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	header("Content-Type: text/plain");
 	header("X-Node: $hostname");
 	$from = "CancerVax";
-	$toemail = "asimhameed11@gmail.com";
-	$subject = "Newsletter Form";
+	$toemail = "zack@cancervax.com";
+	$subject = "CancerVax submission";
 	$message = '
-	 Email: ' . $emailaddress;
+    New contact: ' . $emailaddress;
 	$result = mail($toemail, $subject, $message, "From: $from" );
 	if ( $result && $redirectForm == true) {
 		header("Location: /thank-you.php");
