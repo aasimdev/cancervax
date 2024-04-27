@@ -8,7 +8,7 @@ include('header.php'); ?>
 
 
 <section class="banner">
-    <div class="video">
+    <div class="video d-none d-lg-block">
         <video playsinline autoplay muted loop preload="none" poster="./assets/img/banner-video-poster.png">
             <source src="./assets/video/banner-bg.mp4" type="video/mp4">
         </video>
