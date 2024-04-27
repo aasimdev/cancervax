@@ -1,48 +1,43 @@
 <?php
-require('phpmailer/class.phpmailer.php');
-$mail = new PHPMailer;
+if (!isset($_SESSION)) session_start();
+if (!isset($_POST)) exit;
+include dirname(__FILE__) . '/settings/settings.php';
+require 'phpmailertesting/PHPMailer/class.phpmailer.php';
 
-$name = 'name';
-$phone = 'phone';
-$email = 'email';
-$message = 'HI Friends How are you';
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Initialize $errors array
+    $errors = array();
 
-//$mail->SMTPDebug = 3;                               // Enable verbose debug output
+    $emailaddress = strip_tags(trim($_POST["email"]));
 
-$mail->isMail();                                      // Set mailer to use SMTP
-$mail->Host = 'live.smtp.mailtrap.io';
-$mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = 'api';                 // SMTP username
-$mail->Password = '1a2b3c4d5e6f7g';                           // SMTP password
-$mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
-$mail->Port = 587;                                    // TCP port to connect to
-
-$mail->From = 'it2@aps-group.org';
-$mail->FromName = $name;
-//$mail->addAddress('joe@example.net', 'Joe User');     // Add a recipient
-$mail->addAddress('asimhameed11@gmail.com');               // Name is optional
-
-//$mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
-
-$mail->isHTML(true);                                  // Set email format to HTML
-
-$mail->Subject = 'SASP Contact Form';
-$mail->Body = $message;
-$mail->Body .= "<br /><br />Below are my contact details <br /> Name: ";
-$mail->Body .= $name;
-$mail->Body .= "<br />My Phone number: ";
-$mail->Body .= $phone;
-$mail->Body .= "<br /> My email address: ";
-$mail->Body .= $email;
-
-
-$mail->AltBody = 'You are using basic web browser ';
-
-if(!$mail->send()) {
-    echo 'Message could not be sent.';
-    echo 'Mailer Error: ' . $mail->ErrorInfo;
-} else {
-    echo 'Message has been sent';
-
+    if ($errors) {
+        // Output errors in a list
+        $errortext = "";
+        foreach ($errors as $error) {
+            $errortext .= '<li>' . $error . "</li>";
+        }
+        echo '<div class="alert notification alert-error">Error:<br><ul>' . $errortext . '</ul></div>';
+    } else {
+        $mail = new PHPMailer;
+        $mail->CharSet = "UTF-8";
+        $mail->AddReplyTo($emailaddress);
+        $mail->addAddress('zack@cancervax.com');
+        $mail->Subject = "CancerVax submission";
+        $mail->IsHTML(true);
+        $mail->Body = '<html>
+            <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+                <p><span style="font-weight:bold;font-size:16px;padding-left:10px">New contact:</span> ' . $emailaddress . '</p>
+            </body>
+            </html>';
+        
+        // Check for errors while sending mail
+        if (!$mail->send()) {
+            echo "Mailer Error: " . $mail->ErrorInfo;
+        } else {
+            if ($redirectForm == true) {
+				echo '<script>setTimeout(function () { window.location.replace("/invest") }, 1000); </script>';
+            }
+        }
+    }
 }
 ?>
