@@ -2,7 +2,8 @@
 if (!isset($_SESSION)) session_start();
 if (!isset($_POST)) exit;
 include dirname(__FILE__) . '/settings/settings.php';
-require 'phpmailertesting/PHPMailer/class.phpmailer.php';
+// require 'phpmailertesting/PHPMailer/class.phpmailer.php';
+require 'phpmailer/PHPMailerAutoload.php';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Initialize $errors array
@@ -25,7 +26,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->Username = '1b6bcb7b6ae33b'; // SMTP username
         $mail->Password = 'de337fee88f366'; // SMTP password
         $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
-        $mail->Port = 2525; // TCP port to connect to
+        $mail->Port = 25; // TCP port to connect to
 
         $mail->CharSet = "UTF-8";
         $mail->AddReplyTo($emailaddress);
