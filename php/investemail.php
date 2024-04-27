@@ -1,43 +1,41 @@
+
 <?php
-if (!isset($_SESSION)) session_start();
-if (!isset($_POST)) exit;
-include dirname(__FILE__) . '/settings/settings.php';
-require 'phpmailertesting/PHPMailer/class.phpmailer.php';
+
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+require 'src/Exception.php';
+require 'src/PHPMailer.php';
+require 'src/SMTP.php';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // Initialize $errors array
-    $errors = array();
+    //Create an instance; passing `true` enables exceptions
+    $mail = new PHPMailer(true);
 
-    $emailaddress = strip_tags(trim($_POST["email"]));
+    try {
+        //Server settings
+        $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
+        $mail->isSMTP();                                            //Send using SMTP
+        $mail->Host       = 'smtp.example.com';                     //Set the SMTP server to send through
+        $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
+        $mail->Username   = 'zack_cancervax_com';                     //SMTP username
+        $mail->Password   = 'c5t0mwft';                               //SMTP password
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
+        $mail->Port       = 25;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
-    if ($errors) {
-        // Output errors in a list
-        $errortext = "";
-        foreach ($errors as $error) {
-            $errortext .= '<li>' . $error . "</li>";
-        }
-        echo '<div class="alert notification alert-error">Error:<br><ul>' . $errortext . '</ul></div>';
-    } else {
-        $mail = new PHPMailer;
-        $mail->CharSet = "UTF-8";
-        $mail->AddReplyTo($emailaddress);
-        $mail->addAddress('zack@cancervax.com');
-        $mail->Subject = "CancerVax submission";
-        $mail->IsHTML(true);
-        $mail->Body = '<html>
-            <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
-                <p><span style="font-weight:bold;font-size:16px;padding-left:10px">New contact:</span> ' . $emailaddress . '</p>
-            </body>
-            </html>';
-        
-        // Check for errors while sending mail
-        if (!$mail->send()) {
-            echo "Mailer Error: " . $mail->ErrorInfo;
-        } else {
-            if ($redirectForm == true) {
-				echo '<script>setTimeout(function () { window.location.replace("/invest") }, 1000); </script>';
-            }
-        }
+        //Recipients
+        $mail->setFrom('asimhameed11@gmail.com', 'Mailer');
+        $mail->addAddress('aasimdev0@gmail.com', 'Thank');     //Add a recipient
+
+        //Content
+        $mail->isHTML(true);                                  //Set email format to HTML
+        $mail->Subject = 'Here is the subject';
+        $mail->Body    = 'This is the HTML message body <b>in bold!</b>';
+        $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
+
+        $mail->send();
+        echo 'Message has been sent';
+    } catch (Exception $e) {
+        echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
     }
 }
-?>
