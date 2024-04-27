@@ -143,6 +143,29 @@ if ($page_name != "index.php" && $page_name != "investors.php" && $page_name != 
     </div>
 </div>
 
+<div class="modal invest-modal fade" id="investModal" tabindex="-1" aria-labelledby="investModalLabel" aria-hidden="true" data-bs-backdrop="static">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-body">
+                <form action="./php/smartprocess.php" method="post">
+                    <h3>Enter Your Best Email Below <br> to Learn More about CancerVax <br> and How You Can Earn Bonus Shares!</h3>
+                    <div class="mb-3">
+                        <input type="email" class="form-control" id="email" name="email" required>
+                    </div>
+                    <button type="submit">
+                        <span class="invest-sbmit-btn">Enter</span>
+                        <div class="spinner-border text-light" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                    </button>
+                </form>
+                <div class="alert alert-success invest-alert" role="alert">
+                    It's submitted successfully. 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <script src="<?php echo  $full_url; ?>/assets/js/jquery-3.1.1.min.js"></script>
 <script src="<?php echo  $full_url; ?>/assets/js/slick.min.js"></script>
 <script src="<?php echo  $full_url; ?>/assets/js/jquery.magnific-popup.min.js"></script>
