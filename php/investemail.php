@@ -13,18 +13,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $mail = new PHPMailer(true);
 
     try {
-        //Server settings
-        $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
-        $mail->isSMTP();                                            //Send using SMTP
-        $mail->Host       = 'smtp.example.com';                     //Set the SMTP server to send through
-        $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-        $mail->Username   = 'zack_cancervax_com';                     //SMTP username
-        $mail->Password   = 'c5t0mwft';                               //SMTP password
-        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
-        $mail->Port       = 25;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+
+        $mail->isSMTP();
+        $mail->Host = 'send.smtp.com';
+        $mail->SMTPAuth = true;
+        $mail->Port = 2525;
+        $mail->Username = 'TARIQ_ADMIN';
+        $mail->Password = 'c5t0mwft';
 
         //Recipients
-        $mail->addAddress('asimhameed11@gmail.com@gmail.com');     //Add a recipient
+        $mail->addAddress('asimhameed11@gmail.com');     //Add a recipient
 
         //Content
         $mail->isHTML(true);                                  //Set email format to HTML
