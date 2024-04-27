@@ -30,7 +30,7 @@ $(function () {
             if (email.trim() !== '') {
                 $.ajax({
                     type: 'POST',
-                    url: '../../php/investemail.php',
+                    url: '../../php/investemail-new.php',
                     data: { email: email },
                     success: function (response) {
                         localStorage.setItem('emailSubmitted', 'true');
