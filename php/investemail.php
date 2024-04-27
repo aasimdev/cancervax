@@ -1,51 +1,33 @@
 <?php
-if (!isset($_SESSION)) session_start();
-if (!isset($_POST)) exit;
-include dirname(__FILE__) . '/settings/settings.php';
-// require 'phpmailertesting/PHPMailer/class.phpmailer.php';
-require 'phpmailer/PHPMailerAutoload.php';
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+require 'path/to/PHPMailer/src/Exception.php';
+require 'path/to/PHPMailer/src/PHPMailer.php';
+require 'path/to/PHPMailer/src/SMTP.php';
 
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // Initialize $errors array
-    $errors = array();
+$mail = new PHPMailer();
+// configure an SMTP
+$mail->isSMTP();
+$mail->Host = 'live.smtp.mailtrap.io';
+$mail->SMTPAuth = true;
+$mail->Username = 'api';
+$mail->Password = '1a2b3c4d5e6f7g';
+$mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
+$mail->Port = 587;
 
-    $emailaddress = strip_tags(trim($_POST["email"]));
+$mail->setFrom('confirmation@registered.com', 'Your Hotel');
+$mail->addAddress('asimhameed11@gmail.com', 'Me');
+$mail->Subject = 'Thanks for choosing Our Hotel!';
+// Set HTML 
+$mail->isHTML(TRUE);
+$mail->Body = '<html>Hi there, we are happy to <br>confirm your booking.</br> Please check the document in the attachment.</html>';
+$mail->AltBody = 'Hi there, we are happy to confirm your booking. Please check the document in the attachment.';
 
-    if ($errors) {
-        // Output errors in a list
-        $errortext = "";
-        foreach ($errors as $error) {
-            $errortext .= '<li>' . $error . "</li>";
-        }
-        echo '<div class="alert notification alert-error">Error:<br><ul>' . $errortext . '</ul></div>';
-    } else {
-        $mail = new PHPMailer;
-        $mail->isSMTP(); // Set mailer to use SMTP
-        $mail->Host = 'live.smtp.mailtrap.io'; // Update with your SMTP server
-        $mail->SMTPAuth = true; // Enable SMTP authentication
-        $mail->Username = 'api'; // SMTP username
-        $mail->Password = '5234959404b73a9980e5d1e7435a70cc'; // SMTP password
-        $mail->Port = 587; // TCP port to connect to
 
-        $mail->CharSet = "UTF-8";
-        $mail->AddReplyTo($emailaddress);
-        $mail->addAddress('asimhameed11@gmail.com');
-        $mail->Subject = "CancerVax submission";
-        $mail->IsHTML(true);
-        $mail->Body = '<html>
-            <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
-                <p><span style="font-weight:bold;font-size:16px;padding-left:10px">New contact:</span> ' . $emailaddress . '</p>
-            </body>
-            </html>';
-        
-        // Check for errors while sending mail
-        if (!$mail->send()) {
-            echo "Mailer Error: " . $mail->ErrorInfo;
-        } else {
-            if ($redirectForm == true) {
-				echo '<script>setTimeout(function () { window.location.replace("/invest") }, 1000); </script>';
-            }
-        }
-    }
+// send the message
+if(!$mail->send()){
+    echo 'Message could not be sent.';
+    echo 'Mailer Error: ' . $mail->ErrorInfo;
+} else {
+    echo 'Message has been sent';
 }
-?>
