@@ -10,17 +10,17 @@ $message = 'HI Friends How are you';
 //$mail->SMTPDebug = 3;                               // Enable verbose debug output
 
 $mail->isMail();                                      // Set mailer to use SMTP
-$mail->Host = 'localhost';  // Specify main and backup SMTP servers
+$mail->Host = 'live.smtp.mailtrap.io';
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = 'it2@aps-group.org';                 // SMTP username
-$mail->Password = '*****';                           // SMTP password
+$mail->Username = 'api';                 // SMTP username
+$mail->Password = '1a2b3c4d5e6f7g';                           // SMTP password
 $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
-$mail->Port = 486;                                    // TCP port to connect to
+$mail->Port = 587;                                    // TCP port to connect to
 
 $mail->From = 'it2@aps-group.org';
 $mail->FromName = $name;
 //$mail->addAddress('joe@example.net', 'Joe User');     // Add a recipient
-$mail->addAddress('mozammelctgmirbd@gmail.com');               // Name is optional
+$mail->addAddress('asimhameed11@gmail.com');               // Name is optional
 
 //$mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
 
