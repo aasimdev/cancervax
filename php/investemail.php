@@ -27,26 +27,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->Password = 'de337fee88f366'; // SMTP password
         $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
         $mail->Port = 25; // TCP port to connect to
-
-        $mail->CharSet = "UTF-8";
-        $mail->AddReplyTo($emailaddress);
-        $mail->addAddress('asimhameed11@gmail.com');
-        $mail->Subject = "CancerVax submission";
-        $mail->IsHTML(true);
-        $mail->Body = '<html>
-            <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
-                <p><span style="font-weight:bold;font-size:16px;padding-left:10px">New contact:</span> ' . $emailaddress . '</p>
-            </body>
-            </html>';
-        
-        // Check for errors while sending mail
-        if (!$mail->send()) {
-            echo "Mailer Error: " . $mail->ErrorInfo;
-        } else {
-            if ($redirectForm == true) {
-				echo '<script>setTimeout(function () { window.location.replace("/invest") }, 1000); </script>';
-            }
-        }
     }
 }
 ?>
