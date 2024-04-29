@@ -22,35 +22,27 @@ $(function () {
             $('body').addClass('no-scroll');
         }
 
-        $('#emailForm').submit(function (e) {
+        $('#jotformForm').submit(function(e){
             e.preventDefault();
-            var email = $('#email').val();
-            $('.invest-sbmit-btn').hide();
-            $('.invest-modal .spinner-border').fadeIn().css('display', "inline-block");
-            if (email.trim() !== '') {
-                $.ajax({
-                    type: 'POST',
-                    url: '../../php/investemail.php',
-                    data: { email: email },
-                    success: function (response) {
-                        localStorage.setItem('emailSubmitted', 'true');
-                        $('.invest-sbmit-btn').fadeIn();
-                        $('.invest-modal .spinner-border').hide();
-                        $('.invest-alert').fadeIn();
-                        setTimeout(() => {
-                            $('#investModal').modal('hide');
-                            $('body').removeClass('no-scroll');
-                        }, 1500)
-                    },
-                    error: function (xhr, status, error) {
-                        console.error(xhr.responseText); // Log error message
-                        alert("Error submitting form. Please try again later.");
-                    }
-                });
-
-            } else {
-                alert('Please enter your email.');
-            }
+            var formData = $(this).serialize(); 
+            $.ajax({
+                type: 'POST',
+                url: $(this).attr('action'),
+                data: formData,
+                success: function(response){
+                    localStorage.setItem('emailSubmitted', 'true');
+                    $('.invest-sbmit-btn').fadeIn();
+                    $('.invest-modal .spinner-border').hide();
+                    $('.invest-alert').fadeIn();
+                    setTimeout(() => {
+                        $('#investModal').modal('hide');
+                        $('body').removeClass('no-scroll');
+                    }, 1500)
+                },
+                error: function(xhr, status, error){
+                    console.error(xhr.responseText);
+                }
+            });
         });
     }
 

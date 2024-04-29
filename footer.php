@@ -149,7 +149,20 @@ if ($page_name != "index.php" && $page_name != "investors.php" && $page_name != 
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-body">
-                <form action="./php/investemail.php" method="post">
+                <form id="jotformForm" action="https://submit.jotform.com/submit/241187247358059/" method="POST">
+                    <h3>Enter Your Best Email Below <br> to Learn More about CancerVax <br> and How You Can Earn Bonus Shares!</h3>
+                    <div class="mb-3">
+                    <input type="hidden" name="formID" value="241187247358059">
+                    <input type="email" name="q3_email" placeholder="Email" class="form-control">
+                    </div>
+                    <button type="submit">
+                        <span class="invest-sbmit-btn">Enter</span>
+                        <div class="spinner-border text-light" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                    </button>
+                </form>
+                <!-- <form action="./php/investemail.php" method="post">
                     <h3>Enter Your Best Email Below <br> to Learn More about CancerVax <br> and How You Can Earn Bonus Shares!</h3>
                     <div class="mb-3">
                         <input type="email" class="form-control" id="email" name="email" required>
@@ -160,9 +173,9 @@ if ($page_name != "index.php" && $page_name != "investors.php" && $page_name != 
                             <span class="visually-hidden">Loading...</span>
                         </div>
                     </button>
-                </form>
+                </form> -->
                 <div class="alert alert-success invest-alert" role="alert">
-                    It's submitted successfully. 
+                    It's submitted successfully.
                 </div>
             </div>
         </div>
