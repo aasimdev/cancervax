@@ -200,7 +200,7 @@
                 <div class="invest-bar-content">
                     <div class="invest-bar-text">
                         <p>Help Us Beat Cancer</p>
-                        <a href="<?php $page_name = basename($_SERVER['PHP_SELF']); if ($page_name == "investors.php") { ?>https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/<?php } else { ?>/investors<?php } ?>" target="<?php if ($page_name == "investors.php") { ?>_blank<?php } else { ?>_self<?php } ?>">Invest Here <span>Secure Direct Invest Platform</span></a>
+                        <a href="<?php $page_name = basename($_SERVER['PHP_SELF']); if ($page_name == "investors.php" || $page_name == "invest.php") { ?>https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/<?php } else { ?>/invest<?php } ?>" target="<?php if ($page_name == "investors.php" || $page_name == "invest.php") { ?>_blank<?php } else { ?>_self<?php } ?>">Invest Here <span>Secure Direct Invest Platform</span></a>
                     </div>
                     <div class="tSocial d-none d-md-block">
                         <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
@@ -243,7 +243,7 @@
                             <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link <?php active('investors'); ?>" href="/investors">Investors</a>
+                            <a class="nav-link <?php active('invest'); ?>" href="/invest">Investors</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link <?php active('contact'); ?>" href="/contact">Contact</a>

@@ -1,9 +1,8 @@
 <?php
-$GLOBALS["title"] = "Investors - CancerVax";
+$GLOBALS["title"] = "Invest - CancerVax";
 $GLOBALS["desc"] = "";
 $GLOBALS["keywords"] = "";
-include "header.php"; 
-
+include "header.php";
 ?>
 
 
@@ -360,7 +359,7 @@ include "header.php";
                                         <div class="term-blo">
                                             <div class="offer-title">BROKER DEALER</div>
                                             <a href="https://dalmoregroup.com/about-dalmore/" target="_blank" rel="noopener noreferrer">
-                                                <img src="./assets/img/DallMore.png" alt="hero" class="img-fluid">
+                                                <img src="./assets/img/DallMore.png" alt="dallmore">
                                             </a>
                                         </div>
                                     </div>
@@ -421,14 +420,14 @@ include "header.php";
                             </div>
                             <h4 id="updates">Updates</h4>
                             <div class="cchat mt-5">
-                                    <div class="cchat-box pb-4" data-video="trend">
-                                        <a class="popup-youtube" href="https://www.youtube.com/watch?v=Bk39recgMGU"></a>
-                                        <div class="cchat-thumbnail thumbnail-overlay h-auto">
-                                            <img src="//img.youtube.com/vi/Bk39recgMGU/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">
-                                        </div>
-                                        <i class="far fa-play-circle"></i>
+                                <div class="cchat-box pb-4" data-video="trend">
+                                    <a class="popup-youtube" href="https://www.youtube.com/watch?v=Bk39recgMGU"></a>
+                                    <div class="cchat-thumbnail thumbnail-overlay h-auto">
+                                        <img src="//img.youtube.com/vi/Bk39recgMGU/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">
                                     </div>
+                                    <i class="far fa-play-circle"></i>
                                 </div>
+                            </div>
                             <h4>Market Statistics</h4>
 
                             <div class="link-placeholder">
