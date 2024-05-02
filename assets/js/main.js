@@ -46,6 +46,29 @@ $(function () {
         });
     }
 
+    $('#jotformForm2').submit(function(e){
+        e.preventDefault();
+        var formData = $(this).serialize(); 
+        $.ajax({
+            type: 'POST',
+            url: $(this).attr('action'),
+            data: formData,
+            success: function(response){
+                localStorage.setItem('emailSubmitted', 'true');
+                $('.invest-sbmit-btn').fadeIn();
+                $('.invest-modal .spinner-border').hide();
+                $('.invest-alert').fadeIn();
+                setTimeout(() => {
+                    $('#investMoreModal').modal('hide');
+                    $('body').removeClass('no-scroll');
+                }, 1500)
+            },
+            error: function(xhr, status, error){
+                console.error(xhr.responseText);
+            }
+        });
+    });
+
 
     const teamModal = new bootstrap.Modal(document.getElementById('team'));
     $('.team-box-img').on('click', function (e) {

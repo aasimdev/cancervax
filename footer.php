@@ -152,8 +152,8 @@ if ($page_name != "index.php" && $page_name != "investors.php" && $page_name != 
                 <form id="jotformForm" action="https://submit.jotform.com/submit/241187247358059/" method="POST">
                     <h3>Enter Your Best Email Below <br> to Learn More about CancerVax <br> and How You Can Earn Bonus Shares!</h3>
                     <div class="mb-3">
-                    <input type="hidden" name="formID" value="241187247358059">
-                    <input type="email" name="q3_email" placeholder="Email" class="form-control">
+                        <input type="hidden" name="formID" value="241187247358059">
+                        <input type="email" name="q3_email" placeholder="Email" class="form-control">
                     </div>
                     <button type="submit">
                         <span class="invest-sbmit-btn">Enter</span>
@@ -174,6 +174,39 @@ if ($page_name != "index.php" && $page_name != "investors.php" && $page_name != 
                         </div>
                     </button>
                 </form> -->
+                <div class="alert alert-success invest-alert" role="alert">
+                    It's submitted successfully.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal invest-modal fade" id="investMoreModal" tabindex="-1" aria-labelledby="investMoreModalLabel" aria-hidden="true" data-bs-backdrop="static">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-body">
+                <form id="jotformForm2" action="https://submit.jotform.com/submit/241223535318046/" method="POST">
+                    <input type="hidden" name="formID" value="241223535318046">
+                    <div class="ex-form-group">
+                        <label for="input_6" class="form-label">Name:</label>
+                        <input type="text" name="q6_name" id="input_6" class="form-control">
+                    </div>
+                    <div class="ex-form-group">
+                        <label for="input_4" class="form-label">Email:</label>
+                        <input type="email" name="q4_email" id="input_4" class="form-control">
+                    </div>
+                    <div class="ex-form-group">
+                        <label for="input_5_full" class="form-label">Phone:</label>
+                        <input type="text" name="q5_phoneNumber[full]" id="input_5_full" class="form-control">
+                    </div>
+                    <button type="submit">
+                        <span class="invest-sbmit-btn">Enter</span>
+                        <div class="spinner-border text-light" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                    </button>
+                </form>
                 <div class="alert alert-success invest-alert" role="alert">
                     It's submitted successfully.
                 </div>

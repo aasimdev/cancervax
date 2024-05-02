@@ -2890,3 +2890,20 @@ label.error {
 .no-scroll{
     overflow: hidden !important;
 }
+.ex-form-group{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 16px;
+    .form-label{
+        color: #1d8f97;
+        font-size: 22px;
+        margin-bottom: 0;
+        font-weight: 500;
+        min-width: 70px;
+        text-align: left;
+    }
+    .form-control{
+        width: 100%;
+    }
+}

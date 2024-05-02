@@ -304,6 +304,17 @@
     top: 0;
     z-index: -1;
   }
+ 
+}
+.offerInvestTwo.green-btn{
+  a{
+    font-size: 15.7px;
+    background-color: #00711c;
+    color: #fff;
+    &::after{
+      background-color: #00ab2d;
+    }
+  }
 }
 
 .video-section {

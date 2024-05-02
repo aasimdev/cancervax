@@ -34,6 +34,9 @@ include "header.php";
                         <div class="offerInvest">
                             <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
                         </div>
+                        <div class="offerInvestTwo green-btn mt-3">
+                                <a href="#" class="w-auto" data-bs-toggle="modal" data-bs-target="#investMoreModal">Looking to Invest More Than $5000? <span>Click here to speak with a company executive</span></a>
+                            </div>
                     </div>
                     <div class="col-lg-6 d-none d-lg-block">
                         <div class="banner-announcement">
@@ -476,6 +479,10 @@ include "header.php";
 
                             <div class="offerInvestTwo">
                                 <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
+                            </div>
+
+                            <div class="offerInvestTwo green-btn mt-3">
+                                <a href="#" class="w-auto" data-bs-toggle="modal" data-bs-target="#investMoreModal">Looking to Invest More Than $5000? <span>Click here to speak with a company executive</span></a>
                             </div>
 
                             <div class="priceDetails">
