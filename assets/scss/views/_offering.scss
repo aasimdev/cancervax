@@ -887,6 +887,8 @@
   gap: 8px;
   .offerInvestTwo {
     width: 50%;
+    flex: 0 0 auto;
+    height: 51px;
   }
   .offerInvestTwo.green-btn a{
     font-size: 12px;
@@ -894,8 +896,12 @@
     color: #fff;
     padding: 8px;
     line-height: 1.2;
+    justify-content: space-between;
+    height: 100%;
+    display: flex;
     span{
-      font-size: 10px;
+      font-size: 9px;
+      font-weight: 400;
     }
   }
   .offerInvest{
@@ -953,6 +959,13 @@
   max-width: 600px;
 }
 
+.invest-btns-wrap{
+  max-width: 330px;
+  .offerInvest a{
+    width: 100%;
+  }
+}
+
 /* Responsive */
 @media (max-width: 991px) {
   .first-mobile {
@@ -991,6 +1004,9 @@
   }
   .heroSection .offerInvestTwo{
     text-align: center;
+  }
+  .invest-btns-wrap{
+    margin: 0 auto;
   }
 }
 
@@ -1448,7 +1464,7 @@
   }
 
   .nav-section {
-    top: 130.38px;
+    top: 167px;
     padding: 0 0 16px;
   }
 

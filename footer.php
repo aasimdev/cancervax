@@ -182,9 +182,12 @@ if ($page_name != "index.php" && $page_name != "investors.php" && $page_name != 
     </div>
 </div>
 
-<div class="modal invest-modal fade" id="investMoreModal" tabindex="-1" aria-labelledby="investMoreModalLabel" aria-hidden="true" data-bs-backdrop="static">
+<div class="modal invest-modal fade" id="investMoreModal" tabindex="-1" aria-labelledby="investMoreModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
             <div class="modal-body">
                 <form id="jotformForm2" action="https://submit.jotform.com/submit/241223535318046/" method="POST">
                     <input type="hidden" name="formID" value="241223535318046">

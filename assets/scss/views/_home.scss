@@ -2823,7 +2823,22 @@ label.error {
     &:not(.show) {
         background: rgba(0, 0, 0, 0);
     }
-
+    .modal-header{
+        .btn-close{
+            padding: 0;
+            background-color: #fff;
+            border-radius: 50%;
+            margin: 0;
+            position: absolute;
+            right: 0;
+            top: -26px;
+            right: -26px;
+            opacity: 1;
+            width: 32px;
+            height: 32px;
+            font-size: 14px;
+        }
+    }
     .modal-dialog {
         max-width: 600px;
     }
