@@ -39,6 +39,11 @@
       }
     }
   }
+  .offerInvestTwo {
+    a{
+      width: auto;
+    }
+  }
 }
 
 .nav-section {
@@ -870,17 +875,32 @@
 
 .priceCardmob {
   box-shadow: rgba(0, 0, 0, 0.03) -0.217625px -6.99662px 28px, rgba(0, 0, 0, 0.02) -0.141053px -4.53484px 16.3981px, rgba(0, 0, 0, 0.016) -0.0838259px -2.69499px 8.91852px, rgba(0, 0, 0, 0.01) -0.043525px -1.39932px 4.55px, rgba(0, 0, 0, 0.01) -0.0177324px -0.570095px 2.28148px, rgba(0, 0, 0, 0.008) -0.00403009px -0.129567px 1.10185px;
-  background: rgb(255, 255, 255);
+  background: #fff;
   width: 100%;
   display: flex;
-  padding: 20px 0px;
+  padding: 10px;
   justify-content: space-around;
-  -webkit-box-align: center;
   align-items: center;
   position: fixed;
   bottom: 0px;
   z-index: 10;
-
+  gap: 8px;
+  .offerInvestTwo {
+    width: 50%;
+  }
+  .offerInvestTwo.green-btn a{
+    font-size: 12px;
+    background-color: #00711c;
+    color: #fff;
+    padding: 8px;
+    line-height: 1.2;
+    span{
+      font-size: 10px;
+    }
+  }
+  .offerInvest{
+    width: 50%;
+  }
   &-text {
     p {
       color: #000;
@@ -967,6 +987,9 @@
   }
 
   .offerInvest {
+    text-align: center;
+  }
+  .heroSection .offerInvestTwo{
     text-align: center;
   }
 }
@@ -1444,4 +1467,7 @@
   .learnMore {
     margin-top: 16px;
   }
+  .heroSection .offerInvestTwo a {
+    width: 100%;
+}
 }
