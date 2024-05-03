@@ -483,7 +483,7 @@ include "header.php";
                             </div>
 
                             <div class="offerInvestTwo green-btn mt-3">
-                                <a href="#" class="w-auto" data-bs-toggle="modal" data-bs-target="#investMoreModal">Looking to Invest More Than $5000? <span>Click here to speak with a company executive</span></a>
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#investMoreModal">Looking to Invest More Than $5000? <span>Click here to speak with a company executive</span></a>
                             </div>
 
                             <div class="priceDetails">
