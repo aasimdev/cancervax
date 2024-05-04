@@ -1004,14 +1004,22 @@
         padding: 5px 30px;
     }
 
-    .priceCardmob .offerInvest a {
-        padding: 6px 10px;
-        font-size: 14px;
+    .priceCardmob {
 
-        span {
-            font-size: 9px;
-            line-height: 1;
+        .offerInvest a,
+        .offerInvestTwo.green-btn a {
+            padding: 6px 10px;
+            font-size: 14px;
+
+            span {
+                font-size: 9px;
+                line-height: 1;
+            }
+
         }
+    }
+    .priceCardmob .offerInvestTwo.green-btn a{
+        font-size: 12px;
     }
 
     .invest-modal .modal-body h3 {
