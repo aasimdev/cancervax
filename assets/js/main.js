@@ -18,18 +18,20 @@ $(function () {
     if (window.location.pathname.includes("investors") || window.location.pathname.includes("investors.php")) {
         var hasSubmitted = localStorage.getItem('emailSubmitted');
         if (!hasSubmitted) {
-            $('#investModal').modal('show');
-            $('body').addClass('no-scroll');
+            setTimeout(() => {
+                $('#investModal').modal('show');
+                $('body').addClass('no-scroll');
+            }, 3000)
         }
 
-        $('#jotformForm').submit(function(e){
+        $('#jotformForm').submit(function (e) {
             e.preventDefault();
-            var formData = $(this).serialize(); 
+            var formData = $(this).serialize();
             $.ajax({
                 type: 'POST',
                 url: $(this).attr('action'),
                 data: formData,
-                success: function(response){
+                success: function (response) {
                     localStorage.setItem('emailSubmitted', 'true');
                     $('.invest-sbmit-btn').fadeIn();
                     $('.invest-modal .spinner-border').hide();
@@ -39,12 +41,45 @@ $(function () {
                         $('body').removeClass('no-scroll');
                     }, 1500)
                 },
-                error: function(xhr, status, error){
+                error: function (xhr, status, error) {
                     console.error(xhr.responseText);
                 }
             });
         });
+
+
     }
+
+    var myModalEl = document.getElementById('investModal')
+    myModalEl.addEventListener('hide.bs.modal', function (event) {
+        $('body').removeClass('no-scroll');
+    })
+
+    $('#jotformForm2').submit(function (e) {
+        e.preventDefault();
+        var form = $(this); // Cache the form element
+        var formData = form.serialize();
+        $.ajax({
+            type: 'POST',
+            url: form.attr('action'),
+            data: formData,
+            success: function (response) {
+                $('.invest-sbmit-btn').fadeIn();
+                $('.invest-modal .spinner-border').hide();
+                $('.invest-alert').fadeIn();
+                setTimeout(() => {
+                    $('#investMoreModal').modal('hide');
+                    $('body').removeClass('no-scroll');
+                    form[0].reset();
+                    $('.invest-alert').hide();
+                }, 1500)
+            },
+            error: function (xhr, status, error) {
+                console.error(xhr.responseText);
+            }
+        });
+    });
+
 
 
     const teamModal = new bootstrap.Modal(document.getElementById('team'));
