@@ -15,7 +15,7 @@ $(function () {
         });
     });
 
-    if (window.location.pathname.includes("investors") || window.location.pathname.includes("investors.php")) {
+    if (window.location.pathname.includes("investors") || window.location.pathname.includes("investors.php") || window.location.pathname.includes("invest2") || window.location.pathname.includes("invest2.php")) {
         var hasSubmitted = localStorage.getItem('emailSubmitted');
         if (!hasSubmitted) {
             setTimeout(() => {
