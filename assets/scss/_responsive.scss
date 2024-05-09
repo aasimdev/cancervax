@@ -1018,7 +1018,8 @@
 
         }
     }
-    .priceCardmob .offerInvestTwo.green-btn a{
+
+    .priceCardmob .offerInvestTwo.green-btn a {
         font-size: 12px;
     }
 
@@ -1041,4 +1042,33 @@
     .invest-modal button[type=submit] {
         font-size: 22px;
     }
+
+    .pi-ty h1 {
+        font-size: 32px;
+        margin-bottom: 12px;
+    }
+
+    .pi-ty p {
+        font-size: 20px;
+        line-height: 1.4;
+    }
+
+    .pi-ty, .pi-ty-btns, .pi-invest-main {
+        padding: 40px 0;
+    }
+
+    .pi-invest-main h2 {
+        font-size: 28px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+
+    .pi-invest-content h3 {
+        font-size: 20px;
+    }
+
+    .pi-invest-step {
+        margin-top: 32px;
+    }
+   
 }
