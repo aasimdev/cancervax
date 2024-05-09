@@ -20,10 +20,6 @@ include "header.php";
             <h2>4 Easy Steps to Invest</h2>
             <div class="pi-invest-steps">
                 <div class="pi-invest-step">
-                    <div class="pi-invest-icon">
-                        <object data="./assets/img/invest-step-1.svg" type="image/svg+xml">
-                        </object>
-                    </div>
                     <div class="pi-invest-content">
                         <h3><span>Step 1. </span> Create the world’s easiest account. </h3>
                         <ul class="theme-list dot-list">
@@ -34,10 +30,6 @@ include "header.php";
                     </div>
                 </div>
                 <div class="pi-invest-step">
-                    <div class="pi-invest-icon">
-                        <object data="./assets/img/invest-step-2.svg" type="image/svg+xml">
-                        </object>
-                    </div>
                     <div class="pi-invest-content">
                         <h3><span>Step 2. </span>Investment amount. </h3>
                         <ul class="theme-list dot-list">
@@ -48,10 +40,6 @@ include "header.php";
                     </div>
                 </div>
                 <div class="pi-invest-step">
-                    <div class="pi-invest-icon">
-                        <object data="./assets/img/invest-step-3.svg" type="image/svg+xml">
-                        </object>
-                    </div>
                     <div class="pi-invest-content">
                         <h3><span>Step 3. </span> Complete Payment.  </h3>
                         <ul class="theme-list dot-list">
@@ -60,10 +48,6 @@ include "header.php";
                     </div>
                 </div>
                 <div class="pi-invest-step">
-                    <div class="pi-invest-icon">
-                        <object data="./assets/img/invest-step-4.svg" type="image/svg+xml">
-                        </object>
-                    </div>
                     <div class="pi-invest-content">
                         <h3><span>Step 4. </span> Our Guarantee.  </h3>
                         <ul class="theme-list dot-list">
