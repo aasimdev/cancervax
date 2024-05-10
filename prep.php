@@ -73,7 +73,7 @@ include "header.php";
         <div class="pi-ty-wrap">
             <div class="invest-btns-wrap">
                 <div class="offerInvest">
-                    <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
+                    <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank"> <span>So Let's Get Started with Step 1</span> Click Here</a>
                 </div>
                 <div class="offerInvestTwo green-btn mt-sm-3">
                     <a href="#" data-bs-toggle="modal" data-bs-target="#investMoreModal">Looking to Invest More Than $5000? <span>Click here to speak with a company executive</span></a>
