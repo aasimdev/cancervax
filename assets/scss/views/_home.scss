@@ -2823,9 +2823,11 @@ label.error {
     &:not(.show) {
         background: rgba(0, 0, 0, 0);
     }
-    .modal-header{
+
+    .modal-header {
         padding: 0;
-        .btn-close{
+
+        .btn-close {
             padding: 0;
             background-color: #fff;
             border-radius: 50%;
@@ -2840,6 +2842,7 @@ label.error {
             font-size: 14px;
         }
     }
+
     .modal-dialog {
         max-width: 600px;
     }
@@ -2892,7 +2895,8 @@ label.error {
         border-right-color: rgba(0, 0, 0, 0);
         display: none;
     }
-    .invest-alert{
+
+    .invest-alert {
         font-size: 18px;
         text-align: left;
         margin-top: 24px;
@@ -2903,15 +2907,18 @@ label.error {
         display: none;
     }
 }
-.no-scroll{
+
+.no-scroll {
     overflow: hidden !important;
 }
-.ex-form-group{
+
+.ex-form-group {
     display: flex;
     align-items: center;
     gap: 16px;
     margin-bottom: 16px;
-    .form-label{
+
+    .form-label {
         color: #1d8f97;
         font-size: 22px;
         margin-bottom: 0;
@@ -2919,7 +2926,107 @@ label.error {
         min-width: 70px;
         text-align: left;
     }
-    .form-control{
+
+    .form-control {
         width: 100%;
+    }
+}
+
+.pi-ty {
+    background: #F5F5F3;
+    text-align: center;
+    padding: 60px 0;
+
+    &-wrap {
+        max-width: 744px;
+        margin: 0 auto;
+    }
+
+    h1 {
+        color: #000;
+        text-align: center;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        margin-bottom: 24px;
+    }
+
+    p {
+        color: #000;
+        text-align: center;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30px;
+
+        /* 125% */
+        span {
+            font-weight: 700;
+        }
+    }
+
+}
+
+.pi-invest-main {
+    background: #FFF;
+    padding: 70px 0;
+
+    &-wrap {
+        max-width: 744px;
+        margin: 0 auto;
+    }
+
+    h2 {
+        color: #191A1D;
+        font-size: 34px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        padding-bottom: 12px;
+    }
+}
+
+.pi-invest-step {
+    margin-top: 44px;
+    display: flex;
+    gap: 22px;
+}
+
+.pi-invest-content {
+    h3 {
+        color: #191A1D;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+
+        span {
+            color: #18555A;
+        }
+    }
+
+    .theme-list li {
+        color: #000;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30px;
+        &::before{
+            background: #000;
+        }
+        &:not(:first-child){
+            margin-top: 8px;
+        }
+    }
+}
+.pi-ty-btns{
+    background-color: #fff;
+    padding: 60px 0;
+    .invest-btns-wrap{
+        margin: auto;
+    }
+    .invest-btns-wrap .offerInvest a{
+        margin-top: 0;
     }
 }

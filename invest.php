@@ -32,7 +32,7 @@ include "header.php";
                         </div>
                         <div class="invest-btns-wrap">
                             <div class="offerInvest">
-                                <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
+                                <a href="/prep" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
                             </div>
                             <div class="offerInvestTwo green-btn mt-sm-3">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#investMoreModal">Looking to Invest More Than $5000? <span>Click here to speak with a company executive</span></a>
@@ -185,43 +185,7 @@ include "header.php";
                                     </div>
                                 </div>
 
-                                <div class="priceDescriptionCard">
-                                    <div class="billion">
-                                        $183 Billion
-                                    </div>
-                                    <div class="billion-wrap">
-                                        <div class="billion-text">
-                                            <span>U.S. cancer healthcare spend in 2015 <sup>(4)</sup></span>
-                                        </div>
-                                    </div>
-
-                                    <div class="billion">
-                                        $246 Billion
-                                    </div>
-                                    <div class="billion-wrap">
-                                        <div class="billion-text">
-                                            <span>Projected U.S. cancer healthcare spend by 2030 <sup>(4)</sup></span>
-                                        </div>
-                                    </div>
-
-                                    <div class="billion">
-                                        $484 Billion
-                                    </div>
-                                    <div class="billion-wrap">
-                                        <div class="billion-text">
-                                            <span>Projected global cancer drugs market by 2030 <sup>(2)</sup></span>
-                                        </div>
-                                    </div>
-
-                                    <div class="billion">
-                                        $3.2 Trillion
-                                    </div>
-                                    <div class="billion-wrap">
-                                        <div class="billion-text billion-text-last">
-                                            <span>Projected global biotechnology market by 2030 <sup>(5)</sup></span>
-                                        </div>
-                                    </div>
-                                </div>
+                           
 
 
                                 <div class="universal-heading">
@@ -267,6 +231,44 @@ include "header.php";
                                 </div>
                             </div>
                         </div>
+
+                        <div class="priceDescriptionCard">
+                                    <div class="billion">
+                                        $183 Billion
+                                    </div>
+                                    <div class="billion-wrap">
+                                        <div class="billion-text">
+                                            <span>U.S. cancer healthcare spend in 2015 <sup>(4)</sup></span>
+                                        </div>
+                                    </div>
+
+                                    <div class="billion">
+                                        $246 Billion
+                                    </div>
+                                    <div class="billion-wrap">
+                                        <div class="billion-text">
+                                            <span>Projected U.S. cancer healthcare spend by 2030 <sup>(4)</sup></span>
+                                        </div>
+                                    </div>
+
+                                    <div class="billion">
+                                        $484 Billion
+                                    </div>
+                                    <div class="billion-wrap">
+                                        <div class="billion-text">
+                                            <span>Projected global cancer drugs market by 2030 <sup>(2)</sup></span>
+                                        </div>
+                                    </div>
+
+                                    <div class="billion">
+                                        $3.2 Trillion
+                                    </div>
+                                    <div class="billion-wrap">
+                                        <div class="billion-text billion-text-last">
+                                            <span>Projected global biotechnology market by 2030 <sup>(5)</sup></span>
+                                        </div>
+                                    </div>
+                                </div>
 
                         <!-- 5th Section -->
                         <div class="priceDescription">
@@ -479,7 +481,7 @@ include "header.php";
                         <div class="priceCardLeft d-none d-lg-block">
 
                             <div class="offerInvestTwo">
-                                <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
+                                <a href="/prep" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
                             </div>
 
                             <div class="offerInvestTwo green-btn mt-3">
@@ -533,7 +535,7 @@ include "header.php";
                     <a href="#" class="w-auto" data-bs-toggle="modal" data-bs-target="#investMoreModal">Invest More Than $5000? <span>Speak to a company executive</span></a>
                 </div>
                 <div class="offerInvest">
-                    <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
+                    <a href="/prep" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
                 </div>
             </div>
         </div>

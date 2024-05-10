@@ -186,43 +186,6 @@ include "header.php";
                                     </div>
                                 </div>
 
-                                <div class="priceDescriptionCard">
-                                    <div class="billion">
-                                        $183 Billion
-                                    </div>
-                                    <div class="billion-wrap">
-                                        <div class="billion-text">
-                                            <span>U.S. cancer healthcare spend in 2015 <sup>(4)</sup></span>
-                                        </div>
-                                    </div>
-
-                                    <div class="billion">
-                                        $246 Billion
-                                    </div>
-                                    <div class="billion-wrap">
-                                        <div class="billion-text">
-                                            <span>Projected U.S. cancer healthcare spend by 2030 <sup>(4)</sup></span>
-                                        </div>
-                                    </div>
-
-                                    <div class="billion">
-                                        $484 Billion
-                                    </div>
-                                    <div class="billion-wrap">
-                                        <div class="billion-text">
-                                            <span>Projected global cancer drugs market by 2030 <sup>(2)</sup></span>
-                                        </div>
-                                    </div>
-
-                                    <div class="billion">
-                                        $3.2 Trillion
-                                    </div>
-                                    <div class="billion-wrap">
-                                        <div class="billion-text billion-text-last">
-                                            <span>Projected global biotechnology market by 2030 <sup>(5)</sup></span>
-                                        </div>
-                                    </div>
-                                </div>
 
 
                                 <div class="universal-heading">
@@ -268,6 +231,46 @@ include "header.php";
                                 </div>
                             </div>
                         </div>
+
+
+                        
+                        <div class="priceDescriptionCard">
+                                    <div class="billion">
+                                        $183 Billion
+                                    </div>
+                                    <div class="billion-wrap">
+                                        <div class="billion-text">
+                                            <span>U.S. cancer healthcare spend in 2015 <sup>(4)</sup></span>
+                                        </div>
+                                    </div>
+
+                                    <div class="billion">
+                                        $246 Billion
+                                    </div>
+                                    <div class="billion-wrap">
+                                        <div class="billion-text">
+                                            <span>Projected U.S. cancer healthcare spend by 2030 <sup>(4)</sup></span>
+                                        </div>
+                                    </div>
+
+                                    <div class="billion">
+                                        $484 Billion
+                                    </div>
+                                    <div class="billion-wrap">
+                                        <div class="billion-text">
+                                            <span>Projected global cancer drugs market by 2030 <sup>(2)</sup></span>
+                                        </div>
+                                    </div>
+
+                                    <div class="billion">
+                                        $3.2 Trillion
+                                    </div>
+                                    <div class="billion-wrap">
+                                        <div class="billion-text billion-text-last">
+                                            <span>Projected global biotechnology market by 2030 <sup>(5)</sup></span>
+                                        </div>
+                                    </div>
+                                </div>
 
                         <!-- 5th Section -->
                         <div class="priceDescription">
