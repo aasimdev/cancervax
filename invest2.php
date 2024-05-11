@@ -483,7 +483,7 @@ include "header.php";
                         <div class="priceCardLeft d-none d-lg-block">
 
                             <div class="offerInvestTwo">
-                                <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
+                                <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/">Invest Here <span>Secure Direct Invest Platform</span></a>
                             </div>
 
                             <div class="offerInvestTwo green-btn mt-3">
