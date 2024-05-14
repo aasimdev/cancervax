@@ -36,22 +36,23 @@ include('header.php'); ?>
             <div class="col-lg-5">
                 <div class="contact-form">
                     <h2>Send a message</h2>
-                    <form action="./php/smartprocess.php" id="cForm" method="POST">
+                    <form action="https://submit.jotform.com/submit/241326885940059/" method="POST">
+                    <input type="hidden" name="formID" value="241326885940059" />
                         <div class="mb-3">
-                            <label for="name" class="form-label">Your name</label>
-                            <input type="text" name="name" class="form-control" id="name">
+                            <label for="input_3" class="form-label">Your name</label>
+                            <input type="text" name="q3_typeA" class="form-control" id="input_3">
                         </div>
                         <div class="mb-3">
-                            <label for="email" class="form-label">Your email</label>
-                            <input type="email" name="email" class="form-control" id="email">
+                            <label for="input_4" class="form-label">Your email</label>
+                            <input type="email" name="q4_email" class="form-control" id="input_4">
                         </div>
                         <div class="mb-3">
-                            <label for="subject" class="form-label">Subject</label>
-                            <input type="text" name="subject" class="form-control" id="subject">
+                            <label for="input_5" class="form-label">Subject</label>
+                            <input type="text" name="q5_typeA5" class="form-control" id="input_5">
                         </div>
                         <div class="mb-5">
-                            <label for="message" class="form-label">Your message (optional)</label>
-                            <textarea class="form-control" id="message" name="message" rows="10"></textarea>
+                            <label for="input_6" class="form-label">Your message (optional)</label>
+                            <textarea class="form-control" id="input_6" name="q6_typeA6" rows="10"></textarea>
                         </div>
                         <button type="submit">Submit</button>
                     </form>
