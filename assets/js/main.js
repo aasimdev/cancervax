@@ -14,8 +14,18 @@ $(function () {
             scrollTop: $(id).offset().top - 253.42
         });
     });
+  
+    var allowedPages = ["index.php", "investors", "invest", "about"];
+    function isHomepage() {
+        return window.location.pathname === "/" || window.location.pathname === "/index.php";
+    }
+    function getCurrentPage() {
+        var path = window.location.pathname;
+        return path.endsWith("/") ? "index.php" : path.split("/").pop();
+    }
 
-    if (window.location.pathname.includes("investors") || window.location.pathname.includes("investors.php") || window.location.pathname.includes("invest2") || window.location.pathname.includes("invest2.php")) {
+    var currentPage = getCurrentPage();
+    if (allowedPages.includes(currentPage) || isHomepage()) {
         var hasSubmitted = localStorage.getItem('emailSubmitted');
         if (!hasSubmitted) {
             setTimeout(() => {
