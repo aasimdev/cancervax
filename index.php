@@ -24,8 +24,8 @@ include('header.php'); ?>
                         <h1> Creating a Better Way <br> to Treat Cancer <br> <span>Universal Cancer Vaccine</span></h1>
                         <div class="banner-announcement d-lg-none">
                         <h4>Breaking News</h4>
-                        <p>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer</p>
-                        <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php" class="theme-btn">Learn More</a>
+                        <p>CancerVax has achieved a critical milestone for targeting cancer cells</p>
+                        <a href="cancervax-successfully-uses-nobel-prize-chemistry-to-achieve-universal-cancer-vaccine-targeting-milestone.php" class="theme-btn">Learn More</a>
                     </div>
                         <div class="banner-video d-lg-none">
                             <div class="banner-thumbnail">
@@ -57,8 +57,8 @@ include('header.php'); ?>
                 <div class="col-lg-5">
                     <div class="banner-announcement d-none d-lg-block">
                         <h4>Breaking News</h4>
-                        <p>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer</p>
-                        <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php" class="theme-btn">Learn More</a>
+                        <p>CancerVax has achieved a critical milestone for targeting cancer cells</p>
+                        <a href="cancervax-successfully-uses-nobel-prize-chemistry-to-achieve-universal-cancer-vaccine-targeting-milestone.php" class="theme-btn">Learn More</a>
                     </div>
                     <div class="banner-video d-none d-lg-block">
                         <div class="banner-thumbnail">

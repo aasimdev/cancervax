@@ -18,8 +18,8 @@ include "header.php";
                             <h2> Using the Body’s Immune System to Fight Cancer</h2>
                             <div class="banner-announcement d-lg-none">
                                 <h4>Breaking News</h4>
-                                <p>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer</p>
-                                <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php" class="theme-btn">Learn More</a>
+                                <p>CancerVax has achieved a critical milestone for targeting cancer cells.</p>
+                                <a href="cancervax-successfully-uses-nobel-prize-chemistry-to-achieve-universal-cancer-vaccine-targeting-milestone.php" class="theme-btn">Learn More</a>
                             </div>
                             <div class="video-section first-mobile text-center">
                                 <a href="https://www.youtube.com/watch?v=QNFte4x413Y" class="popup-youtube">
@@ -42,8 +42,8 @@ include "header.php";
                     <div class="col-lg-6 d-none d-lg-block">
                         <div class="banner-announcement">
                             <h4>Breaking News</h4>
-                            <p>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer</p>
-                            <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php" class="theme-btn">Learn More</a>
+                            <p>CancerVax has achieved a critical milestone for targeting cancer cells.</p>
+                            <a href="cancervax-successfully-uses-nobel-prize-chemistry-to-achieve-universal-cancer-vaccine-targeting-milestone.php" class="theme-btn">Learn More</a>
                         </div>
                         <div class="video-section">
                             <a href="https://www.youtube.com/watch?v=QNFte4x413Y" class="popup-youtube">
