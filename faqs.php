@@ -12,6 +12,9 @@ include('header.php'); ?>
 
 <section class="faqs">
     <div class="container">
+        <div class="faqs-btn">
+            <button class="theme-btn" type="button" data-bs-toggle="modal" data-bs-target="#investors-message">Important Message to <br> StartEngine Investors</button>
+        </div>
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <h2>CancerVax, Inc Investment Portal FAQ</h2>
@@ -52,9 +55,9 @@ include('header.php'); ?>
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-                                <p> To create an account, visit our landing page (<a href="https://cancervax.com/investors">www.cancervax.com/investors</a>), click on the Invest Here button, and follow the instructions to complete your registration. <br> 
-                            <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/">Invest Here</a>
-                            </p>
+                                <p> To create an account, visit our landing page (<a href="https://cancervax.com/investors">www.cancervax.com/investors</a>), click on the Invest Here button, and follow the instructions to complete your registration. <br>
+                                    <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/">Invest Here</a>
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -143,18 +146,33 @@ include('header.php'); ?>
                             </div>
                         </div>
                     </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="flush-headingThree">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq10" aria-expanded="false" aria-controls="faq10">
+                                Where Can I View My Shares
+                            </button>
+                        </h2>
+                        <div id="faq10" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body">
+                                <p>
+                                    CancerVax has engaged Colonial Stock Transfer to act as the Transfer Agent for all
+                                    Company Shares. To view your shares purchased through ANY investment offering, please click <a href="https://sh.colonialstock.com/Account/Login/" target="_blank" rel="noopener noreferrer">here</a> and use the login credentials provided to you by Colonial Stock Transfer via email. If you did not receive that email or cannot find the email sent by Colonial Stock Transfer, please fill out this <a href="https://www.colonialstock.com/contactus.htm#modal1" target="_blank" rel="noopener noreferrer">form</a> and they will get back to you.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <h2>Regulation A (Reg A) Investment Offerings FAQ</h2>
                 <div class="accordion accordion-flush" id="accordionFlush2">
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingOne">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq10" aria-expanded="false" aria-controls="faq10">
-                            What is a Regulation A (Reg A) offering? 
+                                What is a Regulation A (Reg A) offering?
                             </button>
                         </h2>
                         <div id="faq10" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlush2">
                             <div class="accordion-body">
-                                <p>Regulation A is an exemption from registration for public offerings. Regulation A has two offering tiers: Tier 1, for offerings of up to $20 million in a 12-month period; and Tier 2, for offerings of up to $75 million in a 12-month period. For offerings of up to $20 million, companies can elect to proceed under the requirements for either Tier 1 or Tier 2. 
+                                <p>Regulation A is an exemption from registration for public offerings. Regulation A has two offering tiers: Tier 1, for offerings of up to $20 million in a 12-month period; and Tier 2, for offerings of up to $75 million in a 12-month period. For offerings of up to $20 million, companies can elect to proceed under the requirements for either Tier 1 or Tier 2.
                                 </p>
                             </div>
                         </div>
@@ -162,12 +180,12 @@ include('header.php'); ?>
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingTwo">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq11" aria-expanded="false" aria-controls="faq11">
-                            Who can invest in Reg A offerings?
+                                Who can invest in Reg A offerings?
                             </button>
                         </h2>
                         <div id="faq11" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlush2">
                             <div class="accordion-body">
-                                <p>Both accredited and non-accredited investors over the age of 18 can participate in Reg A+ offerings, making it accessible to a broader range of investors. Some countries are limited and investors in that jurisdiction cannot invest. 
+                                <p>Both accredited and non-accredited investors over the age of 18 can participate in Reg A+ offerings, making it accessible to a broader range of investors. Some countries are limited and investors in that jurisdiction cannot invest.
                                 </p>
                             </div>
                         </div>
@@ -175,7 +193,7 @@ include('header.php'); ?>
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingThree">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq12" aria-expanded="false" aria-controls="faq12">
-                            What are the risks associated with Reg A investments? 
+                                What are the risks associated with Reg A investments?
                             </button>
                         </h2>
                         <div id="faq12" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlush2">
@@ -187,12 +205,12 @@ include('header.php'); ?>
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingThree">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq13" aria-expanded="false" aria-controls="faq13">
-                            Are there any limits on how much I can invest in Reg A offerings? 
+                                Are there any limits on how much I can invest in Reg A offerings?
                             </button>
                         </h2>
                         <div id="faq13" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlush2">
                             <div class="accordion-body">
-                                <p>With Regulation A+, a non-accredited investor can only invest a maximum of 10% of their annual income or 10% of their net worth per year, whichever is greater. There are no restrictions for accredited investors. 
+                                <p>With Regulation A+, a non-accredited investor can only invest a maximum of 10% of their annual income or 10% of their net worth per year, whichever is greater. There are no restrictions for accredited investors.
                                 </p>
                             </div>
                         </div>
@@ -200,23 +218,67 @@ include('header.php'); ?>
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingThree">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq14" aria-expanded="false" aria-controls="faq14">
-                            How can I keep track of my investments in Reg A offerings? 
+                                How can I keep track of my investments in Reg A offerings?
                             </button>
                         </h2>
                         <div id="faq14" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlush2">
                             <div class="accordion-body">
-                                <p>You can monitor your investments through our investment portal, where you will have access to your investment dashboard showing all your investments and their performance. You can also access this <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank" rel="noopener noreferrer">link</a> by going to our website and clicking on Investor Login. 
+                                <p>You can monitor your investments through our investment portal, where you will have access to your investment dashboard showing all your investments and their performance. You can also access this <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank" rel="noopener noreferrer">link</a> by going to our website and clicking on Investor Login.
                                 </p>
                             </div>
                         </div>
                     </div>
-                  
+
                 </div>
             </div>
         </div>
 
     </div>
 </section>
+
+
+<div class="modal fade" id="investors-message">
+    <div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="teamLabel"></h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body pt-0 px-0">
+                <h2>Hello StartEngine Investors in CancerVax,</h2>
+                <p>We appreciate your trust and loyalty in our Company as indicated by your investment in our
+                    first investment round at StartEngine. With this money, we continue to make fundamental
+                    progress in developing a Universal
+                    Cancer Vaccine Platform that uses the body’s immune
+                    system to fight cancer. We believe this is a better way to treat cancer</p>
+                <p>Please be informed that
+                    we
+                    have recently moved
+                    transfer agents from StartEngine to an SEC
+                    approved transfer agent named Colonial
+                    Stock
+                    Transfer (
+                    https://www.colonialstock.com
+                    ).
+                    Therefore, all your shareholdings in CancerVax are now held at and managed by Colonial</p>
+                <p>You should have received an email from Colonial with instructions on how to access your new
+                    shareholder account. If not, please contact Colonial directly for assistance.</p>
+
+                <h5>Colonial Stock Transfer Company, Inc.</h5>
+                <ul>
+                    <li>7840 S 700 E <br>
+                        Sandy, UT 84070
+
+                    </li>
+                    <li> <span>Phone:</span> 801 - 355 - 5740</li>
+                    <li><span>Fax:</span> 801 - 355 - 6505</li>
+                </ul>
+                <p>Again, thank you for your trust and support in helping us in so noble a cause.</p>
+                <p>The CancerVax Team</p>
+            </div>
+        </div>
+    </div>
+</div>
 
 <?php
 include('footer.php'); ?>
