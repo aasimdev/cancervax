@@ -250,17 +250,15 @@ include('header.php'); ?>
                     first investment round at StartEngine. With this money, we continue to make fundamental
                     progress in developing a Universal
                     Cancer Vaccine Platform that uses the body’s immune
-                    system to fight cancer. We believe this is a better way to treat cancer</p>
+                    system to fight cancer. We believe this is a better way to treat cancer.</p>
                 <p>Please be informed that
                     we
                     have recently moved
                     transfer agents from StartEngine to an SEC
                     approved transfer agent named Colonial
                     Stock
-                    Transfer (
-                    https://www.colonialstock.com
-                    ).
-                    Therefore, all your shareholdings in CancerVax are now held at and managed by Colonial</p>
+                    Transfer (https://www.colonialstock.com).
+                    Therefore, all your shareholdings in CancerVax are now held at and managed by Colonial.</p>
                 <p>You should have received an email from Colonial with instructions on how to access your new
                     shareholder account. If not, please contact Colonial directly for assistance.</p>
 
