@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "May 27, 2024 - CancerVax News Commentary",
+        'videoID' => "pTRORP3qtbM",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "may-27-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
         'title' => "May 20, 2024 - CancerVax News Commentary",
         'videoID' => "ytTgBgz661s",
         'date' => "",
