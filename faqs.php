@@ -268,8 +268,8 @@ include('header.php'); ?>
                         Sandy, UT 84070
 
                     </li>
-                    <li> <span>Phone:</span> 801 - 355 - 5740</li>
-                    <li><span>Fax:</span> 801 - 355 - 6505</li>
+                    <li> <span>Phone:</span> <a href="tel:8013555740" style="pointer-events: none;">801 - 355 - 5740</a></li>
+                    <li><span>Fax:</span> <a href="tel:8013556505" style="pointer-events: none;">801 - 355 - 6505</a></li>
                 </ul>
                 <p>Again, thank you for your trust and support in helping us in so noble a cause.</p>
                 <p>The CancerVax Team</p>
