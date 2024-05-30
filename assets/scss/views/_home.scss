@@ -2730,7 +2730,8 @@ label.error {
 
 .faqs {
     padding: 100px 0;
-    &-btn{
+    
+    .faqs-btn {
         text-align: center;
         margin: 0 0 48px;
         .theme-btn {
@@ -2746,7 +2747,6 @@ label.error {
             }
         }
     }
-
 
     .col-md-8 {
         &>h2 {
