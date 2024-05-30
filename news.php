@@ -15,6 +15,14 @@ include('header.php'); ?>
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
+        <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancervax-successfully-uses-nobel-prize-chemistry-to-achieve-universal-cancer-vaccine-targeting-milestone.php"></a>
+                    <span> May 21, 2024</span>
+                    <h3>CancerVax Successfully Uses Nobel Prize Chemistry to Achieve Universal Cancer Vaccine Targeting Milestone   </h3>
+                    <p> CancerVax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has achieved a critical milestone by creating a process to add any antibody to lipid nanoparticles (LNP) using “click chemistry”, for targeting cancer cells </p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php"></a>
@@ -37,14 +45,6 @@ include('header.php'); ?>
                     <span>November 2, 2023 </span>
                     <h3>CancerVax CEO Ryan Davies Discusses Cancer Drug Development with Dr. Ezra Cohen</h3>
                     <p> CancerVax, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, and Tempus Labs Chief Medical Officer for Oncology Dr. Ezra Cohen, discussed his time at Tempus Labs, Moores Cancer Center and University of Chicago</p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="ucart-announcement.php"></a>
-                    <span>September 12, 2023 </span>
-                    <h3>CancerVax Expands Development Pipeline to Include a Universal CAR-T Cell Platform</h3>
-                    <p> CancerVax, Inc., a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer, today announced an expansion of its development pipeline to include a Universal CAR-T Cell Platform that can dramatically lower the cost of CAR-T cell cancer therapies</p>
                 </div>
             </div>
 
