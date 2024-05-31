@@ -43,9 +43,9 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="<?php echo  $full_url; ?>/assets/css/slick.min.css">
-    <link rel="stylesheet" href="<?php echo  $full_url; ?>/assets/css/slick-theme.min.css">
-    <link rel="stylesheet" href="<?php echo  $full_url; ?>/assets/css/style.min.css">
+    <link rel="stylesheet" href="<?php echo  $full_url; ?>assets/css/slick.min.css">
+    <link rel="stylesheet" href="<?php echo  $full_url; ?>assets/css/slick-theme.min.css">
+    <link rel="stylesheet" href="<?php echo  $full_url; ?>assets/css/style.min.css">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-7D9TX20JND"></script>
