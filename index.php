@@ -362,7 +362,7 @@ Based on the positive data, we plan to launch FDA IND enabling studies needed to
             </div>
         </div>
 
-        <div class="team">
+        <!-- <div class="team">
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-5">
                 <div class="col">
                     <div class="team-box">
@@ -492,7 +492,7 @@ Based on the positive data, we plan to launch FDA IND enabling studies needed to
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </section>
 
