@@ -205,9 +205,9 @@ include('header.php'); ?>
 
 <section class="otherteam">
     <div class="container">
-        <h3 style="text-align:center;margin-bottom:35px;">UCLA Team</h3>
+        <!-- <h3 style="text-align:center;margin-bottom:35px;">UCLA Team</h3> -->
         <div class="row justify-content-center">
-            <div class="col-md-6 col-xl-4">
+            <!-- <div class="col-md-6 col-xl-4">
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
@@ -297,7 +297,7 @@ include('header.php'); ?>
                         <p>Dr. Denny has served as a physician at UCLA for over 3 decades primarily focused on pediatric oncology. He has trained and mentored some of UCLA’s best and brightest scientists and doctors in the field. Dr. Denny received a bachelor’s degree from University of Pennsylvania and a medical degree from the University of Pennsylvania School of Medicine. He completed his residency at the Children’s National Medical Center and fellowship at the National Institutes of Health Clinical Center. Most of Dr. Denny’s academic success has come through applying basic molecular biology tools to seek molecular mechanisms for what he witnesses when treating pediatric hematology/oncology patients.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="col-md-6 col-xl-4">
                 <div class="abtcounter">
                     <div class="cancervax-counter">

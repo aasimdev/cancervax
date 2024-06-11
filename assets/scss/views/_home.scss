@@ -841,7 +841,8 @@ body.modal-open {
 
 .otherteam {
     background-color: #091114;
-    padding-top: 110px;
+    // padding-top: 110px;
+    padding: 70px 0;
 
     .container {
         @media (min-width: 1400px) {
