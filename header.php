@@ -190,7 +190,7 @@
                             <a class="nav-link <?php active('about'); ?>" href="/about">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link <?php active('pipeline'); ?>" href="/pipeline">Pipeline</a>
+                            <a class="nav-link <?php active('progress'); ?>" href="/progress">Progress</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link <?php active('immunotherapy'); ?>" href="/immunotherapy">Immunotherapy</a>

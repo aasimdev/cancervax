@@ -155,58 +155,53 @@ include "header.php";
                         <!-- 4th Section -->
                         <div class="investSection odp-main">
                             <div class="offeringTitleTwoWrap">
-                                <h4>Our Development Pipeline</h4>
+                                <h4>Our Development Progress</h4>
                                 <a class="video-section-our popup-youtube" href="http://www.youtube.com/watch?v=2OHGmKOqOYE">
                                     <img src="./assets/img/opd-ucla-offer.png" alt="hero" class="img-fluid w-100 d-block">
                                 </a>
-                                <p>In recent years, advances in science and biotechnology have proven that the body’s immune system is very effective at targeting and killing abnormal cells, germs and viruses, and has been doing it since the beginning of time. The problem is that cancer is not a foreign invader and grows much faster than the body’s normal immune response rate.</p>
-                                <p>Much like COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer immunotherapies can train the body to target and destroy specific cancer cells. <span> Cancer immunotherapies are also known as cancer treatment vaccines.</span> </p>
-                                <p>While there is no such thing as a magic vaccine that can prevent people from getting cancer, we can borrow many of the techniques and technologies from modern preventative flu or COVID vaccines, and use the body’s immune system to target and treat cancers.</p>
-                                <p>Our immunotherapy technologies being developed at UCLA are designed to be delivered as simple injections. With our development of a Universal Cancer Vaccine platform, we look forward to the day when treating cancer will be as simple as getting a flu shot – <span>We believe immunotherapy is a better way to treat cancer.</span></p>
-                                <p>CancerVax has exclusive rights to license and commercialize the technology and patents that result from these UCLA research programs.</p>
+                                <p>In recent years, advances in science and biotechnology have proven that the body’s immune
+system is very effective at targeting and killing abnormal cells, germs and viruses, and has been
+doing it since the beginning of time. The problem is that cancer is not a foreign invader and grows
+much faster than the body’s normal immune response rate.</p>
+<p>Much like COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer
+immunotherapies can train the body to target and destroy specific cancer cells. <span>Cancer
+immunotherapies are also known as cancer treatment vaccines.</span> </p>
+<p>While there is no such thing as a magic vaccine that can prevent people from getting cancer, we
+can borrow many of the techniques and technologies from modern preventative flu or COVID
+vaccines, and use the body’s immune system to target and treat cancers.</p>
+<p>Our immunotherapy technologies being developed at UCLA are designed to be delivered as
+simple injections. With our development of a Universal Cancer Vaccine platform, we look forward
+to the day when treating cancer will be as simple as getting a flu shot – <span>We believe
+immunotherapy is a better way to treat cancer.</span></p>
+<p>CancerVax has exclusive rights to license and commercialize the technology and patents that
+result from these UCLA research programs.</p>
+                               
                                 <h5>Additional Immunotherapy Projects</h5>
                                 <p>In addition to our Universal Cancer Vaccine platform, we are also working with UCLA to create two other immunotherapy technologies.</p>
 
                                 <div class="Children">
-                                    <h4> Children’s Cancer</h4>
+                                    <h4> Children’s Cancer Progress</h4>
 
                                     <div class="learnMore">
-                                        <a href="/pipeline" target="_blank">Learn More</a>
+                                        <a href="/progress" target="_blank">Learn More</a>
                                     </div>
 
                                     <div class="learnImg first-mobile"> <img src="./assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
                                     </div>
 
 
-                                    <p>We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%. ​
+                                    <p>We have created our first cancer drug candidate – a single-disease specific immunotherapy
+targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting
+children and young adults. Unfortunately, the death rate for patients with recurrent Ewing
+sarcoma is nearly 100%. 
                                     </p>
-                                    <p>Based on the positive data, we plan to launch FDA IND enabling studies needed to apply for approval to proceed with human trials. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.</p>
+                                    <p>Based on the positive data, we may launch FDA IND enabling studies needed to apply for
+approval to proceed with human trials. We look forward to the day when treating cancer will be as
+simple as getting a flu shot – a better way to treat cancer.</p>
 
                                     <div class="learnImg first-desktop"> <img src="./assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
                                     </div>
                                 </div>
-
-                               
-
-
-                                <div class="universal-heading">
-                                    Universal CAR-T Cell Platform (UCAR-T)
-                                    <div class="learnMore mb-0 mt-3">
-                                        <a href="/pipeline" target="_blank">Learn More</a>
-                                    </div>
-                                </div>
-
-                                <p>Our UCAR-T Cell platform is a novel and customizable low-cost cancer treatment platform, delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. Our goal is to lower the cost to a few thousand dollars per dose by helping the body make its own CAR T-cells.</p>
-
-                                <p>Our Universal Cancer Vaccine platform and our UCAR-T Cell platform can be used separately, however, when used together, we believe that we can kill cancer cells with extreme precision using the body’s immune system at very low costs. Our Universal Cancer Vaccine platform detects and marks a unique target our UCAR-T Cell platform makes T-cells that attack that target.</p>
-                            </div>
-                            <div class="pipeline-virus-left mt-4">
-                                <img src="./assets/img/pipeline-virus-left.png" alt="hero" class="img-fluid">
-                            </div>
-
-
-
-
 
                             <div class="marketSection">
                                 <h6>The Market</h6>

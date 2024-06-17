@@ -41,17 +41,6 @@ include('header.php'); ?>
                         <p> Our innovative approach detects, marks, and kills cancer cells exclusively. By inducing cancer cells to express a distinct marker absent in healthy cells, custom antibody drugs and the body's immune cells can precisely target and eradicate cancer cells.</p>
                         <p> Cancer is the second leading cause of death in the US, following heart disease. While we don’t have a solution to prevent cancer, our objective is to develop our Universal Cancer Vaccine platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities.</p>
 
-
-                        <!-- <div class="banner-video">
-                            <div class="banner-thumbnail">
-                                <img src="https://i.ytimg.com/vi/IySdl6Eo0rw/maxresdefault.jpg" alt="thumbnail">
-                            </div>
-                            <a href="http://www.youtube.com/watch?v=IySdl6Eo0rw" class="theme-btn text-uppercase popup-youtube">
-                                <i class="far fa-play-circle"></i>
-                                <span>Watch video</span>
-                            </a>
-                        </div> -->
-
                     </div>
                 </div>
                 <div class="col-lg-5">
@@ -103,11 +92,12 @@ include('header.php'); ?>
                     <div class="col-lg-9">
                         <div class="devPlan-conten">
                             <h6>Children’s Cancer</h6>
-                            <p>We have created our first cancer drug candidate – a  single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%. ​
+                            <p>We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%. 
 
 ​<br><br>
 
-Based on the positive data, we plan to launch FDA IND enabling studies needed to apply for approval to proceed with human trials. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.  </p>
+Based on the positive data, we may launch FDA IND enabling studies needed to apply for approval to proceed with human trials. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.
+</p>
                         </div>
                     </div>
                 </div>

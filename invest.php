@@ -170,7 +170,7 @@ include "header.php";
                                     <h4> Children’s Cancer</h4>
 
                                     <div class="learnMore">
-                                        <a href="/pipeline" target="_blank">Learn More</a>
+                                        <a href="/progress" target="_blank">Learn More</a>
                                     </div>
 
                                     <div class="learnImg first-mobile"> <img src="./assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
@@ -191,7 +191,7 @@ include "header.php";
                                 <div class="universal-heading">
                                     Universal CAR-T Cell Platform (UCAR-T)
                                     <div class="learnMore mb-0 mt-3">
-                                        <a href="/pipeline" target="_blank">Learn More</a>
+                                        <a href="/progress" target="_blank">Learn More</a>
                                     </div>
                                 </div>
 

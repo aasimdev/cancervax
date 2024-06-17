@@ -532,7 +532,8 @@
 
 .team {
     margin-top: 80px;
-display: none;
+    display: none;
+
     &-box {
         text-align: center;
         width: 213px;
@@ -692,13 +693,15 @@ body.modal-open {
         margin: auto;
 
         h1 {
-            font-size: 28px;
             font-weight: 300;
             text-decoration: none;
             line-height: 1.3em;
             letter-spacing: 0px;
             word-spacing: 0px;
             font-family: $fontMain;
+
+            font-size: 48px;
+            /* 130% */
         }
     }
 }
@@ -3061,7 +3064,8 @@ label.error {
         padding: 0 16px;
         margin-bottom: 0;
     }
-    .modal-body { 
+
+    .modal-body {
         p {
             padding: 20px 16px 0;
         }
@@ -3076,14 +3080,17 @@ label.error {
         ul {
             padding: 0 16px;
             margin-top: 12px;
+
             li {
                 font-size: 16px;
                 color: #fff;
                 line-height: 1.5;
-                span{
+
+                span {
                     font-weight: 700;
                 }
-                a{
+
+                a {
                     color: #fff;
                     font-size: 16px;
                     line-height: 1.5;
