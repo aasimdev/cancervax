@@ -7,11 +7,7 @@ include('header.php'); ?>
 <section class="abtBanner">
     <div class="container">
         <div class="abtBanner-text">
-            <h1>CancerVAX is a pre-clinical biotechnology company
-working with UCLA to develop immunotherapy cancer
-treatments that use the body’s immune system to fight
-cancer. We aim to develop transformative therapies to
-protect and improve people’s lives. </h1>
+            <h1>CancerVax, Inc. is a pre-clinical biotechnology company developing breakthrough cancer drugs that will use the body’s immune system to fight cancer. Working with a team of world class cancer researchers and oncologists at UCLA, we intend to create a Universal Cancer Vaccine that will detect, mark, and destroy only the diseased cells with incredible precision. Like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, our cancer vaccine will leverage the body’s immune system to destroy cancer cells. Also working with UCLA, we have created our first cancer drug candidate – a  single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Based on the positive data, we plan to launch FDA IND enabling studies needed to apply for approval to proceed with human trials. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer. </h1>
         </div>
     </div>
 </section>
@@ -54,14 +50,14 @@ The UCV project progressed methodically with the development of
 various innovative technologies, including a foundational
 nanoparticle technology which can be programmed to target
 specific cells and deliver customized cargos. <br><br>
-In a pivotal project meeting in the summer of 2023, the UCLA team
+<!-- In a pivotal project meeting in the summer of 2023, the UCLA team
 reported positive progress on Ewing sarcoma and UCV. Surprisingly,
 the highly customizable low-cost nanoparticle technology
 developed for UCV can be adapted to perform an existing cancer
 immunotherapy (CAR-T Cell) at an extremely low cost. Thus, the
 Universal CAR-T Cell Platform was born. <br><br>
 We now have a very exciting and important development pipeline
-consisting of three projects at UCLA.
+consisting of three projects at UCLA. -->
                         </p>
                     </div>
                 </div>
@@ -95,12 +91,12 @@ consisting of three projects at UCLA.
                             <p>We are developing a disease-specific immunotherapy targeted at
 treating Ewing sarcoma, a rare but deadly bone and soft tissue
 cancer that primarily affects children and young adults. There is
-currently no FDA approved treatment for recurrence. </strong>
+currently no FDA approved treatment for recurrence. <strong>The death rate is 100% of patients with recurrent Ewing sarcoma.</strong>
                                 <br><br>
                                 We have entered into a sponsored research agreement with the
 University of California at Los Angeles (UCLA) to develop effective
 immunotherapies, such as CAR T-cell and monoclonal antibodies,
-for Ewing Sarcoma. We hold exclusive rights to license all
+for Ewing Sarcoma. We hold an option for the exclusive rights to license all
 intellectual property and related technology resulting from this
 research program. UCLA is a top-ranked university known for its
 cancer research and medical school.
@@ -121,7 +117,7 @@ cancer research and medical school.
                                 <br><br>
                                 The UCV will force cancer cells to express a unique protein marker that can be used by the immune system and custom antibodies to precisely target them for destruction. Additionally, we intend to make cancer cells look like common diseases so that the body’s natural immune system can easily destroy them.
                                 <br><br>
-                                We have entered into a sponsored research agreement (SRA) with UCLA to help us develop this Universal Cancer Vaccine platform. We hold exclusive rights to license all intellectual property and related technology resulting from this research program.
+                                We entered into a sponsored research agreement (SRA) with UCLA to help us develop this Universal Cancer Vaccine platform. We hold an option for the exclusive rights to license all intellectual property and related technology resulting from this research program.
                             </p>
                         </div>
                     </div>

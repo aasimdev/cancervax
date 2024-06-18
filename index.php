@@ -91,7 +91,7 @@ include('header.php'); ?>
                     </div>
                     <div class="col-lg-9">
                         <div class="devPlan-conten">
-                            <h6>Children’s Cancer</h6>
+                            <h6>Children’s Cancer Progress</h6>
                             <p>We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%. 
 
 ​<br><br>
@@ -327,6 +327,7 @@ Based on the positive data, we may launch FDA IND enabling studies needed to app
 
 <section class="worldhealth">
     <div class="container">
+    <h2>The UCLA Research Team</h2>
         <div class="worldhealth-content">
             <div class="row">
                 <div class="col-lg-5">

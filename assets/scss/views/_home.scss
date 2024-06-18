@@ -481,7 +481,12 @@
 .worldhealth {
     background-color: #121B1D;
     padding: 109px 0px 70px 0px;
-
+    h2{
+        text-align: center;
+        margin-bottom: 35px;
+        font-size: 40px;
+        font-weight: 700;
+    }
     &-text {
         max-width: 451px;
 
@@ -700,7 +705,7 @@ body.modal-open {
             word-spacing: 0px;
             font-family: $fontMain;
 
-            font-size: 48px;
+            font-size: 28px;
             /* 130% */
         }
     }
