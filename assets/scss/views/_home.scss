@@ -1551,6 +1551,12 @@ body.modal-open {
             @media (max-width: 991px) {
                 max-width: 100%;
             }
+            a{
+                text-decoration: underline;
+                color: #78c7c9;
+                font-size: inherit;
+                line-height: inherit;
+            }
         }
 
         h1 {

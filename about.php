@@ -37,7 +37,7 @@ include('header.php'); ?>
                         <p>Under the terms of a Sponsored Research Agreement, we began working with UCLA in early 2021 on a single-disease
 immunotherapy targeted at Ewing Sarcoma, a deadly children’s
 cancer. Existing immunotherapies target natural cancer cell
-markers, which unfortunately appear in health cells as well,
+markers, which unfortunately appear in healthy cells as well,
 resulting in the destruction of healthy cells and causing various
 levels of toxicity and side effects.<br><br>
 In 2024, we announced that our UCLA research team had created a promising new drug candidate for treating recurrent Ewing sarcoma. Based on the positive data, we may to launch FDA IND enabling studies needed to apply for approval to proceed with human trials.
@@ -48,7 +48,7 @@ Vaccine platform (UCV) that can potentially target cancer cells with
 a high degree of precision and force only the cancer cells to
 express a unique marker that we can easily target for destruction.
 In 2022, we entered into a Sponsored Research Agreement with UCLA to help develop UCV.<br><br>
-The UCV has project progressed methodically with the development of
+The UCV project has progressed methodically with the development of
 various innovative technologies, including a foundational
 nanoparticle technology which can be programmed to target
 specific cells and deliver customized cargos. <br><br>
@@ -90,7 +90,7 @@ consisting of three projects at UCLA. -->
                         <div class="process-description">
                             <h5>
                                 Children’s Cancer.</h5>
-                            <p>Working with UCLA under the terms of a Sponsored Research Agreement, we have successfully developed a disease-specific immunotherapy targeted at
+                            <p>Working with UCLA under the terms of a Sponsored Research Agreement, we have successfully developed a disease-specific immunotherapy drug candidate targeted at
 treating Ewing sarcoma, a rare but deadly bone and soft tissue
 cancer that primarily affects children and young adults. There is
 currently no FDA approved treatment for recurrence. <strong>The death rate is 100% of patients with recurrent Ewing sarcoma.</strong>
@@ -256,7 +256,7 @@ Dr. Grant graduated from Brigham Young University with a BS in bioinformatics an
     </div>
 </section>
 
-<section class="otherteam">
+<section class="otherteam d-none">
     <div class="container">
         <h3 style="text-align:center;margin-bottom:35px;">The UCLA Research Team</h3>
         <div class="row justify-content-center">
@@ -363,6 +363,38 @@ Dr. Grant graduated from Brigham Young University with a BS in bioinformatics an
                 </div>
             </div>
         </div>
+    </div>
+</section>
+
+<section class="worldhealth">
+    <div class="container">
+    <h2>The UCLA Research Team</h2>
+        <div class="worldhealth-content">
+            <div class="row">
+                <div class="col-lg-5">
+                    <div class="worldhealth-text">
+                        <h3>World-class researchers and scientists. </h3>
+                        <p>Our team of dedicated scientists is on the cutting edge of cancer research. From the lab
+                            to
+                            the clinic, we are committed to finding new and better ways to prevent and treat cancer.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="worldhealth-counter">
+                        <div class="cancervax-counter">
+                            <div class="counter">
+                                <span>80</span>
+                            </div>
+                            <p>Years of collective <br> experience</p>
+                        </div>
+                        <img src="./assets/img/ucla-health.png" alt="health">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+       
     </div>
 </section>
 
