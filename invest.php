@@ -163,21 +163,21 @@ include "header.php";
                                 <p>While there is no such thing as a magic vaccine that can prevent people from getting cancer, we can borrow many of the techniques and technologies from modern preventative flu or COVID vaccines, and use the body’s immune system to target and treat cancers.</p>
                                 <p>Our immunotherapy technologies being developed at UCLA are designed to be delivered as simple injections. With our development of a Universal Cancer Vaccine platform, we look forward to the day when treating cancer will be as simple as getting a flu shot – <span>We believe immunotherapy is a better way to treat cancer.</span></p>
                                 <p>CancerVax has exclusive rights to license and commercialize the technology and patents that result from these UCLA research programs.</p>
-                                <h5>Additional Immunotherapy Projects</h5>
-                                <p>In addition to our Universal Cancer Vaccine platform, we are also working with UCLA to create two other immunotherapy technologies.</p>
+                                <!-- <h5>Additional Immunotherapy Projects</h5>
+                                <p>In addition to our Universal Cancer Vaccine platform, we are also working with UCLA to create two other immunotherapy technologies.</p> -->
 
                                 <div class="Children">
                                     <h4> Children’s Cancer Progress</h4>
 
-                                    <div class="learnMore">
+                                    <!-- <div class="learnMore">
                                         <a href="/progress" target="_blank">Learn More</a>
-                                    </div>
+                                    </div> -->
 
                                     <div class="learnImg first-mobile"> <img src="./assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
                                     </div>
 
 
-                                    <p>We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%. ​
+                                    <p class="mt-4">We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%. ​
                                     </p>
                                     <p>Based on the positive data, we may launch FDA IND enabling studies needed to apply for approval to proceed with human trials. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.</p>
 

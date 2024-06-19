@@ -34,19 +34,21 @@ include('header.php'); ?>
                         <h2>Our Story</h2>
                     </div>
                     <div class="col-sm-9 col-md-8 col-xl-6">
-                        <p>We started working with UCLA in early 2021 on a single-disease
+                        <p>Under the terms of a Sponsored Research Agreement, we began working with UCLA in early 2021 on a single-disease
 immunotherapy targeted at Ewing Sarcoma, a deadly children’s
 cancer. Existing immunotherapies target natural cancer cell
 markers, which unfortunately appear in health cells as well,
 resulting in the destruction of healthy cells and causing various
 levels of toxicity and side effects.<br><br>
-Through a series of brainstorm sessions that started in late 2021,
-we developed the concept of a customizable Universal Cancer
-Vaccine Platform (UCV) that can potentially target cancer cells with
+In 2024, we announced that our UCLA research team had created a promising new drug candidate for treating recurrent Ewing sarcoma. Based on the positive data, we may to launch FDA IND enabling studies needed to apply for approval to proceed with human trials.
+<br><br>
+In late 2021,
+CancerVax developed the concept of a customizable Universal Cancer
+Vaccine platform (UCV) that can potentially target cancer cells with
 a high degree of precision and force only the cancer cells to
 express a unique marker that we can easily target for destruction.
-The UCV project kicked off in 2022.<br><br>
-The UCV project progressed methodically with the development of
+In 2022, we entered into a Sponsored Research Agreement with UCLA to help develop UCV.<br><br>
+The UCV has project progressed methodically with the development of
 various innovative technologies, including a foundational
 nanoparticle technology which can be programmed to target
 specific cells and deliver customized cargos. <br><br>
@@ -88,15 +90,12 @@ consisting of three projects at UCLA. -->
                         <div class="process-description">
                             <h5>
                                 Children’s Cancer.</h5>
-                            <p>We are developing a disease-specific immunotherapy targeted at
+                            <p>Working with UCLA under the terms of a Sponsored Research Agreement, we have successfully developed a disease-specific immunotherapy targeted at
 treating Ewing sarcoma, a rare but deadly bone and soft tissue
 cancer that primarily affects children and young adults. There is
 currently no FDA approved treatment for recurrence. <strong>The death rate is 100% of patients with recurrent Ewing sarcoma.</strong>
                                 <br><br>
-                                We have entered into a sponsored research agreement with the
-University of California at Los Angeles (UCLA) to develop effective
-immunotherapies, such as CAR T-cell and monoclonal antibodies,
-for Ewing Sarcoma. We hold an option for the exclusive rights to license all
+                             We hold an option for the exclusive right to license all
 intellectual property and related technology resulting from this
 research program. UCLA is a top-ranked university known for its
 cancer research and medical school.
@@ -117,7 +116,7 @@ cancer research and medical school.
                                 <br><br>
                                 The UCV will force cancer cells to express a unique protein marker that can be used by the immune system and custom antibodies to precisely target them for destruction. Additionally, we intend to make cancer cells look like common diseases so that the body’s natural immune system can easily destroy them.
                                 <br><br>
-                                We entered into a sponsored research agreement (SRA) with UCLA to help us develop this Universal Cancer Vaccine platform. We hold an option for the exclusive rights to license all intellectual property and related technology resulting from this research program.
+                                We entered into a sponsored research agreement (SRA) with UCLA to help us develop this Universal Cancer Vaccine platform. We hold an option for the exclusive right to license all intellectual property and related technology resulting from this research program.
                             </p>
                         </div>
                     </div>
