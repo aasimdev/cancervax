@@ -160,22 +160,22 @@ include "header.php";
                                     <img src="./assets/img/opd-ucla-offer.png" alt="hero" class="img-fluid w-100 d-block">
                                 </a>
                                 <p>In recent years, advances in science and biotechnology have proven that the body’s immune
-system is very effective at targeting and killing abnormal cells, germs and viruses, and has been
-doing it since the beginning of time. The problem is that cancer is not a foreign invader and grows
-much faster than the body’s normal immune response rate.</p>
-<p>Much like COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer
-immunotherapies can train the body to target and destroy specific cancer cells. <span>Cancer
-immunotherapies are also known as cancer treatment vaccines.</span> </p>
-<p>While there is no such thing as a magic vaccine that can prevent people from getting cancer, we
-can borrow many of the techniques and technologies from modern preventative flu or COVID
-vaccines, and use the body’s immune system to target and treat cancers.</p>
-<p>Our immunotherapy technologies being developed at UCLA are designed to be delivered as
-simple injections. With our development of a Universal Cancer Vaccine platform, we look forward
-to the day when treating cancer will be as simple as getting a flu shot – <span>We believe
-immunotherapy is a better way to treat cancer.</span></p>
-<p>CancerVax has exclusive rights to license and commercialize the technology and patents that
-result from these UCLA research programs.</p>
-                               
+                                    system is very effective at targeting and killing abnormal cells, germs and viruses, and has been
+                                    doing it since the beginning of time. The problem is that cancer is not a foreign invader and grows
+                                    much faster than the body’s normal immune response rate.</p>
+                                <p>Much like COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer
+                                    immunotherapies can train the body to target and destroy specific cancer cells. <span>Cancer
+                                        immunotherapies are also known as cancer treatment vaccines.</span> </p>
+                                <p>While there is no such thing as a magic vaccine that can prevent people from getting cancer, we
+                                    can borrow many of the techniques and technologies from modern preventative flu or COVID
+                                    vaccines, and use the body’s immune system to target and treat cancers.</p>
+                                <p>Our immunotherapy technologies being developed at UCLA are designed to be delivered as
+                                    simple injections. With our development of a Universal Cancer Vaccine platform, we look forward
+                                    to the day when treating cancer will be as simple as getting a flu shot – <span>We believe
+                                        immunotherapy is a better way to treat cancer.</span></p>
+                                <p>CancerVax has exclusive rights to license and commercialize the technology and patents that
+                                    result from these UCLA research programs.</p>
+
                                 <h5>Additional Immunotherapy Projects</h5>
                                 <p>In addition to our Universal Cancer Vaccine platform, we are also working with UCLA to create two other immunotherapy technologies.</p>
 
@@ -191,374 +191,376 @@ result from these UCLA research programs.</p>
 
 
                                     <p>We have created our first cancer drug candidate – a single-disease specific immunotherapy
-targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting
-children and young adults. Unfortunately, the death rate for patients with recurrent Ewing
-sarcoma is nearly 100%. 
+                                        targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting
+                                        children and young adults. Unfortunately, the death rate for patients with recurrent Ewing
+                                        sarcoma is nearly 100%.
                                     </p>
                                     <p>Based on the positive data, we may launch FDA IND enabling studies needed to apply for
-approval to proceed with human trials. We look forward to the day when treating cancer will be as
-simple as getting a flu shot – a better way to treat cancer.</p>
+                                        approval to proceed with human trials. We look forward to the day when treating cancer will be as
+                                        simple as getting a flu shot – a better way to treat cancer.</p>
 
                                     <div class="learnImg first-desktop"> <img src="./assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
                                     </div>
                                 </div>
 
-                            <div class="marketSection">
-                                <h6>The Market</h6>
-                                <h4 class="meet">Meeting A Growing Critical Need</h4>
+                                <div class="marketSection">
+                                    <h6>The Market</h6>
+                                    <h4 class="meet">Meeting A Growing Critical Need</h4>
 
-                                <div class="row">
-                                    <div class="col-lg-4">
-                                        <div class="numberCOne">1</div>
-                                        <p>Currently, there are over 100 types of cancers. In 2015 approximately $183 billion was spent on cancer health care, in the U.S. alone; that number is projected to grow to $246 billion by 2030. (4)</p>
-                                    </div>
-                                    <div class="col-lg-4">
-                                        <div class="numberCOne">2</div>
-                                        <p>The global oncology drugs market is projected to grow from $205 billion in 2023 to $484 billion by 2030. (2)</p>
-                                    </div>
-                                    <div class="col-lg-4">
-                                        <div class="numberCOne">3</div>
-                                        <p>The global biotechnology market is projected to grow from $1.3 trillion in 2023 to $3.2 trillion by 2030. (5)</p>
-                                    </div>
-                                    <div class="col-12 mt-5 mobile-t">
-                                        <p>CancerVax is working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer. The company also has exclusive rights to license new intellectual property that may be developed by UCLA under research programs, which offers other potential revenue streams.</p>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                            
-                        </div>
-                        <div class="priceDescriptionCard">
-                                    <div class="billion">
-                                        $183 Billion
-                                    </div>
-                                    <div class="billion-wrap">
-                                        <div class="billion-text">
-                                            <span>U.S. cancer healthcare spend in 2015 <sup>(4)</sup></span>
+                                    <div class="row">
+                                        <div class="col-lg-4">
+                                            <div class="numberCOne">1</div>
+                                            <p>Currently, there are over 100 types of cancers. In 2015 approximately $183 billion was spent on cancer health care, in the U.S. alone; that number is projected to grow to $246 billion by 2030. (4)</p>
                                         </div>
-                                    </div>
-
-                                    <div class="billion">
-                                        $246 Billion
-                                    </div>
-                                    <div class="billion-wrap">
-                                        <div class="billion-text">
-                                            <span>Projected U.S. cancer healthcare spend by 2030 <sup>(4)</sup></span>
+                                        <div class="col-lg-4">
+                                            <div class="numberCOne">2</div>
+                                            <p>The global oncology drugs market is projected to grow from $205 billion in 2023 to $484 billion by 2030. (2)</p>
                                         </div>
-                                    </div>
-
-                                    <div class="billion">
-                                        $484 Billion
-                                    </div>
-                                    <div class="billion-wrap">
-                                        <div class="billion-text">
-                                            <span>Projected global cancer drugs market by 2030 <sup>(2)</sup></span>
+                                        <div class="col-lg-4">
+                                            <div class="numberCOne">3</div>
+                                            <p>The global biotechnology market is projected to grow from $1.3 trillion in 2023 to $3.2 trillion by 2030. (5)</p>
                                         </div>
-                                    </div>
-
-                                    <div class="billion">
-                                        $3.2 Trillion
-                                    </div>
-                                    <div class="billion-wrap">
-                                        <div class="billion-text billion-text-last">
-                                            <span>Projected global biotechnology market by 2030 <sup>(5)</sup></span>
+                                        <div class="col-12 mt-5 mobile-t">
+                                            <p>CancerVax is working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer. The company also has exclusive rights to license new intellectual property that may be developed by UCLA under research programs, which offers other potential revenue streams.</p>
                                         </div>
+
                                     </div>
                                 </div>
 
-                        <!-- 5th Section -->
-                        <div class="priceDescription">
-                            <div class="Investor_Growth d-none d-sm-block">
-                                <img src="./assets/img/Investor_Growth.jpg" alt="hero" class="img-fluid">
+
                             </div>
-
-                            <div class="Investor_Growth d-sm-none">
-                                <img src="./assets/img/Mobile_Growth.png" alt="hero" class="img-fluid">
-                            </div>
-
-                            <h4 class="why-b"> Why Invest  </h4>
-
-                            <h5>Let's Beat Cancer</h5>
-                            <p>Pharmaceutical research is booming from the effects of the COVID-19 pandemic, where the medical community learned how to use mRNA to recognize and fight specific disease states. A similar concept is being applied by CancerVax to create immunotherapy treatments with the purpose of using a patient’s immune system to detect, mark, and kill cancer.</p>
-
-                            <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank" rel="noopener noreferrer">
-                                <img src="./assets/img/invest-microscope.png" alt="hero" class="img-fluid mt-4">
-                            </a>
-
-                            <div class="the-model">
-                                <p> The CancerVax business model involves partnering with experienced cancer research institutions, like UCLA, to develop new life-changing drugs, followed by plans to license and/or sell the company’s drugs, or license technologies to major pharmaceutical companies. <br><br> As a biotech company, CancerVax’s goal is to create value for our company and our shareholders at every step of incremental success we make on the path to FDA approval.</p>
-                                <p>From discovery, to optimization, to pre-clinical trials, and additional future phases (phase 1 clinical trials, phase 2 clinical trials, phase 3 clinical trials), every step is a value inflection point that CancerVax believes could increase the company’s value and bring it one step closer to curing cancer.
-
-                                    <br><br> Join CancerVax and invest in our breakthrough technologies to help beat cancer!
-                                </p>
-
-                                <div class="the-team">
-                                    <h5>The Team </h5>
+                            <div class="priceDescriptionCard">
+                                <div class="billion">
+                                    $183 Billion
                                 </div>
-                                <div class="d-none d-sm-block">
-                                    <a href="/about?target=about-team">
-                                        <img src="./assets/img/offer-team.jpg" alt="hero" class="img-fluid">
+                                <div class="billion-wrap">
+                                    <div class="billion-text">
+                                        <span>U.S. cancer healthcare spend in 2015 <sup>(4)</sup></span>
+                                    </div>
+                                </div>
+
+                                <div class="billion">
+                                    $246 Billion
+                                </div>
+                                <div class="billion-wrap">
+                                    <div class="billion-text">
+                                        <span>Projected U.S. cancer healthcare spend by 2030 <sup>(4)</sup></span>
+                                    </div>
+                                </div>
+
+                                <div class="billion">
+                                    $484 Billion
+                                </div>
+                                <div class="billion-wrap">
+                                    <div class="billion-text">
+                                        <span>Projected global cancer drugs market by 2030 <sup>(2)</sup></span>
+                                    </div>
+                                </div>
+
+                                <div class="billion">
+                                    $3.2 Trillion
+                                </div>
+                                <div class="billion-wrap">
+                                    <div class="billion-text billion-text-last">
+                                        <span>Projected global biotechnology market by 2030 <sup>(5)</sup></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 5th Section -->
+                            <div class="priceDescription">
+                                <div class="Investor_Growth d-none d-sm-block">
+                                    <img src="./assets/img/Investor_Growth.jpg" alt="hero" class="img-fluid">
+                                </div>
+
+                                <div class="Investor_Growth d-sm-none">
+                                    <img src="./assets/img/Mobile_Growth.png" alt="hero" class="img-fluid">
+                                </div>
+
+                                <h4 class="why-b"> Why Invest  </h4>
+
+                                <h5>Let's Beat Cancer</h5>
+                                <p>Pharmaceutical research is booming from the effects of the COVID-19 pandemic, where the medical community learned how to use mRNA to recognize and fight specific disease states. A similar concept is being applied by CancerVax to create immunotherapy treatments with the purpose of using a patient’s immune system to detect, mark, and kill cancer.</p>
+
+                                <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank" rel="noopener noreferrer">
+                                    <img src="./assets/img/invest-microscope.png" alt="hero" class="img-fluid mt-4">
+                                </a>
+
+                                <div class="the-model">
+                                    <p> The CancerVax business model involves partnering with experienced cancer research institutions, like UCLA, to develop new life-changing drugs, followed by plans to license and/or sell the company’s drugs, or license technologies to major pharmaceutical companies. <br><br> As a biotech company, CancerVax’s goal is to create value for our company and our shareholders at every step of incremental success we make on the path to FDA approval.</p>
+                                    <p>From discovery, to optimization, to pre-clinical trials, and additional future phases (phase 1 clinical trials, phase 2 clinical trials, phase 3 clinical trials), every step is a value inflection point that CancerVax believes could increase the company’s value and bring it one step closer to curing cancer.
+
+                                        <br><br> Join CancerVax and invest in our breakthrough technologies to help beat cancer!
+                                    </p>
+
+                                    <div class="the-team">
+                                        <h5>The Team </h5>
+                                    </div>
+                                    <div class="d-none d-sm-block">
+                                        <a href="/about?target=about-team">
+                                            <img src="./assets/img/offer-team.jpg" alt="hero" class="img-fluid">
+                                        </a>
+                                    </div>
+                                    <div class="d-sm-none">
+                                        <a href="/about?target=about-team">
+                                            <img src="./assets/img/Mobile_Team.png" alt="hero" class="img-fluid">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 6th Section -->
+                            <div class="termSection" id='terms'>
+                                <h4>Terms</h4>
+                                <div class="term-card">
+
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <div class="term-blo">
+                                                <div class="offer-title">OFFERING SIZE</div>
+                                                <div class="offer-price">$5,000,000</div>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="term-blo">
+                                                <div class="offer-title">PRICE FOR SHARE</div>
+                                                <div class="offer-price">$2.10</div>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="term-blo">
+                                                <div class="offer-title">MIN INVESTMENT</div>
+                                                <div class="offer-price">$525</div>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="term-blo">
+                                                <div class="offer-title">OFFERING TYPE</div>
+                                                <div class="offer-price">Equity</div>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="term-blo">
+                                                <div class="offer-title">ASSET TYPE</div>
+                                                <div class="offer-price">Common Stock</div>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="term-blo">
+                                                <div class="offer-title">SHARES OFFERED</div>
+                                                <div class="offer-price">Common Stock</div>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="term-blo d-flex flex-column">
+                                                <div class="offer-title">OFFERING CIRCULAR</div>
+                                                <a href="https://cancervax.com/2024oc" target="_blank" class="offer-price last-offer mb-0">See on SEC.gov</a>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+
+                                            <div class="term-blo">
+                                                <div class="offer-title">BROKER DEALER</div>
+                                                <a href="https://dalmoregroup.com/about-dalmore/" target="_blank" rel="noopener noreferrer">
+                                                    <img src="./assets/img/DallMore.png" alt="dallmore">
+                                                </a>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <a name="bonus-shares" style="position: relative; top:-260px"></a>
+                                <h4>Bonus Shares</h4>
+                                <h5>Invest More And Get More!</h5>
+                                <p>Investors in this offering are eligible to receive bonus shares of Common Stock, which effectively gives them a discount on their investment.  Investors receiving the Bonus Shares will pay an effective price less than the $2.10 offering price.</p>
+                                <div class="invest-table">
+                                    <table class="investment-table">
+                                        <thead>
+                                            <tr>
+                                                <th>Total Investment</th>
+                                                <th>Bonus Shares</th>
+                                                <th>Effective Price Per Share</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>$1,000</td>
+                                                <td>5% Bonus Shares</td>
+                                                <td>$2.00</td>
+                                            </tr>
+                                            <tr>
+                                                <td>$1,500</td>
+                                                <td>7.5% Bonus Shares</td>
+                                                <td>$1.95</td>
+                                            </tr>
+                                            <tr>
+                                                <td>$2,500</td>
+                                                <td>10% Bonus Shares</td>
+                                                <td>$1.91</td>
+                                            </tr>
+                                            <tr>
+                                                <td>$5,000</td>
+                                                <td>15% Bonus Shares</td>
+                                                <td>$1.83</td>
+                                            </tr>
+                                            <tr>
+                                                <td>$10,000</td>
+                                                <td>20% Bonus Shares</td>
+                                                <td>$1.75</td>
+                                            </tr>
+                                            <tr>
+                                                <td>$25,000</td>
+                                                <td>25% Bonus Shares</td>
+                                                <td>$1.68</td>
+                                            </tr>
+                                            <tr>
+                                                <td>$35,000</td>
+                                                <td>30% Bonus Shares</td>
+                                                <td>$1.62</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <h4 id="updates">Updates</h4>
+                                <div class="cchat mt-5">
+                                    <div class="cchat-box pb-4" data-video="trend">
+                                        <a class="popup-youtube" href="https://www.youtube.com/watch?v=Bk39recgMGU"></a>
+                                        <div class="cchat-thumbnail thumbnail-overlay h-auto">
+                                            <img src="//img.youtube.com/vi/Bk39recgMGU/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">
+                                        </div>
+                                        <i class="far fa-play-circle"></i>
+                                    </div>
+                                </div>
+                                <h4>Market Statistics</h4>
+
+                                <div class="link-placeholder">
+                                    <a href="https://www.cancer.org/research/cancer-facts-statistics/all-cancer-facts-figures/cancer-facts-figures-2022.html" target="_blank">
+                                        1. (2022) American Cancer Society
                                     </a>
                                 </div>
-                                <div class="d-sm-none">
-                                    <a href="/about?target=about-team">
-                                        <img src="./assets/img/Mobile_Team.png" alt="hero" class="img-fluid">
+
+                                <div class="link-placeholder">
+                                    <a href="https://www.globenewswire.com/news-release/2023/08/16/2726224/0/en/Oncology-Drugs-Market-Size-to-Surpass-USD-484-32-Billion-by-2030-exhibiting-a-CAGR-of-13-0.html" target="_blank">
+                                        2. (2023) Fortune Business Insights
                                     </a>
                                 </div>
-                            </div>
-                        </div>
 
-                        <!-- 6th Section -->
-                        <div class="termSection" id='terms'>
-                            <h4>Terms</h4>
-                            <div class="term-card">
-
-                                <div class="row">
-                                    <div class="col-6">
-                                        <div class="term-blo">
-                                            <div class="offer-title">OFFERING SIZE</div>
-                                            <div class="offer-price">$5,000,000</div>
-                                        </div>
-                                    </div>
-                                    <div class="col-6">
-                                        <div class="term-blo">
-                                            <div class="offer-title">PRICE FOR SHARE</div>
-                                            <div class="offer-price">$2.10</div>
-                                        </div>
-                                    </div>
-                                    <div class="col-6">
-                                        <div class="term-blo">
-                                            <div class="offer-title">MIN INVESTMENT</div>
-                                            <div class="offer-price">$525</div>
-                                        </div>
-                                    </div>
-                                    <div class="col-6">
-                                        <div class="term-blo">
-                                            <div class="offer-title">OFFERING TYPE</div>
-                                            <div class="offer-price">Equity</div>
-                                        </div>
-                                    </div>
-                                    <div class="col-6">
-                                        <div class="term-blo">
-                                            <div class="offer-title">ASSET TYPE</div>
-                                            <div class="offer-price">Common Stock</div>
-                                        </div>
-                                    </div>
-                                    <div class="col-6">
-                                        <div class="term-blo">
-                                            <div class="offer-title">SHARES OFFERED</div>
-                                            <div class="offer-price">Common Stock</div>
-                                        </div>
-                                    </div>
-                                    <div class="col-6">
-                                        <div class="term-blo d-flex flex-column">
-                                            <div class="offer-title">OFFERING CIRCULAR</div>
-                                            <a href="https://cancervax.com/2024oc" target="_blank" class="offer-price last-offer mb-0">See on SEC.gov</a>
-                                        </div>
-                                    </div>
-                                    <div class="col-6">
-
-                                        <div class="term-blo">
-                                            <div class="offer-title">BROKER DEALER</div>
-                                            <a href="https://dalmoregroup.com/about-dalmore/" target="_blank" rel="noopener noreferrer">
-                                                <img src="./assets/img/DallMore.png" alt="dallmore">
-                                            </a>
-                                        </div>
-                                    </div>
-
+                                <div class="link-placeholder">
+                                    <a href="https://www.cancer.org/research/cancer-facts-statistics/all-cancer-facts-figures/cancer-facts-figures-2022.html" target="_blank">
+                                        3.(2022) American Cancer Society
+                                    </a>
                                 </div>
-                            </div>
-                            <a name="bonus-shares" style="position: relative; top:-260px"></a>
-                            <h4>Bonus Shares</h4>
-                            <h5>Invest More And Get More!</h5>
-                            <p>Investors in this offering are eligible to receive bonus shares of Common Stock, which effectively gives them a discount on their investment.  Investors receiving the Bonus Shares will pay an effective price less than the $2.10 offering price.</p>
-                            <div class="invest-table">
-                                <table class="investment-table">
-                                    <thead>
-                                        <tr>
-                                            <th>Total Investment</th>
-                                            <th>Bonus Shares</th>
-                                            <th>Effective Price Per Share</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>$1,000</td>
-                                            <td>5% Bonus Shares</td>
-                                            <td>$2.00</td>
-                                        </tr>
-                                        <tr>
-                                            <td>$1,500</td>
-                                            <td>7.5% Bonus Shares</td>
-                                            <td>$1.95</td>
-                                        </tr>
-                                        <tr>
-                                            <td>$2,500</td>
-                                            <td>10% Bonus Shares</td>
-                                            <td>$1.91</td>
-                                        </tr>
-                                        <tr>
-                                            <td>$5,000</td>
-                                            <td>15% Bonus Shares</td>
-                                            <td>$1.83</td>
-                                        </tr>
-                                        <tr>
-                                            <td>$10,000</td>
-                                            <td>20% Bonus Shares</td>
-                                            <td>$1.75</td>
-                                        </tr>
-                                        <tr>
-                                            <td>$25,000</td>
-                                            <td>25% Bonus Shares</td>
-                                            <td>$1.68</td>
-                                        </tr>
-                                        <tr>
-                                            <td>$35,000</td>
-                                            <td>30% Bonus Shares</td>
-                                            <td>$1.62</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                            <h4 id="updates">Updates</h4>
-                            <div class="cchat mt-5">
-                                <div class="cchat-box pb-4" data-video="trend">
-                                    <a class="popup-youtube" href="https://www.youtube.com/watch?v=Bk39recgMGU"></a>
-                                    <div class="cchat-thumbnail thumbnail-overlay h-auto">
-                                        <img src="//img.youtube.com/vi/Bk39recgMGU/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">
-                                    </div>
-                                    <i class="far fa-play-circle"></i>
+
+                                <div class="link-placeholder">
+                                    <a href="https://www.statista.com/statistics/1313989/projection-on-cancer-care-costs-us/" target="_blank">
+                                        4. (2023) Statista
+                                    </a>
                                 </div>
-                            </div>
-                            <h4>Market Statistics</h4>
 
-                            <div class="link-placeholder">
-                                <a href="https://www.cancer.org/research/cancer-facts-statistics/all-cancer-facts-figures/cancer-facts-figures-2022.html" target="_blank">
-                                    1. (2022) American Cancer Society
-                                </a>
-                            </div>
+                                <div class="link-placeholder">
+                                    <a href="https://www.precedenceresearch.com/biotechnology-market" target="_blank">
+                                        5. (2023) Precedence Research
+                                    </a>
+                                </div>
+                                <h4 class="mt-5 dis-space">Disclaimer</h4>
+                                <p> THESE OFFERING MATERIALS MAY CONTAIN FORWARD-LOOKING STATEMENTS AND INFORMATION RELATING TO, AMONG OTHER THINGS, THE COMPANY, ITS BUSINESS PLAN AND STRATEGY, AND ITS INDUSTRY. THESE FORWARDLOOKING STATEMENTS ARE BASED ON THE BELIEFS OF, ASSUMPTIONS MADE BY, AND INFORMATION CURRENTLY AVAILABLE TO THE COMPANY’S MANAGEMENT. WHEN USED IN THE OFFERING MATERIALS, THE WORDS “ESTIMATE,” “PROJECT,” “BELIEVE,” “ANTICIPATE,” “INTEND,” “EXPECT” AND SIMILAR EXPRESSIONS ARE INTENDED TO IDENTIFY FORWARD-LOOKING STATEMENTS. THESE STATEMENTS REFLECT MANAGEMENT’S CURRENT VIEWS WITH RESPECT TO FUTURE EVENTS AND ARE SUBJECT TO RISKS AND UNCERTAINTIES THAT COULD CAUSE THE COMPANY’S ACTUAL RESULTS TO DIFFER MATERIALLY FROM THOSE CONTAINED IN THE FORWARD-LOOKING STATEMENTS. INVESTORS ARE CAUTIONED NOT TO PLACE UNDUE RELIANCE ON THESE FORWARD-LOOKING STATEMENTS, WHICH SPEAK ONLY AS OF THE DATE ON WHICH THEY ARE MADE. THE COMPANY DOES NOT UNDERTAKE ANY OBLIGATION TO REVISE OR UPDATE THESE FORWARD-LOOKING STATEMENTS TO REFLECT EVENTS OR CIRCUMSTANCES AFTER SUCH DATE OR TO REFLECT THE OCCURRENCE OF UNANTICIPATED EVENTS.</p>
 
-                            <div class="link-placeholder">
-                                <a href="https://www.globenewswire.com/news-release/2023/08/16/2726224/0/en/Oncology-Drugs-Market-Size-to-Surpass-USD-484-32-Billion-by-2030-exhibiting-a-CAGR-of-13-0.html" target="_blank">
-                                    2. (2023) Fortune Business Insights
-                                </a>
-                            </div>
 
-                            <div class="link-placeholder">
-                                <a href="https://www.cancer.org/research/cancer-facts-statistics/all-cancer-facts-figures/cancer-facts-figures-2022.html" target="_blank">
-                                    3.(2022) American Cancer Society
-                                </a>
+                                <p> PLEASE NOTE INVESTORS IN THIS OFFERING WILL BE CLIENTS OF THE ISSUER AND NOT DALMORE GROUP, LLC (“DALMORE”), A REGISTERED BROKER-DEALER AND MEMBER FINRA/SIPC. DALMORE’S ROLE IN THE TRANSACTION IS TO FACILITATE BACK OFFICE AND REGULATORY FUNCTIONS RELATED TO THE REGULATION A TRANSACTION, AND ACTS ONLY AS THE BROKER/DEALER OF RECORD FOR THE OFFERING LISTED. DALMORE IS NOT PROVIDING INVESTMENT ADVICE OR RECOMMENDATIONS, OR LEGAL OR TAX ADVICE.</p>
+
+                                <p>THIS REG A INVESTMENT IS SPECULATIVE, ILLIQUID, AND INVOLVES A HIGH DEGREE OF RISK, INCLUDING THE POSSIBLE LOSS OF YOUR ENTIRE INVESTMENT. ALL INVESTORS SHOULD MAKE THEIR OWN DETERMINATION, WITH THE ASSISTANCE OF THEIR OWN FINANCIAL OR OTHER ADVISORS, AS TO WHETHER OR NOT TO MAKE ANY INVESTMENT, BASED ON THEIR OWN INDEPENDENT EVALUATION, ANALYSIS AND CIRCUMSTANCES.</p>
+
+                                <p> AN OFFERING STATEMENT REGARDING THIS OFFERING HAS BEEN FILED WITH THE SEC. THE SEC HAS QUALIFIED THAT OFFERING STATEMENT, WHICH ONLY MEANS THAT THE COMPANY MAY MAKE SALES OF THE SECURITIES DESCRIBED BY THE OFFERING STATEMENT. IT DOES NOT MEAN THAT THE SEC HAS APPROVED, PASSED UPON THE MERITS OR PASSED UPON THE ACCURACY OR COMPLETENESS OF THE INFORMATION IN THE OFFERING STATEMENT. THE OFFERING CIRCULAR THAT IS PART OF THAT OFFERING STATEMENT IS AT: <a href="https://cancervax.com/2024oc" target="_blank">sec.gov</a></p>
                             </div>
 
-                            <div class="link-placeholder">
-                                <a href="https://www.statista.com/statistics/1313989/projection-on-cancer-care-costs-us/" target="_blank">
-                                    4. (2023) Statista
-                                </a>
-                            </div>
-
-                            <div class="link-placeholder">
-                                <a href="https://www.precedenceresearch.com/biotechnology-market" target="_blank">
-                                    5. (2023) Precedence Research
-                                </a>
-                            </div>
-                            <h4 class="mt-5 dis-space">Disclaimer</h4>
-                            <p> THESE OFFERING MATERIALS MAY CONTAIN FORWARD-LOOKING STATEMENTS AND INFORMATION RELATING TO, AMONG OTHER THINGS, THE COMPANY, ITS BUSINESS PLAN AND STRATEGY, AND ITS INDUSTRY. THESE FORWARDLOOKING STATEMENTS ARE BASED ON THE BELIEFS OF, ASSUMPTIONS MADE BY, AND INFORMATION CURRENTLY AVAILABLE TO THE COMPANY’S MANAGEMENT. WHEN USED IN THE OFFERING MATERIALS, THE WORDS “ESTIMATE,” “PROJECT,” “BELIEVE,” “ANTICIPATE,” “INTEND,” “EXPECT” AND SIMILAR EXPRESSIONS ARE INTENDED TO IDENTIFY FORWARD-LOOKING STATEMENTS. THESE STATEMENTS REFLECT MANAGEMENT’S CURRENT VIEWS WITH RESPECT TO FUTURE EVENTS AND ARE SUBJECT TO RISKS AND UNCERTAINTIES THAT COULD CAUSE THE COMPANY’S ACTUAL RESULTS TO DIFFER MATERIALLY FROM THOSE CONTAINED IN THE FORWARD-LOOKING STATEMENTS. INVESTORS ARE CAUTIONED NOT TO PLACE UNDUE RELIANCE ON THESE FORWARD-LOOKING STATEMENTS, WHICH SPEAK ONLY AS OF THE DATE ON WHICH THEY ARE MADE. THE COMPANY DOES NOT UNDERTAKE ANY OBLIGATION TO REVISE OR UPDATE THESE FORWARD-LOOKING STATEMENTS TO REFLECT EVENTS OR CIRCUMSTANCES AFTER SUCH DATE OR TO REFLECT THE OCCURRENCE OF UNANTICIPATED EVENTS.</p>
-
-
-                            <p> PLEASE NOTE INVESTORS IN THIS OFFERING WILL BE CLIENTS OF THE ISSUER AND NOT DALMORE GROUP, LLC (“DALMORE”), A REGISTERED BROKER-DEALER AND MEMBER FINRA/SIPC. DALMORE’S ROLE IN THE TRANSACTION IS TO FACILITATE BACK OFFICE AND REGULATORY FUNCTIONS RELATED TO THE REGULATION A TRANSACTION, AND ACTS ONLY AS THE BROKER/DEALER OF RECORD FOR THE OFFERING LISTED. DALMORE IS NOT PROVIDING INVESTMENT ADVICE OR RECOMMENDATIONS, OR LEGAL OR TAX ADVICE.</p>
-
-                            <p>THIS REG A INVESTMENT IS SPECULATIVE, ILLIQUID, AND INVOLVES A HIGH DEGREE OF RISK, INCLUDING THE POSSIBLE LOSS OF YOUR ENTIRE INVESTMENT. ALL INVESTORS SHOULD MAKE THEIR OWN DETERMINATION, WITH THE ASSISTANCE OF THEIR OWN FINANCIAL OR OTHER ADVISORS, AS TO WHETHER OR NOT TO MAKE ANY INVESTMENT, BASED ON THEIR OWN INDEPENDENT EVALUATION, ANALYSIS AND CIRCUMSTANCES.</p>
-
-                            <p> AN OFFERING STATEMENT REGARDING THIS OFFERING HAS BEEN FILED WITH THE SEC. THE SEC HAS QUALIFIED THAT OFFERING STATEMENT, WHICH ONLY MEANS THAT THE COMPANY MAY MAKE SALES OF THE SECURITIES DESCRIBED BY THE OFFERING STATEMENT. IT DOES NOT MEAN THAT THE SEC HAS APPROVED, PASSED UPON THE MERITS OR PASSED UPON THE ACCURACY OR COMPLETENESS OF THE INFORMATION IN THE OFFERING STATEMENT. THE OFFERING CIRCULAR THAT IS PART OF THAT OFFERING STATEMENT IS AT: <a href="https://cancervax.com/2024oc" target="_blank">sec.gov</a></p>
                         </div>
-
+                     
                     </div>
+
                     <div class="col-lg-4">
-                        <div class="priceCardLeft d-none d-lg-block">
+                            <div class="priceCardLeft d-none d-lg-block">
 
-                            <div class="offerInvestTwo">
-                                <a href="/prep">Invest Here <span>Secure Direct Invest Platform</span></a>
-                            </div>
-
-                            <div class="offerInvestTwo green-btn mt-3">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#investMoreModal">Looking to Invest More Than $5000? <span>Click here to speak with a company executive</span></a>
-                            </div>
-
-                            <div class="priceDetails">
-                                <div>
-                                    <div class="cardPrice">
-                                        PRICE
-                                    </div>
-                                    <div class="cardActual">
-                                        $2.10
-                                    </div>
-                                    <div class="cardPrice">
-                                        BONUS SHARES
-                                    </div>
-                                    <a href="#bonus-shares" class="cardActualBottom">Up to 30%</a>
+                                <div class="offerInvestTwo">
+                                    <a href="/prep">Invest Here <span>Secure Direct Invest Platform</span></a>
                                 </div>
-                                <div>
-                                    <div class=" cardPrice">
-                                        MINIMUM
-                                    </div>
-                                    <div class="cardActual">
-                                        $525.00 </div>
-                                    <div class="cardPrice">
-                                        OFFERING CIRCULAR </div>
-                                    <a href="https://cancervax.com/2024oc" target="_blank" class="cardActualBottom">See on SEC.gov</a>
+
+                                <div class="offerInvestTwo green-btn mt-3">
+                                    <a href="#" data-bs-toggle="modal" data-bs-target="#investMoreModal">Looking to Invest More Than $5000? <span>Click here to speak with a company executive</span></a>
                                 </div>
-                            </div>
-                            <div class="priceDetails-powered">
-                                <p> No Stock Broker Needed <br>
-                                    Direct Investment Opportunity <br>
-                                    Powered By</p>
-                            </div>
-                            <div class="brokerCard">
-                                <a href="https://dalmoregroup.com/about-dalmore/" target="_blank" rel="noopener noreferrer">
-                                    <img src="./assets/img/DallMore.png" alt="hero" class="img-fluid">
-                                </a>
+
+                                <div class="priceDetails">
+                                    <div>
+                                        <div class="cardPrice">
+                                            PRICE
+                                        </div>
+                                        <div class="cardActual">
+                                            $2.10
+                                        </div>
+                                        <div class="cardPrice">
+                                            BONUS SHARES
+                                        </div>
+                                        <a href="#bonus-shares" class="cardActualBottom">Up to 30%</a>
+                                    </div>
+                                    <div>
+                                        <div class=" cardPrice">
+                                            MINIMUM
+                                        </div>
+                                        <div class="cardActual">
+                                            $525.00 </div>
+                                        <div class="cardPrice">
+                                            OFFERING CIRCULAR </div>
+                                        <a href="https://cancervax.com/2024oc" target="_blank" class="cardActualBottom">See on SEC.gov</a>
+                                    </div>
+                                </div>
+                                <div class="priceDetails-powered">
+                                    <p> No Stock Broker Needed <br>
+                                        Direct Investment Opportunity <br>
+                                        Powered By</p>
+                                </div>
+                                <div class="brokerCard">
+                                    <a href="https://dalmoregroup.com/about-dalmore/" target="_blank" rel="noopener noreferrer">
+                                        <img src="./assets/img/DallMore.png" alt="hero" class="img-fluid">
+                                    </a>
+                                </div>
                             </div>
                         </div>
-                    </div>
                 </div>
-            </div>
-            <div class="priceCardmob d-lg-none">
-                <!-- <div class="priceCardmob-text">
+                <div class="priceCardmob d-lg-none">
+                    <!-- <div class="priceCardmob-text">
                     <p><span>$2.10</span> per share</p>
                     <a href="#bonus-shares">Earn Bonus Shares</a>
                 </div> -->
-                <div class="offerInvestTwo green-btn">
-                    <a href="#" class="w-auto" data-bs-toggle="modal" data-bs-target="#investMoreModal">Invest More Than $5000? <span>Speak to a company executive</span></a>
-                </div>
-                <div class="offerInvest">
-                    <a href="/prep">Invest Here <span>Secure Direct Invest Platform</span></a>
-                </div>
-            </div>
-        </div>
-
-        <!-- 7th Section -->
-        <div class="email-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-7">
-                        <div class="tagline">Keep up with our progress by subscribing to
-                            our email newsletter!
-                        </div>
+                    <div class="offerInvestTwo green-btn">
+                        <a href="#" class="w-auto" data-bs-toggle="modal" data-bs-target="#investMoreModal">Invest More Than $5000? <span>Speak to a company executive</span></a>
                     </div>
-                    <div class="col-lg-5">
-                        <div class="email-input">
-                            <input type="text" name="name" placeholder="Enter your email" class="form-control"> <button>Subscribe</button>
-                        </div>
-                        <div class="we-care">We care about your data in our privacy policy</div>
+                    <div class="offerInvest">
+                        <a href="/prep">Invest Here <span>Secure Direct Invest Platform</span></a>
                     </div>
                 </div>
             </div>
 
+            <!-- 7th Section -->
+            <div class="email-section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-7">
+                            <div class="tagline">Keep up with our progress by subscribing to
+                                our email newsletter!
+                            </div>
+                        </div>
+                        <div class="col-lg-5">
+                            <div class="email-input">
+                                <input type="text" name="name" placeholder="Enter your email" class="form-control"> <button>Subscribe</button>
+                            </div>
+                            <div class="we-care">We care about your data in our privacy policy</div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <?php
+            include('footer.php'); ?>
         </div>
-
-
-        <?php
-        include('footer.php'); ?>
     </div>
-</div>
