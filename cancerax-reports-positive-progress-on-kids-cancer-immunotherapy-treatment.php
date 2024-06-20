@@ -10,7 +10,7 @@ include('header.php'); ?>
             <h1>CancerVax Reports Positive Progress on Kids Cancer Immunotherapy Treatment </h1>
         </div>
         <h3>UCLA research team has successfully created 7 pre-clinical monoclonal antibody candidates for targeting Ewing sarcoma </h3>
-        <p>LEHI, Utah, June 12, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that its UCLA research team has made positive progress towards developing a treatment for Ewing sarcoma, a deadly form of kids cancer. </p>
+        <p>LEHI, Utah, June 12, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, the developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that its UCLA research team has made positive progress towards developing a treatment for Ewing sarcoma, a deadly form of kids cancer. </p>
 
         <p>Ewing sarcoma is an aggressive bone and soft-tissue cancer with limited chances of cure, more prevalent in adolescents and young adults. Current therapies for Ewing sarcoma have reached a plateau over the last several decades, and there is an urgent need for improved outcomes. Approaches that target chemotherapy-resistant tumors, especially in metastatic and/or microscopic residual disease would be revolutionary.  </p>
 

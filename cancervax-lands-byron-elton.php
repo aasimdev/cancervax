@@ -11,7 +11,7 @@ include('header.php'); ?>
         </div>
         <h3>Experienced business executive to help establish the Company as a significant force in the field of cancer research</h3>
 
-        <p>LEHI, Utah, April 03, 2023 (GLOBE NEWSWIRE) -- CancerVax, developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, today announced that Byron Elton has joined the Company’s management team and will serve as Chief Marketing Officer (CMO) and will help establish the Company as a significant force in the field of cancer research.</p>
+        <p>LEHI, Utah, April 03, 2023 (GLOBE NEWSWIRE) -- CancerVax, a pre-clinical biotechnology company creating a better way to treat cancer, the developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, today announced that Byron Elton has joined the Company’s management team and will serve as Chief Marketing Officer (CMO) and will help establish the Company as a significant force in the field of cancer research.</p>
 
         <p>Mr. Elton’s duties will include the direct supervision of AGM Agency. Founded in 2015 by Manuel Suarez, AGM is a full-service, social media marketing agency that focuses on helping brands expand their influence by taking advantage of the latest opportunities available in the ever-changing marketing landscape. For more information about AGM Agency, please visit <a href="https://agmagency.com/" target="_blank" rel="noopener noreferrer">https://agmagency.com/</a></p>
 

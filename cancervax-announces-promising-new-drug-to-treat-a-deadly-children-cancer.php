@@ -23,7 +23,7 @@ include('header.php'); ?>
             </div>
         </div>
         <h3>Company plans to launch FDA IND enabling studies needed to apply for approval to proceed with human trials </h3>
-        <p>Santa Barbara, CA, April 16, 2024 (GLOBE NEWSWIRE) -- CancerVax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has created a promising new drug candidate for treating recurrent Ewing sarcoma, a deadly children’s cancer. </p>
+        <p>Santa Barbara, CA, April 16, 2024 (GLOBE NEWSWIRE) -- CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has created a promising new drug candidate for treating recurrent Ewing sarcoma, a deadly children’s cancer. </p>
 
         <p>Ewing sarcoma is a rare and deadly bone and soft tissue cancer that primarily affects children and young adults. There are currently no treatment options for recurrent Ewing sarcoma, which has a near 100% death rate. </p>
         <p>The research program, funded by CancerVax, is led by a world class team of cancer researchers and oncologists who run the Ewing Sarcoma Program at the UCLA Jonsson Comprehensive Cancer Center. The principal investigators include <a href="https://www.uclahealth.org/providers/satiro-de-oliveira" target="_blank" rel="noopener noreferrer">Dr. Satiro De Oliveira, Dr. Noah Federman</a>, and <a href="https://www.uclahealth.org/providers/steven-jonas" target="_blank" rel="noopener noreferrer">Dr. Steven Jonas</a>. </p>

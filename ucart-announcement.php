@@ -10,7 +10,7 @@ include('header.php'); ?>
             <h1>CancerVax Expands Development Pipeline to Include a Universal CAR-T Cell Platform</h1>
         </div>
         <h3>CancerVax Expands Development Pipeline to Include a Universal CAR-T Cell Platform </h3>
-        <p>LEHI, Utah, September 12, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer, today announced an expansion of its development pipeline to include a Universal CAR-T Cell Platform that can dramatically lower the cost of CAR-T cell cancer therapies. </p>
+        <p>LEHI, Utah, September 12, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer, today announced an expansion of its development pipeline to include a Universal CAR-T Cell Platform that can dramatically lower the cost of CAR-T cell cancer therapies. </p>
 
         <p>CAR-T cell therapy is a type of immunotherapy treatment in which a patient’s T-cells are genetically modified in the laboratory, then reinjected back into the patient, so they will bind to specific proteins (antigens) found on cancer cells and kill them. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. We believe we can dramatically lower the cost to a few thousand dollars per dose by simply helping the body make its own CAR T-cells. </p>
 

@@ -11,7 +11,7 @@ include('header.php'); ?>
         </div>
         <h3>The Company’s patent application describes how it plans to leverage cutting-edge CRISPR and mRNA technologies to develop a breakthrough universal cancer vaccine (UCV)</h3>
 
-        <p> LEHI, Utah, March 16, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, announced that it has recently filed a non-provisional patent application to protect its invention which leverages cutting-edge bioengineering techniques such as CRISPR and mRNA to develop a breakthrough universal cancer vaccine (UCV).</p>
+        <p> LEHI, Utah, March 16, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, the developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, announced that it has recently filed a non-provisional patent application to protect its invention which leverages cutting-edge bioengineering techniques such as CRISPR and mRNA to develop a breakthrough universal cancer vaccine (UCV).</p>
         <p>
             “This is a very important milestone for us,” said Ryan Davies, CancerVax CEO. “We previously filed a confidential provisional patent in October 2021 with the U.S. Patent and Trademark Office (USPTO) for our breakthrough universal cancer vaccine. Our regular utility patent application (nonprovisional) will now allow the USPTO to formally review our invention claims. If any claims are granted, we will have patent protection starting from the October 2021 provisional filing date.”</p>
 

@@ -10,7 +10,7 @@ include '../../header.php'; ?>
             <h1>CancerVax CEO Ryan Davies Discussed Cancer Immunotherapy with UCLA Physician - Scientist</h1>
         </div>
         <h3>Dr. Steven Jonas commented about his journey to becoming both a practicing cancer doctor and active cancer researcher</h3>
-        <p>Lehi, Utah, August 24, 2023 (GLOBE NEWSWIRE) – CancerVax, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, spoke with and UCLA cancer physician and researcher, Dr. Steven Jonas, about his journey to becoming both a practicing cancer doctor and active cancer researcher.  </p>
+        <p>Lehi, Utah, August 24, 2023 (GLOBE NEWSWIRE) – CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, the developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, spoke with and UCLA cancer physician and researcher, Dr. Steven Jonas, about his journey to becoming both a practicing cancer doctor and active cancer researcher.  </p>
 
         <p>“My early training as an engineer helped me understand that engineers are tool makers, said Dr. Jonas.  “I also learned that physicians were tool users.  So, combining my education and training as both a tool maker and tool user, it helps me see the world in a different light. In my world, there are both pioneers and enablers. We typically leverage the ideas generated from brilliant scientists around the world and try to figure out how to get these pioneered cargos to where they need to be. I hope this can be our contribution.” </p>
 

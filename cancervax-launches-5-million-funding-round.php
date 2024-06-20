@@ -10,7 +10,7 @@ include('header.php'); ?>
             <h1>CancerVax Launches $5 Million Funding Round </h1>
         </div>
         <h3>Proceeds from the SEC qualified Reg A+ offering will allow the Company to continue work on its breakthrough cancer treatments </h3>
-        <p>LEHI, Utah, April 3, 2024 (GLOBE NEWSWIRE) -- CancerVax, Inc., developer of a breakthrough Universal Cancer Vaccine treatment that will use the body’s immune system to fight cancer, today announced that its Reg A+ offering has been qualified by the SEC allowing the Company to formally launch a funding round of up to $5 million. Proceeds from the SEC qualified Reg A+ offering will be used by the Company to continue work on its breakthrough cancer treatments.   </p>
+        <p>LEHI, Utah, April 3, 2024 (GLOBE NEWSWIRE) -- CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, the developer of a breakthrough Universal Cancer Vaccine treatment that will use the body’s immune system to fight cancer, today announced that its Reg A+ offering has been qualified by the SEC allowing the Company to formally launch a funding round of up to $5 million. Proceeds from the SEC qualified Reg A+ offering will be used by the Company to continue work on its breakthrough cancer treatments.   </p>
 
         <p>CancerVax CEO, Byron Elton said, “We are very excited about the Company’s progress to date. Working with our world class cancer research team at UCLA, we are committed to the goal of finding a better way to treat cancer. Thus far, we’ve raised $3.3 million of seed funding and plan to raise an additional $5 million to further the development of our novel cancer treatments.”   </p>
 

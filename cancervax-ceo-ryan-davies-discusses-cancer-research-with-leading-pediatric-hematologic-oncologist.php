@@ -11,7 +11,7 @@ include('header.php'); ?>
         </div>
         <h3>Dr. Satiro De Oliveira, a principal investigator in the Company’s cancer research program at UCLA, comments about the importance of cancer immunotherapy</h3>
 
-        <p>LEHI, Utah, April 12, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, reported that CEO Ryan Davies spoke about the importance of cancer immunotherapy with Dr. Satiro De Oliveira, a principal investigator in the Company’s cancer research program at UCLA.</p>
+        <p>LEHI, Utah, April 12, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, the developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, reported that CEO Ryan Davies spoke about the importance of cancer immunotherapy with Dr. Satiro De Oliveira, a principal investigator in the Company’s cancer research program at UCLA.</p>
 
         <p>Dr. De Oliveira is a board-certified pediatrician and board-certified pediatric hematology/oncologist. He received his medical degree in Brazil and completed his pediatric residency at Woodhull Medical and Mental Health Center in New York and his pediatric hematology/oncology fellowship at the Children’s Hospital Lost Angeles. His clinical focus is on pediatric oncology and gene therapies and his research focus is on cancer immunotherapy and biology of stem cell transplantation.</p>
 

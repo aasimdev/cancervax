@@ -10,7 +10,7 @@ include('header.php'); ?>
             <h1>CancerVax CEO Ryan Davies Discusses Cancer Drug Development with Dr. Ezra Cohen</h1>
         </div>
         <h3>Two oncology executives discuss the challenges and need for continued development in the cancer space.</h3>
-        <p>Lehi, Utah, November 2, 2023 -- CancerVax, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, and Tempus Labs Chief Medical Officer for Oncology Dr. Ezra Cohen, discussed his time at Tempus Labs, Moores Cancer Center and University of Chicago.  </p>
+        <p>Lehi, Utah, November 2, 2023 -- CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, and Tempus Labs Chief Medical Officer for Oncology Dr. Ezra Cohen, discussed his time at Tempus Labs, Moores Cancer Center and University of Chicago.  </p>
 
         <p>“I got into medicine to make a difference in people’s lives, said Dr. Cohen.  “I realized that cancer patients needed more focus and more attention than other patient groups.  I feel grateful that I have been exposed to many opportunities to help both patients and care givers as an oncology physician.” </p>
 

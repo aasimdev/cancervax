@@ -10,7 +10,7 @@ include('header.php'); ?>
             <h1>Biotech Executive Michael Smith Discusses the FDA Drug Development Process with CancerVax CEO Ryan Davies </h1>
         </div>
         <h3>Michael Smith comments on the growth of immunotherapy and sees the required FDA development phases as a benefit to small biotech firms such as CancerVax </h3>
-        <p>LEHI, Utah, June 16, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that its CEO, Ryan Davies and biotech executive Michael Smith recently discussed the FDA drug development process and the growth of immunotherapy treatments. </p>
+        <p>LEHI, Utah, June 16, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, the developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that its CEO, Ryan Davies and biotech executive Michael Smith recently discussed the FDA drug development process and the growth of immunotherapy treatments. </p>
 
         <p>“Immunotherapy, of course, has made a tremendous leap and I think that it will continue to do so,” said Mr. Smith. “There is the antibody drug development phase and now there is a lot of targeted immunotherapies, and I can only imagine that it will become even more specific and impressive, with respect to efficacy and safety.” </p>
 
