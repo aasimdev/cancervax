@@ -79,7 +79,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="devPlan-wrap">
             <div class="devPlan-heading">
-                <h3>Our Development Pipeline</h3>
+                <h3>Our Development Progress</h3>
                 <p>In addition to our Universal Cancer Vaccine platform, we are also working with UCLA to create two other immunotherapy technologies.</p>
             </div>
             <div class="devPlan-item">
