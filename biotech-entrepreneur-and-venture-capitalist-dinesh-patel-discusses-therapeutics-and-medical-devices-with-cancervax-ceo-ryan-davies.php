@@ -10,7 +10,7 @@ include('header.php'); ?>
             <h1>Biotech Entrepreneur and Venture Capitalist Dinesh Patel Discusses Therapeutics and Medical Devices with CancerVax CEO Ryan Davies</h1>
         </div>
 
-        <p>Lehi, UT – May 17, 2023 – CancerVax, a pre-clinical biotechnology company creating a better way to treat cancer, the developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, today reported that the Company’s CEO, Ryan Davies, recently discussed the importance of developing new drugs and medical devices and their impact on the world of healthcare with biotech entrepreneur and venture capitalist Dinesh Patel.</p>
+        <p>Lehi, UT – May 17, 2023 – CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, the developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, today reported that the Company’s CEO, Ryan Davies, recently discussed the importance of developing new drugs and medical devices and their impact on the world of healthcare with biotech entrepreneur and venture capitalist Dinesh Patel.</p>
 
         <p>Dr. Patel founded TheraTech, a biotech company he took public and later sold to Watson Pharmaceuticals (now Abbvie). He then founded Salus Therapeutics, a biotech company focused on nucleic acid-based therapeutics, including gene therapy drugs and also founded Ashni Natraceuticals. Dr. Patel is the Chairman of the Utah Science Technology and Research Initiative (USTAR). He also serves as Executive Chairman of Xenocor and Chairman of the Board of Light Line Medical (both medical device companies) and is the co-founder and board member of New Eyes.</p>
 
