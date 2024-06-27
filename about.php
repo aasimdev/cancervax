@@ -7,7 +7,7 @@ include('header.php'); ?>
 <section class="abtBanner">
     <div class="container">
         <div class="abtBanner-text">
-            <h1>CancerVax, Inc. is a pre-clinical biotechnology company developing breakthrough cancer drugs that will use the body’s immune system to fight cancer. Working with a team of world class cancer researchers and oncologists at UCLA, we intend to create a Universal Cancer Vaccine that will detect, mark, and destroy only the diseased cells with incredible precision. Like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, our cancer vaccine will leverage the body’s immune system to destroy cancer cells. Also working with UCLA, we have created our first cancer drug candidate – a  single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Based on the positive data, we plan to launch FDA IND enabling studies needed to apply for approval to proceed with human trials. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer. </h1>
+            <h1>CancerVax, Inc. is a pre-clinical biotechnology company creating a better way to treat cancer. Working with a team of world class cancer researchers and practicing oncologists at UCLA, we are developing a breakthrough Universal Cancer Treatment platform that will leverage the body’s immune system to detect, mark, and destroy only cancer cells. We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. </h1>
         </div>
     </div>
 </section>
@@ -17,7 +17,7 @@ include('header.php'); ?>
         <div class="abtinfo-wrap">
             <img src="./assets/img/abt.jpg" alt="abt">
             <p>
-                By leveraging cutting-edge bioengineering and molecular technologies, we are on a quest to develop innovative precision cancer immunotherapies. Inspired by the way COVID-19 vaccines train the body to recognize and destroy the coronavirus, we are developing cancer vaccines, also known as cancer immunotherapies, that uses the body’s immune system to fight cancer. </p>
+                By leveraging cutting-edge bioengineering and molecular technologies, we are on a quest to develop innovative precision cancer immunotherapies that use the body’s immune system to fight cancer. Inspired by the way vaccines train the body to recognize and destroy the other the diseases, we are developing cancer treatment vaccines, also known as vaccine therapy or immunotherapy, which are a type of treatment that can help the immune system identify and attack cancer cells. They are different from vaccines that prevent disease, as they are designed to treat cancer that already exists in the body. </p>
         </div>
     </div>
 </section>
@@ -44,22 +44,14 @@ In 2024, we announced that our UCLA research team had created a promising new dr
 <br><br>
 In late 2021,
 CancerVax developed the concept of a customizable Universal Cancer
-Vaccine platform (UCV) that can potentially target cancer cells with
+Treatment platform that can potentially target cancer cells with
 a high degree of precision and force only the cancer cells to
 express a unique marker that we can easily target for destruction.
-In 2022, we entered into a Sponsored Research Agreement with UCLA to help develop UCV.<br><br>
-The UCV project has progressed methodically with the development of
+In 2022, we entered into a Sponsored Research Agreement with UCLA to help develop our Universal Cancer Treatment platform.<br><br>
+The Universal Cancer Treatment project has progressed methodically with the development of
 various innovative technologies, including a foundational
 nanoparticle technology which can be programmed to target
-specific cells and deliver customized cargos. <br><br>
-<!-- In a pivotal project meeting in the summer of 2023, the UCLA team
-reported positive progress on Ewing sarcoma and UCV. Surprisingly,
-the highly customizable low-cost nanoparticle technology
-developed for UCV can be adapted to perform an existing cancer
-immunotherapy (CAR-T Cell) at an extremely low cost. Thus, the
-Universal CAR-T Cell Platform was born. <br><br>
-We now have a very exciting and important development pipeline
-consisting of three projects at UCLA. -->
+specific cells and deliver customized cargos.
                         </p>
                     </div>
                 </div>
@@ -75,7 +67,7 @@ consisting of three projects at UCLA. -->
 
                             <p class="text-center">Cancer vaccines can train the body to target and destroy specific cancer cells. Cancer vaccines are also known as immunotherapy.
                                 <br><br>
-                                Much like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer vaccines can train the body to target and destroy specific cancer cells.
+                                Much like vaccines that train the body to recognize and destroy ther diseases, cancer vaccines can train the body to target and destroy specific cancer cells.
                             </p>
                         </div>
                     </div>
@@ -111,12 +103,12 @@ cancer research and medical school.
                     </div>
                     <div class="col-sm-9 col-md-8 col-xl-6">
                         <div class="process-description">
-                            <h5>Universal Cancer Vaccine Platform</h5>
-                            <p>By leveraging cutting-edge bioengineering and molecular technologies, we are developing a breakthrough Universal Cancer Vaccine (UCV) Platform.
+                            <h5>Universal Cancer Treatment Platform</h5>
+                            <p>By leveraging cutting-edge bioengineering and molecular technologies, we are developing a breakthrough Universal Cancer Treatment platform.
                                 <br><br>
-                                The UCV will force cancer cells to express a unique protein marker that can be used by the immune system and custom antibodies to precisely target them for destruction. Additionally, we intend to make cancer cells look like common diseases so that the body’s natural immune system can easily destroy them.
+                                Our Universal Cancer Treatment platform will force cancer cells to express a unique protein marker that can be used by the immune system and custom antibodies to precisely target them for destruction. Additionally, we intend to make cancer cells look like common diseases so that the body’s natural immune system can easily destroy them.
                                 <br><br>
-                                We entered into a sponsored research agreement (SRA) with UCLA to help us develop this Universal Cancer Vaccine platform. We hold an option for the exclusive right to license all intellectual property and related technology resulting from this research program.
+                                We entered into a sponsored research agreement (SRA) with UCLA to help us develop our Universal Cancer Treatment platform. We hold an option for the exclusive right to license all intellectual property and related technology resulting from this research program.
                             </p>
                         </div>
                     </div>

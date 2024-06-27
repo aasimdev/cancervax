@@ -26,9 +26,11 @@ include "header.php";
                                     <img src="./assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
                                 </a>
                             </div>
-                            <p> CancerVax is a pre-clinical biotech company working with a world-class team of experienced cancer researchers and physicians at UCLA to create a breakthrough <strong>Universal Cancer Vaccine</strong> platform (UCV).</p>
-                            <p> Our cancer treatment is designed to be customizable, administered as a shot, and leverage state-of-the-art bioengineering and molecular technologies.</p>
-                            <p> This innovative approach detects, marks, and kills cancer cells exclusively. By inducing cancer cells to express a distinct marker absent in healthy cells, custom antibody drugs and the body's immune cells can precisely target and eradicate cancer cells.</p>
+                            <p> CancerVax, Inc. is a pre-clinical biotechnology company creating a better way to treat cancer. Working with a team of world class cancer researchers and practicing oncologists at UCLA, we are developing a breakthrough Universal Cancer Treatment platform that will leverage the body’s immune system to detect, mark, and destroy only cancer cells.</p>
+
+<p>      We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults.
+</p>
+<p>    We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer.</p>
                         </div>
                         <div class="invest-btns-wrap">
                             <div class="offerInvest">
@@ -103,7 +105,7 @@ include "header.php";
 
                                     <div class="wrapInvest">
                                         <div class="reasonNumber">3</div>
-                                        <p>CancerVax is proud to be working with a world-class team of experienced cancer researchers and physicians at UCLA. This team of MDs and PhDs has 80+ years of combined experience in cancer research and clinical treatment. Combined with the strong management team at CancerVax, we are undertaking a bold and innovative immunotherapy research approach - a Universal Cancer Vaccine platform - a better way to treat cancer.</p>
+                                        <p>CancerVax is proud to be working with a world-class team of experienced cancer researchers and physicians at UCLA. This team of MDs and PhDs has 80+ years of combined experience in cancer research and clinical treatment. Combined with the strong management team at CancerVax, we are undertaking a bold and innovative immunotherapy research approach - a Universal Cancer Treatment platform - a better way to treat cancer.</p>
                                     </div>
                                     <div class="wrapInvestZero">
                                         <div class="reasonNumber">4</div>
@@ -116,8 +118,8 @@ include "header.php";
 
                         <!-- 3rd Section -->
                         <div class="problemSection">
-                            <h3>The Problem & Our Solution -
-                                Universal Cancer Vaccine Platform</h3>
+                        <h3>The Problem & Our Solution -
+                        Universal Cancer Treatment Platform</h3>
 
                             <!-- <div class="prob-video">
                                 <a href="https://www.youtube.com/watch?v=zbnhGW5Zz4c" class="popup-youtube">
@@ -143,7 +145,7 @@ include "header.php";
 
                             <div class="prob-block">
                                 <p> Cancer immunotherapy is the next generation weapon in the fight against cancer.  It uses the body’s own immune system to target and kill cancer cells. </p>
-                                <p>Working with the world-class research team at UCLA, CancerVax is developing a Universal Cancer Vaccine platform to target and destroy cancer cells with precision.</p>
+                                <p>Working with the world-class research team at UCLA, we is developing a Universal Cancer Treatment platform to target and destroy cancer cells with precision.</p>
 
                                 <div class="prob-img">
                                     <img src="./assets/img/solution3.png" alt="hero" class="img-fluid">
@@ -163,16 +165,9 @@ include "header.php";
                                     system is very effective at targeting and killing abnormal cells, germs and viruses, and has been
                                     doing it since the beginning of time. The problem is that cancer is not a foreign invader and grows
                                     much faster than the body’s normal immune response rate.</p>
-                                <p>Much like COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer
-                                    immunotherapies can train the body to target and destroy specific cancer cells. <span>Cancer
-                                        immunotherapies are also known as cancer treatment vaccines.</span> </p>
-                                <p>While there is no such thing as a magic vaccine that can prevent people from getting cancer, we
-                                    can borrow many of the techniques and technologies from modern preventative flu or COVID
-                                    vaccines, and use the body’s immune system to target and treat cancers.</p>
-                                <p>Our immunotherapy technologies being developed at UCLA are designed to be delivered as
-                                    simple injections. With our development of a Universal Cancer Vaccine platform, we look forward
-                                    to the day when treating cancer will be as simple as getting a flu shot – <span>We believe
-                                        immunotherapy is a better way to treat cancer.</span></p>
+                                    <p>Much like vaccines that train the body to recognize and destroy other diseases, cancer immunotherapies can train the body to target and destroy specific cancer cells. <span> Cancer immunotherapies are also known as cancer treatment vaccines.</span> </p>
+                                <p>While there is no such thing as a magic vaccine that can prevent people from getting cancer, we can borrow many of the techniques and technologies from modern preventative vaccines and use the body’s immune system to target and treat cancers.</p>
+                                <p>Our immunotherapy technologies being developed at UCLA are designed to be delivered as simple injections. With our development of a Universal Cancer Treatment platform, we look forward to the day when treating cancer will be as simple as getting a flu shot – <span>We believe immunotherapy is a better way to treat cancer.</span></p>
                                 <p>CancerVax has exclusive rights to license and commercialize the technology and patents that
                                     result from these UCLA research programs.</p>
 
@@ -280,7 +275,7 @@ include "header.php";
                                 <h4 class="why-b"> Why Invest  </h4>
 
                                 <h5>Let's Beat Cancer</h5>
-                                <p>Pharmaceutical research is booming from the effects of the COVID-19 pandemic, where the medical community learned how to use mRNA to recognize and fight specific disease states. A similar concept is being applied by CancerVax to create immunotherapy treatments with the purpose of using a patient’s immune system to detect, mark, and kill cancer.</p>
+                                <p>Pharmaceutical research is booming from the effects of the COVID-19 pandemic, where the medical community learned how to use mRNA to recognize and fight specific disease states. CancerVax is applying a similar concept to create immunotherapy treatments with the purpose of using a patient’s immune system to detect, mark, and kill cancer.</p>
 
                                 <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank" rel="noopener noreferrer">
                                     <img src="./assets/img/invest-microscope.png" alt="hero" class="img-fluid mt-4">

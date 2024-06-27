@@ -9,7 +9,7 @@ include('header.php'); ?>
         <div class="row align-items-center">
             <div class="col-lg-7">
                 <div class="contact-title">
-                    <span>CancerVax, Inc. is a pre-clinical biotechnology company creating a better way to treat cancer. Working with a team of world class cancer researchers and practicing oncologists at UCLA, we are developing a Universal Cancer Vaccine that will leverage the body’s immune system to detect, mark, and destroy only cancer cells. We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. To learn more, please visit <a href="https://cancervax.com/">www.CancerVax.com</a> </span>
+                    <span>CancerVax, Inc. is a pre-clinical biotechnology company creating a better way to treat cancer. Working with a team of world class cancer researchers and practicing oncologists at UCLA, we are developing a breakthrough Universal Cancer Treatment platform that will leverage the body’s immune system to detect, mark, and destroy only cancer cells. We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. </span>
                     <h1>Contact us</h1>
                     <p>We would love to hear from you</p>
                 </div>
