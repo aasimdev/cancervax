@@ -86,7 +86,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="immtypes__heading">
             <h4>Types of Immunotherapy</h4>
-            <p>According to the National Cancer Institute, there are several types of immunotherapies..</p>
+            <p>According to the National Cancer Institute, there are several types of immunotherapies.</p>
         </div>
         <div class="immtypes__item">
             <div class="row">
