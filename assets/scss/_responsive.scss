@@ -1053,7 +1053,9 @@
         line-height: 1.4;
     }
 
-    .pi-ty, .pi-ty-btns, .pi-invest-main {
+    .pi-ty,
+    .pi-ty-btns,
+    .pi-invest-main {
         padding: 40px 0;
     }
 
@@ -1070,5 +1072,16 @@
     .pi-invest-step {
         margin-top: 32px;
     }
-   
+
+    .pvt-page h2 {
+        font-size: 30px;
+        margin-top: 24px;
+    }
+
+    .pvt-page h1 {
+        font-size: 53px;
+    }
+    .pvt-page p {
+        margin-top: 16px;
+    }
 }
