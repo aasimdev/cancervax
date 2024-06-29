@@ -100,7 +100,7 @@ include "header.php";
 
                                     <div class="wrapInvest">
                                         <div class="reasonNumber">2</div>
-                                        <p>Cancer affects many lives as the second leading cause of death in the US. <sup>(1)</sup> While we don’t have a solution to prevent cancer, our objective is to develop our Universal Cancer Vaccine platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities. </p>
+                                        <p>Cancer affects many lives as the second leading cause of death in the US. <sup>(1)</sup> While we don’t have a solution to prevent cancer, our objective is to develop our Universal Cancer Treatment platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities. </p>
                                     </div>
 
                                     <div class="wrapInvest">
@@ -167,7 +167,7 @@ include "header.php";
                                 <p>Our immunotherapy technologies being developed at UCLA are designed to be delivered as simple injections. With our development of a Universal Cancer Treatment platform, we look forward to the day when treating cancer will be as simple as getting a flu shot – <span>We believe immunotherapy is a better way to treat cancer.</span></p>
                                 <p>CancerVax has exclusive rights to license and commercialize the technology and patents that result from these UCLA research programs.</p>
                                 <!-- <h5>Additional Immunotherapy Projects</h5>
-                                <p>In addition to our Universal Cancer Vaccine platform, we are also working with UCLA to create two other immunotherapy technologies.</p> -->
+                                <p>In addition to our Universal Cancer Treatment platform, we are also working with UCLA to create two other immunotherapy technologies.</p> -->
 
                                 <div class="Children">
                                     <h4> Children’s Cancer Progress</h4>
@@ -200,7 +200,7 @@ include "header.php";
 
                                 <p>Our UCAR-T Cell platform is a novel and customizable low-cost cancer treatment platform, delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. Our goal is to lower the cost to a few thousand dollars per dose by helping the body make its own CAR T-cells.</p>
 
-                                <p>Our Universal Cancer Vaccine platform and our UCAR-T Cell platform can be used separately, however, when used together, we believe that we can kill cancer cells with extreme precision using the body’s immune system at very low costs. Our Universal Cancer Vaccine platform detects and marks a unique target our UCAR-T Cell platform makes T-cells that attack that target.</p>
+                                <p>Our Universal Cancer Treatment platform and our UCAR-T Cell platform can be used separately, however, when used together, we believe that we can kill cancer cells with extreme precision using the body’s immune system at very low costs. Our Universal Cancer Treatment platform detects and marks a unique target our UCAR-T Cell platform makes T-cells that attack that target.</p>
                             </div>
                             <div class="pipeline-virus-left mt-4">
                                 <img src="./assets/img/pipeline-virus-left.png" alt="hero" class="img-fluid">

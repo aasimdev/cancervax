@@ -19,7 +19,7 @@ include "header.php";
                             </a>
                             <div class="reason">4 Reasons to invest</div>
                         </div>
-                        <p> CancerVax is a pre-clinical biotech company working with a world-class team of experienced cancer researchers and physicians at UCLA to create a breakthrough Universal Cancer Vaccine platform (UCV).</p>
+                        <p> CancerVax is a pre-clinical biotech company working with a world-class team of experienced cancer researchers and physicians at UCLA to create a breakthrough Universal Cancer Treatment platform (UCV).</p>
                         <p> Our cancer treatment is designed to be customizable, administered as a shot, and leverage state-of-the-art bioengineering and molecular technologies.</p>
                         <p> This innovative approach detects, marks, and kills cancer cells exclusively. By inducing cancer cells to express a distinct marker absent in healthy cells, custom antibody drugs and the body's immune cells can precisely target and eradicate cancer cells.</p>
                     </div>
@@ -57,7 +57,7 @@ include "header.php";
 
                             <div class="wrapInvest">
                                 <div class="reasonNumber">2</div>
-                                <p>Cancer affects many lives as the second leading cause of death in the US. While we don’t have a solution to prevent cancer, our objective is to develop our Universal Cancer Vaccine platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities.</p>
+                                <p>Cancer affects many lives as the second leading cause of death in the US. While we don’t have a solution to prevent cancer, our objective is to develop our Universal Cancer Treatment platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities.</p>
                             </div>
 
                             <div class="wrapInvest">
@@ -123,7 +123,7 @@ include "header.php";
             <div class="row">
                 <div class="col-lg-6">
                     <h3>The Problem & Our Solution -
-                        Universal Cancer Vaccine Platform</h3>
+                        Universal Cancer Treatment Platform</h3>
                 </div>
             </div>
             <div class="row helpCard">
@@ -152,7 +152,7 @@ include "header.php";
             <div class="row">
                 <div class="col-lg-6">
                     <p> Cancer immunotherapy is the next generation weapon in the fight against cancer.  It uses the body’s own immune system to target and kill cancer cells. </p>
-                    <p>Working with the world-class research team at UCLA, CancerVax is developing a Universal Cancer Vaccine platform to target and destroy cancer cells with precision.</p>
+                    <p>Working with the world-class research team at UCLA, CancerVax is developing a Universal Cancer Treatment platform to target and destroy cancer cells with precision.</p>
 
                 </div>
                 <div class="col-lg-6">
@@ -181,10 +181,10 @@ include "header.php";
                         <p>In recent years, advances in science and biotechnology have proven that the body’s immune system is very effective at targeting and killing abnormal cells, germs and viruses, and has been doing it since the beginning of time. The problem is that cancer is not a foreign invader and grows much faster than the body’s normal immune response rate.</p>
                         <p>Much like COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer immunotherapies can train the body to target and destroy specific cancer cells. <span> Cancer immunotherapies are also known as cancer treatment vaccines.</span> </p>
                         <p>While there is no such thing as a magic vaccine that can prevent people from getting cancer, we can borrow many of the techniques and technologies from modern preventative flu or COVID vaccines, and use the body’s immune system to target and treat cancers.</p>
-                        <p>Our immunotherapy technologies being developed at UCLA are designed to be delivered as simple injections. With our development of a Universal Cancer Vaccine platform, we look forward to the day when treating cancer will be as simple as getting a flu shot – <span>We believe immunotherapy is a better way to treat cancer.</span></p>
+                        <p>Our immunotherapy technologies being developed at UCLA are designed to be delivered as simple injections. With our development of a Universal Cancer Treatment platform, we look forward to the day when treating cancer will be as simple as getting a flu shot – <span>We believe immunotherapy is a better way to treat cancer.</span></p>
                         <p>CancerVax has exclusive rights to license and commercialize the technology and patents that result from these UCLA research programs.</p>
                         <h5>Additional Immunotherapy Projects</h5>
-                        <p>In addition to our Universal Cancer Vaccine platform, we are also working with UCLA to create two other immunotherapy technologies.</p>
+                        <p>In addition to our Universal Cancer Treatment platform, we are also working with UCLA to create two other immunotherapy technologies.</p>
 
                         <div class="universal-heading d-flex align-items-center justify-content-lg-between flex-column flex-lg-row">
                             Universal CAR-T Cell Platform (UCAR-T)
@@ -195,7 +195,7 @@ include "header.php";
 
                         <p>Our UCAR-T Cell platform is a novel and customizable low-cost cancer treatment platform, delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. Our goal is to lower the cost to a few thousand dollars per dose by helping the body make its own CAR T-cells.</p>
 
-                        <p>Our Universal Cancer Vaccine platform and our UCAR-T Cell platform can be used separately, however, when used together, we believe that we can kill cancer cells with extreme precision using the body’s immune system at very low costs. Our Universal Cancer Vaccine platform detects and marks a unique target our UCAR-T Cell platform makes T-cells that attack that target.</p>
+                        <p>Our Universal Cancer Treatment platform and our UCAR-T Cell platform can be used separately, however, when used together, we believe that we can kill cancer cells with extreme precision using the body’s immune system at very low costs. Our Universal Cancer Treatment platform detects and marks a unique target our UCAR-T Cell platform makes T-cells that attack that target.</p>
                     </div>
                 </div>
             </div>

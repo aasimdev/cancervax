@@ -19,7 +19,7 @@ include('investor-header.php'); ?>
                         <p>In speaking with physicians the consensus is mitigation of risk factors and <strong><span>more investigation.</span></strong></p>
                         <p>Researchers are <strong><span>hard at work, addressing the problem</span></strong> from both ends: cancer prevention and cancer treatment.</p>
                         <p>As Ryan, CEO of CancerVax has stated, <strong><span>“Cancer is among the leading causes of death worldwide. Our team is preparing the next generation of Cancer Treatment.”</span></strong></p>
-                        <p>CancerVax has a valuable Sponsored Research Agreement with UCLA to develop a universal cancer vaccine (“UCV”) that <strong><span>will precisely detect, mark and kill cancer cells,</span></strong> while leaving healthy cells intact.</p>
+                        <p>CancerVax has a valuable Sponsored Research Agreement with UCLA to develop a universal cancer treatment that <strong><span>will precisely detect, mark and kill cancer cells,</span></strong> while leaving healthy cells intact.</p>
                         <p>CancerVax understands the urgency and has devoted enormous resources to this battle.</p>
                         <p><br></p>
                         <p style="text-align: center;">We invite you to <strong><span>help us in the fight against cancer</span></strong> by investing in CancerVax.</p>

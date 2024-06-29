@@ -10,7 +10,7 @@ include('header.php'); ?>
             <h1>CancerVax Reports Positive Progress on Kids Cancer Immunotherapy Treatment </h1>
         </div>
         <h3>UCLA research team has successfully created 7 pre-clinical monoclonal antibody candidates for targeting Ewing sarcoma </h3>
-        <p>LEHI, Utah, June 12, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, the developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that its UCLA research team has made positive progress towards developing a treatment for Ewing sarcoma, a deadly form of kids cancer. </p>
+        <p>LEHI, Utah, June 12, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, the developer of a breakthrough universal cancer treatment that uses the body’s immune system to fight cancer, today announced that its UCLA research team has made positive progress towards developing a treatment for Ewing sarcoma, a deadly form of kids cancer. </p>
 
         <p>Ewing sarcoma is an aggressive bone and soft-tissue cancer with limited chances of cure, more prevalent in adolescents and young adults. Current therapies for Ewing sarcoma have reached a plateau over the last several decades, and there is an urgent need for improved outcomes. Approaches that target chemotherapy-resistant tumors, especially in metastatic and/or microscopic residual disease would be revolutionary.  </p>
 
@@ -26,7 +26,7 @@ include('header.php'); ?>
 
         <h3>About Us</h3>
 
-        <p>CancerVax, Inc. is a pre-clinical biotechnology company developing a breakthrough universal cancer vaccine to fight cancer using the body’s immune system. Working with a team of experienced cancer researchers and physicians at UCLA, we intend to create a Universal Cancer Vaccine that will detect, mark, and destroy only the diseased cells with incredible precision. Like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, our cancer vaccine will leverage the body’s immune system to destroy cancer cells. As we develop our universal cancer vaccine, we work with UCLA to develop single-disease cancer treatments targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a flu shot. </p>
+        <p>CancerVax, Inc. is a pre-clinical biotechnology company developing a breakthrough universal cancer treatment to fight cancer using the body’s immune system. Working with a team of experienced cancer researchers and physicians at UCLA, we intend to create a Universal Cancer Treatment that will detect, mark, and destroy only the diseased cells with incredible precision. Like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, our cancer vaccine will leverage the body’s immune system to destroy cancer cells. As we develop our universal cancer treatment, we work with UCLA to develop single-disease cancer treatments targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a flu shot. </p>
 
         <h3>Forward-Looking Statements</h3>
 

@@ -100,7 +100,7 @@ include "header.php";
 
                                     <div class="wrapInvest">
                                         <div class="reasonNumber">2</div>
-                                        <p>Cancer affects many lives as the second leading cause of death in the US. <sup>(1)</sup> While we don’t have a solution to prevent cancer, our objective is to develop our Universal Cancer Vaccine platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities. </p>
+                                        <p>Cancer affects many lives as the second leading cause of death in the US. <sup>(1)</sup> While we don’t have a solution to prevent cancer, our objective is to develop our Universal Cancer Treatment platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities. </p>
                                     </div>
 
                                     <div class="wrapInvest">
@@ -172,7 +172,7 @@ include "header.php";
                                     result from these UCLA research programs.</p>
 
                                 <h5>Additional Immunotherapy Projects</h5>
-                                <p>In addition to our Universal Cancer Vaccine platform, we are also working with UCLA to create two other immunotherapy technologies.</p>
+                                <p>In addition to our Universal Cancer Treatment platform, we are also working with UCLA to create two other immunotherapy technologies.</p>
 
                                 <div class="Children">
                                     <h4> Children’s Cancer Progress</h4>

@@ -228,12 +228,12 @@ Based on the positive data, we may launch FDA IND enabling studies needed to app
 <!-- <section class="fcancervax">
     <div class="container">
         <div class="fcancervax-box">
-            <h4>Universal Cancer Vaccine</h4>
+            <h4>Universal Cancer Treatment</h4>
             <div class="row align-items-center">
                 <div class="col-lg-6 order-lg-0 order-1">
                     <div class="fcancervax-text">
-                        <h5>Universal Cancer Vaccine</h5>
-                        <p>We are developing a Universal Cancer Vaccine (UCV) that will use the body’s own immune
+                        <h5>Universal Cancer Treatment</h5>
+                        <p>We are developing a Universal Cancer Treatment (UCV) that will use the body’s own immune
                             system to target and eliminate cancer cells. The UCV will use cutting edge
                             bioengineering and molecular technologies to uniquely detect, mark and kill only cancer
                             cells. By forcing cancer cells to express a unique marker that healthy cells do not
@@ -364,7 +364,7 @@ Based on the positive data, we may launch FDA IND enabling studies needed to app
                     <a href="cancervax-launches-5-million-funding-round.php"></a>
                     <span> April 3, 2024 </span>
                     <h3>CancerVax Launches $5 Million Funding Round </h3>
-                    <p> CancerVax, Inc., developer of a breakthrough Universal Cancer Vaccine treatment that will use the body’s immune system to fight cancer, today announced that its Reg A+ offering has been qualified by the SEC allowing the Company to formally launch a funding round of up to $5 million. Proceeds from the SEC qualified Reg A+ offering will be used by the Company to continue work on its breakthrough cancer treatments </p>
+                    <p> CancerVax, Inc., developer of a breakthrough Universal Cancer Treatment treatment that will use the body’s immune system to fight cancer, today announced that its Reg A+ offering has been qualified by the SEC allowing the Company to formally launch a funding round of up to $5 million. Proceeds from the SEC qualified Reg A+ offering will be used by the Company to continue work on its breakthrough cancer treatments </p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -372,7 +372,7 @@ Based on the positive data, we may launch FDA IND enabling studies needed to app
                     <a href="cancervax-ceo-ryan-davies-discusses-cancer-drug-development-with-dr-ezra-cohen.php"></a>
                     <span>November 2, 2023 </span>
                     <h3>CancerVax CEO Ryan Davies Discusses Cancer Drug Development with Dr. Ezra Cohen</h3>
-                    <p> CancerVax, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, and Tempus Labs Chief Medical Officer for Oncology Dr. Ezra Cohen, discussed his time at Tempus Labs, Moores Cancer Center and University of Chicago </p>
+                    <p> CancerVax, Inc., developer of a breakthrough universal cancer treatment that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, and Tempus Labs Chief Medical Officer for Oncology Dr. Ezra Cohen, discussed his time at Tempus Labs, Moores Cancer Center and University of Chicago </p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -388,7 +388,7 @@ Based on the positive data, we may launch FDA IND enabling studies needed to app
                     <a href="cancervax-ceo-ryan-davies-discussed-cancer-immunotherapy-with-ucla-physician-scientist.php"></a>
                     <span>August 24, 2023 </span>
                     <h3>CancerVax CEO Ryan Davies Discussed Cancer Immunotherapy with UCLA Physician-Scientist</h3>
-                    <p>CancerVax, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, spoke with and UCLA cancer physician and researcher, Dr. Steven Jonas, about his journey to becoming both a practicing cancer doctor and active cancer researcher</p>
+                    <p>CancerVax, Inc., developer of a breakthrough universal cancer treatment that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, spoke with and UCLA cancer physician and researcher, Dr. Steven Jonas, about his journey to becoming both a practicing cancer doctor and active cancer researcher</p>
                 </div>
             </div>
 

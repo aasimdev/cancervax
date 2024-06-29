@@ -17,7 +17,7 @@ include('header.php'); ?>
         <div class="abtinfo-wrap">
             <img src="./assets/img/abt.jpg" alt="abt">
             <p>
-                By leveraging cutting-edge bioengineering and molecular technologies, we are on a quest to develop innovative precision cancer immunotherapies that use the body’s immune system to fight cancer. Inspired by the way vaccines train the body to recognize and destroy the other the diseases, we are developing cancer treatment vaccines, also known as vaccine therapy or immunotherapy, which are a type of treatment that can help the immune system identify and attack cancer cells. They are different from vaccines that prevent disease, as they are designed to treat cancer that already exists in the body. </p>
+                By leveraging cutting-edge bioengineering and molecular technologies, we are on a quest to develop innovative precision cancer immunotherapies that use the body’s immune system to fight cancer. Inspired by the way vaccines train the body to recognize and destroy other diseases, we are developing cancer treatment vaccines, also known as vaccine therapy or immunotherapy, which are a type of treatment that can help the immune system identify and attack cancer cells. They are different from vaccines that prevent disease, as they are designed to treat cancer that already exists in the body. </p>
         </div>
     </div>
 </section>

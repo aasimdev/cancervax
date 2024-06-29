@@ -10,7 +10,7 @@ include('header.php'); ?>
             <h1>CancerVax CEO Ryan Davies Discusses Cancer Drug Development with Dr. Ezra Cohen</h1>
         </div>
         <h3>Two oncology executives discuss the challenges and need for continued development in the cancer space.</h3>
-        <p>Lehi, Utah, November 2, 2023 -- CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, and Tempus Labs Chief Medical Officer for Oncology Dr. Ezra Cohen, discussed his time at Tempus Labs, Moores Cancer Center and University of Chicago.  </p>
+        <p>Lehi, Utah, November 2, 2023 -- CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, developer of a breakthrough universal cancer treatment that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, and Tempus Labs Chief Medical Officer for Oncology Dr. Ezra Cohen, discussed his time at Tempus Labs, Moores Cancer Center and University of Chicago.  </p>
 
         <p>“I got into medicine to make a difference in people’s lives, said Dr. Cohen.  “I realized that cancer patients needed more focus and more attention than other patient groups.  I feel grateful that I have been exposed to many opportunities to help both patients and care givers as an oncology physician.” </p>
 
@@ -25,7 +25,7 @@ include('header.php'); ?>
 
         <h3>About Us</h3>
 
-        <p>CancerVax, Inc., a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer. Working with a team of experienced cancer researchers and physicians at UCLA, we are developing a pipeline that includes three innovative projects: (1) treating Ewing sarcoma, a deadly children’s cancer, (2) a Universal Cancer Vaccine that will detect, mark, and destroy only cancer cells while leaving healthy cells in-tact, and (3) a low cost Universal CAR-T Cell Platform that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. All of our immunotherapy technologies are designed to be delivered as injections. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.  </p>
+        <p>CancerVax, Inc., a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer. Working with a team of experienced cancer researchers and physicians at UCLA, we are developing a pipeline that includes three innovative projects: (1) treating Ewing sarcoma, a deadly children’s cancer, (2) a Universal Cancer Treatment that will detect, mark, and destroy only cancer cells while leaving healthy cells in-tact, and (3) a low cost Universal CAR-T Cell Platform that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. All of our immunotherapy technologies are designed to be delivered as injections. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.  </p>
 
         <h3>Forward-Looking Statements</h3>
 
