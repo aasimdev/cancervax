@@ -8,7 +8,7 @@ include('header.php'); ?>
     <div class="container">
         <h1>Privacy Policy</h1>
 
-        <p>At CancerVax, protecting your privacy is very important to us. We value your trust and want you to understand what information we collect, how we use it, and how we protect it. The Gramm-Leach-Bliley Act, passed in November 1999, requires that all companies distributing financial and insurance products to the public develop and publish a privacy policy. CancerVax’s Privacy Policy provides information relating to how and when we share investor information with unaffiliated third parties. A copy of our Privacy Policy is delivered to investors at the time of investment – either hand-delivered or by mail, and annually thereafter – by mail, to the last known address.</p>
+        <p>At CancerVax, protecting your privacy is very important to us. We value your trust and want you to understand what information we collect, how we use it, and how we protect it. The Gramm-Leach-Bliley Act, passed in November, 1999, requires that all companies distributing financial and insurance products to the public develop and publish a privacy policy. CancerVax’s Privacy Policy provides information relating to how and when we share investor information with unaffiliated third parties. A copy of our Privacy Policy is delivered to investors at the time of investment – either hand-delivered or by mail, and annually thereafter – by mail, to the last known address.</p>
 
         <h2>Personal Information We May Collect</h2>
 
@@ -17,7 +17,7 @@ include('header.php'); ?>
         <ul class="theme-list">
             <li>Account applications and other forms,</li>
             <li>Your transactions with us or others,</li>
-            <li>From written, electronic, and verbal correspondence and communication,</li>
+            <li>From written, electronic and verbal correspondence and communication,</li>
             <li>From a consumer reporting agency.</li>
         </ul>
 

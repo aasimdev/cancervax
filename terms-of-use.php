@@ -6,7 +6,7 @@ include('header.php'); ?>
 
 <section class="pvt-page">
     <div class="container">
-        <h1>Terms of Use</h1>
+        <h1>CancerVax Terms of Use</h1>
 
         <h2>Introduction</h2>
         <h2>Terms and Conditions of Use</h2>
@@ -44,7 +44,8 @@ include('header.php'); ?>
 
         <p>Email <a href="mailto:support@CancerVax.com">support@CancerVax.com</a> or <a href="mailto:info@CancerVax.com">info@CancerVax.com</a> | ©2024 CancerVax. All rights reserved. <a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a></p>
 
-        <p>* GENERALLY, NO SALE MAY BE MADE TO YOU IN THIS OFFERING IF THE AGGREGATE PURCHASE PRICE YOU PAY IS MORE THAN 10% OF THE GREATER OF YOUR ANNUAL INCOME OR NET WORTH. DIFFERENT RULES APPLY TO ACCREDITED INVESTORS AND NON-NATURAL PERSONS. BEFORE MAKING ANY REPRESENTATION THAT YOUR INVESTMENT DOES NOT EXCEED APPLICABLE THRESHOLDS, WE ENCOURAGE YOU TO REVIEW RULE 251(d)(2)(i)(C) OF REGULATION A. FOR GENERAL INFORMATION ON INVESTING, WE ENCOURAGE YOU TO REFER TO WWW.INVESTOR.GOV. DISCLAIMER: INVESTMENTS IN CANCERVAX ARE SPECULATIVE, ILLIQUID, AND INVOLVE A HIGH DEGREE OF RISK, INCLUDING THE POSSIBLE LOSS OF YOUR ENTIRE INVESTMENT.</p>
+        <p>* GENERALLY, NO SALE MAY BE MADE TO YOU IN THIS OFFERING IF THE AGGREGATE PURCHASE PRICE YOU PAY IS MORE THAN 10% OF THE GREATER OF YOUR ANNUAL INCOME OR NET WORTH. DIFFERENT RULES APPLY TO ACCREDITED INVESTORS AND NON-NATURAL PERSONS. BEFORE MAKING ANY REPRESENTATION THAT YOUR INVESTMENT DOES NOT EXCEED APPLICABLE THRESHOLDS, WE ENCOURAGE YOU TO REVIEW RULE 251(d)(2)(i)(C) OF REGULATION A. FOR GENERAL INFORMATION ON INVESTING, WE ENCOURAGE YOU TO REFER TO WWW.INVESTOR.GOV. </p> 
+        <p>DISCLAIMER: INVESTMENTS IN CANCERVAX ARE SPECULATIVE, ILLIQUID, AND INVOLVE A HIGH DEGREE OF RISK, INCLUDING THE POSSIBLE LOSS OF YOUR ENTIRE INVESTMENT.</p>
 
         <p>Affiliated Business Disclosure: The officers and directors of our company, including Kevin Paffrath, are also officers, directors, managers, and/or key professionals’ other entities, including securities and/or real estate entities. These persons have legal obligations with respect to those entities that are similar to their obligations to us. In the future, these persons and other affiliates of our company may organize other real estate-related, securities, or debt-related programs and acquire assets for their own account investments that may otherwise be suitable for us. Please view the Offering Circular for additional information, including disclosure on “Risk Factors”, “Interest of Management and Others In Certain Transactions”, and “Conflicts of Interest.”</p>
 
