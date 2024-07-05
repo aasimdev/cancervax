@@ -95,7 +95,7 @@ include "header.php";
                                 <div class="investReasons">
                                     <div class="wrapInvest">
                                         <div class="reasonNumber">1</div>
-                                        <p>According to the American Cancer Society,<span> cancer is the second leading cause of death in the United States in 2022,</span> more than COVID deaths. According to Fortune Business Insights, the global cancer drugs market is projected to grow from $205 billion in 2023 to <a href="#">$484 billion by 2030 </a><sup>(2)</sup>.</p>
+                                        <p>According to the American Cancer Society,<span> cancer was the second leading cause since we are looking at 2022?</span> more than COVID deaths. According to Fortune Business Insights, the global cancer drugs market is projected to grow from $205 billion in 2023 to <a href="#">$484 billion by 2030 </a><sup>(2)</sup>.</p>
                                     </div>
 
                                     <div class="wrapInvest">
@@ -145,7 +145,7 @@ include "header.php";
 
                             <div class="prob-block">
                                 <p> Cancer immunotherapy is the next generation weapon in the fight against cancer.  It uses the body’s own immune system to target and kill cancer cells. </p>
-                                <p>Working with the world-class research team at UCLA, we is developing a Universal Cancer Treatment platform to target and destroy cancer cells with precision.</p>
+                                <p>Working with the world-class research team at UCLA, we are developing a Universal Cancer Treatment platform to target and destroy cancer cells with precision.</p>
 
                                 <div class="prob-img">
                                     <img src="./assets/img/solution3.png" alt="hero" class="img-fluid">
