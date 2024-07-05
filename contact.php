@@ -18,7 +18,7 @@ include('header.php'); ?>
                         <div class="col-sm-5">
                             <div class="contact-info-item">
                                 <h3>CALIFORNIA</h3>
-                                <p><a href="https://goo.gl/maps/5xZJ6Byy4tZt2P7AA" target="_blank" rel="noopener noreferrer">351 Paseo Nuevo, Floor 2 Santa Barbara, CA 93101</a></p>
+                                <p><a href="https://goo.gl/maps/5xZJ6Byy4tZt2P7AA" target="_blank" rel="noopener noreferrer">351 Paseo Nuevo, Floor 2 <br> Santa Barbara, CA 93101</a></p>
                             </div>
                         </div>
                         <div class="col-sm-7">

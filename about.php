@@ -40,7 +40,7 @@ cancer. Existing immunotherapies target natural cancer cell
 markers, which unfortunately appear in healthy cells as well,
 resulting in the destruction of healthy cells and causing various
 levels of toxicity and side effects.<br><br>
-In 2024, we announced that our UCLA research team had created a promising new drug candidate for treating recurrent Ewing sarcoma. Based on the positive data, we may to launch FDA IND enabling studies needed to apply for approval to proceed with human trials.
+In 2024, we announced that our UCLA research team had created a promising new drug candidate for treating recurrent Ewing sarcoma. Based on the positive data, we may launch FDA IND enabling studies needed to apply for approval to proceed with human trials.
 <br><br>
 In late 2021,
 CancerVax developed the concept of a customizable Universal Cancer

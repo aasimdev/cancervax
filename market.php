@@ -28,7 +28,7 @@ include('header.php'); ?>
                     <ul class="theme-check-list">
                         <li>Rising cancer incidence, worldwide </li>
                         <li> Increased awareness about immunotherapy treatment options beyond traditional chemotherapy, radiation and surgery</li>
-                        <li>Increasing patient and physician interest newly invented advanced treatments</li>
+                        <li>Increasing patient and physician interest in newly invented advanced treatments</li>
                     </ul>
                 </div>
             </div>
