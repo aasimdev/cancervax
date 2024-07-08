@@ -56,7 +56,7 @@ if ($page_name !== "prep.php") {
                                             <a href="/about">About Us</a>
                                         </li>
                                         <li>
-                                            <a href="/pipeline">Pipeline</a>
+                                            <a href="/progress">Progress</a>
                                         </li>
                                         <li>
                                             <a href="/market">Market</a>
@@ -78,6 +78,12 @@ if ($page_name !== "prep.php") {
                                         </li>
                                         <li>
                                             <a href="/contact">Contact</a>
+                                        </li>
+                                        <li>
+                                            <a href="/privacy-policy">Privacy Policy</a>
+                                        </li>
+                                        <li>
+                                            <a href="/terms-of-use">Terms of Use</a>
                                         </li>
                                     </ul>
                                 </div>

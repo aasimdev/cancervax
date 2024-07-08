@@ -9,7 +9,7 @@ include('header.php'); ?>
         <div class="row align-items-center">
             <div class="col-lg-7">
                 <div class="contact-title">
-                    <span>CancerVax, Inc., a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer. Working with a team of experienced cancer researchers and physicians at UCLA, we are developing a pipeline that includes three innovative projects: (1) treating Ewing sarcoma, a deadly children’s cancer, (2) a Universal Cancer Vaccine that will detect, mark, and destroy only cancer cells while leaving healthy cells in-tact, and (3) a low cost Universal CAR-T Cell Platform that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. All of our immunotherapy technologies are designed to be delivered as injections. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer. </span>
+                    <span>CancerVax, Inc. is a pre-clinical biotechnology company creating a better way to treat cancer. Working with a team of world class cancer researchers and practicing oncologists at UCLA, we are developing a breakthrough Universal Cancer Treatment platform that will leverage the body’s immune system to detect, mark, and destroy only cancer cells. We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. </span>
                     <h1>Contact us</h1>
                     <p>We would love to hear from you</p>
                 </div>
@@ -18,7 +18,7 @@ include('header.php'); ?>
                         <div class="col-sm-5">
                             <div class="contact-info-item">
                                 <h3>CALIFORNIA</h3>
-                                <p><a href="https://goo.gl/maps/5xZJ6Byy4tZt2P7AA" target="_blank" rel="noopener noreferrer">351 Paseo Nuevo, Floor 2 Santa Barbara, CA 93101</a></p>
+                                <p><a href="https://goo.gl/maps/5xZJ6Byy4tZt2P7AA" target="_blank" rel="noopener noreferrer">351 Paseo Nuevo, Floor 2 <br> Santa Barbara, CA 93101</a></p>
                             </div>
                         </div>
                         <div class="col-sm-7">

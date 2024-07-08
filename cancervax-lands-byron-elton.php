@@ -11,7 +11,7 @@ include('header.php'); ?>
         </div>
         <h3>Experienced business executive to help establish the Company as a significant force in the field of cancer research</h3>
 
-        <p>LEHI, Utah, April 03, 2023 (GLOBE NEWSWIRE) -- CancerVax, developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, today announced that Byron Elton has joined the Company’s management team and will serve as Chief Marketing Officer (CMO) and will help establish the Company as a significant force in the field of cancer research.</p>
+        <p>LEHI, Utah, April 03, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, the developer of a breakthrough universal cancer treatment that will use the body’s immune system to fight cancer, today announced that Byron Elton has joined the Company’s management team and will serve as Chief Marketing Officer (CMO) and will help establish the Company as a significant force in the field of cancer research.</p>
 
         <p>Mr. Elton’s duties will include the direct supervision of AGM Agency. Founded in 2015 by Manuel Suarez, AGM is a full-service, social media marketing agency that focuses on helping brands expand their influence by taking advantage of the latest opportunities available in the ever-changing marketing landscape. For more information about AGM Agency, please visit <a href="https://agmagency.com/" target="_blank" rel="noopener noreferrer">https://agmagency.com/</a></p>
 
@@ -19,7 +19,7 @@ include('header.php'); ?>
 
         <p>Mr. Elton previously served as Senior Vice President of Sales for Univision Online from 2007 to 2008. Mr. Elton also served for eight years as an executive at AOL Media Networks from 2000 to 2007, where his assignments included Regional Vice President of Sales for AOL and Senior Vice President of E-Commerce for AOL Canada. His broadcast media experience includes leading the ABC affiliate in Santa Barbara, California in 1995 to 2000 and the CBS affiliate in Monterrey, California from 1998 to 1999, in addition to serving as President of the Alaskan Television Network from 1995 to 1999. Mr. Elton studied Advertising and Marketing Communications at Brigham Young University.</p>
 
-        <p>“Adding Byron Elton to the Company’s management team must be considered a major coup,” said Ryan Davies, CancerVax CEO. “I am highly confident that he will bring added public attention to the important work that we are undertaking with a team of experienced cancer researchers and physicians at UCLA to create a Universal Cancer Vaccine.”</p>
+        <p>“Adding Byron Elton to the Company’s management team must be considered a major coup,” said Ryan Davies, CancerVax CEO. “I am highly confident that he will bring added public attention to the important work that we are undertaking with a team of experienced cancer researchers and physicians at UCLA to create a Universal Cancer Treatment.”</p>
 
         <p>Mr. Elton commented, “As a cancer survivor, I have first-hand knowledge of the nature of this often-deadly disease. I am committed to do all that I can to help find an effective treatment. Working with the CancerVax and UCLA teams is a very exciting opportunity.”</p>
 
@@ -27,7 +27,7 @@ include('header.php'); ?>
 
         <h3>About Us</h3>
 
-        <p>CancerVax, Inc. is a pre-clinical biotechnology company developing a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer. Working with a team of experienced cancer researchers and physicians at UCLA, we intend to create a Universal Cancer Vaccine that will detect, mark, and destroy only the diseased cells with an incredibly high level of precision. Much like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, our cancer vaccine will leverage the body’s own immune system to destroy cancer cells. As we develop our universal cancer vaccine, we are also working with UCLA to develop single-disease cancer treatments targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer that primarily affects children and young adults. We look forward to the day when treating cancer will be as simple as getting a flu shot.</p>
+        <p>CancerVax, Inc. is a pre-clinical biotechnology company developing a breakthrough universal cancer treatment that will use the body’s immune system to fight cancer. Working with a team of experienced cancer researchers and physicians at UCLA, we intend to create a Universal Cancer Treatment that will detect, mark, and destroy only the diseased cells with an incredibly high level of precision. Much like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, our cancer vaccine will leverage the body’s own immune system to destroy cancer cells. As we develop our universal cancer treatment, we are also working with UCLA to develop single-disease cancer treatments targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer that primarily affects children and young adults. We look forward to the day when treating cancer will be as simple as getting a flu shot.</p>
 
         <h3>Forward-Looking Statements</h3>
 

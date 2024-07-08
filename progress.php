@@ -1,12 +1,12 @@
 <?php
-$GLOBALS['title'] = "Pipeline - CancerVax";
+$GLOBALS['title'] = "Progress - CancerVax";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 include('header.php'); ?>
 
 <section class="pipelinebanner">
     <div class="container">
-        <h1>Pipeline</h1>
+        <h1>Progress</h1>
     </div>
 </section>
 
@@ -43,8 +43,8 @@ include('header.php'); ?>
     <div class="container">
         <div class="pC-pipeline-item" id="children-cancer">
             <h4>Children’s Cancer</h4>
-            <p>Working with a team of cancer researchers and physicians who run the Ewing Sarcoma Program at the UCLA Jonsson Comprehensive Cancer Center, we have created our first cancer drug candidate – a  single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Based on the positive data, we plan to launch FDA IND enabling studies needed to apply for approval to proceed with human trials. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer. </p>
-
+            <p>Working with a team of cancer researchers and physicians who run the Ewing Sarcoma Program at the UCLA Jonsson Comprehensive Cancer Center, we have created our first cancer drug candidate - a single-disease specific immunotherapy targeting Ewing sarcoma, a rate but deadly bone and soft tissue cancer primarily affecting children and young adults. Based on the positive data, we may launch FDA IND enabling studies needed to apply for approval to proceed with human trials. We look forward to the day when treating cancer will be as simple as getting a flu shot - a better way to treat cancer.
+              
             <div class="row align-items-center mt-sm-4 mt-3 mb-0">
                 <div class="col-lg-7">
                     <h5 class="">Facts:</h5>
@@ -65,10 +65,10 @@ include('header.php'); ?>
 
         </div>
         <div class="pC-pipeline-item" id="ucvp">
-            <h4 style="">Universal Cancer Vaccine​ Platform </h4>
+            <h4 style="">Universal Cancer Treatment​ Platform </h4>
             <div class="row">
                 <div class="col-lg-7">
-                    <p>We are developing a novel Universal Cancer Vaccine (UCV), to be delivered as a shot, that uses cutting-edge bioengineering and molecular technologies to <span>uniquely detect, mark and kill only cancer cells</span>. By forcing cancer cells to express a unique marker that healthy cells do not have, custom antibody drugs and the body’s immune system can target and destroy them with precision. Additionally, we intended to make cancer cell express protein markers associated with known diseases such as COVID, tetanus or measles. By doing so, we hope to leverage the body’s immune system to easily destroy cancer cells as if they were previous vaccinated common diseases. We have filed a patent application for the UCV and are working with the UCLA Jonsson Comprehensive Cancer Center to develop the platform, which may be administered as a one or two-shot treatment.</p>
+                    <p>We are developing a breakthrough Universal Cancer Treatment platform, to be delivered as a shot, that uses cutting-edge bioengineering and molecular technologies to <span>uniquely detect, mark and kill only cancer cells</span>. By forcing cancer cells to express a unique marker that healthy cells do not have, custom antibody drugs and the body’s immune system can target and destroy them with precision. Additionally, we intended to make cancer cells express protein markers associated with known diseases such as COVID, tetanus or measles. By doing so, we hope to leverage the body’s immune system to easily destroy cancer cells as if they were previous vaccinated common diseases. We have filed a patent application for Universal Cancer Treatment platform and are working with the UCLA Jonsson Comprehensive Cancer Center to help develop the platform, which may be administered as a one or two-shot treatment.</p>
                 </div>
                 <div class="col-lg-5">
                     <div class="pC-pipeline-img">
@@ -81,7 +81,7 @@ include('header.php'); ?>
                 </div>
             </div>
         </div>
-        <div class="pC-pipeline-item" id="uctcp">
+        <!-- <div class="pC-pipeline-item" id="uctcp">
             <h4>Universal CAR-T Cell Platform </h4>
 
             <div class="pC-pipeline-c">
@@ -117,7 +117,7 @@ include('header.php'); ?>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </section>
 

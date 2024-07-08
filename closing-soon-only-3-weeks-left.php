@@ -25,7 +25,7 @@ include('investor-header.php'); ?>
                         <p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><br></p>
                         <ul>
                             <li>A disease specific cancer treatment targeting Ewing Sarcoma, a deadly bone and soft tissue cancer that primarily affects young children.</li>
-                            <li>The Universal Cancer Vaccine Platform (“UCV”) designed to treat multiple cancers and create a better way to treat cancer.</li>
+                            <li>The Universal Cancer Treatment Platform (“UCV”) designed to treat multiple cancers and create a better way to treat cancer.</li>
                             <li>A powerful UCV plus mRNA technology that can be adapted to perform CAR-T cell treatments at a fraction of the cost of existing approaches. We call this the Universal CAR-T Cell Platform.</li>
                         </ul>
                         <p><br></p>

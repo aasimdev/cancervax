@@ -23,9 +23,9 @@ include('header.php'); ?>
             <div class="col-lg-6 order-lg-0 order-1">
                 <div class="immCTh__content">
                     <h3>Old Paradigm – Chemotherapy and Radiation</h3>
-                    <p>For decades, surgery, chemotherapy and radiation therapy have been the standards of care for cancer treatment, and often times the only options. They operate on the basic premise that cancer cells are fast growing cells, so using powerful toxic chemicals (chemotherapy) or powerful x-rays (radiation) they hope to kill those cells to stop the cancer. The problem is that these treatments are not always very targeted, so they also kill normal fast-growing cells, such as hair cells, intestine cells, mouth-lining cells and others. This inadvertent side effect of killing healthy cells is what causes the debilitating side effects of chemotherapy and radiation, and a reduced quality of life for cancer patients. <br><br>
+                    <p>For decades, surgery, chemotherapy and radiation therapy have been the standards of care for cancer treatment, and often the only options. They operate on the basic premise that cancer cells are fast growing cells, so using powerful toxic chemicals (chemotherapy) or powerful x-rays (radiation) they hope to kill those cells to stop the cancer. The problem is that these treatments are not always very targeted, so they also kill normal fast-growing cells, such as hair cells, intestine cells, mouth-lining cells and others. This inadvertent side effect of killing healthy cells is what causes the debilitating side effects of chemotherapy and radiation, and a reduced quality of life for cancer patients. <br><br>
 
-                        Using “chemo” has been likened to throwing a grenade into the body in hope that it will kill the cancer and not the body.</p>
+                        Using “chemo” has been likened to throwing a grenade into the body with the hope that it will kill the cancer and not the body.</p>
                 </div>
 
             </div>
@@ -44,10 +44,10 @@ include('header.php'); ?>
         <p>Conversely, immunotherapy is like using a sniper rifle to shoot and kill only the cancer cells.
         </p>
         <p>
-            In recent years, advances in science and biotechnology have proven that the body’s own immune system is actually quite effective at targeting and killing abnormal cells, germs and viruses, and has been doing it since the beginning of time. The main problem is that cancer grows at a much faster rate than the body’s normal immune response rate.
+            In recent years, advances in science and biotechnology have proven that the body’s own immune system is quite effective at targeting and killing abnormal cells, germs and viruses, and has been doing it since the beginning of time. The main problem is that cancer grows at a much faster rate than the body’s normal immune response rate.
         </p>
         <p>
-            Much like COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer vaccines can train the body to target and destroy specific cancer cells. Cancer vaccines are also known as immunotherapy.
+            Much like vaccines that train the body to recognize and destroy other diseases, cancer vaccines can train the body to target and destroy specific cancer cells. Cancer vaccines are also known as vaccine therapy or immunotherapy. They are different from vaccines that prevent disease, as they are designed to treat cancer that already exists in the body.
         </p>
     </div>
 </section>
@@ -86,7 +86,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="immtypes__heading">
             <h4>Types of Immunotherapy</h4>
-            <p>According to the National Cancer Institute, there are several types of immunotherapy.</p>
+            <p>According to the National Cancer Institute, there are several types of immunotherapies.</p>
         </div>
         <div class="immtypes__item">
             <div class="row">

@@ -10,13 +10,13 @@ include('header.php'); ?>
             <h1>CancerVax Expands Development Pipeline to Include a Universal CAR-T Cell Platform</h1>
         </div>
         <h3>CancerVax Expands Development Pipeline to Include a Universal CAR-T Cell Platform </h3>
-        <p>LEHI, Utah, September 12, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer, today announced an expansion of its development pipeline to include a Universal CAR-T Cell Platform that can dramatically lower the cost of CAR-T cell cancer therapies. </p>
+        <p>LEHI, Utah, September 12, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer, today announced an expansion of its development pipeline to include a Universal CAR-T Cell Platform that can dramatically lower the cost of CAR-T cell cancer therapies. </p>
 
         <p>CAR-T cell therapy is a type of immunotherapy treatment in which a patient’s T-cells are genetically modified in the laboratory, then reinjected back into the patient, so they will bind to specific proteins (antigens) found on cancer cells and kill them. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. We believe we can dramatically lower the cost to a few thousand dollars per dose by simply helping the body make its own CAR T-cells. </p>
 
 
 
-        <p>During a remarkable meeting with Company executives recently, the UCLA research team reported significant project progress. Based on their recent findings, it is now clear that the foundational nanoparticle technology developed for the current Universal Cancer Vaccine project, can be easily adapted to target T-cells and carry genetic instructions to reprogram T-cells into CAR-T cells inside the body (in-vivo). Depending on the specific genetic instructions provided, different cancers can be targeted by the new CAR-T cells. Preliminary lab test suggests that this is easy to do. As a result, the Company has decided to expand its development pipeline to include a “Universal CAR-T Platform”. </p>
+        <p>During a remarkable meeting with Company executives recently, the UCLA research team reported significant project progress. Based on their recent findings, it is now clear that the foundational nanoparticle technology developed for the current Universal Cancer Treatment project, can be easily adapted to target T-cells and carry genetic instructions to reprogram T-cells into CAR-T cells inside the body (in-vivo). Depending on the specific genetic instructions provided, different cancers can be targeted by the new CAR-T cells. Preliminary lab test suggests that this is easy to do. As a result, the Company has decided to expand its development pipeline to include a “Universal CAR-T Platform”. </p>
 
         <p>Conventional CAR-T Cell Therapy Steps: </p>
         <ul class="theme-list mb-3">
@@ -38,7 +38,7 @@ include('header.php'); ?>
         <ul class="theme-list mb-3">
             <li>
                 Children’s Cancer – Immunotherapy treatments for Ewing sarcoma, a children’s bone and tissue cancer with 100% death rate for recurrence. </li>
-            <li> Universal Cancer Vaccine​ Platform – A novel and customizable Universal Cancer Vaccine (UCV), to be delivered as a shot, that can uniquely detect, mark and kill only cancer cells.</li>
+            <li> Universal Cancer Treatment​ Platform – A novel and customizable Universal Cancer Treatment, to be delivered as a shot, that can uniquely detect, mark and kill only cancer cells.</li>
             <li> Universal CAR-T Cell Platform – A novel and customizable low-cost treatment, to be delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells.</li>
         </ul>
 
@@ -48,7 +48,7 @@ include('header.php'); ?>
 
         <h3>About Us</h3>
 
-        <p>CancerVax, Inc., a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer. Working with a team of experienced cancer researchers and physicians at UCLA, we are developing a pipeline that includes three innovative projects: (1) treating Ewing sarcoma, a deadly children’s cancer, (2) a Universal Cancer Vaccine that will detect, mark, and destroy only cancer cells while leaving healthy cells in-tact, and (3) a low cost Universal CAR-T Cell Platform that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. All of our immunotherapy technologies are designed to be delivered as injections. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.  </p>
+        <p>CancerVax, Inc., a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer. Working with a team of experienced cancer researchers and physicians at UCLA, we are developing a pipeline that includes three innovative projects: (1) treating Ewing sarcoma, a deadly children’s cancer, (2) a Universal Cancer Treatment that will detect, mark, and destroy only cancer cells while leaving healthy cells in-tact, and (3) a low cost Universal CAR-T Cell Platform that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. All of our immunotherapy technologies are designed to be delivered as injections. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.  </p>
 
         <h3>Forward-Looking Statements</h3>
 

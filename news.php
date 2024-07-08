@@ -19,7 +19,7 @@ include('header.php'); ?>
                 <div class="news-item">
                     <a href="cancervax-successfully-uses-nobel-prize-chemistry-to-achieve-universal-cancer-vaccine-targeting-milestone.php"></a>
                     <span> May 21, 2024</span>
-                    <h3>CancerVax Successfully Uses Nobel Prize Chemistry to Achieve Universal Cancer Vaccine Targeting Milestone   </h3>
+                    <h3>CancerVax Successfully Uses Nobel Prize Chemistry to Achieve Universal Cancer Treatment Targeting Milestone   </h3>
                     <p> CancerVax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has achieved a critical milestone by creating a process to add any antibody to lipid nanoparticles (LNP) using “click chemistry”, for targeting cancer cells </p>
                 </div>
             </div>
@@ -36,7 +36,7 @@ include('header.php'); ?>
                     <a href="cancervax-launches-5-million-funding-round.php"></a>
                     <span> April 3, 2024 </span>
                     <h3>CancerVax Launches $5 Million Funding Round </h3>
-                    <p> CancerVax, Inc., developer of a breakthrough Universal Cancer Vaccine treatment that will use the body’s immune system to fight cancer, today announced that its Reg A+ offering has been qualified by the SEC allowing the Company to formally launch a funding round of up to $5 million. Proceeds from the SEC qualified Reg A+ offering will be used by the Company to continue work on its breakthrough cancer treatments </p>
+                    <p> CancerVax, Inc., developer of a breakthrough Universal Cancer Treatment that will use the body’s immune system to fight cancer, today announced that its Reg A+ offering has been qualified by the SEC allowing the Company to formally launch a funding round of up to $5 million. Proceeds from the SEC qualified Reg A+ offering will be used by the Company to continue work on its breakthrough cancer treatments </p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -44,7 +44,7 @@ include('header.php'); ?>
                     <a href="cancervax-ceo-ryan-davies-discusses-cancer-drug-development-with-dr-ezra-cohen.php"></a>
                     <span>November 2, 2023 </span>
                     <h3>CancerVax CEO Ryan Davies Discusses Cancer Drug Development with Dr. Ezra Cohen</h3>
-                    <p> CancerVax, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, and Tempus Labs Chief Medical Officer for Oncology Dr. Ezra Cohen, discussed his time at Tempus Labs, Moores Cancer Center and University of Chicago</p>
+                    <p> CancerVax, Inc., developer of a breakthrough universal cancer treatment that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, and Tempus Labs Chief Medical Officer for Oncology Dr. Ezra Cohen, discussed his time at Tempus Labs, Moores Cancer Center and University of Chicago</p>
                 </div>
             </div>
 
@@ -75,7 +75,7 @@ include('header.php'); ?>
                 <div class="news-item">
                     <a href="cancervax-reports-significant-progress-on-universal-cancer-vaccine-development-at-ucla.php"></a>
                     <span>June 27, 2023</span>
-                    <h3>CancerVax Reports Significant Progress on Universal Cancer Vaccine Development at UCLA</h3>
+                    <h3>CancerVax Reports Significant Progress on Universal Cancer Treatment Development at UCLA</h3>
                 </div>
             </div>
             <div class="col-lg-4">
@@ -221,7 +221,7 @@ include('header.php'); ?>
                     <a href="https://www.healthleadersmedia.com/pharma/cancervax-ceo-sees-home-run-breakthrough-universal-cancer-vaccine" target="_blank"></a>
                     <img src="./assets/img/news-logo-1.png" alt="news" class="news-logo-n" style="heiht:50px;">
                     <span style="margin-top:23px;">JUNE 22, 2023</span>
-                    <h3>CancerVax CEO Sees a Home Run With Breakthrough Universal Cancer Vaccine</h3>
+                    <h3>CancerVax CEO Sees a Home Run With Breakthrough Universal Cancer Treatment</h3>
                 </div>
             </div>
 

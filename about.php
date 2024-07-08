@@ -7,7 +7,7 @@ include('header.php'); ?>
 <section class="abtBanner">
     <div class="container">
         <div class="abtBanner-text">
-            <h1>CancerVax, Inc. is a pre-clinical biotechnology company developing breakthrough cancer drugs that will use the body’s immune system to fight cancer. Working with a team of world class cancer researchers and oncologists at UCLA, we intend to create a Universal Cancer Vaccine that will detect, mark, and destroy only the diseased cells with incredible precision. Like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, our cancer vaccine will leverage the body’s immune system to destroy cancer cells. Also working with UCLA, we have created our first cancer drug candidate – a  single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Based on the positive data, we plan to launch FDA IND enabling studies needed to apply for approval to proceed with human trials. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.  </h1>
+            <h1>CancerVax, Inc. is a pre-clinical biotechnology company creating a better way to treat cancer. Working with a team of world class cancer researchers and practicing oncologists at UCLA, we are developing a breakthrough Universal Cancer Treatment platform that will leverage the body’s immune system to detect, mark, and destroy only cancer cells. We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. </h1>
         </div>
     </div>
 </section>
@@ -17,7 +17,7 @@ include('header.php'); ?>
         <div class="abtinfo-wrap">
             <img src="./assets/img/abt.jpg" alt="abt">
             <p>
-                By leveraging cutting-edge bioengineering and molecular technologies, we are on a quest to develop innovative precision cancer immunotherapies. Inspired by the way COVID-19 vaccines train the body to recognize and destroy the coronavirus, we are developing cancer vaccines, also known as cancer immunotherapies, that uses the body’s immune system to fight cancer. </p>
+                By leveraging cutting-edge bioengineering and molecular technologies, we are on a quest to develop innovative precision cancer immunotherapies that use the body’s immune system to fight cancer. Inspired by the way vaccines train the body to recognize and destroy other diseases, we are developing cancer treatment vaccines, also known as vaccine therapy or immunotherapy, which are a type of treatment that can help the immune system identify and attack cancer cells. They are different from vaccines that prevent disease, as they are designed to treat cancer that already exists in the body. </p>
         </div>
     </div>
 </section>
@@ -34,11 +34,24 @@ include('header.php'); ?>
                         <h2>Our Story</h2>
                     </div>
                     <div class="col-sm-9 col-md-8 col-xl-6">
-                        <p>We started working with UCLA in early 2021 on a single-disease immunotherapy targeted at Ewing Sarcoma, a deadly children’s cancer. Existing immunotherapies target natural cancer cell markers, which unfortunately appear in healthy cells as well, resulting in the destruction of healthy cells and causing various levels of toxicity and side effects. <br><br>
-                            Through a series of brainstorm sessions that started in late 2021, we developed the concept of a customizable Universal Cancer Vaccine Platform (UCV) that can potentially target cancer cells with a high degree of precision and force only the cancer cells to express a unique marker that we can easily target for destruction. The UCV project kicked off in 2022. <br><br>
-                            The UCV project progressed methodically with the development of various innovative technologies, including a foundational nanoparticle technology which can be programmed to target specific cells and deliver customized cargos. <br><br>
-                            In a pivotal project meeting in the summer of 2023, the UCLA team reported positive progress on Ewing sarcoma and UCV. Surprisingly, the highly customizable low-cost nanoparticle technology developed for UCV can be adapted to perform an existing cancer immunotherapy (CAR-T Cell) at an extremely low cost. Thus, the Universal CAR-T Cell Platform was born. <br><br>
-                            We now have a very exciting and important development pipeline consisting of three projects at UCLA.
+                        <p>Under the terms of a Sponsored Research Agreement, we began working with UCLA in early 2021 on a single-disease
+immunotherapy targeted at Ewing Sarcoma, a deadly children’s
+cancer. Existing immunotherapies target natural cancer cell
+markers, which unfortunately appear in healthy cells as well,
+resulting in the destruction of healthy cells and causing various
+levels of toxicity and side effects.<br><br>
+In 2024, we announced that our UCLA research team had created a promising new drug candidate for treating recurrent Ewing sarcoma. Based on the positive data, we may launch FDA IND enabling studies needed to apply for approval to proceed with human trials.
+<br><br>
+In late 2021,
+CancerVax developed the concept of a customizable Universal Cancer
+Treatment platform that can potentially target cancer cells with
+a high degree of precision and force only the cancer cells to
+express a unique marker that we can easily target for destruction.
+In 2022, we entered into a Sponsored Research Agreement with UCLA to help develop our Universal Cancer Treatment platform.<br><br>
+The Universal Cancer Treatment project has progressed methodically with the development of
+various innovative technologies, including a foundational
+nanoparticle technology which can be programmed to target
+specific cells and deliver customized cargos.
                         </p>
                     </div>
                 </div>
@@ -54,7 +67,7 @@ include('header.php'); ?>
 
                             <p class="text-center">Cancer vaccines can train the body to target and destroy specific cancer cells. Cancer vaccines are also known as immunotherapy.
                                 <br><br>
-                                Much like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer vaccines can train the body to target and destroy specific cancer cells.
+                                Much like vaccines that train the body to recognize and destroy ther diseases, cancer vaccines can train the body to target and destroy specific cancer cells.
                             </p>
                         </div>
                     </div>
@@ -69,9 +82,15 @@ include('header.php'); ?>
                         <div class="process-description">
                             <h5>
                                 Children’s Cancer.</h5>
-                            <p>We are developing a disease-specific immunotherapy targeted at treating Ewing sarcoma, a rare but deadly bone and soft tissue cancer that primarily affects children and young adults. There is currently no FDA approved treatment for recurrence. <strong>The death rate is 100% of patients with recurrent Ewing sarcoma.</strong>
+                            <p>Working with UCLA under the terms of a Sponsored Research Agreement, we have successfully developed a disease-specific immunotherapy drug candidate targeted at
+treating Ewing sarcoma, a rare but deadly bone and soft tissue
+cancer that primarily affects children and young adults. There is
+currently no FDA approved treatment for recurrence. <strong>The death rate is 100% of patients with recurrent Ewing sarcoma.</strong>
                                 <br><br>
-                                We have entered into a sponsored research agreement with the University of California at Los Angeles (UCLA) to develop effective immunotherapies, such as CAR T-cell and monoclonal antibodies, for Ewing Sarcoma. We hold exclusive rights to license all intellectual property and related technology resulting from this research program. UCLA is a top-ranked university known for its cancer research and medical school.
+                             We hold an option for the exclusive right to license all
+intellectual property and related technology resulting from this
+research program. UCLA is a top-ranked university known for its
+cancer research and medical school.
                             </p>
                         </div>
                     </div>
@@ -84,17 +103,17 @@ include('header.php'); ?>
                     </div>
                     <div class="col-sm-9 col-md-8 col-xl-6">
                         <div class="process-description">
-                            <h5>Universal Cancer Vaccine Platform</h5>
-                            <p>By leveraging cutting-edge bioengineering and molecular technologies, we are developing a breakthrough Universal Cancer Vaccine (UCV) Platform.
+                            <h5>Universal Cancer Treatment Platform</h5>
+                            <p>By leveraging cutting-edge bioengineering and molecular technologies, we are developing a breakthrough Universal Cancer Treatment platform.
                                 <br><br>
-                                The UCV will force cancer cells to express a unique protein marker that can be used by the immune system and custom antibodies to precisely target them for destruction. Additionally, we intend to make cancer cells look like common diseases so that the body’s natural immune system can easily destroy them.
+                                Our Universal Cancer Treatment platform will force cancer cells to express a unique protein marker that can be used by the immune system and custom antibodies to precisely target them for destruction. Additionally, we intend to make cancer cells look like common diseases so that the body’s natural immune system can easily destroy them.
                                 <br><br>
-                                We have entered into a sponsored research agreement (SRA) with UCLA to help us develop this Universal Cancer Vaccine platform. We hold exclusive rights to license all intellectual property and related technology resulting from this research program.
+                                We entered into a sponsored research agreement (SRA) with UCLA to help us develop our Universal Cancer Treatment platform. We hold an option for the exclusive right to license all intellectual property and related technology resulting from this research program.
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="row align-items-center">
+                <!-- <div class="row align-items-center">
                     <div class="col-sm-3 col-md-4 col-xl-6">
                         <div class="process-title">
                             <span>03</span>
@@ -115,7 +134,7 @@ include('header.php'); ?>
                             </p>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
@@ -162,6 +181,12 @@ include('header.php'); ?>
                     </div>
                 </div>
             </div>
+
+        </div>
+
+        <div class="row justify-content-center mt-4">
+
+          
             <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
@@ -198,14 +223,34 @@ include('header.php'); ?>
                     </div>
                 </div>
             </div>
+            <div class="col-md-6 col-xl-3">
+                <div class="team-box">
+                    <div class="team-box-img">
+                        <a href="#">
+                            <img src="./assets/img/adam-grant.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
+                        </a>
+                    </div>
+                    <h5>
+                    Dr. Adam Grant
+                    </h5>
+                    <p>
+                    Advisor
+                    </p>
+                    <div class="team-description">
+                        <p>
 
+
+Dr. Grant graduated from Brigham Young University with a BS in bioinformatics and obtained a PhD in cancer biology from the University of Arizona. His research interests are focused on identifying which cancer patients will respond to specific therapeutics based on their molecular profiles. During his time as a graduate student, Dr. Grant was the inventor of a software patent that improves neoantigen detection. This patent has been licensed to improve CAR-T cell detection of cancer cells. He is also a co-inventor of a gene-signature patent that strives to identify which breast cancer patients are at high risk for bone metastases, suggesting a clinical benefit from antifibrotic drugs like Nintedanib. During his professional career, Dr. Grant has been heavily involved in the immunotherapy space, striving to identify cancer patients who will benefit from combination therapy of anti-pd-1 inhibition and Treg reduction through CCR4 inhibition.</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
 
-<section class="otherteam">
+<section class="otherteam d-none">
     <div class="container">
-        <!-- <h3 style="text-align:center;margin-bottom:35px;">UCLA Team</h3> -->
+        <h3 style="text-align:center;margin-bottom:35px;">The UCLA Research Team</h3>
         <div class="row justify-content-center">
             <!-- <div class="col-md-6 col-xl-4">
                 <div class="team-box">
@@ -310,6 +355,38 @@ include('header.php'); ?>
                 </div>
             </div>
         </div>
+    </div>
+</section>
+
+<section class="worldhealth">
+    <div class="container">
+    <h2>The UCLA Research Team</h2>
+        <div class="worldhealth-content">
+            <div class="row">
+                <div class="col-lg-5">
+                    <div class="worldhealth-text">
+                        <h3>World-class researchers and scientists. </h3>
+                        <p>Our team of dedicated scientists is on the cutting edge of cancer research. From the lab
+                            to
+                            the clinic, we are committed to finding new and better ways to prevent and treat cancer.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="worldhealth-counter">
+                        <div class="cancervax-counter">
+                            <div class="counter">
+                                <span>80</span>
+                            </div>
+                            <p>Years of collective <br> experience</p>
+                        </div>
+                        <img src="./assets/img/ucla-health.png" alt="health">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+       
     </div>
 </section>
 

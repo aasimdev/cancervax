@@ -10,7 +10,7 @@ include('header.php'); ?>
             <h1>CancerVax CEO Ryan Davies Discusses Biotech Entrepreneurship with Pyxis Oncology CEO Dr. Lara Sullivan</h1>
         </div>
         <h3>The two industry leaders focus on navigating the biotech industry and immuno-oncology research  </h3>
-        <p>Lehi, Utah, July 10, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., developer of a breakthrough universal cancer vaccine that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, and Pyxis Oncology President & CEO, Dr. Lara Sullivan, discussed her journey as a biotech entrepreneur and executive at Pfizer. </p>
+        <p>Lehi, Utah, July 10, 2023 (GLOBE NEWSWIRE) -- CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, the developer of a breakthrough universal cancer treatment that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, and Pyxis Oncology President & CEO, Dr. Lara Sullivan, discussed her journey as a biotech entrepreneur and executive at Pfizer. </p>
 
         <p>“My role at Pfizer was an incredible biotech training course and I didn't even know it at the time because I was in the heart of Pfizer’s innovation engine when Pfizer was the world's biggest pharma company,” said Dr. Sullivan. “They were reinventing their R&D approach with more efficient processes, while also placing a greater emphasis on innovation. Drug development is an apprenticeship model just like medicine.”</p>
 
@@ -28,7 +28,7 @@ include('header.php'); ?>
 
         <h3>About Us</h3>
 
-        <p>CancerVax, Inc. is a pre-clinical biotechnology company developing a breakthrough universal cancer vaccine to fight cancer using the body’s immune system. Working with a team of experienced cancer researchers and physicians at UCLA, we intend to create a Universal Cancer Vaccine that will detect, mark, and destroy only the diseased cells with incredible precision. Like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, our cancer vaccine will leverage the body’s immune system to destroy cancer cells. As we develop our universal cancer vaccine, we work with UCLA to develop single-disease cancer treatments targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a flu shot. </p>
+        <p>CancerVax, Inc. is a pre-clinical biotechnology company developing a breakthrough universal cancer treatment to fight cancer using the body’s immune system. Working with a team of experienced cancer researchers and physicians at UCLA, we intend to create a Universal Cancer Treatment that will detect, mark, and destroy only the diseased cells with incredible precision. Like the COVID-19 vaccines that train the body to recognize and destroy the coronavirus, our cancer vaccine will leverage the body’s immune system to destroy cancer cells. As we develop our universal cancer treatment, we work with UCLA to develop single-disease cancer treatments targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a flu shot. </p>
 
         <h3>Forward-Looking Statements</h3>
 

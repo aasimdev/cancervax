@@ -10,7 +10,7 @@ include('header.php'); ?>
             <h1>Biotech Executive Joins CancerVax</h1>
         </div>
         <h3>New CEO Ryan Davies will lead the Company’s development of its breakthrough immunotherapy treatment</h3>
-        <p>SANTA BARBARA, CA – October 1, 2021 – CancerVax, Inc., a developer of immunotherapy cancer treatments that use the body’s immune system to fight cancer, today announced that Ryan Davies, formerly CEO of Curza, a small molecule therapeutics company, has joined the Company as its new CEO and will lead the Company’s development of its breakthrough immunotherapy treatment.</p>
+        <p>SANTA BARBARA, CA – October 1, 2021 – CancerVax, Inc., a pre-clinical biotechnology company creating a better way to treat cancer, a developer of immunotherapy cancer treatments that use the body’s immune system to fight cancer, today announced that Ryan Davies, formerly CEO of Curza, a small molecule therapeutics company, has joined the Company as its new CEO and will lead the Company’s development of its breakthrough immunotherapy treatment.</p>
         <p>“I am thrilled with this opportunity to lead the Company in its efforts to develop an immunotherapy breakthrough targeted at treating Ewing sarcoma,” said Mr. Davies. “This rare but deadly soft tissue and bone cancer primarily affects children and young adults. Because there is no current FDA approved treatment to prevent recurrence, I consider this to be a critical mission.”</p>
         <p>Mr. Davies concluded, “Also, I plan to use my biotech experience to help the Company develop other cancer vaccines. Over time, we hope to develop a full pipeline of innovative and effective cancer immunotherapy treatments and drugs.”</p>
         <h3>About CancerVax</h3>
