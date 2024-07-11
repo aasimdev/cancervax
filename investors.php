@@ -96,7 +96,7 @@ include "header.php";
                                 <div class="investReasons">
                                     <div class="wrapInvest">
                                         <div class="reasonNumber">1</div>
-                                        <p>According to the American Cancer Society,<span> cancer was the second leading cause since we are looking at 2022?</span> more than COVID deaths. According to Fortune Business Insights, the global cancer drugs market is projected to grow from $205 billion in 2023 to <a href="#">$484 billion by 2030 </a><sup>(2)</sup>.</p>
+                                        <p>According to the American Cancer Society,<span> cancer was the second leading cause since we are looking at 2022,</span> more than COVID deaths. According to Fortune Business Insights, the global cancer drugs market is projected to grow from $205 billion in 2023 to <a href="#">$484 billion by 2030 </a><sup>(2)</sup>.</p>
                                     </div>
 
                                     <div class="wrapInvest">
