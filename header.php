@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <?php
@@ -33,6 +34,11 @@
         $full_url = $current_url . '/';
     }
     $page_name = basename($_SERVER['PHP_SELF']);
+    header("Expires: Tue, 01 Jan 2000 00:00:00 GMT");
+    header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
+    header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
+    header("Cache-Control: post-check=0, pre-check=0", false);
+    header("Pragma: no-cache");
     ?>
     <title><?php echo $title; ?></title>
     <link rel="apple-touch-icon" sizes="114x114" href="<?php echo  $full_url; ?>/assets/img/favicon/apple-touch-icon.png">
@@ -50,13 +56,16 @@
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-7D9TX20JND"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
 
 
 
-    gtag('config', 'G-7D9TX20JND');
+        gtag('config', 'G-7D9TX20JND');
     </script>
 
 
@@ -153,68 +162,69 @@
             echo 'active'; //class name in css 
         }
     }
-   
+
     if ($page_name !== "prep.php") {
     ?>
-    <div class="header-top">
-        <div class="invest-bar">
-            <div class="container-fluid">
-                <div class="invest-bar-content">
-                    <div class="invest-bar-text">
-                        <p>Help Us Beat Cancer</p>
-                        <a href="<?php $page_name = basename($_SERVER['PHP_SELF']); if ($page_name == "investors.php" || $page_name == "invest.php" || $page_name == "invest2.php") { ?>/prep<?php } else { ?>/invest<?php } ?>">Invest Here <span>Secure Direct Invest Platform</span></a>
-                    </div>
-                    <div class="tSocial d-none d-md-block">
-                        <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
-                        <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
-                        <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
-                        <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
+        <div class="header-top">
+            <div class="invest-bar">
+                <div class="container-fluid">
+                    <div class="invest-bar-content">
+                        <div class="invest-bar-text">
+                            <p>Help Us Beat Cancer</p>
+                            <a href="<?php $page_name = basename($_SERVER['PHP_SELF']);
+                                        if ($page_name == "investors.php" || $page_name == "invest.php" || $page_name == "invest2.php") { ?>/prep<?php } else { ?>/invest<?php } ?>">Invest Here <span>Secure Direct Invest Platform</span></a>
+                        </div>
+                        <div class="tSocial d-none d-md-block">
+                            <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
+                            <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
+                            <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
+                        </div>
                     </div>
                 </div>
             </div>
+
+
+            <!-- Hedaer -->
+            <nav class="navbar navbar-expand-lg navbar-dark">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="/">
+                        <img src="<?php echo  $full_url; ?>/assets/img/logo.png" alt="logo">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                            <li class="nav-item">
+                                <a class="nav-link <?php active('about'); ?>" href="/about">About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link <?php active('progress'); ?>" href="/progress">Progress</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link <?php active('immunotherapy'); ?>" href="/immunotherapy">Immunotherapy</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link <?php active('market'); ?>" href="/market">Market</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link <?php active('news'); ?>" href="/news">Newsroom</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link <?php active('invest'); ?>" href="/invest">Investors</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link <?php active('contact'); ?>" href="/contact">Contact</a>
+                            </li>
+
+                        </ul>
+
+                    </div>
+                </div>
+            </nav>
         </div>
-
-
-        <!-- Hedaer -->
-        <nav class="navbar navbar-expand-lg navbar-dark">
-            <div class="container-fluid">
-                <a class="navbar-brand" href="/">
-                    <img src="<?php echo  $full_url; ?>/assets/img/logo.png" alt="logo">
-                </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                        <li class="nav-item">
-                            <a class="nav-link <?php active('about'); ?>" href="/about">About</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link <?php active('progress'); ?>" href="/progress">Progress</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link <?php active('immunotherapy'); ?>" href="/immunotherapy">Immunotherapy</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link <?php active('market'); ?>" href="/market">Market</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link <?php active('news'); ?>" href="/news">Newsroom</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link <?php active('invest'); ?>" href="/invest">Investors</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link <?php active('contact'); ?>" href="/contact">Contact</a>
-                        </li>
-
-                    </ul>
-
-                </div>
-            </div>
-        </nav>
-    </div>
     <?php } ?>
