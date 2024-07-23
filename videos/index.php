@@ -169,7 +169,7 @@ include('../header.php'); ?>
     <div class="container">
         <div class="nCommentary-heading">
             <h3>Short Videos</h3>
-            <a href="./short-videos">See All</a>
+            <a href="https://www.youtube.com/@CancerVAX/shorts" target="_blank">See All</a>
         </div>
         <div class="row">
 
