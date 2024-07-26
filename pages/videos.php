@@ -7,7 +7,6 @@ $videos = include "./data/podcast-data.php";
     </div>
 </section>
 
-
 <div class="pt-36">
     <div class="container">
         <div class="mb-16">
@@ -94,7 +93,6 @@ $videos = include "./data/podcast-data.php";
 
     </div>
 </section>
-
 
 <section class="pt-24 pb-0">
     <div class="container">

@@ -21,7 +21,6 @@
 
                         Using “chemo” has been likened to throwing a grenade into the body with the hope that it will kill the cancer and not the body.</p>
                 </div>
-
             </div>
             <div class="lg:order-2 order-1">
                 <div>

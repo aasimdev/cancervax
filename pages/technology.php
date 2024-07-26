@@ -4,7 +4,6 @@
     </div>
 </section>
 
-
 <section class="pt-7 pb-32 relative z-[1] bg-cancer-treatment bg-cover bg-top bg-no-repeat after:absolute after:w-full after:h-[360px] after:bg-gradient-to-t after:from-white after:to-transparent after:bottom-0 after:z-[-1]">
     <div class="container">
         <div class="text-center">
@@ -36,7 +35,6 @@
     </div>
 </section>
 
-
 <section class="bg-problem-bg bg-no-repeat bg-top bg-cover pt-24 pb-20">
     <div class="container">
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 items-center">
@@ -58,7 +56,6 @@
         </div>
     </div>
 </section>
-
 
 <section class="pt-28 pb-40">
     <div class="container">
@@ -127,7 +124,6 @@
     </div>
 </section>
 
-
 <section class="pt-28 pb-16">
     <div class="container">
         <div class="max-w-[858px] mx-auto">
@@ -148,7 +144,6 @@
 
     </div>
 </section>
-
 
 <section class="bg-custom-blue-100 pt-24 pb-36">
     <div class="container">
@@ -193,7 +188,6 @@
     </div>
 
 </section>
-
 
 <section class="pt-32 pb-44">
     <div class="container">

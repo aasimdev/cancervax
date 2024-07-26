@@ -1,4 +1,5 @@
 <?php $videos = include "./data/carousel-videos.php"; ?>
+
 <section class="pt-11 sm:pt-0">
     <div class="bg-banner-mobile md:bg-banner bg-white bg-no-repeat bg-center bg-cover h-[245px] sm:h-[480px] md:h-[850px] banner-home-up">
         <div class="container">

@@ -3,7 +3,6 @@
     <h1 class="relative z-10 text-white font-medium">Market</h1>
     </div>
 </section>
-
 <section class="pt-24">
     <div class="container">
         <div class="mb-10 space-y-3 [&>p]:text-base [&>p]:leading-normal [&>p]:text-black">
@@ -48,7 +47,6 @@
                 While there is no single magic “cure-all” cancer vaccine, disease-specific immunotherapy has proven to be effective in improving patient quality of life and survival rates. This translates into a large and growing market with many winning opportunities for biotech companies and many drug options for patients.
             </p>
         </div>
-
     </div>
 </section>
 <section class="pt-20 pb-28">

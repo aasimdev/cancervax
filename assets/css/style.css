@@ -1171,8 +1171,16 @@ a:hover{
   height: 16rem;
 }
 
+.h-\[225px\]{
+  height: 225px;
+}
+
 .h-\[245px\]{
   height: 245px;
+}
+
+.h-\[278px\]{
+  height: 278px;
 }
 
 .h-\[325px\]{
@@ -1203,14 +1211,6 @@ a:hover{
   height: 100vh;
 }
 
-.h-\[278px\]{
-  height: 278px;
-}
-
-.h-\[225px\]{
-  height: 225px;
-}
-
 .max-h-0{
   max-height: 0px;
 }
@@ -1223,12 +1223,12 @@ a:hover{
   min-height: 4rem;
 }
 
-.min-h-full{
-  min-height: 100%;
-}
-
 .min-h-\[90px\]{
   min-height: 90px;
+}
+
+.min-h-full{
+  min-height: 100%;
 }
 
 .w-\[110px\]{
@@ -1354,10 +1354,6 @@ a:hover{
 
 .max-w-screen-sm{
   max-width: 640px;
-}
-
-.max-w-\[416px\]{
-  max-width: 416px;
 }
 
 .flex-1{
@@ -1621,14 +1617,14 @@ a:hover{
   border-color: rgb(29 143 151 / var(--tw-border-opacity, 1));
 }
 
-.border-red-500{
-  --tw-border-opacity: 1;
-  border-color: rgb(239 68 68 / var(--tw-border-opacity, 1));
-}
-
 .border-custom-teal-500{
   --tw-border-opacity: 1;
   border-color: rgb(67 190 207 / var(--tw-border-opacity, 1));
+}
+
+.border-red-500{
+  --tw-border-opacity: 1;
+  border-color: rgb(239 68 68 / var(--tw-border-opacity, 1));
 }
 
 .bg-black{
@@ -1676,6 +1672,11 @@ a:hover{
   background-color: rgb(29 143 151 / var(--tw-bg-opacity, 1));
 }
 
+.bg-custom-teal-500{
+  --tw-bg-opacity: 1;
+  background-color: rgb(67 190 207 / var(--tw-bg-opacity, 1));
+}
+
 .bg-red-500{
   --tw-bg-opacity: 1;
   background-color: rgb(239 68 68 / var(--tw-bg-opacity, 1));
@@ -1684,11 +1685,6 @@ a:hover{
 .bg-white{
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
-}
-
-.bg-custom-teal-500{
-  --tw-bg-opacity: 1;
-  background-color: rgb(67 190 207 / var(--tw-bg-opacity, 1));
 }
 
 .bg-opacity-50{
@@ -1898,11 +1894,6 @@ a:hover{
   padding-bottom: 0.75rem;
 }
 
-.py-36{
-  padding-top: 9rem;
-  padding-bottom: 9rem;
-}
-
 .py-4{
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -2082,6 +2073,10 @@ a:hover{
   padding-top: 8rem;
 }
 
+.pt-36{
+  padding-top: 9rem;
+}
+
 .pt-4{
   padding-top: 1rem;
 }
@@ -2100,10 +2095,6 @@ a:hover{
 
 .pt-\[70px\]{
   padding-top: 70px;
-}
-
-.pt-36{
-  padding-top: 9rem;
 }
 
 .text-left{
@@ -2196,6 +2187,10 @@ a:hover{
   font-size: 26px;
 }
 
+.text-\[27px\]{
+  font-size: 27px;
+}
+
 .text-\[28px\]{
   font-size: 28px;
 }
@@ -2253,10 +2248,6 @@ a:hover{
   line-height: 1rem;
 }
 
-.text-\[27px\]{
-  font-size: 27px;
-}
-
 .font-bold{
   font-weight: 700;
 }
@@ -2283,6 +2274,10 @@ a:hover{
 
 .uppercase{
   text-transform: uppercase;
+}
+
+.\!uppercase{
+  text-transform: uppercase !important;
 }
 
 .capitalize{

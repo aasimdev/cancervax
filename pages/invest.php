@@ -1,6 +1,5 @@
 <section class="py-28">
     <div class="container">
-
         <div class="mb-12 text-center">
             <h1 class="text-5xl leading-snug font-medium">You can now invest in CancerVax <br class="hidden md:block"> and join our fight to cure cancer!</h1>
 
@@ -18,7 +17,5 @@
             Hours of operation: 9:00 am - 5:00 pm MST, Monday thru Friday, except stock market holidays <br>
             <a href="www.colonialstock.com" target="_blank" rel="noopener noreferrer" class="underline text-base">www.colonialstock.com</a>
         </p>
-
-
     </div>
 </section>
