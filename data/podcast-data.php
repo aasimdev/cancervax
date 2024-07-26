@@ -466,6 +466,15 @@ $videos = [
     ],
     // new
     [
+        'title' => "A universal cancer vaccine is not just a dream; it's a promise we're working tirelessly to fulfill",
+        'videoID' => "57Q4I7vwSAs",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "a-universal-cancer-vaccine-is-not-just-a-dream-its-a-promise-we-working-tirelessly-to-fulfill",
+        "display" => true
+    ],
+    [
         'title' => "Every step towards a universal cancer vaccine brings us closer to a world without this disease.",
         'videoID' => "efsWpootp2g",
         'date' => "",
