@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "July 22, 2024 - CancerVax News Commentary",
+        'videoID' => "0L3KOd8Wd7Q",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "july-22-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
         'title' => "July 15, 2024 - CancerVax News Commentary",
         'videoID' => "zzXmMuTzu4g",
         'date' => "",
@@ -457,6 +465,51 @@ $videos = [
         'scope' => "public"
     ],
     // new
+    [
+        'title' => "A universal cancer vaccine is not just a dream; it's a promise we're working tirelessly to fulfill",
+        'videoID' => "57Q4I7vwSAs",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "a-universal-cancer-vaccine-is-not-just-a-dream-its-a-promise-we-working-tirelessly-to-fulfill",
+        "display" => true
+    ],
+    [
+        'title' => "Every step towards a universal cancer vaccine brings us closer to a world without this disease.",
+        'videoID' => "efsWpootp2g",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "every-step-towards-a-universal-cancer-vaccine-brings-us-closer-to-a-world-without-this-disease",
+        "display" => true
+    ],
+    [
+        'title' => "Shortage of Cancer Drugs Creates Challenges for Treatment",
+        'videoID' => "dtVhqIqiypg",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "shortage-of-cancer-drugs-creates-challenges-for-treatment",
+        "display" => true
+    ],
+    [
+        'title' => "Fight for the Future: Funding & Research Advancements Bring Hope for Childhood Cancers",
+        'videoID' => "eBzABy41o18",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "fight-for-the-future-funding-research-advancements-bring-hope-for-childhood-cancers",
+        "display" => true
+    ],
+    [
+        'title' => "Hope on the Horizon: CancerVax Develops Promising Universal Cancer Treatment",
+        'videoID' => "nzF_C7lMvzk",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "hope-on-the-horizon-cancervax-develops-promising-universal-cancer-treatment",
+        "display" => true
+    ],
     [
         'title' => "Biotechnology in oncology",
         'videoID' => "0Gd8mmrkB1s",
