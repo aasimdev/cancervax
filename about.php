@@ -174,7 +174,7 @@ cancer research and medical school.
                         Byron Elton
                     </h5>
                     <p>
-                        President & CEO
+                        CEO
                     </p>
                     <div class="team-description">
                         <p>Mr. Elton is an experienced media and marketing executive with a proven record in pioneering new business development strategies and building top-flight marketing organizations. Since June 2018, he has been President of Elton Enterprises, Inc., which is involved in the wellness, fitness and health sector. He is a co-founder since June 2017 of Pardue Associates, operating monsho, a brand-centric, creative communications agency focused on delivering results. From 2013 to 2017, Mr. Elton was a partner of Clear Search, an executive search firm. Prior to that, from 2009 until 2013, Mr. Elton served as President and Chief Executive Officer of Carbon Sciences, Inc., a cleantech company developing a technology to convert earth destroying carbon dioxide into a useful form. Mr. Elton previously served as Senior Vice President of Sales for Univision Online from 2007 to 2008. Mr. Elton also served for eight years as an executive at AOL Media Networks from 2000 to 2007, where his assignments included Regional Vice President of Sales for AOL and Senior Vice President of E-Commerce for AOL Canada. His broadcast media experience includes leading the ABC affiliate in Santa Barbara, California in 1995 to 2000 and the CBS affiliate in Monterrey, California from 1998 to 1999, in addition to serving as President of the Alaskan Television Network from 1995 to 1999. Mr. Elton studied Advertising and Marketing Communications at Brigham Young University.</p>
@@ -195,13 +195,35 @@ cancer research and medical school.
                         </a>
                     </div>
                     <h5>
-                        Jonathan Lakey, PhD
+                        Jonathan Lakey, <span>PhD</span>
                     </h5>
                     <p>
-                        Advisor
+                        Chief Scientific Officer
                     </p>
                     <div class="team-description">
                         <p>Dr. Lakey graduated from the University of Alberta with a BS, MS and PhD degree and received post-doctoral training in Indianapolis and Seattle. Dr. Lakey is currently the Professor of Surgery and Biomedical Engineering and the Director of the Clinical Islet Program at University of California Irvine. Prior to that, he was the Director of the Comprehensive Tissue Bank at the University of Alberta. Dr. Lakey is most well-known for co-inventing the “Edmonton Protocol”, along with Dr. James Shapiro, which aided in the improvement of islet isolation techniques for patients with Type 1 diabetes, a recognized major advancement in the treatment of diabetes. The Edmonton Protocol allows patients to receive islet transplants from the enzymes of cadavers and has had a success rate of over 75%. This development has informed treatments for diabetic patients, but has also opened the door for similar treatments for patients with cancer who have compromised organs from the disease or from chemotherapy and radiation. Dr. Lakey has done extensive research in the fields of oncology, stem cells and organ transplantation. He is the recipient of the Outstanding Leadership in Science Award from Alberta Science & Technology, Outstanding Achievement Award from the Canadian Diabetes Association, Awards from the Royal College of Physicians and Surgeons and was honored with the Meritorious Service Medal (2005) by the Governor-General of Canada. Dr. Lakey has published over 495 scientific papers, 45 book chapters, submitted over 500 scientific abstracts and published a book on islet isolation.</p>
+                    </div>
+                </div>
+            </div>
+       
+            <div class="col-md-6 col-xl-3">
+                <div class="team-box">
+                    <div class="team-box-img">
+                        <a href="#">
+                            <img src="./assets/img/adam-grant.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
+                        </a>
+                    </div>
+                    <h5>
+                    Adam Grant, <span>PhD</span>
+                    </h5>
+                    <p>
+                    Principal Scientific
+                    </p>
+                    <div class="team-description">
+                        <p>
+
+
+Dr. Grant graduated from Brigham Young University with a BS in bioinformatics and obtained a PhD in cancer biology from the University of Arizona. His research interests are focused on identifying which cancer patients will respond to specific therapeutics based on their molecular profiles. During his time as a graduate student, Dr. Grant was the inventor of a software patent that improves neoantigen detection. This patent has been licensed to improve CAR-T cell detection of cancer cells. He is also a co-inventor of a gene-signature patent that strives to identify which breast cancer patients are at high risk for bone metastases, suggesting a clinical benefit from antifibrotic drugs like Nintedanib. During his professional career, Dr. Grant has been heavily involved in the immunotherapy space, striving to identify cancer patients who will benefit from combination therapy of anti-pd-1 inhibition and Treg reduction through CCR4 inhibition.</p>
                     </div>
                 </div>
             </div>
@@ -220,27 +242,6 @@ cancer research and medical school.
                     </p>
                     <div class="team-description">
                         <p>For 37 years, Lindsay served in various capacities at Kaweah Delta Health Care District in Visalia, CA, including the last 16 years as Chief Executive Officer. Kaweah Delta is the largest hospital and healthcare system in Tulare County and employs over 4,200.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-3">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/adam-grant.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                    Dr. Adam Grant
-                    </h5>
-                    <p>
-                    Advisor
-                    </p>
-                    <div class="team-description">
-                        <p>
-
-
-Dr. Grant graduated from Brigham Young University with a BS in bioinformatics and obtained a PhD in cancer biology from the University of Arizona. His research interests are focused on identifying which cancer patients will respond to specific therapeutics based on their molecular profiles. During his time as a graduate student, Dr. Grant was the inventor of a software patent that improves neoantigen detection. This patent has been licensed to improve CAR-T cell detection of cancer cells. He is also a co-inventor of a gene-signature patent that strives to identify which breast cancer patients are at high risk for bone metastases, suggesting a clinical benefit from antifibrotic drugs like Nintedanib. During his professional career, Dr. Grant has been heavily involved in the immunotherapy space, striving to identify cancer patients who will benefit from combination therapy of anti-pd-1 inhibition and Treg reduction through CCR4 inhibition.</p>
                     </div>
                 </div>
             </div>
