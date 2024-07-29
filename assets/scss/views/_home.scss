@@ -827,6 +827,9 @@ body.modal-open {
             color: #000000;
             text-transform: uppercase;
             letter-spacing: 1.2px;
+            span{
+                text-transform: none;
+            }
         }
 
         p {
