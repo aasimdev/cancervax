@@ -217,7 +217,7 @@ cancer research and medical school.
                     Adam Grant, <span>PhD</span>
                     </h5>
                     <p>
-                    Principal Scientific
+                    Principal Scientist
                     </p>
                     <div class="team-description">
                         <p>

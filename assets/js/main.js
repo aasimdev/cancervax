@@ -97,7 +97,7 @@ $(function () {
         e.preventDefault();
         var title = $(this).parent().find('h5').html();
         var decription = $(this).parent().find('.team-description').html();
-        $('#team').find('.modal-title').text(title);
+        $('#team').find('.modal-title').html(title);
         $('#team').find('.modal-body').html(decription);
         teamModal.show();
     });
