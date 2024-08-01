@@ -15,6 +15,14 @@ include('header.php'); ?>
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
+        <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancervax-adds-key-members-to-its-research-team.php"></a>
+                    <span> August 1, 2024</span>
+                    <h3>CancerVax Adds Key Members to Its Research Team </h3>
+                    <p> CancerVax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that the Company has added two key members to its cancer research team. Dr. Jonathan Lakey will serve as Chief Scientific Advisor and Dr. Adam Grant will serve as Principal Scientist </p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-successfully-uses-nobel-prize-chemistry-to-achieve-universal-cancer-vaccine-targeting-milestone.php"></a>
