@@ -474,6 +474,42 @@ $videos = [
     ],
     // new
     [
+        'title' => "The future of cancer treatment is bright, driven by innovation and growing investment",
+        'videoID' => "IRWq4kMfzBk",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "the-future-of-cancer-treatment-is-bright-driven-by-innovation-and-growing-investment",
+        "display" => true
+    ],
+    [
+        'title' => "A universal cancer treatment holds the potential to significantly advance cancer care",
+        'videoID' => "JnjFNzGaDJU",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "a-universal-cancer-treatment-holds-the-potential-to-significantly-advance-cancer-care",
+        "display" => true
+    ],
+    [
+        'title' => "The journey to conquer cancer is long, but every step forward is a beacon of hope.",
+        'videoID' => "tg8NxaDAaVw",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "the-journey-to-conquer-cancer-is-long-but-every-step-forward-is-a-beacon-of-hope",
+        "display" => true
+    ],
+    [
+        'title' => "CancerVAX is at the forefront of developing a universal cancer treatment in collaboration with UCLA.",
+        'videoID' => "kWhwUN2356s",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "cancervax-is-at-the-forefront-of-developing-a-universal-cancer-treatment-in-collaboration-with-ucla",
+        "display" => true
+    ],
+    [
         'title' => "A universal cancer vaccine is not just a dream; it's a promise we're working tirelessly to fulfill",
         'videoID' => "57Q4I7vwSAs",
         'date' => "",
