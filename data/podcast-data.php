@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "August 19, 2024 - CancerVax News Commentary",
+        'videoID' => "t38nUQeA450",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "august-19-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
         'title' => "August 12, 2024 - CancerVax News Commentary",
         'videoID' => "TDwpk9sNep4",
         'date' => "",
@@ -481,6 +489,42 @@ $videos = [
         'scope' => "public"
     ],
     // new
+    [
+        'title' => "Alarming rise in early onset cancer cases demands urgent attention!",
+        'videoID' => "wcr2M7T79l4",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "alarming-rise-in-early-onset-cancer-cases-demands-urgent-attention",
+        "display" => true
+    ],
+    [
+        'title' => "CancerVAX is leading the charge in developing a groundbreaking universal cancer treatment.",
+        'videoID' => "Kk4IDipssRQ",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "cancervax-is-leading-the-charge-in-developing-a-groundbreaking-universal-cancer-treatment",
+        "display" => true
+    ],
+    [
+        'title' => "UCLA Recognized as Top Medical Research Institution!",
+        'videoID' => "QvgjPlHwix8",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "ucla-recognized-as-top-medical-research-institution",
+        "display" => true
+    ],
+    [
+        'title' => "Artificial intelligence is transforming the way cancer patients navigate their journey.",
+        'videoID' => "0UFeuKwfwxE",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "artificial-intelligence-is-transforming-the-way-cancer-patients-navigate-their-journey",
+        "display" => true
+    ],
     [
         'title' => "The future of cancer treatment is bright, driven by innovation and growing investment",
         'videoID' => "IRWq4kMfzBk",
