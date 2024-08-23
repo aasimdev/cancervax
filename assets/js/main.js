@@ -15,55 +15,6 @@ $(function () {
         });
     });
   
-    var allowedPages = ["index.php", "investors", "invest", "about"];
-    function isHomepage() {
-        return window.location.pathname === "/" || window.location.pathname === "/index.php";
-    }
-    function getCurrentPage() {
-        var path = window.location.pathname;
-        return path.endsWith("/") ? "index.php" : path.split("/").pop();
-    }
-
-    var currentPage = getCurrentPage();
-    if (allowedPages.includes(currentPage) || isHomepage()) {
-        var hasSubmitted = localStorage.getItem('emailSubmitted');
-        if (!hasSubmitted) {
-            setTimeout(() => {
-                $('#investModal').modal('show');
-                $('body').addClass('no-scroll');
-            }, 3000)
-        }
-
-        $('#jotformForm').submit(function (e) {
-            e.preventDefault();
-            var formData = $(this).serialize();
-            $.ajax({
-                type: 'POST',
-                url: $(this).attr('action'),
-                data: formData,
-                success: function (response) {
-                    localStorage.setItem('emailSubmitted', 'true');
-                    $('.invest-sbmit-btn').fadeIn();
-                    $('.invest-modal .spinner-border').hide();
-                    $('.invest-alert').fadeIn();
-                    setTimeout(() => {
-                        $('#investModal').modal('hide');
-                        $('body').removeClass('no-scroll');
-                    }, 1500)
-                },
-                error: function (xhr, status, error) {
-                    console.error(xhr.responseText);
-                }
-            });
-        });
-
-
-    }
-
-    var myModalEl = document.getElementById('investModal')
-    myModalEl.addEventListener('hide.bs.modal', function (event) {
-        $('body').removeClass('no-scroll');
-    })
 
     $('#jotformForm2').submit(function (e) {
         e.preventDefault();
