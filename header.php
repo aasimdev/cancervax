@@ -200,6 +200,9 @@
                                 <a class="nav-link <?php active('about'); ?>" href="/about">About</a>
                             </li>
                             <li class="nav-item">
+                                <a class="nav-link <?php active('technology'); ?>" href="/technology">Technology</a>
+                            </li>
+                            <li class="nav-item">
                                 <a class="nav-link <?php active('progress'); ?>" href="/progress">Progress</a>
                             </li>
                             <li class="nav-item">

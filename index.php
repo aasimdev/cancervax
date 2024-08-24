@@ -256,35 +256,10 @@ include('header.php'); ?>
 </section> -->
 
 
-<section class="worldhealth">
+<section class="worldhealth-n">
     <div class="container">
-        <h2>The UCLA Research Team</h2>
-        <div class="worldhealth-content">
-            <div class="row">
-                <div class="col-lg-5">
-                    <div class="worldhealth-text">
-                        <h3>World-class researchers and scientists. </h3>
-                        <p>Our team of dedicated scientists is on the cutting edge of cancer research. From the lab
-                            to
-                            the clinic, we are committed to finding new and better ways to prevent and treat cancer.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-lg-7">
-                    <div class="worldhealth-counter">
-                        <div class="cancervax-counter">
-                            <div class="counter">
-                                <span>80</span>
-                            </div>
-                            <p>Years of collective <br> experience</p>
-                        </div>
-                        <img src="./assets/img/ucla-health.png" alt="health">
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
+            <p>With more than <strong>500 physicians and scientists working on the forefront of cancer discoveries</strong>, the UCLA Health Jonsson Comprehensive Cancer Center is a leader in providing both experimental and traditional cancer treatments. Working with a team of world class cancer researchers and practicing oncologists at UCLA, CancerVax began the initial development of its novel Universal Cancer Treatment platform. Also working with CancerVax, UCLA developed a promising cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. </p>
+            <p>Flashpoint was founded on nanotechnology developed over the past 10 years in the laboratory of Chad Mirkin, Director of the International Institute for Nanotechnology at Northwestern University and 2024 winner of the prestigious Kavli Prize in Nanoscience. <strong>Flashpoint’s groundbreaking nanotechnology discovery platform</strong> enables the development of therapeutic candidates with superior product profiles. Validated in numerous in-vivo models, this technology has transformed components that are ineffective in conventional formulations into curative cancer immunotherapies. CancerVax is working with Flashpoint to deliver its novel Universal Cancer Treatment therapies using Flashpoint’s nanoparticle technology.</p>
     </div>
 </section>
 

@@ -35,23 +35,23 @@ include('header.php'); ?>
                     </div>
                     <div class="col-sm-9 col-md-8 col-xl-6">
                         <p>Under the terms of a Sponsored Research Agreement, we began working with UCLA in early 2021 on a single-disease
-immunotherapy targeted at Ewing Sarcoma, a deadly children’s
-cancer. Existing immunotherapies target natural cancer cell
-markers, which unfortunately appear in healthy cells as well,
-resulting in the destruction of healthy cells and causing various
-levels of toxicity and side effects.<br><br>
-In 2024, we announced that our UCLA research team had created a promising new drug candidate for treating recurrent Ewing sarcoma. Based on the positive data, we may launch FDA IND enabling studies needed to apply for approval to proceed with human trials.
-<br><br>
-In late 2021,
-CancerVax developed the concept of a customizable Universal Cancer
-Treatment platform that can potentially target cancer cells with
-a high degree of precision and force only the cancer cells to
-express a unique marker that we can easily target for destruction.
-In 2022, we entered into a Sponsored Research Agreement with UCLA to help develop our Universal Cancer Treatment platform.<br><br>
-The Universal Cancer Treatment project has progressed methodically with the development of
-various innovative technologies, including a foundational
-nanoparticle technology which can be programmed to target
-specific cells and deliver customized cargos.
+                            immunotherapy targeted at Ewing Sarcoma, a deadly children’s
+                            cancer. Existing immunotherapies target natural cancer cell
+                            markers, which unfortunately appear in healthy cells as well,
+                            resulting in the destruction of healthy cells and causing various
+                            levels of toxicity and side effects.<br><br>
+                            In 2024, we announced that our UCLA research team had created a promising new drug candidate for treating recurrent Ewing sarcoma. Based on the positive data, we may launch FDA IND enabling studies needed to apply for approval to proceed with human trials.
+                            <br><br>
+                            In late 2021,
+                            CancerVax developed the concept of a customizable Universal Cancer
+                            Treatment platform that can potentially target cancer cells with
+                            a high degree of precision and force only the cancer cells to
+                            express a unique marker that we can easily target for destruction.
+                            In 2022, we entered into a Sponsored Research Agreement with UCLA to help develop our Universal Cancer Treatment platform.<br><br>
+                            The Universal Cancer Treatment project has progressed methodically with the development of
+                            various innovative technologies, including a foundational
+                            nanoparticle technology which can be programmed to target
+                            specific cells and deliver customized cargos.
                         </p>
                     </div>
                 </div>
@@ -83,14 +83,14 @@ specific cells and deliver customized cargos.
                             <h5>
                                 Children’s Cancer.</h5>
                             <p>Working with UCLA under the terms of a Sponsored Research Agreement, we have successfully developed a disease-specific immunotherapy drug candidate targeted at
-treating Ewing sarcoma, a rare but deadly bone and soft tissue
-cancer that primarily affects children and young adults. There is
-currently no FDA approved treatment for recurrence. <strong>The death rate is 100% of patients with recurrent Ewing sarcoma.</strong>
+                                treating Ewing sarcoma, a rare but deadly bone and soft tissue
+                                cancer that primarily affects children and young adults. There is
+                                currently no FDA approved treatment for recurrence. <strong>The death rate is 100% of patients with recurrent Ewing sarcoma.</strong>
                                 <br><br>
-                             We hold an option for the exclusive right to license all
-intellectual property and related technology resulting from this
-research program. UCLA is a top-ranked university known for its
-cancer research and medical school.
+                                We hold an option for the exclusive right to license all
+                                intellectual property and related technology resulting from this
+                                research program. UCLA is a top-ranked university known for its
+                                cancer research and medical school.
                             </p>
                         </div>
                     </div>
@@ -159,7 +159,15 @@ cancer research and medical school.
                         Chairman
                     </p>
                     <div class="team-description">
-                        <p>Ryan has had a successful career as an entrepreneur, business executive and public servant. Prior to joining CancerVax, Ryan co-founded several biotech companies/technologies including a nitric oxide topical wound-care product, a medical device company (drug delivery system) and an antibiotic drug development company. Ryan served as CEO of Curza, a small molecule therapeutics company focused on developing new antibiotics; SVP at Clarke Capital Partners, a private growth equity investment firm; co-founder of a software/ecommerce company Found.com (acquired by CRS Retail Systems); co-founder of a software company O2 Blue (acquired by Prebon Yamane). His public service activities include serving on the Draper, Utah City Council and serving on the campaigns of two U.S. presidential candidates, one U.S. senate candidate and two gubernatorial candidates. Ryan holds degrees in Business Management from Ricks College and Political Science from Brigham Young University.</p>
+
+                    <ul class="theme-list pb-4 px-4">
+                            <li>
+                                Extensive background in the biotech industry​</li>
+                            <li> Former CEO of Curza, a small molecule antibiotics drug company​</li>
+                            <li>  Co-founded several biotech companies​</li>
+                            <li> Partnered in a private equity firm​</li>
+                            <li>Served on two U.S. presidential campaigns</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -177,7 +185,13 @@ cancer research and medical school.
                         CEO
                     </p>
                     <div class="team-description">
-                        <p>Mr. Elton is an experienced media and marketing executive with a proven record in pioneering new business development strategies and building top-flight marketing organizations. Since June 2018, he has been President of Elton Enterprises, Inc., which is involved in the wellness, fitness and health sector. He is a co-founder since June 2017 of Pardue Associates, operating monsho, a brand-centric, creative communications agency focused on delivering results. From 2013 to 2017, Mr. Elton was a partner of Clear Search, an executive search firm. Prior to that, from 2009 until 2013, Mr. Elton served as President and Chief Executive Officer of Carbon Sciences, Inc., a cleantech company developing a technology to convert earth destroying carbon dioxide into a useful form. Mr. Elton previously served as Senior Vice President of Sales for Univision Online from 2007 to 2008. Mr. Elton also served for eight years as an executive at AOL Media Networks from 2000 to 2007, where his assignments included Regional Vice President of Sales for AOL and Senior Vice President of E-Commerce for AOL Canada. His broadcast media experience includes leading the ABC affiliate in Santa Barbara, California in 1995 to 2000 and the CBS affiliate in Monterrey, California from 1998 to 1999, in addition to serving as President of the Alaskan Television Network from 1995 to 1999. Mr. Elton studied Advertising and Marketing Communications at Brigham Young University.</p>
+                        <ul class="theme-list pb-4 px-4">
+                            <li>Long career in sales and marketing ​</li>
+
+                            <li>Senior Vice President of Sales for Univision</li>
+                            <li> Regional Vice President of Sales for AOL ​</li>
+                            <li> Senior Vice President of E-commerce for AOL Canada</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -186,7 +200,7 @@ cancer research and medical school.
 
         <div class="row justify-content-center mt-4">
 
-          
+
             <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
@@ -201,11 +215,25 @@ cancer research and medical school.
                         Chief Scientific Officer
                     </p>
                     <div class="team-description">
-                        <p>Dr. Lakey graduated from the University of Alberta with a BS, MS and PhD degree and received post-doctoral training in Indianapolis and Seattle. Dr. Lakey is currently the Professor of Surgery and Biomedical Engineering and the Director of the Clinical Islet Program at University of California Irvine. Prior to that, he was the Director of the Comprehensive Tissue Bank at the University of Alberta. Dr. Lakey is most well-known for co-inventing the “Edmonton Protocol”, along with Dr. James Shapiro, which aided in the improvement of islet isolation techniques for patients with Type 1 diabetes, a recognized major advancement in the treatment of diabetes. The Edmonton Protocol allows patients to receive islet transplants from the enzymes of cadavers and has had a success rate of over 75%. This development has informed treatments for diabetic patients, but has also opened the door for similar treatments for patients with cancer who have compromised organs from the disease or from chemotherapy and radiation. Dr. Lakey has done extensive research in the fields of oncology, stem cells and organ transplantation. He is the recipient of the Outstanding Leadership in Science Award from Alberta Science & Technology, Outstanding Achievement Award from the Canadian Diabetes Association, Awards from the Royal College of Physicians and Surgeons and was honored with the Meritorious Service Medal (2005) by the Governor-General of Canada. Dr. Lakey has published over 495 scientific papers, 45 book chapters, submitted over 500 scientific abstracts and published a book on islet isolation.</p>
+
+                        <ul class="theme-list pb-4 px-4">
+                            <li>Extensive experience in the fields of oncology, stem cells, and organ transplantation
+                                ​</li>
+
+                            <li> An inventor of the famous “Edmonton Protocol” for
+                                treating Type 1 diabetes​</li>
+                            <li>Published over 495 scientific papers, 45 books,
+                                and over 500 scientific abstracts</li>
+                            <li>Professor Emeritus at
+                                University of
+                                California,
+                                Irvine.</li>
+                            <li>Advisor to many biotech companies</li>
+                        </ul>
                     </div>
                 </div>
             </div>
-       
+
             <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
@@ -214,34 +242,20 @@ cancer research and medical school.
                         </a>
                     </div>
                     <h5>
-                    Adam Grant, <span>PhD</span>
+                        Adam Grant, <span>PhD</span>
                     </h5>
                     <p>
-                    Principal Scientist
+                        Principal Scientist
                     </p>
                     <div class="team-description">
-                        <p>
+                        <ul class="theme-list pb-4 px-4">
+                            <li>An inventor of the Company’s Universal Cancer Treatment platform​</li>
 
-
-Dr. Grant graduated from Brigham Young University with a BS in bioinformatics and obtained a PhD in cancer biology from the University of Arizona. His research interests are focused on identifying which cancer patients will respond to specific therapeutics based on their molecular profiles. During his time as a graduate student, Dr. Grant was the inventor of a software patent that improves neoantigen detection. This patent has been licensed to improve CAR-T cell detection of cancer cells. He is also a co-inventor of a gene-signature patent that strives to identify which breast cancer patients are at high risk for bone metastases, suggesting a clinical benefit from antifibrotic drugs like Nintedanib. During his professional career, Dr. Grant has been heavily involved in the immunotherapy space, striving to identify cancer patients who will benefit from combination therapy of anti-pd-1 inhibition and Treg reduction through CCR4 inhibition.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-3">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/Lindsay-Mann.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                        Lindsay Mann
-                    </h5>
-                    <p>
-                        Founder (Retired)
-                    </p>
-                    <div class="team-description">
-                        <p>For 37 years, Lindsay served in various capacities at Kaweah Delta Health Care District in Visalia, CA, including the last 16 years as Chief Executive Officer. Kaweah Delta is the largest hospital and healthcare system in Tulare County and employs over 4,200.</p>
+                            <li> Expert computational biologist using AI and ​
+                                machine learning to discover new drugs and biological pathways​</li>
+                            <li>Invented software to improve cancer antigen detection​</li>
+                            <li>Invented a gene-signature approach to select treatment for breast cancer</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -359,37 +373,6 @@ Dr. Grant graduated from Brigham Young University with a BS in bioinformatics an
     </div>
 </section>
 
-<section class="worldhealth">
-    <div class="container">
-    <h2>The UCLA Research Team</h2>
-        <div class="worldhealth-content">
-            <div class="row">
-                <div class="col-lg-5">
-                    <div class="worldhealth-text">
-                        <h3>World-class researchers and scientists. </h3>
-                        <p>Our team of dedicated scientists is on the cutting edge of cancer research. From the lab
-                            to
-                            the clinic, we are committed to finding new and better ways to prevent and treat cancer.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-lg-7">
-                    <div class="worldhealth-counter">
-                        <div class="cancervax-counter">
-                            <div class="counter">
-                                <span>80</span>
-                            </div>
-                            <p>Years of collective <br> experience</p>
-                        </div>
-                        <img src="./assets/img/ucla-health.png" alt="health">
-                    </div>
-                </div>
-            </div>
-        </div>
-
-       
-    </div>
-</section>
 
 <?php
 include('footer.php'); ?>

@@ -514,6 +514,18 @@
             margin-left: 50px;
         }
     }
+
+    &-n{
+        padding: 70px 0px;
+        p{
+            font-size: 18px;
+            line-height: 1.33em;
+            color: #FFFFFFBF;
+           & + p{
+            margin-top: 24px;
+           }
+        }
+    }
 }
 
 .cancervax-counter {
