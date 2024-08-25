@@ -18,39 +18,49 @@ include('header.php'); ?>
         <p>Cancer immunotherapy is the latest weapon in the war against cancer, with a forecasted market size of $153 Billion by 2027 (Reports and Data). It is less toxic than chemotherapy and radiation, and less radical than surgery. ​</p>
         <p>Our novel approach is fundamentally different than other treatments and we believe this is a “Better Way to Treat Cancer”.​</p>
 
-        <h3>The Problem​</h3>
-        <p>Cancer cells are very good at avoiding detection. Many cancer vaccines today can only detect proteins on the surface of cancer cells. Unfortunately, these proteins also appear on healthy cells leading to toxic killing of healthy cells and tissues. </p>
 
-        <h3>The Solution​</h3>
-        <p>Our novel approach uses a 2-step precision detection strategy:</p>
-        <ul class="theme-list mb-4">
-            <li>Step 1 - Detect cell surface markers <strong>outside the cell</strong></li>
-            <li>Step 2 - Detect cancer genetic signatures <strong>inside the cell</strong>​</li>
-        </ul>
-        <p>Our technology is packaged into a nanoparticle, very much like the COVID-19 vaccine. </p>
-        <p>Unlike any other approach, our nanoparticles are programmable to seek out <strong>only cancer cells</strong>, then mark them for destruction.</p>
+        <div class="row">
+            <div class="col-lg-6">
+                <h3>The Problem​</h3>
+                <p>Cancer cells are very good at avoiding detection. Many cancer vaccines today can only detect proteins on the surface of cancer cells. Unfortunately, these proteins also appear on healthy cells leading to toxic killing of healthy cells and tissues. </p>
+
+                <h3>The Solution​</h3>
+                <p>Our novel approach uses a 2-step precision detection strategy:</p>
+                <ul class="theme-list mb-4">
+                    <li>Step 1 - Detect cell surface markers <strong>outside the cell</strong></li>
+                    <li>Step 2 - Detect cancer genetic signatures <strong>inside the cell</strong>​</li>
+                </ul>
+                <p>Our technology is packaged into a nanoparticle, very much like the COVID-19 vaccine. </p>
+                <p>Unlike any other approach, our nanoparticles are programmable to seek out <strong>only cancer cells</strong>, then mark them for destruction.</p>
+            </div>
+            <div class="col-lg-6">
+                <div class="prob-the-sol">
+                    <img src="./assets/img/the-problem-the-solution.png" alt="problem and the solution">
+                </div>
+            </div>
+        </div>
+
+
+
+
+
 
         <h3>Cancer Cell Detection​</h3>
 
-        <ul class="theme-list mb-4">
-            <li>A single injection contains billions of CancerVax nanoparticles.</li>
-            <li>Each nanoparticle is equipped with detectors to seek out specific cancer cells.</li>
-            <li>The nanoparticles latch on to cells with the matching surface protein.</li>
-        </ul>
+        <div class="tech-img">
+            <img src="./assets/img/cancer-cell-detection.png" alt="cancer cell detection">
+        </div>
 
         <h3>Cancer Cell Marking​</h3>
+        <div class="tech-img">
+            <img src="./assets/img/Cancer-Cell-Marking.png" class="my-5 pb-5 mx-auto d-block" alt="cancer cell detection">
+        </div>
 
-        <ul class="theme-list mb-4">
-            <li>A Smart mRNA payload is released into the cell.</li>
-            <li>If the cell matches the genetic signature in the payload, then the cell is confirmed as the target cancer cell.</li>
-            <li>The Smart mRNA then tells the cancer cell to produce proteins associated with well immunized diseases such as, COVID-19, measles, or chickenpox. <strong>This makes cancer cells look like ​
-                    common diseases ​
-                    to the immune ​
-                    system.</strong></li>
-        </ul>
 
         <h3>Cancer Cell Killing​</h3>
-        <p>We summon the full power and memory of the body’s existing immunity to attack and kill cancer cells!</p>
+        <div class="tech-img">
+            <img src="./assets/img/Cancer-Cell-Killing.png" class="my-5 pb-5 mx-auto d-block" alt="cancer cell detection">
+        </div>
 
 
         <h3>A Customizable Platform for Many Cancers​</h3>
@@ -71,9 +81,9 @@ include('header.php'); ?>
         </div>
         <p>Working with UCLA, we have developed a promising drug candidate for treating Ewing Sarcoma.​ </p>
 
-            <p>
+        <p>
             It has been demonstrated in lab tests to kill Ewing Sarcoma cells with good efficiency.​</p>
-            <p>  We have an exclusive right to license this drug from UCLA and commercialize it.</p>
+        <p> We have an exclusive right to license this drug from UCLA and commercialize it.</p>
     </div>
 </section>
 

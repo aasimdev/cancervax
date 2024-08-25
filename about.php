@@ -142,7 +142,11 @@ include('header.php'); ?>
 <a name="about-team" id="about-team" style="position: relative; top:-80px"></a>
 <section class="coreTeam">
     <div class="container">
-        <h3 style="text-align:center;color:black;margin-bottom:30px;">CancerVax Team</h3>
+        <div class="coreTeam-head">
+            <h3>CancerVax Team</h3>
+            <p>CancerVax is led by an experienced team of biotech experts, cancer researchers and marketing executives, who are working with development partners to create its innovative Universal Cancer Treatment Platform.​</p>
+        </div>
+
         <div class="row justify-content-center">
 
             <div class="col-md-6 col-xl-3">
@@ -160,11 +164,11 @@ include('header.php'); ?>
                     </p>
                     <div class="team-description">
 
-                    <ul class="theme-list pb-4 px-4">
+                        <ul class="theme-list pb-4 px-4">
                             <li>
                                 Extensive background in the biotech industry​</li>
                             <li> Former CEO of Curza, a small molecule antibiotics drug company​</li>
-                            <li>  Co-founded several biotech companies​</li>
+                            <li> Co-founded several biotech companies​</li>
                             <li> Partnered in a private equity firm​</li>
                             <li>Served on two U.S. presidential campaigns</li>
                         </ul>

@@ -517,6 +517,14 @@
 
     &-n{
         padding: 70px 0px;
+
+        h2 {
+            text-align: center;
+            margin-bottom: 35px;
+            font-size: 40px;
+            font-weight: 400;
+            text-transform: uppercase;
+        }
         p{
             font-size: 18px;
             line-height: 1.33em;
@@ -861,6 +869,21 @@ body.modal-open {
         }
     }
 
+    &-head{
+        text-align: center;
+    max-width: 900px;
+    margin: 0 auto 30px;
+        h3{
+          color:black;
+        }
+        p{
+            font-size: 17px;
+            line-height: 1.33em;
+            color: #000;
+            text-align: center;
+        }
+    }
+
 }
 
 
@@ -941,6 +964,11 @@ body.modal-open {
 
     &-wrap {
         position: relative;
+    }
+    ul{
+        li{
+            font-size: 18px;
+        }
     }
 }
 
@@ -3180,4 +3208,14 @@ label.error {
         line-height: 1.3;
         margin-top: 32px;
     }
+}
+
+.prob-the-sol{
+    max-width: 340px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tech-img{
+    max-width: 1050px;
+    margin: 32px auto 48px;
 }
