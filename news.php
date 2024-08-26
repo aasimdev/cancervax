@@ -15,7 +15,15 @@ include('header.php'); ?>
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
-        <div class="col-lg-6">
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php"></a>
+                    <span> August 27, 2024</span>
+                    <h3>CancerVax Files New Patent for Its Novel Universal Cancer Treatment Platform </h3>
+                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has recently filed a new patent application which includes a Smart mRNA Technology. mRNA, short for messenger RNA, is the underlying technology that made the COVID-19 vaccine so effective and inexpensive </p>
+                </div>
+            </div>
+            <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-adds-key-members-to-its-research-team.php"></a>
                     <span> August 1, 2024</span>
@@ -23,11 +31,11 @@ include('header.php'); ?>
                     <p> CancerVax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that the Company has added two key members to its cancer research team. Dr. Jonathan Lakey will serve as Chief Scientific Advisor and Dr. Adam Grant will serve as Principal Scientist </p>
                 </div>
             </div>
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-successfully-uses-nobel-prize-chemistry-to-achieve-universal-cancer-vaccine-targeting-milestone.php"></a>
                     <span> May 21, 2024</span>
-                    <h3>CancerVax Successfully Uses Nobel Prize Chemistry to Achieve Universal Cancer Treatment Targeting Milestone   </h3>
+                    <h3>CancerVax Successfully Uses Nobel Prize Chemistry to Achieve Universal Cancer Treatment Targeting Milestone </h3>
                     <p> CancerVax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has achieved a critical milestone by creating a process to add any antibody to lipid nanoparticles (LNP) using “click chemistry”, for targeting cancer cells </p>
                 </div>
             </div>
@@ -39,25 +47,6 @@ include('header.php'); ?>
                     <p> CancerVax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has created a promising new drug candidate for treating recurrent Ewing sarcoma, a deadly children’s cancer </p>
                 </div>
             </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-launches-5-million-funding-round.php"></a>
-                    <span> April 3, 2024 </span>
-                    <h3>CancerVax Launches $5 Million Funding Round </h3>
-                    <p> CancerVax, Inc., developer of a breakthrough Universal Cancer Treatment that will use the body’s immune system to fight cancer, today announced that its Reg A+ offering has been qualified by the SEC allowing the Company to formally launch a funding round of up to $5 million. Proceeds from the SEC qualified Reg A+ offering will be used by the Company to continue work on its breakthrough cancer treatments </p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-ceo-ryan-davies-discusses-cancer-drug-development-with-dr-ezra-cohen.php"></a>
-                    <span>November 2, 2023 </span>
-                    <h3>CancerVax CEO Ryan Davies Discusses Cancer Drug Development with Dr. Ezra Cohen</h3>
-                    <p> CancerVax, Inc., developer of a breakthrough universal cancer treatment that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, and Tempus Labs Chief Medical Officer for Oncology Dr. Ezra Cohen, discussed his time at Tempus Labs, Moores Cancer Center and University of Chicago</p>
-                </div>
-            </div>
-
-
-
         </div>
         <div class="news-see-archive">
             <a href="/news-archive">See All</a>
