@@ -52,9 +52,7 @@ include('header.php'); ?>
             <a href="/news-archive">See All</a>
         </div>
 
-        <div class="offerInvest">
-            <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/">Invest Here <span>Secure Direct Invest Platform</span></a>
-        </div>
+   
     </div>
 </section>
 <!-- <section class="news">

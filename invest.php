@@ -5,32 +5,29 @@ $GLOBALS["keywords"] = "";
 include "header.php";
 ?>
 
+<section class="news-detail" style="padding-bottom: 100px;">
+    <div class="container">
+        <div class="post-title">
+            <h1>About Us</h1>
+        </div>
 
-<div class="offerScreen">
-    <div class="mainParent">
-        <!-- Section 1 -->
-        <div class="heroSection" id="overview">
-            <div class="container">
-                <h1>Invest in a Better Way to Treat Cancer</h1>
-                <div class="row align-items-center">
-                    <div class="col-lg-6">
-                        <div class="heroSection-content">
-                            <h2> Using the Body’s Immune System to Fight Cancer</h2>
-                            <div class="banner-announcement d-lg-none">
-                                <h4>Breaking News</h4>
-                                <p>CancerVax has achieved a critical milestone for targeting cancer cells.</p>
-                                <a href="cancervax-successfully-uses-nobel-prize-chemistry-to-achieve-universal-cancer-vaccine-targeting-milestone.php" class="theme-btn">Learn More</a>
-                            </div>
-                            <div class="video-section first-mobile text-center">
-                                <a href="https://www.youtube.com/watch?v=QNFte4x413Y" class="popup-youtube">
-                                    <img src="./assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
-                                </a>
-                            </div>
-                           <p> CancerVax, Inc. is a pre-clinical biotechnology company creating a better way to treat cancer. Working with a team of world class cancer researchers and practicing oncologists at UCLA, we are developing a breakthrough Universal Cancer Treatment platform that will leverage the body’s immune system to detect, mark, and destroy only cancer cells.</p>
+        <p>CancerVax, Inc. is a pre-clinical biotechnology company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells look like well immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We have also created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. ​​</p>
 
-<p>      We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults.
-</p>
-<p>    We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer.</p>
+        <h3>Stock Transfer Agent​</h3>
+        <p>Colonial Stock Transfer Company, Inc. <br>
+            7840 S 700 E <br>
+            Sandy, UT 84070 <br> 
+            Phone: 801-355-5740 <br>
+            Fax: 801-355-6505 <br>
+            Hours of operation: 9:00 am - 5:00 pm MST, Monday thru Friday, except stock market holidays <br>
+            <a href="www.colonialstock.com" target="_blank" rel="noopener noreferrer">www.colonialstock.com</a></p>
+
+
+    </div>
+</section>
+
+<?php
+include('footer.php'); ?>
                       
                         </div>
                         <div class="invest-btns-wrap">
@@ -486,11 +483,7 @@ include "header.php";
                     <div class="col-lg-4">
                         <div class="priceCardLeft d-none d-lg-block">
 
-                            <div class="offerInvestTwo">
-                                <a href="/prep">Invest Here <span>Secure Direct Invest Platform</span></a>
-                            </div>
-
-                            <div class="offerInvestTwo green-btn mt-3">
+                            <div class="offerInvestTwo green-btn">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#investMoreModal">Looking to Invest More Than $5000? <span>Click here to speak with a company executive</span></a>
                             </div>
 
@@ -538,9 +531,6 @@ include "header.php";
                 </div> -->
                     <div class="offerInvestTwo green-btn">
                         <a href="#" class="w-auto" data-bs-toggle="modal" data-bs-target="#investMoreModal">Invest More Than $5000? <span>Speak to a company executive</span></a>
-                    </div>
-                    <div class="offerInvest">
-                        <a href="/prep">Invest Here <span>Secure Direct Invest Platform</span></a>
                     </div>
                 </div>
             </div>

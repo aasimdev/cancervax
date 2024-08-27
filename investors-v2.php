@@ -4,36 +4,24 @@ $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 include('header.php'); ?>
 
-<section class="investor-banner">
-    <div class="container-fluid">
-        <div class="keywords d-flex align-items-center">
-            <h1 class="invkeywords">
-            </h1>
-        </div>
-        <h2>CancerVax</h2>
-        <h3>FIGHT CANCER.</h3>
-    </div>
-</section>
-
-<section class="invest">
+<section class="news-detail" style="padding-bottom: 100px;">
     <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6">
-                <div class="invest-img">
-                    <img src="./assets/img/invest2.jpg" alt="invest">
-                    <div class="invest-img-over">
-                        <img src="./assets/img/invest1.jpg" alt="invest">
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                
-                <div class="invest-text">
-                    <p>We are not accepting new investors at this time. If you want to keep up with our progress or learn about future investment rounds, please subscribe to our email newsletter below.</p>
-                    
-                </div>
-            </div>
+        <div class="post-title">
+            <h1>About Us</h1>
         </div>
+
+        <p>CancerVax, Inc. is a pre-clinical biotechnology company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells look like well immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We have also created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. ​​</p>
+
+        <h3>Stock Transfer Agent​</h3>
+        <p>Colonial Stock Transfer Company, Inc. <br>
+            7840 S 700 E <br>
+            Sandy, UT 84070 <br> 
+            Phone: 801-355-5740 <br>
+            Fax: 801-355-6505 <br>
+            Hours of operation: 9:00 am - 5:00 pm MST, Monday thru Friday, except stock market holidays <br>
+            <a href="www.colonialstock.com" target="_blank" rel="noopener noreferrer">www.colonialstock.com</a></p>
+
+
     </div>
 </section>
 

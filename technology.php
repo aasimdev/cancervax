@@ -13,7 +13,7 @@ include('header.php'); ?>
         <p>We are developing a novel Universal Cancer Treatment Platform that will be customizable, as an injection, to treat many types of cancer. ​​</p>
 
 
-        <p>Our innovative approach <strong>DETECTS, MARKS, and KILLS</strong> only cancer cells. By making cancer cells “look” like well immunized diseases such as COVID-19, measles, or chickenpox, we intend to harness the body’s natural immunity to easily kill cancer cells. For example, anyone who has had chickenpox, or been vaccinated for chickenpox, has lifetime immunity to the disease.​</p>
+        <p>Our innovative approach <strong>DETECTS, MARKS, and KILLS</strong> only cancer cells. By making cancer cells “look” like well immunized diseases such as measles, or chickenpox, we intend to harness the body’s natural immunity to easily kill cancer cells. For example, anyone who has had measles, or been vaccinated for measles, has lifetime immunity to the disease.​</p>
         <p>Our form of treatment is known as <strong>cancer immunotherapy, or therapeutic cancer vaccines</strong>.​</p>
         <p>Cancer immunotherapy is the latest weapon in the war against cancer, with a forecasted market size of $153 Billion by 2027 (Reports and Data). It is less toxic than chemotherapy and radiation, and less radical than surgery. ​</p>
         <p>Our novel approach is fundamentally different than other treatments and we believe this is a “Better Way to Treat Cancer”.​</p>
@@ -22,13 +22,14 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-6">
                 <h3>The Problem​</h3>
-                <p>Cancer cells are very good at avoiding detection. Many cancer vaccines today can only detect proteins on the surface of cancer cells. Unfortunately, these proteins also appear on healthy cells leading to toxic killing of healthy cells and tissues. </p>
+                <p>The body’s immune system is very good at killing foreign pathogens, such as the measles virus. But it’s not very good at killing cancer cells because cancer cells were originally normal cells and not foreign pathogens. This is why cancer grows undetected and is so hard to treat. </p>
 
                 <h3>The Solution​</h3>
-                <p>Our novel approach uses a 2-step precision detection strategy:</p>
+                <p>We are developing a novel technology that will precisely detect cancer cells and force them to produce special proteins to “look” like common diseases for which a strong immunity already exists – such as measles or chickenpox. Then, the immune system will automatically destroy these disguised cancer cells as if they were known foreign pathogens.</p>
+                <p>Our technology is packaged into a nanoparticle that is programmable to seek out only cancer cells and uses a novel 2-step strategy to precisely detect cancer cells.</p>
                 <ul class="theme-list mb-4">
-                    <li>Step 1 - Detect cell surface markers <strong>outside the cell</strong></li>
-                    <li>Step 2 - Detect cancer genetic signatures <strong>inside the cell</strong>​</li>
+                    <li>Step 1 - Detect cell surface markers outside the cell</li>
+                    <li>Step 2 - Detect cancer genetic signatures inside the cell​</li>
                 </ul>
                 <p>Our technology is packaged into a nanoparticle, very much like the COVID-19 vaccine. </p>
                 <p>Unlike any other approach, our nanoparticles are programmable to seek out <strong>only cancer cells</strong>, then mark them for destruction.</p>
