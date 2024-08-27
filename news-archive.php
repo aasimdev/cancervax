@@ -15,7 +15,15 @@ include('header.php'); ?>
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
-        <div class="col-lg-6">
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php"></a>
+                    <span> August 27, 2024</span>
+                    <h3>CancerVax Files New Patent for Its Novel Universal Cancer Treatment Platform </h3>
+                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has recently filed a new patent application which includes a Smart mRNA Technology. mRNA, short for messenger RNA, is the underlying technology that made the COVID-19 vaccine so effective and inexpensive </p>
+                </div>
+            </div>
+            <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-adds-key-members-to-its-research-team.php"></a>
                     <span> August 1, 2024</span>
