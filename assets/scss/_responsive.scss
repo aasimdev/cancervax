@@ -448,12 +448,12 @@
 
     .pipelinebanner {
         padding: 120px 0px 80px;
-        margin-top: 42px;
+        margin-top: 0;
     }
 
     .marketbanner {
         padding-top: 120px;
-        margin-top: 42px;
+        margin-top: 0;
     }
 
     .marketbanner h1 {
@@ -462,7 +462,7 @@
 
     .news-detail {
         padding-top: 110px;
-        margin-top: 42px;
+        margin-top: 0;
     }
 
     .news-detail .post-title h1 {
@@ -497,13 +497,19 @@
     .abtBanner {
         position: relative;
         padding-top: 85px;
-        margin-top: 42px;
+        margin-top: 0;
     }
 
     .invest-bar-text a {
         flex: 0 0 auto;
     }
 
+    .invest-bar {
+        display: none;
+    }
+    .banner__content, .banner-text{
+        padding-top: 0;
+    }
 }
 
 @media only screen and (max-width: 767px) and (orientation : landscape) {
@@ -529,6 +535,7 @@
         max-height: 200px;
         overflow-y: auto;
     }
+ 
 }
 
 
@@ -701,11 +708,11 @@
 
     .cchatsbanner {
         padding: 120px 0px 40px 0px;
-        margin-top: 42px;
+        margin-top: 0;
     }
 
     .podcast-detail {
-        margin-top: 42px;
+        margin-top: 0;
     }
 
     .abtceo {
@@ -1081,7 +1088,12 @@
     .pvt-page h1 {
         font-size: 53px;
     }
+
     .pvt-page p {
         margin-top: 16px;
+    }
+  
+    .banner {
+        height: 1100px;
     }
 }
