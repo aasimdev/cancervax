@@ -27,8 +27,10 @@ include('header.php'); ?>
         <h3>About Flashpoint</h3>
 
         <p>Flashpoint Therapeutics is redefining drug discovery with its innovative structural nanomedicine platform. By precisely co-delivering RNA, DNA, and peptide cargo to specific target cells, our technology enables the creation of potent, multi-targeted therapies with optimized structure-function relationships and synchronized activation kinetics.
-            Validated in numerous in-vivo models and clinical studies, our platform has successfully repurposed previously ineffective components into curative cancer treatments. Flashpoint holds exclusive licenses to structural nanomedicine technology, built upon decades of groundbreaking research in the world-renowned nanotechnology lab of Dr. Chad Mirkin, Director of the International Institute for Nanotechnology at Northwestern University and 2024 winner of the prestigious Kavli Prize in Nanoscience.
+           
         </p>
+
+        <p> Validated in numerous in-vivo models and clinical studies, our platform has successfully repurposed previously ineffective components into curative cancer treatments. Flashpoint holds exclusive licenses to structural nanomedicine technology, built upon decades of groundbreaking research in the world-renowned nanotechnology lab of Dr. Chad Mirkin, Director of the International Institute for Nanotechnology at Northwestern University and 2024 winner of the prestigious Kavli Prize in Nanoscience.</p>
 
         <h3>Forward-Looking Statements </h3>
 
