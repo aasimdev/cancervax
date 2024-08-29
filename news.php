@@ -15,6 +15,14 @@ include('header.php'); ?>
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
+        <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancervax-taps-flashpoint-therapeutics-nanotechnology-platform-to-drive-universal-cancer-treatment.php"></a>
+                    <span> August 29, 2024</span>
+                    <h3>CancerVax Taps Flashpoint Therapeutics’ Nanotechnology Platform to Drive Universal Cancer Treatment  </h3>
+                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has entered into a research agreement with Flashpoint Therapeutics to perform research on its newly patent-pending Universal Cancer Treatment platform </p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php"></a>
@@ -37,14 +45,6 @@ include('header.php'); ?>
                     <span> May 21, 2024</span>
                     <h3>CancerVax Successfully Uses Nobel Prize Chemistry to Achieve Universal Cancer Treatment Targeting Milestone </h3>
                     <p> CancerVax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has achieved a critical milestone by creating a process to add any antibody to lipid nanoparticles (LNP) using “click chemistry”, for targeting cancer cells </p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php"></a>
-                    <span> April 16, 2024 </span>
-                    <h3>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer </h3>
-                    <p> CancerVax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has created a promising new drug candidate for treating recurrent Ewing sarcoma, a deadly children’s cancer </p>
                 </div>
             </div>
         </div>
