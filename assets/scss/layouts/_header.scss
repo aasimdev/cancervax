@@ -116,10 +116,10 @@
 
 }
 
-.navbar-dark .navbar-toggler {
+.navbar-dark .navbar-toggler, .navbar-light .navbar-toggler {
     color: #fff;
     border: 0;
-
+    padding: 0;
     &:focus {
         outline: 0;
         box-shadow: none;
