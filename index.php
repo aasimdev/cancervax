@@ -190,42 +190,6 @@ include('header.php'); ?>
     </div>
 </section>
 
-<section class="ceochats">
-    <div class="container">
-        <div class="ceochats-heading">
-            <span>CancerVax</span>
-            <h2>Podcast</h2>
-        </div>
-
-        <div class="row">
-            <?php
-            $filteredlatestCeoPodcast = array_filter($videosCEOPodcast, function ($item) {
-                return $item['category'] === 'ceo-podcast' && $item['scope'] === 'public';
-            });
-            $latestCeoPodcast = array_slice($filteredlatestCeoPodcast, 0, 4);
-            foreach ($latestCeoPodcast as $video) {
-                $temp1 = strtolower($video['title']);
-                $string = str_replace(' ', '-', $temp1);
-                echo "<div class=\"col-lg-6\">
-                <div class=\"cchat\">
-                <div class=\"cchat-box mb-4\">
-                <a href=\"videos/ceo-podcast/{$string}\"></a>
-                    <div class=\"cchat-thumbnail thumbnail-overlay\">
-                    <img src=\"//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"Thumbnail\">
-                    </div>
-                    <i class=\"far fa-play-circle\"></i>
-                </div>            
-                <p class=\"mt-0\">{$video['date']} - {$video['title']}</p>
-                </div>
-                </div>";
-            };
-            ?>
-
-        </div>
-    </div>
-
-</section>
-
 
 
 <section class="newshighlight">
