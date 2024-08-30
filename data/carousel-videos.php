@@ -1,45 +1,45 @@
 <?php
 $videos = [
     [
-        'title' => "CancerVax News Commentary",
-        'videoID' => "wuGFRaoGPSo",
-        'date' => "February 27, 2024",
+        'title' => "August 19, 2024 - CancerVax News Commentary",
+        'videoID' => "t38nUQeA450",
+        'date' => "",
         'category' => "news-commentary",
-        'slug' => "cancervax-news-commentary",
+        'slug' => "august-19-2024-cancervax-news-commentary",
         'scope' => "public"
     ],
     [
-        'title' => "CancerVax News",
-        'videoID' => "guuT0fk6wOQ",
-        'date' => "February 18, 2024",
+        'title' => "August 12, 2024 - CancerVax News Commentary",
+        'videoID' => "TDwpk9sNep4",
+        'date' => "",
         'category' => "news-commentary",
-        'slug' => "cancervax-news",
+        'slug' => "august-12-2024-cancervax-news-commentary",
         'scope' => "public"
     ],
     [
-        'title' => "Bridgette Wilson Sampras",
-        'videoID' => "mXQBBs36mUQ",
-        'date' => "November 4, 2023",
+        'title' => "August 5, 2024 - CancerVax News Commentary",
+        'videoID' => "ZTNYYHrffTg",
+        'date' => "",
         'category' => "news-commentary",
-        'slug' => "bridgette-wilson-sampras",
+        'slug' => "august-5-2024-cancervax-news-commentary",
         'scope' => "public"
     ],
     [
-        'title' => "Ezra Cohen Tempus Labs",
-        'videoID' => "Ez4gXwP56Xo",
-        'date' => "November 2, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "ezra-cohen-tempus-labs",
+        'title' => "July 22, 2024 - CancerVax News Commentary",
+        'videoID' => "0L3KOd8Wd7Q",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "july-22-2024-cancervax-news-commentary",
         'scope' => "public"
     ],
     [
-        'title' => "Nobel Prize goes to scientists behind mRNA Covid vaccines",
-        'videoID' => "UHdlK8SnWQ4",
-        'date' => "October 3, 2023",
+        'title' => "July 15, 2024 - CancerVax News Commentary",
+        'videoID' => "zzXmMuTzu4g",
+        'date' => "",
         'category' => "news-commentary",
-        'slug' => "nobel-prize-goes-to-scientists-behind-mrna-covid-vaccines",
+        'slug' => "july-15-2024-cancervax-news-commentary",
         'scope' => "public"
-    ]
+    ],
 ];
 
 return $videos;

@@ -558,6 +558,11 @@
                 margin-top: 24px;
             }
         }
+        .row{
+            & + .row{
+                margin-top: 48px;
+            }
+        }
     }
 }
 
@@ -3248,4 +3253,7 @@ label.error {
 .tech-img {
     max-width: 1050px;
     margin: 32px auto 48px;
+}
+.dev-partners-img{
+    max-width: 430px;
 }
