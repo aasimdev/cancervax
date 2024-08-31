@@ -12,11 +12,33 @@ include('header.php'); ?>
         <div class="container">
             <div class="banner-main-content">
                 <h1>Creating a Better Way
-                    to Treat Cancer</h1>
-                <p>A Universal <br class="d-sm-none"> Cancer Treatment Platform</p>
+                    to Fight Cancer</h1>
+                <p class="d-none d-md-block">The CancerVax Way
+                </p>
+                <ul class="d-none d-md-block">
+                    <li>10 million people died last year because the body does not easily recognize and kill cancer cells.</li>
+                    <li>However, the body is very good at killing diseases that it recognizes, such as measles.</li>
+                    <li>Our unique technology disguises cancer cells to look like measles and “tricks” the body into killing them.</li>
+                </ul>
             </div>
         </div>
     </div>
+
+    <!-- Mobile Banner text -->
+    <div class="mobile-banner-content d-md-none">
+        <div class="container">
+            <div class="banner-main-content">
+                <p>The CancerVax Way
+                </p>
+                <ul>
+                    <li>10 million people died last year because the body does not easily recognize and kill cancer cells.</li>
+                    <li>However, the body is very good at killing diseases that it recognizes, such as measles.</li>
+                    <li>Our unique technology disguises cancer cells to look like measles and “tricks” the body into killing them.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
 </section>
 
 <section class="banner">

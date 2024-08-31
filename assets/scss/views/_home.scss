@@ -16,25 +16,37 @@
 }
 
 .banner-main {
-   
+    margin-top: 88px;
    &-bg{
     background: #fff url(../img/home-banner.jpg) no-repeat center / cover;
-    height: 1080px;
-    padding-top: 88px;
+    // height: 1080px;
+    height: 800px;
+    // padding-top: 88px;
    }
     &-content {
-        max-width: 630px;
+        max-width: 615px;
         padding-top: 80px;
         h1 {
             color: #5eb0b5;
             font-size: 64px;
             font-weight: 400;
-            margin-bottom: 16px;
         }
 
         p {
             color: #000;
             font-size: 32px;
+            font-weight: 500;
+            margin: 30px 0 20px;
+        }
+        ul{
+            list-style: disc;
+            padding-left: 30px;
+            li{
+                color: #000;
+                & + li{
+                    margin-top: 16px;
+                }
+            }
         }
     }
 }
