@@ -1152,6 +1152,11 @@ body.modal-open {
 
     .tagline {
         margin-bottom: 40px;
+        p{
+            & + p{
+                margin-top: 8px;
+            }
+        }
     }
 
     .mcontentrow {

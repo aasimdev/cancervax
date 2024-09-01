@@ -144,7 +144,8 @@ include('header.php'); ?>
     <div class="container">
         <div class="coreTeam-head">
             <h3>CancerVax Team</h3>
-            <p>CancerVax is led by an experienced team of biotech experts, cancer researchers and marketing executives, who are working with development partners to create its innovative Universal Cancer Treatment Platform.​</p>
+            <p>CancerVax is led by an experienced team of biotech experts, cancer researchers and marketing executives, who are working with development partners to create its innovative Universal Cancer Treatment Platform.
+            </p>
         </div>
 
         <div class="row justify-content-center">
@@ -163,7 +164,6 @@ include('header.php'); ?>
                         Chairman
                     </p>
                     <div class="team-description">
-
                         <ul class="theme-list pb-4 px-4">
                             <li>
                                 Extensive background in the biotech industry​</li>
@@ -219,19 +219,13 @@ include('header.php'); ?>
                         Chief Scientific Officer
                     </p>
                     <div class="team-description">
-
                         <ul class="theme-list pb-4 px-4">
                             <li>Extensive experience in the fields of oncology, stem cells, and organ transplantation
                                 ​</li>
 
-                            <li> An inventor of the famous “Edmonton Protocol” for
-                                treating Type 1 diabetes​</li>
-                            <li>Published over 495 scientific papers, 45 books,
-                                and over 500 scientific abstracts</li>
-                            <li>Professor Emeritus at
-                                University of
-                                California,
-                                Irvine.</li>
+                            <li> An inventor of the famous “Edmonton Protocol” for treating Type 1 diabetes</li>
+                            <li>Published over 495 scientific papers, 45 books, and over 500 scientific abstracts </li>
+                            <li>Professor Emeritus at University of California, Irvine.</li>
                             <li>Advisor to many biotech companies</li>
                         </ul>
                     </div>
@@ -255,8 +249,7 @@ include('header.php'); ?>
                         <ul class="theme-list pb-4 px-4">
                             <li>An inventor of the Company’s Universal Cancer Treatment platform​</li>
 
-                            <li> Expert computational biologist using AI and ​
-                                machine learning to discover new drugs and biological pathways​</li>
+                            <li> Expert computational biologist using AI and machine learning to discover new drugs and biological pathways​</li>
                             <li>Invented software to improve cancer antigen detection​</li>
                             <li>Invented a gene-signature approach to select treatment for breast cancer</li>
                         </ul>
