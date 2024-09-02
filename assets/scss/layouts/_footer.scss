@@ -1,5 +1,5 @@
 .footer {
-    background-color: #1A1A1A;
+    background-color: #f1f1f1;
     padding: 30px 0;
 
     h6 {
@@ -7,20 +7,20 @@
         text-transform: uppercase;
         letter-spacing: 1px;
         margin-bottom: 18px;
-        color: #FFFFFF4D;
+        color: #000;
         font-family: $fontMain;
     }
 
     .links {
         li {
             a {
-                color: #CBCBCB;
+                color: #000;
                 font-size: 15px;
                 font-weight: 400;
                 line-height: 1.7em;
 
                 &:hover {
-                    color: #fff;
+                    color: #000;
                 }
             }
         }
@@ -33,7 +33,7 @@
     &-info {
         a {
             font-size: 14px;
-            color: #FFFFFF;
+            color: #000;
             font-weight: 400;
             line-height: 1.7em;
             margin-bottom: 24px;
@@ -43,11 +43,11 @@
 
     &-social {
         a {
-            color: #CBCBCB;
+            color: #000;
             font-size: 28px;
 
             &:hover {
-                color: #FFFFFF;
+                color: #000;
             }
 
             &+a {
@@ -68,7 +68,7 @@
             font-size: 14px;
             line-height: 1;
             margin-bottom: 0;
-            color: #818181;
+            color: #000;
             text-align: right;
         }
     }

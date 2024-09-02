@@ -88,7 +88,7 @@ include('header.php'); ?>
 </section>
 
 
-<div class="ctreament mt-5">
+<div class="ctreament pt-5">
     <div class="container">
         <div class="ctreament-wrap">
             <div class="ctreament-heading">
@@ -192,9 +192,6 @@ include('header.php'); ?>
 </section>
 
 <section class="pclinical">
-    <video playsinline autoplay muted loop class="pclinical-video" preload="none" poster="./assets/img/banner-video-poster.png">
-        <source src="./assets/video/blue-streaks.mp4" type="video/mp4">
-    </video>
     <div class="container">
         <div class="pclinical-wrap">
             <h3>
