@@ -59,7 +59,7 @@ include('header.php'); ?>
 
                         <p> We have also created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. 
                         </p>
-                        <p> We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer.
+                        <p> We look forward to the day when treating cancer will be as simple as getting a shot – a better way to fight cancer.
                         </p>
 
                     </div>
@@ -70,15 +70,6 @@ include('header.php'); ?>
                         <p>CancerVax Files New Patent for Its Novel
                             Universal Cancer Treatment Platform</p>
                         <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php" class="theme-btn">Learn More</a>
-                    </div>
-                    <div class="banner-video">
-                        <div class="banner-thumbnail">
-                            <img src="https://i.ytimg.com/vi/2OHGmKOqOYE/maxresdefault.jpg" alt="thumbnail">
-                        </div>
-                        <a href="http://www.youtube.com/watch?v=2OHGmKOqOYE" class="theme-btn text-uppercase popup-youtube">
-                            <i class="far fa-play-circle"></i>
-                            <span>Watch video</span>
-                        </a>
                     </div>
                 </div>
             </div>
@@ -207,23 +198,23 @@ include('header.php'); ?>
     <div class="container">
         <h2>Development Partners</h2>
         <div class="row">
-            <div class="col-lg-5">
+            <div class="col-lg-4">
                 <div class="dev-partners-img">
                     <img src="./assets/img/development-partners-1.png" alt="Development Partners">
                 </div>
             </div>
-            <div class="col-lg-7">
+            <div class="col-lg-8">
                 <p>With more than <strong>500 physicians and scientists working on the forefront of cancer discoveries</strong>, the UCLA Health Jonsson Comprehensive Cancer Center is a leader in providing both experimental and traditional cancer treatments. Working with a team of world class cancer researchers and practicing oncologists at UCLA, CancerVax began the initial development of its novel Universal Cancer Treatment platform. Also working with CancerVax, UCLA developed a promising cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. 
                 </p>
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-5">
+            <div class="col-lg-4">
                 <div class="dev-partners-img">
                     <img src="./assets/img/flashpoint.png" alt="Development Partners">
                 </div>
             </div>
-            <div class="col-lg-7">
+            <div class="col-lg-8">
                 <p>Flashpoint was founded on nanotechnology developed over the past 10 years in the laboratory of Chad Mirkin, Director of the International Institute for Nanotechnology at Northwestern University and 2024 winner of the prestigious Kavli Prize in Nanoscience.  <strong>Flashpoint’s groundbreaking nanotechnology discovery platform</strong> enables the development of therapeutic candidates with superior product profiles. Validated in numerous in-vivo models, this technology has transformed components that are ineffective in conventional formulations into curative cancer immunotherapies. CancerVax is working with Flashpoint to deliver its novel Universal Cancer Treatment therapies using Flashpoint’s nanoparticle technology.
                 </p>
             </div>
