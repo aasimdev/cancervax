@@ -188,12 +188,7 @@
             <div class="invest-bar">
                 <div class="container-fluid">
                     <div class="invest-bar-content">
-                        <div class="invest-bar-text">
-                            <p>Help Us Beat Cancer</p>
-                            <a href="<?php $page_name = basename($_SERVER['PHP_SELF']);
-                                        if ($page_name == "investors.php" || $page_name == "invest.php" || $page_name == "invest2.php") { ?>/prep<?php } else { ?>/invest<?php } ?>">Invest Here <span>Secure Direct Invest Platform</span></a>
-                        </div>
-                        <div class="tSocial d-none d-md-block">
+                    <div class="tSocial d-none d-md-block">
                             <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
                             <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
                             <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
@@ -205,10 +200,10 @@
 
 
             <!-- Hedaer -->
-            <nav class="navbar navbar-expand-lg navbar-dark">
+            <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="/">
-                        <img src="<?php echo  $full_url; ?>/assets/img/logo.png" alt="logo">
+                        <img src="<?php echo  $full_url; ?>/assets/img/light-logo.png" alt="logo">
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
@@ -217,6 +212,9 @@
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li class="nav-item">
                                 <a class="nav-link <?php active('about'); ?>" href="/about">About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link <?php active('technology'); ?>" href="/technology">Technology</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link <?php active('progress'); ?>" href="/progress">Progress</a>

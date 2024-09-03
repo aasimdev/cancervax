@@ -7,105 +7,79 @@ $videos = include "data/carousel-videos.php";
 include('header.php'); ?>
 
 
-<section class="banner">
-    <div class="video d-none d-lg-block">
-        <video playsinline autoplay muted loop preload="none" poster="./assets/img/banner-video-poster.png">
-            <source src="./assets/video/banner-bg.mp4" type="video/mp4">
-        </video>
-    </div>
-    <div class="particles">
-        <div id="particles-js" class="particleinn"></div>
-    </div>
-    <div class="banner__content">
+<section class="banner-main">
+    <div class="banner-main-bg">
         <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-7">
-                    <div class="banner-text">
-                        <h1> Creating a Better Way <br> to Treat Cancer <br> <span>Universal Cancer Treatment</span></h1>
-                        <div class="banner-announcement d-lg-none">
-                        <h4>Breaking News</h4>
-                        <p>CancerVax has achieved a critical milestone for targeting cancer cells</p>
-                        <a href="cancervax-successfully-uses-nobel-prize-chemistry-to-achieve-universal-cancer-vaccine-targeting-milestone.php" class="theme-btn">Learn More</a>
-                    </div>
-                        <div class="banner-video d-lg-none">
-                            <div class="banner-thumbnail">
-                                <img src="https://i.ytimg.com/vi/2OHGmKOqOYE/maxresdefault.jpg" alt="thumbnail">
-                            </div>
-                            <a href="http://www.youtube.com/watch?v=2OHGmKOqOYE" class="theme-btn text-uppercase popup-youtube">
-                                <i class="far fa-play-circle"></i>
-                                <span>Watch video</span>
-                            </a>
-                        </div>
-                        <p>Working with a world-class team of experienced cancer researchers and physicians at UCLA, we are creating a breakthrough Universal Cancer Treatment platform.</p>
-                        <p> This cancer treatment is designed to be customizable, be administered as a shot, and leverage state-of-the-art bioengineering and molecular technologies.</p>
-                        <p> Our innovative approach detects, marks, and kills cancer cells exclusively. By inducing cancer cells to express a distinct marker absent in healthy cells, custom antibody drugs and the body's immune cells can precisely target and eradicate cancer cells.</p>
-                        <p> Cancer is the second leading cause of death in the US, following heart disease. While we don’t have a solution to prevent cancer, our objective is to develop our Universal Cancer Treatment platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities.</p>
-
-                    </div>
-                </div>
-                <div class="col-lg-5">
-                    <div class="banner-announcement d-none d-lg-block">
-                        <h4>Breaking News</h4>
-                        <p>CancerVax has achieved a critical milestone for targeting cancer cells</p>
-                        <a href="cancervax-successfully-uses-nobel-prize-chemistry-to-achieve-universal-cancer-vaccine-targeting-milestone.php" class="theme-btn">Learn More</a>
-                    </div>
-                    <div class="banner-video d-none d-lg-block">
-                        <div class="banner-thumbnail">
-                            <img src="https://i.ytimg.com/vi/2OHGmKOqOYE/maxresdefault.jpg" alt="thumbnail">
-                        </div>
-                        <a href="http://www.youtube.com/watch?v=2OHGmKOqOYE" class="theme-btn text-uppercase popup-youtube">
-                            <i class="far fa-play-circle"></i>
-                            <span>Watch video</span>
-                        </a>
-                    </div>
-                    <div class="banner-object">
-                        <div class="objectd">
-                            <img src="./assets/img/banner-object.png" alt="object">
-                        </div>
-
-                    </div>
-                </div>
+            <div class="banner-main-content">
+                <h1>Creating a Better Way
+                    to Fight Cancer</h1>
+                <p class="d-none d-md-block">The CancerVax Way
+                </p>
+                <ul class="d-none d-md-block">
+                    <li>10 million people died last year because the body does not easily recognize and kill cancer cells.</li>
+                    <li>However, the body is very good at killing diseases that it recognizes, such as measles.</li>
+                    <li>Our unique technology disguises cancer cells to look like measles and “tricks” the body into killing them.</li>
+                </ul>
             </div>
-            <div class="developed-logo">
-                <p>Working with &nbsp;</p>
-                <img src="./assets/img/ucla.png" alt="UCLA">
+        </div>
+    </div>
+
+    <!-- Mobile Banner text -->
+    <div class="mobile-banner-content d-md-none">
+        <div class="container">
+            <div class="banner-main-content">
+                <p>The CancerVax Way
+                </p>
+                <ul>
+                    <li>10 million people died last year because the body does not easily recognize and kill cancer cells.</li>
+                    <li>However, the body is very good at killing diseases that it recognizes, such as measles.</li>
+                    <li>Our unique technology disguises cancer cells to look like measles and “tricks” the body into killing them.</li>
+                </ul>
             </div>
         </div>
     </div>
 
 </section>
 
-<div class="devPlan">
-    <div class="container">
-        <div class="devPlan-wrap">
-            <div class="devPlan-item">
-                <div class="row align-items-center">
-                    <div class="col-lg-3">
-                        <div class="devPlan-graphic">
-                            <img src="./assets/img/children-cancer.png" alt="cancer">
+<section class="banner">
+    <div class="banner__content">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-7">
+                    <div class="banner-text">
+                        <div class="banner-announcement d-lg-none">
+                            <h4>Breaking News</h4>
+                            <p>CancerVax Files New Patent for Its Novel
+                                Universal Cancer Treatment Platform</p>
+                            <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php" class="theme-btn">Learn More</a>
                         </div>
+                        <p><strong>CancerVax is a pre-clinical biotech company</strong> developing a novel Universal Cancer Treatment Platform that will be customizable, as an injection, to treat many types of cancer. </p>
+
+                        <p> Our innovative approach  <strong>DETECTS, MARKS, and KILLS</strong> only cancer cells. By making cancer cells “look” like well immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill cancer cells.                        </p>
+
+                        <p> We have also created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. 
+                        </p>
+                        <p> We look forward to the day when treating cancer will be as simple as getting a shot – a better way to fight cancer.
+                        </p>
+
                     </div>
-                    <div class="col-lg-9">
-                        <div class="devPlan-conten">
-                            <h6>Children’s Cancer Progress</h6>
-                            <p>We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%. 
-
-​<br><br>
-
-Based on the positive data, we may launch FDA IND enabling studies needed to apply for approval to proceed with human trials. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.
-</p>
-                        </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="banner-announcement d-none d-lg-block">
+                        <h4>Breaking News</h4>
+                        <p>CancerVax Files New Patent for Its Novel
+                            Universal Cancer Treatment Platform</p>
+                        <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php" class="theme-btn">Learn More</a>
                     </div>
                 </div>
             </div>
-       
-
-      
         </div>
     </div>
-</div>
 
-<div class="ctreament">
+</section>
+
+
+<div class="ctreament pt-5">
     <div class="container">
         <div class="ctreament-wrap">
             <div class="ctreament-heading">
@@ -209,9 +183,6 @@ Based on the positive data, we may launch FDA IND enabling studies needed to app
 </section>
 
 <section class="pclinical">
-    <video playsinline autoplay muted loop class="pclinical-video" preload="none" poster="./assets/img/banner-video-poster.png">
-        <source src="./assets/video/blue-streaks.mp4" type="video/mp4">
-    </video>
     <div class="container">
         <div class="pclinical-wrap">
             <h3>
@@ -223,134 +194,32 @@ Based on the positive data, we may launch FDA IND enabling studies needed to app
     </div>
 </section>
 
-
-
-<!-- <section class="fcancervax">
+<section class="worldhealth-n">
     <div class="container">
-        <div class="fcancervax-box">
-            <h4>Universal Cancer Treatment</h4>
-            <div class="row align-items-center">
-                <div class="col-lg-6 order-lg-0 order-1">
-                    <div class="fcancervax-text">
-                        <h5>Universal Cancer Treatment</h5>
-                        <p>We are developing a Universal Cancer Treatment (UCV) that will use the body’s own immune
-                            system to target and eliminate cancer cells. The UCV will use cutting edge
-                            bioengineering and molecular technologies to uniquely detect, mark and kill only cancer
-                            cells. By forcing cancer cells to express a unique marker that healthy cells do not
-                            have, custom antibody drugs and the body's immune system can target and destroy them
-                            with precision. Additionally, we intend to make cancer cells look like common diseases so
-                            that the body’s immune system can easily destroy them. We have filed a patent
-                            application for the UCV and are working with UCLA to develop the platform, which may
-                            be administered as a one or two-shot treatment.</p>
-                    </div>
-                </div>
-                <div class="col-lg-6 order-lg-1 order-0">
-                    <div class="fcancervax-img">
-                        <img src="./assets/img/cells_syringe.jpg" alt="syringe">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="fcancervax girlfCancervax">
-    <div class="container">
-        <div class="fcancervax-box">
-            <h4>Ewing Sarcoma</h4>
-            <div class="row align-items-center">
-                <div class="col-lg-6 order-lg-0 order-1">
-                    <div class="fcancervax-text">
-                        <h5>Ewing Sarcoma</h5>
-                        <p>We are developing a disease-specific immunotherapy targeted at treating Ewing Sarcoma, a
-                            rare but deadly bone and soft tissue cancer that primarily affects children and young
-                            adults and for which there is no current FDA approved treatment for recurrence.
-                            <br><br>
-                            We have entered into a sponsored research agreement with the University of California at
-                            Los Angeles (UCLA) to develop effective immunotherapies, such as CAR T-cell and
-                            monoclonal antibodies, for Ewing Sarcoma. We have the exclusive right to negotiate and
-                            license any resulting intellectual property and have also entered into a Letter of
-                            Intent with UCLA to negotiate a license for a pre-existing patent application. UCLA is a
-                            top-ranked university known for its cancer research and medical school.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-lg-6 order-lg-1 order-0">
-                    <div class="fcancervax-img float-animation cgirlimg">
-                        <img src="./assets/img/girl_cancervax.jpg" alt="syringe">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
-
-
-<section class="worldhealth">
-    <div class="container">
-    <h2>The UCLA Research Team</h2>
-        <div class="worldhealth-content">
-            <div class="row">
-                <div class="col-lg-5">
-                    <div class="worldhealth-text">
-                        <h3>World-class researchers and scientists. </h3>
-                        <p>Our team of dedicated scientists is on the cutting edge of cancer research. From the lab
-                            to
-                            the clinic, we are committed to finding new and better ways to prevent and treat cancer.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-lg-7">
-                    <div class="worldhealth-counter">
-                        <div class="cancervax-counter">
-                            <div class="counter">
-                                <span>80</span>
-                            </div>
-                            <p>Years of collective <br> experience</p>
-                        </div>
-                        <img src="./assets/img/ucla-health.png" alt="health">
-                    </div>
-                </div>
-            </div>
-        </div>
-
-       
-    </div>
-</section>
-
-<section class="ceochats">
-    <div class="container">
-        <div class="ceochats-heading">
-            <span>CancerVax</span>
-            <h2>Podcast</h2>
-        </div>
-
+        <h2>Development Partners</h2>
         <div class="row">
-            <?php
-            $filteredlatestCeoPodcast = array_filter($videosCEOPodcast, function ($item) {
-                return $item['category'] === 'ceo-podcast' && $item['scope'] === 'public';
-            });
-            $latestCeoPodcast = array_slice($filteredlatestCeoPodcast, 0, 4);
-            foreach ($latestCeoPodcast as $video) {
-                $temp1 = strtolower($video['title']);
-                $string = str_replace(' ', '-', $temp1);
-                echo "<div class=\"col-lg-6\">
-                <div class=\"cchat\">
-                <div class=\"cchat-box mb-4\">
-                <a href=\"videos/ceo-podcast/{$string}\"></a>
-                    <div class=\"cchat-thumbnail thumbnail-overlay\">
-                    <img src=\"//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"Thumbnail\">
-                    </div>
-                    <i class=\"far fa-play-circle\"></i>
-                </div>            
-                <p class=\"mt-0\">{$video['date']} - {$video['title']}</p>
+            <div class="col-lg-4">
+                <div class="dev-partners-img">
+                    <img src="./assets/img/development-partners-1.png" alt="Development Partners">
                 </div>
-                </div>";
-            };
-            ?>
-
+            </div>
+            <div class="col-lg-8">
+                <p>With more than <strong>500 physicians and scientists working on the forefront of cancer discoveries</strong>, the UCLA Health Jonsson Comprehensive Cancer Center is a leader in providing both experimental and traditional cancer treatments. Working with a team of world class cancer researchers and practicing oncologists at UCLA, CancerVax began the initial development of its novel Universal Cancer Treatment platform. Also working with CancerVax, UCLA developed a promising cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. 
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="dev-partners-img">
+                    <img src="./assets/img/flashpoint.png" alt="Development Partners">
+                </div>
+            </div>
+            <div class="col-lg-8">
+                <p>Flashpoint was founded on nanotechnology developed over the past 10 years in the laboratory of Chad Mirkin, Director of the International Institute for Nanotechnology at Northwestern University and 2024 winner of the prestigious Kavli Prize in Nanoscience.  <strong>Flashpoint’s groundbreaking nanotechnology discovery platform</strong> enables the development of therapeutic candidates with superior product profiles. Validated in numerous in-vivo models, this technology has transformed components that are ineffective in conventional formulations into curative cancer immunotherapies. CancerVax is working with Flashpoint to deliver its novel Universal Cancer Treatment therapies using Flashpoint’s nanoparticle technology.
+                </p>
+            </div>
         </div>
     </div>
-
 </section>
 
 
@@ -361,34 +230,34 @@ Based on the positive data, we may launch FDA IND enabling studies needed to app
         <div class="row">
             <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="cancervax-launches-5-million-funding-round.php"></a>
-                    <span> April 3, 2024 </span>
-                    <h3>CancerVax Launches $5 Million Funding Round </h3>
-                    <p> CancerVax, Inc., developer of a breakthrough Universal Cancer Treatment that will use the body’s immune system to fight cancer, today announced that its Reg A+ offering has been qualified by the SEC allowing the Company to formally launch a funding round of up to $5 million. Proceeds from the SEC qualified Reg A+ offering will be used by the Company to continue work on its breakthrough cancer treatments </p>
+                    <a href="cancervax-taps-flashpoint-therapeutics-nanotechnology-platform-to-drive-universal-cancer-treatment.php"></a>
+                    <span> August 29, 2024</span>
+                    <h3>CancerVax Taps Flashpoint Therapeutics’ Nanotechnology Platform to Drive Universal Cancer Treatment </h3>
+                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has entered into a research agreement with Flashpoint Therapeutics to perform research on its newly patent-pending Universal Cancer Treatment platform </p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="cancervax-ceo-ryan-davies-discusses-cancer-drug-development-with-dr-ezra-cohen.php"></a>
-                    <span>November 2, 2023 </span>
-                    <h3>CancerVax CEO Ryan Davies Discusses Cancer Drug Development with Dr. Ezra Cohen</h3>
-                    <p> CancerVax, Inc., developer of a breakthrough universal cancer treatment that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, and Tempus Labs Chief Medical Officer for Oncology Dr. Ezra Cohen, discussed his time at Tempus Labs, Moores Cancer Center and University of Chicago </p>
+                    <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php"></a>
+                    <span> August 27, 2024</span>
+                    <h3>CancerVax Files New Patent for Its Novel Universal Cancer Treatment Platform </h3>
+                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has recently filed a new patent application which includes a Smart mRNA Technology. mRNA, short for messenger RNA, is the underlying technology that made the COVID-19 vaccine so effective and inexpensive </p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="ucart-announcement.php"></a>
-                    <span>September 12, 2023 </span>
-                    <h3>CancerVax Expands Development Pipeline to Include a Universal CAR-T Cell Platform</h3>
-                    <p> CancerVax, Inc., a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer, today announced an expansion of its development pipeline to include a Universal CAR-T Cell Platform that can dramatically lower the cost of CAR-T cell cancer therapies</p>
+                    <a href="cancervax-adds-key-members-to-its-research-team.php"></a>
+                    <span> August 1, 2024</span>
+                    <h3>CancerVax Adds Key Members to Its Research Team </h3>
+                    <p> CancerVax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that the Company has added two key members to its cancer research team. Dr. Jonathan Lakey will serve as Chief Scientific Advisor and Dr. Adam Grant will serve as Principal Scientist </p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="cancervax-ceo-ryan-davies-discussed-cancer-immunotherapy-with-ucla-physician-scientist.php"></a>
-                    <span>August 24, 2023 </span>
-                    <h3>CancerVax CEO Ryan Davies Discussed Cancer Immunotherapy with UCLA Physician-Scientist</h3>
-                    <p>CancerVax, Inc., developer of a breakthrough universal cancer treatment that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, spoke with and UCLA cancer physician and researcher, Dr. Steven Jonas, about his journey to becoming both a practicing cancer doctor and active cancer researcher</p>
+                    <a href="cancervax-successfully-uses-nobel-prize-chemistry-to-achieve-universal-cancer-vaccine-targeting-milestone.php"></a>
+                    <span> May 21, 2024</span>
+                    <h3>CancerVax Successfully Uses Nobel Prize Chemistry to Achieve Universal Cancer Treatment Targeting Milestone </h3>
+                    <p> CancerVax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has achieved a critical milestone by creating a process to add any antibody to lipid nanoparticles (LNP) using “click chemistry”, for targeting cancer cells </p>
                 </div>
             </div>
 
