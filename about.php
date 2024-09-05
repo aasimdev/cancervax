@@ -7,138 +7,49 @@ include('header.php'); ?>
 <section class="abtBanner">
     <div class="container">
         <div class="abtBanner-text">
-            <h1>CancerVax is a pre-clinical biotech company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells look like well immunized common diseases such as COVID-19, measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We have also created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. </h1>
+            <h1>CancerVax is a pre-clinical biotech company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells look like well immunized common diseases such as or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We have also created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to fight cancer. </h1>
         </div>
     </div>
 </section>
 
 <section class="abtinfo">
     <div class="container">
-        <div class="abtinfo-wrap">
-            <img src="./assets/img/abt.jpg" alt="abt">
-            <p>
-                By leveraging cutting-edge bioengineering and molecular technologies, we are on a quest to develop innovative precision cancer immunotherapies that use the body’s immune system to fight cancer. Inspired by the way vaccines train the body to recognize and destroy other diseases, we are developing cancer treatment vaccines, also known as vaccine therapy or immunotherapy, which are a type of treatment that can help the immune system identify and attack cancer cells. They are different from vaccines that prevent disease, as they are designed to treat cancer that already exists in the body. </p>
-        </div>
+        <h2>Our Journey</h2>
+        <ul class="journey">
+            <li>
+                <h5>March - June 2021</h5>
+                <p>CancerVax was incorporated, raised $2 million seed funding and executed a Sponsored Research Agreement with UCLA targeting Ewing sarcoma.
+                </p>
+            </li>
+            <li>
+                <h5>November 2021
+                </h5>
+                <p>CancerVax filed a provisional patent describing technology that forms the basis of our Universal Cancer Treatment Platform.
+                </p>
+            </li>
+            <li>
+                <h5>July 2022
+                </h5>
+                <p>CancerVax executed a second Sponsored Research Agreement with UCLA to develop the Universal Cancer Treatment Platform.
+                </p>
+            </li>
+            <li>
+                <h5>July 2024
+                </h5>
+                <p>CancerVax filed a patent application describing a novel messenger RNA (mRNA) approach to DETECT and MARK cancer cells with precision.
+                </p>
+            </li>
+            <li>
+                <h5>August 2024
+                </h5>
+                <p>CancerVax entered into a research agreement with Flashpoint Therapeutics to perform research on its newly patent-pending Universal Cancer Treatment platform.
+                </p>
+            </li>
+        </ul>
     </div>
 </section>
 
-<section class="process">
-    <div class="container">
-        <div class="process-wrap">
-            <div class="process-object">
-                <img src="./assets/img/cell.png" alt="cell">
-            </div>
-            <div class="process-heading">
-                <div class="row">
-                    <div class="col-sm-3 col-md-4 col-xl-6">
-                        <h2>Our Story</h2>
-                    </div>
-                    <div class="col-sm-9 col-md-8 col-xl-6">
-                        <p>Under the terms of a Sponsored Research Agreement, we began working with UCLA in early 2021 on a single-disease
-                            immunotherapy targeted at Ewing Sarcoma, a deadly children’s
-                            cancer. Existing immunotherapies target natural cancer cell
-                            markers, which unfortunately appear in healthy cells as well,
-                            resulting in the destruction of healthy cells and causing various
-                            levels of toxicity and side effects.<br><br>
-                            In 2024, we announced that our UCLA research team had created a promising new drug candidate for treating recurrent Ewing sarcoma. Based on the positive data, we may launch FDA IND enabling studies needed to apply for approval to proceed with human trials.
-                            <br><br>
-                            In late 2021,
-                            CancerVax developed the concept of a customizable Universal Cancer
-                            Treatment platform that can potentially target cancer cells with
-                            a high degree of precision and force only the cancer cells to
-                            express a unique marker that we can easily target for destruction.
-                            In 2022, we entered into a Sponsored Research Agreement with UCLA to help develop our Universal Cancer Treatment platform.<br><br>
-                            The Universal Cancer Treatment project has progressed methodically with the development of
-                            various innovative technologies, including a foundational
-                            nanoparticle technology which can be programmed to target
-                            specific cells and deliver customized cargos.
-                        </p>
-                    </div>
-                </div>
 
-
-            </div>
-            <div class="process-stack">
-                <div class="row align-items-center justify-content-center">
-
-                    <div class="col-sm-9 col-md-8 col-xl-7">
-                        <div class="process-description text-center">
-                            <h5>Immunotherapy.</h5>
-
-                            <p class="text-center">Cancer vaccines can train the body to target and destroy specific cancer cells. Cancer vaccines are also known as immunotherapy.
-                                <br><br>
-                                Much like vaccines that train the body to recognize and destroy ther diseases, cancer vaccines can train the body to target and destroy specific cancer cells.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row align-items-center">
-                    <div class="col-sm-3 col-md-4 col-xl-6">
-                        <div class="process-title">
-                            <span>01</span>
-                        </div>
-                    </div>
-                    <div class="col-sm-9 col-md-8 col-xl-6">
-                        <div class="process-description">
-                            <h5>
-                                Children’s Cancer.</h5>
-                            <p>Working with UCLA under the terms of a Sponsored Research Agreement, we have successfully developed a disease-specific immunotherapy drug candidate targeted at
-                                treating Ewing sarcoma, a rare but deadly bone and soft tissue
-                                cancer that primarily affects children and young adults. There is
-                                currently no FDA approved treatment for recurrence. <strong>The death rate is 100% of patients with recurrent Ewing sarcoma.</strong>
-                                <br><br>
-                                We hold an option for the exclusive right to license all
-                                intellectual property and related technology resulting from this
-                                research program. UCLA is a top-ranked university known for its
-                                cancer research and medical school.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row align-items-center">
-                    <div class="col-sm-3 col-md-4 col-xl-6">
-                        <div class="process-title">
-                            <span>02</span>
-                        </div>
-                    </div>
-                    <div class="col-sm-9 col-md-8 col-xl-6">
-                        <div class="process-description">
-                            <h5>Universal Cancer Treatment Platform</h5>
-                            <p>By leveraging cutting-edge bioengineering and molecular technologies, we are developing a breakthrough Universal Cancer Treatment platform.
-                                <br><br>
-                                Our Universal Cancer Treatment platform will force cancer cells to express a unique protein marker that can be used by the immune system and custom antibodies to precisely target them for destruction. Additionally, we intend to make cancer cells look like common diseases so that the body’s natural immune system can easily destroy them.
-                                <br><br>
-                                We entered into a sponsored research agreement (SRA) with UCLA to help us develop our Universal Cancer Treatment platform. We hold an option for the exclusive right to license all intellectual property and related technology resulting from this research program.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- <div class="row align-items-center">
-                    <div class="col-sm-3 col-md-4 col-xl-6">
-                        <div class="process-title">
-                            <span>03</span>
-                        </div>
-                    </div>
-                    <div class="col-sm-9 col-md-8 col-xl-6">
-                        <div class="process-description">
-                            <h5>Universal CAR-T Cell Platform</h5>
-                            <p>Based on the foundational nanoparticle technology developed for UCV, we are developing a novel Universal CAR-T Cell therapy, to be delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy any targeted cancer cells.
-
-
-                                <br><br>
-                                CAR-T cell therapy is a type of FDA-approved immunotherapy in which a patient’s T-cells are genetically modified in the laboratory, then reinjected back into the patient, so they will bind to specific proteins (antigens) found on cancer cells and kill them. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. We believe we can dramatically lower the cost to a few thousand dollars per dose by simply helping the body make its own CAR T-cells.
-
-                                <br><br>
-
-                                Under the existing sponsored research agreement (SRA) with UCLA, we hold exclusive rights to license all intellectual property and related technologies.
-                            </p>
-                        </div>
-                    </div>
-                </div> -->
-            </div>
-        </div>
-    </div>
-</section>
 <a name="about-team" id="about-team" style="position: relative; top:-80px"></a>
 <section class="coreTeam">
     <div class="container">

@@ -23,12 +23,12 @@ include('header.php'); ?>
             </p>
         </div>
         <div class="row mcontentrow">
-            <div class="col-xl-6">
+            <div class="col-xl-5">
                 <div class="mcontent-img">
-                    <img src="./assets/img/market-1.jpg" alt="market">
+                    <img src="./assets/img/market-1.png" alt="market">
                 </div>
             </div>
-            <div class="col-xl-6">
+            <div class="col-xl-7">
                 <div class="mcontent-text">
                     <p>
                         Cancer immunotherapy, also known as cancer treatment vaccine, has emerged as a very promising next generation treatment. Immunotherapy utilizes the body’s own immune system to fight cancer, usually with milder side effects and more targeted than chemotherapy. <br>

@@ -271,7 +271,8 @@
                 color: #000 !important;
             }
         }
-        input[type="text"]{
+
+        input[type="text"] {
             background-color: #fff !important;
         }
     }
@@ -328,6 +329,7 @@
     padding: 50px 0;
     text-align: center;
     background: #fff;
+
     &-wrap {
         max-width: 600px;
         margin: 0 auto;
@@ -385,10 +387,11 @@
         min-height: 100%;
         max-height: 100%;
     }
+
     #ic_signupform .elcontainer .formEl input[type=text] {
         background-color: #f1f1f1 !important;
     }
-    
+
 }
 
 
@@ -593,6 +596,7 @@
         .row {
             max-width: 1100px;
             margin: auto;
+
             &+.row {
                 margin-top: 48px;
             }
@@ -672,11 +676,12 @@
 //         min-height: 450px;
 //     }
 // }
-#team{
-    .theme-list li{
+#team {
+    .theme-list li {
         color: #000;
     }
 }
+
 .modal {
     padding-right: 0 !important;
 }
@@ -693,9 +698,11 @@
 .modal-header {
     border-bottom: 0;
 }
-.modal-title{
+
+.modal-title {
     color: #000;
 }
+
 .modal-body {
     p {
         font-size: 16px;
@@ -806,8 +813,15 @@ body.modal-open {
 
 
 .abtinfo {
-    padding: 80px 0;
+    padding: 80px 0 0;
     background: #fff;
+
+    h2 {
+        color: #000;
+        font-size: 60px;
+        text-align: center;
+    }
+
     &-wrap {
         max-width: 1150px;
         display: flex;
@@ -1030,6 +1044,7 @@ body.modal-open {
 .graph {
     padding: 80px 0;
     background: #fff;
+
     .container {
         @media (min-width: 1400px) {
             max-width: 1150px;
@@ -1388,9 +1403,11 @@ body.modal-open {
             margin-bottom: 24px;
             color: #000;
         }
-        .theme-list li{
+
+        .theme-list li {
             color: #000;
         }
+
         a {
             text-decoration: underline;
         }
@@ -1668,6 +1685,7 @@ body.modal-open {
     padding: 130px 0 180px;
     // background: rgba($color: #2B2B2B, $alpha: 0.5);
     background: #fff;
+
     &-title {
         span {
             font-size: 18px;
@@ -2013,6 +2031,7 @@ label.error {
 .nCommentary {
     padding: 100px 0;
     background: #fff;
+
     &-heading {
         display: flex;
         align-items: center;
@@ -2094,14 +2113,14 @@ label.error {
             font-size: 40px;
             line-height: 40px;
             font-family: $fontHeading;
-              color: #000;
+            color: #000;
         }
 
         p {
             font-weight: 400;
             font-size: 16px;
             line-height: 1.7em;
-              color: #000;
+            color: #000;
         }
     }
 }
@@ -2147,7 +2166,7 @@ label.error {
             font-size: 40px;
             line-height: 40px;
             font-family: $fontHeading;
-               color: #000;
+            color: #000;
             // margin-bottom: 25px;
         }
 
@@ -2155,7 +2174,7 @@ label.error {
             font-weight: 400;
             font-size: 16px;
             line-height: 1.7em;
-               color: #000;
+            color: #000;
         }
     }
 
@@ -3321,4 +3340,37 @@ label.error {
 
 .dev-partners-img {
     max-width: 300px;
+}
+
+.journey {
+    margin: 50px auto 0;
+    max-width: 600px;
+    
+    li {
+        position: relative;
+        padding-left: 26px;
+        & +li{
+            margin-top: 40px;
+        }
+        &::after {
+            left: 0;
+            background: #000;
+            border-radius: 50%;
+            height: 11px;
+            width: 11px;
+            content: "";
+            top: 5px;
+            position: absolute;
+            display: block;
+        }
+
+        h5 {
+            color: #000;
+        }
+
+        p {
+            max-width: 100%;
+            line-height: 1.5;
+        }
+    }
 }
