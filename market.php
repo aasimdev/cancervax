@@ -43,7 +43,7 @@ include('header.php'); ?>
             </div>
         </div>
         <div class="mcontent-keytruda">
-            <img src="./assets/img/market-2.jpg" alt="market">
+            <img src="./assets/img/market-2.png" alt="market">
         </div>
         <div class="mcontent-ct">
             <p>
