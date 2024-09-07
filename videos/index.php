@@ -72,7 +72,7 @@ include('../header.php'); ?>
     </div>
 </div>
 
-<section class="nCommentary theme-bg" id="news-commentary">
+<section class="nCommentary" id="news-commentary">
     <div class="container">
         <div class="nCommentary-heading">
             <h3>News Commentary</h3>
@@ -122,7 +122,7 @@ include('../header.php'); ?>
 </section>
 
 
-<section class="nCommentary theme-bg" id="podcast">
+<section class="nCommentary" id="podcast">
     <div class="container">
         <div class="nCommentary-heading">
             <h3>Podcast</h3>
@@ -165,7 +165,7 @@ include('../header.php'); ?>
 </section>
 
 
-<section class="nCommentary theme-bg pb-0">
+<section class="nCommentary pb-0">
     <div class="container">
         <div class="nCommentary-heading">
             <h3>Short Videos</h3>
@@ -203,7 +203,7 @@ include('../header.php'); ?>
     </div>
 </section>
 
-<section class="nCommentary theme-bg" id="short-videos">
+<section class="nCommentary" id="short-videos">
     <div class="container">
 
         <div class="row">

@@ -874,7 +874,9 @@
         font-size: 24px;
         line-height: 1.5;
     }
-
+    .immtypes__heading h4{
+        margin: 0;
+    }
     .immnewpyramid h4 {
         margin-bottom: 32px;
     }
@@ -1181,5 +1183,8 @@
 
     .mobile-banner-content {
         box-shadow: 0px -3px 20px 11px rgba(255, 255, 255, 1);
+    }
+    .journey li+li {
+        margin-top: 20px;
     }
 }
