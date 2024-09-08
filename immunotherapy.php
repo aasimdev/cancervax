@@ -47,7 +47,7 @@ include('header.php'); ?>
             In recent years, advances in science and biotechnology have proven that the body’s own immune system is quite effective at targeting and killing abnormal cells, germs and viruses, and has been doing it since the beginning of time. The main problem is that cancer grows at a much faster rate than the body’s normal immune response rate.
         </p>
         <p>
-            Much like vaccines that train the body to recognize and destroy other diseases, cancer vaccines can train the body to target and destroy specific cancer cells. Cancer vaccines are also known as vaccine therapy or immunotherapy. They are different from vaccines that prevent disease, as they are designed to treat cancer that already exists in the body.
+            Much like vaccines that train the body to recognize and destroy other diseases, cancer vaccines can train the body to target and destroy specific cancer cells. Cancer vaccines are also known as vaccine therapy or immunotherapy. They are different from vaccines that prevent disease, as they are designed to fight cancer that already exists in the body.
         </p>
     </div>
 </section>

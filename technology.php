@@ -19,7 +19,7 @@ include('header.php'); ?>
         <p>Our form of treatment is known as <strong>cancer immunotherapy, or therapeutic cancer vaccines</strong>.​</p>
         <p>Cancer immunotherapy is the latest weapon in the war against cancer, with a forecasted market size of $153 Billion by 2027 (Reports and Data). It is less toxic than chemotherapy and radiation, and less radical than surgery.
             ​</p>
-        <p>Our novel approach is fundamentally different than other treatments and we believe this is a “Better Way to Treat Cancer”.
+        <p>Our novel approach is fundamentally different than other treatments and we believe this is a “Better Way to Fight Cancer”.
             ​</p>
 
 
