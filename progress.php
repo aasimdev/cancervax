@@ -39,7 +39,7 @@ include('header.php'); ?>
 
         <ul class="theme-list mt-5 ">
             <li>Filed 2 patent applications </li>
-            <li> Designed Smart mRNAs for detecting breast cancer, pancreatic cancer, acute myeloid leukemia, lung cancer, and Ewing Sarcoma​</li>
+            <li> Designed Smart mRNAs for detecting breast cancer, pancreatic cancer, acute myeloid leukemia, lung cancer, and <u>Ewing Sarcoma</u>​</li>
             <li> Lab tests to validate and optimize Smart mRNAs in real cancer cells lines (H2 2024)​</li>
             <li> Design and optimize fully functional CancerVax nanoparticles (H1 2025)</li>
         </ul>

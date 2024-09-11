@@ -80,7 +80,7 @@ include('header.php'); ?>
                                 Extensive background in the biotech industry​</li>
                             <li> Former CEO of Curza, a small molecule antibiotics drug company​</li>
                             <li> Co-founded several biotech companies​</li>
-                            <li> Partnered in a private equity firm​</li>
+                            <li> Partner in a private equity firm​</li>
                             <li>Served on two U.S. presidential campaigns</li>
                         </ul>
                     </div>
