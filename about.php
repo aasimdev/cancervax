@@ -36,7 +36,8 @@ include('header.php'); ?>
             <li>
                 <h5>July 2024
                 </h5>
-                <p>CancerVax filed a patent application describing a novel messenger RNA (mRNA) approach to DETECT and MARK cancer cells with precision.
+                <p>CancerVax filed a provisional patent application describing a novel messenger
+                RNA (mRNA) approach to DETECT and MARK cancer cells with precision.
                 </p>
             </li>
             <li>

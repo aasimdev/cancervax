@@ -33,8 +33,8 @@ include('header.php'); ?>
                 <h3>The Solution​</h3>
                 <ul class="theme-list mb-4">
                     <li>We are developing a novel technology that will precisely detect cancer cells
-                        and force them to produce special proteins <u>to “look” like common diseases
-                        for which a strong immunity already exists – such as measles or chickenpox.</u>
+                        and force them to produce special proteins to “look” like common diseases
+                        for which a strong immunity already exists – such as measles or chickenpox.
                         Then, the immune system will automatically destroy these disguised cancer
                         cells as if they were known foreign pathogens. </li>
                     <li class="mt-4">Our technology is packaged into a nanoparticle that is programmable to seek out only cancer cells and uses a novel 2-step strategy to precisely detect cancer cells.</li>
