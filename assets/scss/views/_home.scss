@@ -813,11 +813,13 @@ body.modal-open {
 
 
 .abtinfo {
-    padding: 80px 0 0;
-    background: #fff;
-
+    // padding: 80px 0 0;
+    // background: #fff;
+    padding: 80px 0;
+    background: #000;
     h2 {
-        color: #000;
+        // color: #000;
+        color: #fff;
         font-size: 60px;
         text-align: center;
     }
@@ -3354,7 +3356,8 @@ label.error {
         }
         &::after {
             left: 0;
-            background: #000;
+            // background: #000;
+            background: #fff;
             border-radius: 50%;
             height: 11px;
             width: 11px;
@@ -3365,12 +3368,14 @@ label.error {
         }
 
         h5 {
-            color: #000;
+            // color: #000;
+            color: #fff;
         }
 
         p {
             max-width: 100%;
             line-height: 1.5;
+            color: #fff;
         }
     }
 }
