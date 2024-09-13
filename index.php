@@ -77,14 +77,15 @@ include('header.php'); ?>
                             <span>Watch video</span>
                         </a>
                     </div>
+                    <div class="banner-announcement">
+                        <h4>Breaking News</h4>
+                        <p>CancerVax Files New Patent for Its Novel
+                            Universal Cancer Treatment Platform</p>
+                        <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php" class="theme-btn">Learn More</a>
+                    </div>
                 </div>
             </div>
-            <div class="banner-announcement">
-                <h4>Breaking News</h4>
-                <p>CancerVax Files New Patent for Its Novel
-                    Universal Cancer Treatment Platform</p>
-                <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php" class="theme-btn">Learn More</a>
-            </div>
+
         </div>
     </div>
 
