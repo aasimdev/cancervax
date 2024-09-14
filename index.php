@@ -6,6 +6,17 @@ $videosCEOPodcast = include "data/podcast-data.php";
 $videos = include "data/carousel-videos.php";
 include('header.php'); ?>
 
+<style>
+    .banner-main-bg {
+        background: #fff url('./assets/img/home-banner.jpg?v=<?php echo time(); ?>') no-repeat center / cover;
+    }
+
+    @media (max-width: 767px) {
+        .banner-main-bg {
+            background: #fff url('./assets/img/home-banner-mobile.jpg?v=<?php echo time(); ?>') no-repeat center / cover;
+        }
+    }
+</style>
 
 <section class="banner-main">
     <div class="banner-main-bg">
@@ -47,14 +58,11 @@ include('header.php'); ?>
             <div class="row align-items-center">
                 <div class="col-lg-7">
                     <div class="banner-text">
-                        <div class="banner-video d-lg-none">
-                            <div class="banner-thumbnail">
-                                <img src="https://i.ytimg.com/vi/jfXTYVtlbFE/maxresdefault.jpg" alt="thumbnail">
-                            </div>
-                            <a href="http://www.youtube.com/watch?v=jfXTYVtlbFE" class="theme-btn text-uppercase popup-youtube">
-                                <i class="far fa-play-circle"></i>
-                                <span>Watch video</span>
-                            </a>
+                        <div class="banner-announcement d-lg-none">
+                            <h4>Breaking News</h4>
+                            <p>CancerVax Files New Patent for Its Novel
+                                Universal Cancer Treatment Platform</p>
+                            <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php" class="theme-btn">Learn More</a>
                         </div>
                         <p><strong>CancerVax is a pre-clinical biotech company</strong> developing a novel Universal Cancer Treatment Platform that will be customizable, as an injection, to treat many types of cancer. </p>
 
@@ -68,7 +76,13 @@ include('header.php'); ?>
                     </div>
                 </div>
                 <div class="col-lg-5">
-                    <div class="banner-video d-none d-lg-block">
+                    <div class="banner-announcement d-none d-lg-block">
+                        <h4>Breaking News</h4>
+                        <p>CancerVax Files New Patent for Its Novel
+                            Universal Cancer Treatment Platform</p>
+                        <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php" class="theme-btn">Learn More</a>
+                    </div>
+                    <div class="banner-video">
                         <div class="banner-thumbnail">
                             <img src="https://i.ytimg.com/vi/jfXTYVtlbFE/maxresdefault.jpg" alt="thumbnail">
                         </div>
@@ -77,12 +91,7 @@ include('header.php'); ?>
                             <span>Watch video</span>
                         </a>
                     </div>
-                    <div class="banner-announcement">
-                        <h4>Breaking News</h4>
-                        <p>CancerVax Files New Patent for Its Novel
-                            Universal Cancer Treatment Platform</p>
-                        <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php" class="theme-btn">Learn More</a>
-                    </div>
+
                 </div>
             </div>
 
