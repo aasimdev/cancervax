@@ -36,7 +36,8 @@ include('header.php'); ?>
             <li>
                 <h5>July 2024
                 </h5>
-                <p>CancerVax filed a patent application describing a novel messenger RNA (mRNA) approach to DETECT and MARK cancer cells with precision.
+                <p>CancerVax filed a provisional patent application describing a novel messenger
+                RNA (mRNA) approach to DETECT and MARK cancer cells with precision.
                 </p>
             </li>
             <li>
@@ -80,7 +81,7 @@ include('header.php'); ?>
                                 Extensive background in the biotech industry​</li>
                             <li> Former CEO of Curza, a small molecule antibiotics drug company​</li>
                             <li> Co-founded several biotech companies​</li>
-                            <li> Partnered in a private equity firm​</li>
+                            <li> Partner in a private equity firm​</li>
                             <li>Served on two U.S. presidential campaigns</li>
                         </ul>
                     </div>
@@ -127,7 +128,7 @@ include('header.php'); ?>
                         Jonathan Lakey, <span>PhD</span>
                     </h5>
                     <p>
-                        Chief Scientific Officer
+                        Chief Scientific Advisor
                     </p>
                     <div class="team-description">
                         <ul class="theme-list pb-4 px-4">

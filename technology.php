@@ -19,7 +19,7 @@ include('header.php'); ?>
         <p>Our form of treatment is known as <strong>cancer immunotherapy, or therapeutic cancer vaccines</strong>.​</p>
         <p>Cancer immunotherapy is the latest weapon in the war against cancer, with a forecasted market size of $153 Billion by 2027 (Reports and Data). It is less toxic than chemotherapy and radiation, and less radical than surgery.
             ​</p>
-        <p>Our novel approach is fundamentally different than other treatments and we believe this is a “Better Way to Treat Cancer”.
+        <p>Our novel approach is fundamentally different than other treatments and we believe this is a “Better Way to Fight Cancer”.
             ​</p>
 
 
@@ -32,13 +32,17 @@ include('header.php'); ?>
 
                 <h3>The Solution​</h3>
                 <ul class="theme-list mb-4">
-                    <li>We are developing a novel technology that will precisely detect cancer cells and force them to produce special proteins to “look” like common diseases for which a strong immunity already exists – such as measles or chickenpox. Then, the immune system will automatically destroy these disguised cancer cells as if they were known foreign pathogens. </li>
+                    <li>We are developing a novel technology that will precisely detect cancer cells
+                        and force them to produce special proteins to “look” like common diseases
+                        for which a strong immunity already exists – such as measles or chickenpox.
+                        Then, the immune system will automatically destroy these disguised cancer
+                        cells as if they were known foreign pathogens. </li>
                     <li class="mt-4">Our technology is packaged into a nanoparticle that is programmable to seek out only cancer cells and uses a novel 2-step strategy to precisely detect cancer cells.</li>
-              
-                        <ul class="theme-list m-4">
-                            <li>Step 1 - Detect cell surface markers <strong>outside the cell</strong></li>
-                            <li>Step 2 - Detect cancer genetic signatures <strong>inside the cell</strong>​</li>
-                        </ul>
+
+                    <ul class="theme-list m-4">
+                        <li>Step 1 - Detect cell surface markers <strong>outside the cell</strong></li>
+                        <li>Step 2 - Detect cancer genetic signatures <strong>inside the cell</strong>​</li>
+                    </ul>
                 </ul>
 
                 <p>Our technology is packaged into a nanoparticle, very much like the COVID-19 vaccine. </p>
@@ -78,7 +82,7 @@ include('header.php'); ?>
 
         <ul class="theme-list mb-4">
             <li><strong>Makes cancer cells look like well immunized diseases</strong> (chickenpox, measles, etc.)</li>
-            <li>No one in the market is taking this novel approach​</li>
+            <li>No academic papers or published patents have described this novel approach</li>
             <li>Novel 2-step precise detection of cancer cells (outside cell signature + inside cell signature)​</li>
             <li>DETECT, MARK, and KILL only cancer cells​</li>
             <li>Proprietary artificial intelligence and machine learning algorithms to find cellular signatures for various cancer types​</li>
@@ -91,9 +95,13 @@ include('header.php'); ?>
             <h1>Ewing Sarcoma​</h1>
         </div>
         <ul class="theme-list pb-5">
-            <li>Working with UCLA, we have developed a promising drug candidate for treating Ewing Sarcoma.​ </li>
-            <li> It has been demonstrated in lab tests to kill Ewing Sarcoma cells with good efficiency.</li>
-            <li> We have an exclusive right to license this drug from UCLA and commercialize it.</li>
+            <li>Working with UCLA, we developed a promising drug
+                candidate for treating Ewing Sarcoma - a deadly
+                children’s cancer.​ </li>
+            <li> It has been demonstrated in lab tests to kill Ewing
+                Sarcoma cells with good efficiency.</li>
+            <li> We have an exclusive right to license this drug from
+                UCLA and commercialize it.</li>
         </ul>
     </div>
 </section>

@@ -6,6 +6,17 @@ $videosCEOPodcast = include "data/podcast-data.php";
 $videos = include "data/carousel-videos.php";
 include('header.php'); ?>
 
+<style>
+    .banner-main-bg {
+        background: #fff url('./assets/img/home-banner.jpg?v=<?php echo filemtime('./assets/img/home-banner.jpg'); ?>') no-repeat center / cover;
+    }
+
+    @media (max-width: 767px) {
+        .banner-main-bg {
+            background: #fff url('./assets/img/home-banner-mobile.jpg?v=<?php echo filemtime('./assets/img/home-banner-mobile.jpg'); ?>') no-repeat center / cover;
+        }
+    }
+</style>
 
 <section class="banner-main">
     <div class="banner-main-bg">
@@ -55,9 +66,9 @@ include('header.php'); ?>
                         </div>
                         <p><strong>CancerVax is a pre-clinical biotech company</strong> developing a novel Universal Cancer Treatment Platform that will be customizable, as an injection, to treat many types of cancer. </p>
 
-                        <p> Our innovative approach  <strong>DETECTS, MARKS, and KILLS</strong> only cancer cells. By making cancer cells “look” like well immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill cancer cells.                        </p>
+                        <p> Our innovative approach <strong>DETECTS, MARKS, and KILLS</strong> only cancer cells. By making cancer cells “look” like well immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill cancer cells. </p>
 
-                        <p> We have also created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. 
+                        <p> We have also created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults.
                         </p>
                         <p> We look forward to the day when treating cancer will be as simple as getting a shot – a better way to fight cancer.
                         </p>
@@ -71,8 +82,19 @@ include('header.php'); ?>
                             Universal Cancer Treatment Platform</p>
                         <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php" class="theme-btn">Learn More</a>
                     </div>
+                    <div class="banner-video">
+                        <div class="banner-thumbnail">
+                            <img src="https://i.ytimg.com/vi/jfXTYVtlbFE/maxresdefault.jpg" alt="thumbnail">
+                        </div>
+                        <a href="http://www.youtube.com/watch?v=jfXTYVtlbFE" class="theme-btn text-uppercase popup-youtube">
+                            <i class="far fa-play-circle"></i>
+                            <span>Watch video</span>
+                        </a>
+                    </div>
+
                 </div>
             </div>
+
         </div>
     </div>
 
@@ -204,7 +226,7 @@ include('header.php'); ?>
                 </div>
             </div>
             <div class="col-lg-8">
-                <p>With more than <strong>500 physicians and scientists working on the forefront of cancer discoveries</strong>, the UCLA Health Jonsson Comprehensive Cancer Center is a leader in providing both experimental and traditional cancer treatments. Working with a team of world class cancer researchers and practicing oncologists at UCLA, CancerVax began the initial development of its novel Universal Cancer Treatment platform. Also working with CancerVax, UCLA developed a promising cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. 
+                <p>With more than <strong>500 physicians and scientists working on the forefront of cancer discoveries</strong>, the UCLA Health Jonsson Comprehensive Cancer Center is a leader in providing both experimental and traditional cancer treatments. Working with a team of world class cancer researchers and practicing oncologists at UCLA, CancerVax began the initial development of its novel Universal Cancer Treatment platform. Also working with CancerVax, UCLA developed a promising cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults.
                 </p>
             </div>
         </div>
@@ -215,7 +237,7 @@ include('header.php'); ?>
                 </div>
             </div>
             <div class="col-lg-8">
-                <p>Flashpoint was founded on nanotechnology developed over the past 10 years in the laboratory of Chad Mirkin, Director of the International Institute for Nanotechnology at Northwestern University and 2024 winner of the prestigious Kavli Prize in Nanoscience.  <strong>Flashpoint’s groundbreaking nanotechnology discovery platform</strong> enables the development of therapeutic candidates with superior product profiles. Validated in numerous in-vivo models, this technology has transformed components that are ineffective in conventional formulations into curative cancer immunotherapies. CancerVax is working with Flashpoint to deliver its novel Universal Cancer Treatment therapies using Flashpoint’s nanoparticle technology.
+                <p>Flashpoint was founded on nanotechnology developed over the past 10 years in the laboratory of Chad Mirkin, Director of the International Institute for Nanotechnology at Northwestern University and 2024 winner of the prestigious Kavli Prize in Nanoscience. <strong>Flashpoint’s groundbreaking nanotechnology discovery platform</strong> enables the development of therapeutic candidates with superior product profiles. Validated in numerous in-vivo models, this technology has transformed components that are ineffective in conventional formulations into curative cancer immunotherapies. CancerVax is working with Flashpoint to deliver its novel Universal Cancer Treatment therapies using Flashpoint’s nanoparticle technology.
                 </p>
             </div>
         </div>
