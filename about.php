@@ -128,7 +128,7 @@ include('header.php'); ?>
                         Jonathan Lakey, <span>PhD</span>
                     </h5>
                     <p>
-                        Chief Scientific Officer
+                        Chief Scientific Advisor
                     </p>
                     <div class="team-description">
                         <ul class="theme-list pb-4 px-4">
