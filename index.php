@@ -8,12 +8,12 @@ include('header.php'); ?>
 
 <style>
     .banner-main-bg {
-        background: #fff url('./assets/img/home-banner.jpg?v=<?php echo time(); ?>') no-repeat center / cover;
+        background: #fff url('./assets/img/home-banner.jpg?v=<?php echo filemtime('./assets/img/home-banner.jpg'); ?>') no-repeat center / cover;
     }
 
     @media (max-width: 767px) {
         .banner-main-bg {
-            background: #fff url('./assets/img/home-banner-mobile.jpg?v=<?php echo time(); ?>') no-repeat center / cover;
+            background: #fff url('./assets/img/home-banner-mobile.jpg?v=<?php echo filemtime('./assets/img/home-banner-mobile.jpg'); ?>') no-repeat center / cover;
         }
     }
 </style>

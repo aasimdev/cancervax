@@ -34,17 +34,13 @@
         $full_url = $current_url . '/';
     }
     $page_name = basename($_SERVER['PHP_SELF']);
-    // header("Expires: Tue, 01 Jan 2000 00:00:00 GMT");
-    // header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
-    // header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
-    // header("Cache-Control: post-check=0, pre-check=0", false);
-    // header("Pragma: no-cache");
 
     if (function_exists('opcache_reset')) {
         opcache_reset();
     }
-    header("Cache-Control: no-cache, must-revalidate"); // HTTP/1.1
-    header("Expires: Sat, 26 Jul 1997 05:00:00 GMT");  // Date in the past
+    header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
+    header("Pragma: no-cache");
+    header("Expires: Sat, 26 Jul 1997 05:00:00 GMT");
     ?>
     <title><?php echo $title; ?></title>
     <link rel="apple-touch-icon" sizes="114x114" href="<?php echo  $full_url; ?>/assets/img/favicon/apple-touch-icon.png">
