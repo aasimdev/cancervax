@@ -1,3 +1,12 @@
+<?php
+ if (function_exists('opcache_reset')) {
+    opcache_reset();
+}
+header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
+header("Pragma: no-cache");
+header("Expires: Sat, 26 Jul 1997 05:00:00 GMT");
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -35,12 +44,7 @@
     }
     $page_name = basename($_SERVER['PHP_SELF']);
 
-    if (function_exists('opcache_reset')) {
-        opcache_reset();
-    }
-    header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
-    header("Pragma: no-cache");
-    header("Expires: Sat, 26 Jul 1997 05:00:00 GMT");
+   
     ?>
     <title><?php echo $title; ?></title>
     <link rel="apple-touch-icon" sizes="114x114" href="<?php echo  $full_url; ?>/assets/img/favicon/apple-touch-icon.png">

@@ -57,13 +57,16 @@ include('header.php'); ?>
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-7">
-                    <div class="banner-text">
-                        <div class="banner-announcement d-lg-none">
-                            <h4>Breaking News</h4>
-                            <p>CancerVax Files New Patent for Its Novel
-                                Universal Cancer Treatment Platform</p>
-                            <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php" class="theme-btn">Learn More</a>
+                    <div class="banner-video d-lg-none">
+                        <div class="banner-thumbnail">
+                            <img src="https://i.ytimg.com/vi/jfXTYVtlbFE/maxresdefault.jpg" alt="thumbnail">
                         </div>
+                        <a href="http://www.youtube.com/watch?v=jfXTYVtlbFE" class="theme-btn text-uppercase popup-youtube">
+                            <i class="far fa-play-circle"></i>
+                            <span>Watch video</span>
+                        </a>
+                    </div>
+                    <div class="banner-text">
                         <p><strong>CancerVax is a pre-clinical biotech company</strong> developing a novel Universal Cancer Treatment Platform that will be customizable, as an injection, to treat many types of cancer. </p>
 
                         <p> Our innovative approach <strong>DETECTS, MARKS, and KILLS</strong> only cancer cells. By making cancer cells “look” like well immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill cancer cells. </p>
@@ -76,13 +79,7 @@ include('header.php'); ?>
                     </div>
                 </div>
                 <div class="col-lg-5">
-                    <div class="banner-announcement d-none d-lg-block">
-                        <h4>Breaking News</h4>
-                        <p>CancerVax Files New Patent for Its Novel
-                            Universal Cancer Treatment Platform</p>
-                        <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php" class="theme-btn">Learn More</a>
-                    </div>
-                    <div class="banner-video">
+                    <div class="banner-video  d-none d-lg-block">
                         <div class="banner-thumbnail">
                             <img src="https://i.ytimg.com/vi/jfXTYVtlbFE/maxresdefault.jpg" alt="thumbnail">
                         </div>
@@ -91,6 +88,13 @@ include('header.php'); ?>
                             <span>Watch video</span>
                         </a>
                     </div>
+                    <div class="banner-announcement">
+                        <h4>Breaking News</h4>
+                        <p>CancerVax Files New Patent for Its Novel
+                            Universal Cancer Treatment Platform</p>
+                        <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php" class="theme-btn">Learn More</a>
+                    </div>
+
 
                 </div>
             </div>
