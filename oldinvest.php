@@ -10,39 +10,49 @@ include "header.php";
         <!-- Section 1 -->
         <div class="heroSection" id="overview">
             <div class="container">
-                <h1>Invest in a Better Way to Treat Cancer</h1>
+                <h1>Invest in a Better Way to Fight Cancer </h1>
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="heroSection-content">
-                            <h2> Using the Body’s Immune System to Fight Cancer</h2>
-                            <div class="banner-announcement d-lg-none">
-                                <h4>Breaking News</h4>
-                                <p>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer</p>
-                                <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php" class="theme-btn">Learn More</a>
-                            </div>
-                            <div class="video-section first-mobile text-center">
-                                <a href="https://www.youtube.com/watch?v=QNFte4x413Y" class="popup-youtube">
-                                    <img src="./assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
+                            <h2>The CancerVax Way</h2>
+                            <div class="video-section first-mobile">
+                                <a href="https://www.youtube.com/watch?v=jfXTYVtlbFE" class="popup-youtube">
+                                    <img src="https://i.ytimg.com/vi/jfXTYVtlbFE/maxresdefault.jpg" alt="hero" class="img-fluid">
+                                    <i class="far fa-play-circle"></i>
                                 </a>
                             </div>
-                            <p> CancerVax is a pre-clinical biotech company working with a world-class team of experienced cancer researchers and physicians at UCLA to create a breakthrough <strong>Universal Cancer Vaccine</strong> platform (UCV).</p>
-                            <p> Our cancer treatment is designed to be customizable, administered as a shot, and leverage state-of-the-art bioengineering and molecular technologies.</p>
-                            <p> This innovative approach detects, marks, and kills cancer cells exclusively. By inducing cancer cells to express a distinct marker absent in healthy cells, custom antibody drugs and the body's immune cells can precisely target and eradicate cancer cells.</p>
+                            <div class="video-section first-mobile">
+                                <a href="https://www.youtube.com/watch?v=jfXTYVtlbFE" class="popup-youtube">
+                                    <img src="https://i.ytimg.com/vi/jfXTYVtlbFE/maxresdefault.jpg" alt="hero" class="img-fluid">
+                                    <i class="far fa-play-circle"></i>
+                                </a>
+                            </div>
+                            <div class="banner-main-content pt-4">
+                                <ul>
+                                    <li>10 million people died last year because the body does not easily recognize and kill cancer cells.</li>
+                                    <li>However, the body is very good at killing diseases that it recognizes, such as measles.</li>
+                                    <li>Our unique technology disguises cancer cells to look like measles and “tricks” the body into killing them.</li>
+                                </ul>
+                            </div>
                         </div>
 
                         <div class="offerInvest">
                             <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
+                            <p>Previously Raised $4.8 million of Funding
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-6 d-none d-lg-block">
-                        <div class="banner-announcement">
-                            <h4>Breaking News</h4>
-                            <p>CancerVax Announces Promising New Drug to Treat a Deadly Children’s Cancer</p>
-                            <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php" class="theme-btn">Learn More</a>
+                        <div class="video-section mt-4 mb-5">
+                            <a href="https://www.youtube.com/watch?v=jfXTYVtlbFE" class="popup-youtube">
+                                <img src="https://i.ytimg.com/vi/jfXTYVtlbFE/maxresdefault.jpg" alt="hero" class="img-fluid">
+                                <i class="far fa-play-circle"></i>
+                            </a>
                         </div>
                         <div class="video-section">
-                            <a href="https://www.youtube.com/watch?v=QNFte4x413Y" class="popup-youtube">
-                                <img src="./assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
+                            <a href="https://www.youtube.com/watch?v=jfXTYVtlbFE" class="popup-youtube">
+                                <img src="https://i.ytimg.com/vi/jfXTYVtlbFE/maxresdefault.jpg" alt="hero" class="img-fluid">
+                                <i class="far fa-play-circle"></i>
                             </a>
                         </div>
                     </div>
@@ -77,30 +87,41 @@ include "header.php";
 
         <div class="offer-main">
             <div class="container">
-                <div class="row justify-content-lg-between">
+                <div class="row justify-content-xl-between">
                     <div class="col-lg-7">
+
+                        <!-- 1st section -->
+                        <div class="banner-text">
+                            <p><strong>CancerVax is a pre-clinical biotech company</strong> developing a novel Universal Cancer Treatment Platform that will be customizable, as an injection, to treat many types of cancer. </p>
+
+                            <p> Our innovative approach <strong>DETECTS, MARKS, and KILLS</strong> only cancer cells. By making cancer cells “look” like well immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill cancer cells. </p>
+
+                            <p> We have also created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults.
+                            </p>
+                            <p> We look forward to the day when treating cancer will be as simple as getting a shot – a better way to fight cancer.
+                            </p>
+
+                        </div>
+
                         <!-- 2nd Section -->
                         <div class="investSection">
                             <div class="offeringTitleTwoWrap">
                                 <h3>Reasons to Invest</h3>
 
                                 <div class="investReasons">
-                                    <div class="wrapInvest">
-                                        <div class="reasonNumber">1</div>
-                                        <p>According to the American Cancer Society,<span> cancer is the second leading cause of death in the United States in 2022,</span> more than COVID deaths. According to Fortune Business Insights, the global cancer drugs market is projected to grow from $205 billion in 2023 to <a href="#">$484 billion by 2030 </a><sup>(2)</sup>.</p>
-                                    </div>
+                                 
 
                                     <div class="wrapInvest">
-                                        <div class="reasonNumber">2</div>
+                                        <div class="reasonNumber">1</div>
                                         <p>Cancer affects many lives as the second leading cause of death in the US. <sup>(1)</sup> While we don’t have a solution to prevent cancer, our objective is to develop our Universal Cancer Vaccine platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities. </p>
                                     </div>
 
                                     <div class="wrapInvest">
-                                        <div class="reasonNumber">3</div>
+                                        <div class="reasonNumber">2</div>
                                         <p>CancerVax is proud to be working with a world-class team of experienced cancer researchers and physicians at UCLA. This team of MDs and PhDs has 80+ years of combined experience in cancer research and clinical treatment. Combined with the strong management team at CancerVax, we are undertaking a bold and innovative immunotherapy research approach - a Universal Cancer Vaccine platform - a better way to treat cancer.</p>
                                     </div>
                                     <div class="wrapInvestZero">
-                                        <div class="reasonNumber">4</div>
+                                        <div class="reasonNumber">3</div>
                                         <p>CancerVax has previously raised over <span>$3.3 million in funding.</span></p>
                                     </div>
                                 </div>
@@ -109,200 +130,235 @@ include "header.php";
                         </div>
 
                         <!-- 3rd Section -->
-                        <div class="problemSection">
-                            <h3>The Problem & Our Solution -
-                                Universal Cancer Vaccine Platform</h3>
-
-                            <!-- <div class="prob-video">
-                                <a href="https://www.youtube.com/watch?v=zbnhGW5Zz4c" class="popup-youtube">
-                                    <img src="./assets/img/ucv-thumbnail.png" alt="ucv-thumbnail">
-                                    <i class="far fa-play-circle"></i>
-                                </a>
-                            </div> -->
-
-                            <div class="prob-block">
-                                <h4> Help Millions Get Better, Without Feeling Worse</h4>
-                                <p> Cancer is the second leading cause of death in the United States – responsible for more than 1.9 million diagnosed cases and 609,360 deaths in 2022. <sup>(3)</sup></p>
-                                <div class="prob-img mt-4">
-                                    <img src="./assets/img/solution1.png" alt="hero" class="img-fluid">
+                        <div class="ctreament-wrap">
+                            <div class="ctreament-heading">
+                                <h3>Massive Market Opportunity</h3>
+                            </div>
+                            <div class="market-opp">
+                                <div class="row pt-md-5 pt-3 align-items-center">
+                                    <div class="col-lg-8">
+                                        <h4>How big is the biotechnology market?</h4>
+                                        <p>According to Precedence Research, the global biotechnology market is projected to grow from $1.3 trillion in 2023 to <span>$3.2 trillion by 2030</span>
+                                        </p>
+                                    </div>
+                                    <div class="col-lg-4 text-center">
+                                        <div class="market-opp-box">
+                                            <span>Biotech <br>
+                                                $3.2 trillion</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row pt-md-4 pt-3 align-items-center">
+                                    <div class="col-lg-8">
+                                        <h4>How big is the cancer drug development market?</h4>
+                                        <p>According to Fortune Business Insights, the global oncology drugs market is projected to grow from $205 billion in 2023 to <span>$484 billion by 2030</span>.
+                                        </p>
+                                    </div>
+                                    <div class="col-lg-4 text-center">
+                                        <div class="market-opp-box">
+                                            <span>Cancer <br>
+                                                $484 billion</span>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
+                        </div>
 
+                        <!-- 4th Section -->
+                        <div class="worldhealth-n">
+                            <h2>Development Partners</h2>
+                            <div class="row">
+                                <div class="col-lg-4">
+                                    <div class="dev-partners-img">
+                                        <img src="./assets/img/development-partners-1.png" alt="Development Partners">
+                                    </div>
+                                </div>
+                                <div class="col-lg-8">
+                                    <p>With more than <strong>500 physicians and scientists working on the forefront of cancer discoveries</strong>, the UCLA Health Jonsson Comprehensive Cancer Center is a leader in providing both experimental and traditional cancer treatments. Working with a team of world class cancer researchers and practicing oncologists at UCLA, CancerVax began the initial development of its novel Universal Cancer Treatment platform. Also working with CancerVax, UCLA developed a promising cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-4">
+                                    <div class="dev-partners-img">
+                                        <img src="./assets/img/flashpoint.png" alt="Development Partners">
+                                    </div>
+                                </div>
+                                <div class="col-lg-8">
+                                    <p>Flashpoint was founded on nanotechnology developed over the past 10 years in the laboratory of Chad Mirkin, Director of the International Institute for Nanotechnology at Northwestern University and 2024 winner of the prestigious Kavli Prize in Nanoscience. <strong>Flashpoint’s groundbreaking nanotechnology discovery platform</strong> enables the development of therapeutic candidates with superior product profiles. Validated in numerous in-vivo models, this technology has transformed components that are ineffective in conventional formulations into curative cancer immunotherapies. CancerVax is working with Flashpoint to deliver its novel Universal Cancer Treatment therapies using Flashpoint’s nanoparticle technology.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- 5h Section -->
+                        <div class="coreTeam">
+                            <h3>Our Scientific Team
+                            </h3>
+                            <div class="row justify-content-center mt-4">
+                                <div class="col-md-6">
+                                    <div class="team-box">
+                                        <div class="team-box-img">
+                                            <a href="#">
+                                                <img src="./assets/img/lakey.png" class="object-fit-cover" style="    object-position: bottom;" alt="john">
+                                            </a>
+                                        </div>
+                                        <h5>
+                                            Jonathan Lakey, <span>PhD</span>
+                                        </h5>
+                                        <p>
+                                            Chief Scientific Advisor
+                                        </p>
+                                        <div class="team-description">
+                                            <ul class="theme-list pb-4 px-4">
+                                                <li>Extensive experience in the fields of oncology, stem cells, and organ transplantation
+                                                    ​</li>
+
+                                                <li> An inventor of the famous “Edmonton Protocol” for treating Type 1 diabetes</li>
+                                                <li>Published over 495 scientific papers, 45 books, and over 500 scientific abstracts </li>
+                                                <li>Professor Emeritus at University of California, Irvine.</li>
+                                                <li>Advisor to many biotech companies</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6">
+                                    <div class="team-box">
+                                        <div class="team-box-img">
+                                            <a href="#">
+                                                <img src="./assets/img/adam-grant.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
+                                            </a>
+                                        </div>
+                                        <h5>
+                                            Adam Grant, <span>PhD</span>
+                                        </h5>
+                                        <p>
+                                            Principal Scientist
+                                        </p>
+                                        <div class="team-description">
+                                            <ul class="theme-list pb-4 px-4">
+                                                <li>An inventor of the Company’s Universal Cancer Treatment platform​</li>
+
+                                                <li> Expert computational biologist using AI and machine learning to discover new drugs and biological pathways​</li>
+                                                <li>Invented software to improve cancer antigen detection​</li>
+                                                <li>Invented a gene-signature approach to select treatment for breast cancer</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- 6th Section -->
+                        <div class="problemSection">
+                            <h3>The Old Way of Treating Cancer
+                            </h3>
                             <div class="prob-block">
-                                <p>Current cancer treatments still haven’t progressed past the options of surgery, chemotherapy, and radiation, which have extreme, life-long side effects. In addition to being toxic and harmful, treatments like chemotherapy can be very expensive.</p>
+                                <p>For decades, surgery, chemotherapy and radiation therapy have been the standards of care for cancer treatment, and often the only options. They operate on the basic premise that cancer cells are fast growing cells, so using powerful toxic chemicals (chemotherapy) or powerful x-rays (radiation) they hope to kill those cells to stop the cancer.
+                                </p>
+                                <p>The problem is that these treatments are not always very targeted, so they also kill normal fast-growing cells, such as hair cells, intestine cells, mouth-lining cells and others. This inadvertent side effect of killing healthy cells is what causes the debilitating side effects of chemotherapy and radiation, and a reduced quality of life for cancer patients.</p>
+                                <p>Using “chemo” has been likened to throwing a grenade into the body with the hope that it will kill the cancer and not the body.
+                                </p>
                                 <div class="prob-img">
                                     <img src="./assets/img/solution2.png" alt="hero" class="img-fluid">
                                 </div>
                             </div>
 
-                            <div class="prob-block">
-                                <p> Cancer immunotherapy is the next generation weapon in the fight against cancer.  It uses the body’s own immune system to target and kill cancer cells. </p>
-                                <p>Working with the world-class research team at UCLA, CancerVax is developing a Universal Cancer Vaccine platform to target and destroy cancer cells with precision.</p>
+                        </div>
 
-                                <div class="prob-img">
-                                    <img src="./assets/img/solution3.png" alt="hero" class="img-fluid">
-                                </div>
-                            </div>
+                        <!-- 7th Section -->
+                        <div class="problemSection">
+                            <h3>A Better Way to Fight Cancer
+                                - Our Universal Cancer Treatment Platform
+
+                            </h3>
+                            <h4>The Problem​</h4>
+                            <ul class="theme-list mb-4">
+                                <li>The body’s immune system is very good at killing foreign pathogens, such as the measles virus. But it’s not very good at killing cancer cells because cancer cells were originally normal cells and not foreign pathogens. This is why cancer grows undetected and is so hard to treat.</li>
+                            </ul>
+
+                            <h4>The Solution​</h4>
+                            <ul class="theme-list mb-4">
+                                <li>We are developing a novel technology that will precisely detect cancer cells
+                                    and force them to produce special proteins to “look” like common diseases
+                                    for which a strong immunity already exists – such as measles or chickenpox.
+                                    Then, the immune system will automatically destroy these disguised cancer
+                                    cells as if they were known foreign pathogens. </li>
+                                <li class="mt-4">Our technology is packaged into a nanoparticle that is programmable to seek out only cancer cells and uses a novel 2-step strategy to precisely detect cancer cells.</li>
+
+                                <ul class="theme-list m-4">
+                                    <li>Step 1 - Detect cell surface markers <strong>outside the cell</strong></li>
+                                    <li>Step 2 - Detect cancer genetic signatures <strong>inside the cell</strong>​</li>
+                                </ul>
+                            </ul>
 
                         </div>
 
-                        <!-- 4th Section -->
+                        <!-- 8th Section -->
                         <div class="investSection odp-main">
                             <div class="offeringTitleTwoWrap">
-                                <h4>Our Development Pipeline</h4>
-                                <a class="video-section-our popup-youtube" href="http://www.youtube.com/watch?v=2OHGmKOqOYE">
-                                    <img src="./assets/img/opd-ucla-offer.png" alt="hero" class="img-fluid w-100 d-block">
-                                </a>
-                                <p>In recent years, advances in science and biotechnology have proven that the body’s immune system is very effective at targeting and killing abnormal cells, germs and viruses, and has been doing it since the beginning of time. The problem is that cancer is not a foreign invader and grows much faster than the body’s normal immune response rate.</p>
-                                <p>Much like COVID-19 vaccines that train the body to recognize and destroy the coronavirus, cancer immunotherapies can train the body to target and destroy specific cancer cells. <span> Cancer immunotherapies are also known as cancer treatment vaccines.</span> </p>
-                                <p>While there is no such thing as a magic vaccine that can prevent people from getting cancer, we can borrow many of the techniques and technologies from modern preventative flu or COVID vaccines, and use the body’s immune system to target and treat cancers.</p>
-                                <p>Our immunotherapy technologies being developed at UCLA are designed to be delivered as simple injections. With our development of a Universal Cancer Vaccine platform, we look forward to the day when treating cancer will be as simple as getting a flu shot – <span>We believe immunotherapy is a better way to treat cancer.</span></p>
-                                <p>CancerVax has exclusive rights to license and commercialize the technology and patents that result from these UCLA research programs.</p>
-                                <h5>Additional Immunotherapy Projects</h5>
-                                <p>In addition to our Universal Cancer Vaccine platform, we are also working with UCLA to create two other immunotherapy technologies.</p>
+                                <h4>Features of Our Universal Cancer Treatment Platform
+                                </h4>
+                                <ul class="theme-list">
+                                    <li>A Customizable Platform for treatnig many types of cancer</li>
+                                    <li><strong>Makes cancer cells look like well immunized diseases</strong> (chickenpox, measles, etc.)</li>
+                                    <li>Novel 2-step precise detection of cancer cells (outside cell signature + inside cell signature)​</li>
+                                    <li>DETECT, MARK, and KILL only cancer cells​</li>
+                                    <li>Proprietary artificial intelligence and machine learning algorithms to find cellular signatures for various cancer types​</li>
+                                    <li>Built on tried-and-true messenger RNA (mRNA) technology​</li>
+                                    <li>Built on tried-and-true lipid nanoparticle technology​</li>
+                                    <li>2 patent applications</li>
+                                </ul>
+
+
 
                                 <div class="Children">
-                                    <h4> Children’s Cancer</h4>
-
-                                    <div class="learnMore">
-                                        <a href="/pipeline" target="_blank">Learn More</a>
-                                    </div>
-
-                                    <div class="learnImg first-mobile"> <img src="./assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
-                                    </div>
+                                    <h4> Our Future
+                                    </h4>
 
 
-                                    <p>We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. Unfortunately, the death rate for patients with recurrent Ewing sarcoma is nearly 100%. ​
+                                    <p>The CancerVax business model involves partnering with experienced cancer research institutions and technology providers to develop new life-changing drugs, followed by plans to license and/or sell our drugs and/or our technologies to major pharmaceutical companies.</p>
+
+                                    <p>As a biotech company, our goal is to create value for our company and our shareholders at every step of incremental success we make on the path to FDA approval.
                                     </p>
-                                    <p>Based on the positive data, we plan to launch FDA IND enabling studies needed to apply for approval to proceed with human trials. We look forward to the day when treating cancer will be as simple as getting a flu shot – a better way to treat cancer.</p>
 
-                                    <div class="learnImg first-desktop"> <img src="./assets/img/girl_cancervax.jpg" alt="hero" class="img-fluid-ca">
-                                    </div>
-                                </div>
+                                    <p>From discovery, to optimization, to pre-clinical trials, and additional future phases (phase 1 clinical trials, phase 2 clinical trials, phase 3 clinical trials), every step is a value inflection point that CancerVax believes could increase the company’s value and bring it one step closer to curing cancer.</p>
 
-                                <div class="priceDescriptionCard">
-                                    <div class="billion">
-                                        $183 Billion
-                                    </div>
-                                    <div class="billion-wrap">
-                                        <div class="billion-text">
-                                            <span>U.S. cancer healthcare spend in 2015 <sup>(4)</sup></span>
-                                        </div>
-                                    </div>
+                                    <p>Join CancerVax and invest in our breakthrough technology to help fight cancer!
+                                    </p>
 
-                                    <div class="billion">
-                                        $246 Billion
-                                    </div>
-                                    <div class="billion-wrap">
-                                        <div class="billion-text">
-                                            <span>Projected U.S. cancer healthcare spend by 2030 <sup>(4)</sup></span>
-                                        </div>
-                                    </div>
-
-                                    <div class="billion">
-                                        $484 Billion
-                                    </div>
-                                    <div class="billion-wrap">
-                                        <div class="billion-text">
-                                            <span>Projected global cancer drugs market by 2030 <sup>(2)</sup></span>
-                                        </div>
-                                    </div>
-
-                                    <div class="billion">
-                                        $3.2 Trillion
-                                    </div>
-                                    <div class="billion-wrap">
-                                        <div class="billion-text billion-text-last">
-                                            <span>Projected global biotechnology market by 2030 <sup>(5)</sup></span>
-                                        </div>
-                                    </div>
                                 </div>
 
 
-                                <div class="universal-heading">
-                                    Universal CAR-T Cell Platform (UCAR-T)
-                                    <div class="learnMore mb-0 mt-3">
-                                        <a href="/pipeline" target="_blank">Learn More</a>
-                                    </div>
-                                </div>
 
-                                <p>Our UCAR-T Cell platform is a novel and customizable low-cost cancer treatment platform, delivered as a shot, that can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells. These modified T-cells are called Chimeric Antigen Receptor (CAR) T Cells. Conventional CAR-T Cell therapy can cost more than $500,000 per dose due to complicated and expensive lab processes. Our goal is to lower the cost to a few thousand dollars per dose by helping the body make its own CAR T-cells.</p>
-
-                                <p>Our Universal Cancer Vaccine platform and our UCAR-T Cell platform can be used separately, however, when used together, we believe that we can kill cancer cells with extreme precision using the body’s immune system at very low costs. Our Universal Cancer Vaccine platform detects and marks a unique target our UCAR-T Cell platform makes T-cells that attack that target.</p>
-                            </div>
-                            <div class="pipeline-virus-left mt-4">
-                                <img src="./assets/img/pipeline-virus-left.png" alt="hero" class="img-fluid">
                             </div>
 
 
 
-
-
-                            <div class="marketSection">
-                                <h6>The Market</h6>
-                                <h4 class="meet">Meeting A Growing Critical Need</h4>
-
-                                <div class="row">
-                                    <div class="col-lg-4">
-                                        <div class="numberCOne">1</div>
-                                        <p>Currently, there are over 100 types of cancers. In 2015 approximately $183 billion was spent on cancer health care, in the U.S. alone; that number is projected to grow to $246 billion by 2030. (4)</p>
-                                    </div>
-                                    <div class="col-lg-4">
-                                        <div class="numberCOne">2</div>
-                                        <p>The global oncology drugs market is projected to grow from $205 billion in 2023 to $484 billion by 2030. (2)</p>
-                                    </div>
-                                    <div class="col-lg-4">
-                                        <div class="numberCOne">3</div>
-                                        <p>The global biotechnology market is projected to grow from $1.3 trillion in 2023 to $3.2 trillion by 2030. (5)</p>
-                                    </div>
-                                    <div class="col-12 mt-5 mobile-t">
-                                        <p>CancerVax is working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer. The company also has exclusive rights to license new intellectual property that may be developed by UCLA under research programs, which offers other potential revenue streams.</p>
-                                    </div>
-
-                                </div>
-                            </div>
                         </div>
+
+
 
                         <!-- 5th Section -->
                         <div class="priceDescription">
-                            <div class="Investor_Growth d-none d-sm-block">
-                                <img src="./assets/img/Investor_Growth.jpg" alt="hero" class="img-fluid">
-                            </div>
 
-                            <div class="Investor_Growth d-sm-none">
-                                <img src="./assets/img/Mobile_Growth.png" alt="hero" class="img-fluid">
-                            </div>
+                            <h4> Join Us to Help Beat Cancer
+                                 </h4>
 
-                            <h4 class="why-b"> Why Invest  </h4>
+                            <p>Cancer immunotherapy is the next generation weapon in the fight against cancer. It uses the body’s own immune system to target and kill cancer cells. 
 
-                            <h5>Let's Beat Cancer</h5>
-                            <p>Pharmaceutical research is booming from the effects of the COVID-19 pandemic, where the medical community learned how to use mRNA to recognize and fight specific disease states. A similar concept is being applied by CancerVax to create immunotherapy treatments with the purpose of using a patient’s immune system to detect, mark, and kill cancer.</p>
+                            </p>
+                            <p>Pharmaceutical research is booming from the effects of the COVID-19 pandemic, where the medical community learned how to use mRNA to recognize and fight specific disease states.
+                            </p>
+
+                            <p>CancerVax is using a “Smart mRNA” concept to create a novel cancer immunotherapy treatment that uses a patient’s immune system to detect, mark, and kill cancer -- a better way to fight cancer.
+                            </p>
 
                             <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank" rel="noopener noreferrer">
                                 <img src="./assets/img/invest-microscope.png" alt="hero" class="img-fluid mt-4">
                             </a>
 
-                            <div class="the-model">
-                                <p> The CancerVax business model involves partnering with experienced cancer research institutions, like UCLA, to develop new life-changing drugs, followed by plans to license and/or sell the company’s drugs, or license technologies to major pharmaceutical companies. <br><br> As a biotech company, CancerVax’s goal is to create value for our company and our shareholders at every step of incremental success we make on the path to FDA approval.</p>
-                                <p>From discovery, to optimization, to pre-clinical trials, and additional future phases (phase 1 clinical trials, phase 2 clinical trials, phase 3 clinical trials), every step is a value inflection point that CancerVax believes could increase the company’s value and bring it one step closer to curing cancer.
-
-                                    <br><br> Join CancerVax and invest in our breakthrough technologies to help beat cancer!
-                                </p>
-
-                                <div class="the-team">
-                                    <h5>The Team </h5>
-                                </div>
-                                <div class="d-none d-sm-block">
-                                    <a href="/about?target=about-team">
-                                        <img src="./assets/img/offer-team.jpg" alt="hero" class="img-fluid">
-                                    </a>
-                                </div>
-                                <div class="d-sm-none">
-                                    <a href="/about?target=about-team">
-                                        <img src="./assets/img/Mobile_Team.png" alt="hero" class="img-fluid">
-                                    </a>
-                                </div>
-                            </div>
                         </div>
 
                         <!-- 6th Section -->
@@ -417,16 +473,7 @@ include "header.php";
                                     </tbody>
                                 </table>
                             </div>
-                            <h4 id="updates">Updates</h4>
-                            <div class="cchat mt-5">
-                                    <div class="cchat-box pb-4" data-video="trend">
-                                        <a class="popup-youtube" href="https://www.youtube.com/watch?v=Bk39recgMGU"></a>
-                                        <div class="cchat-thumbnail thumbnail-overlay h-auto">
-                                            <img src="//img.youtube.com/vi/Bk39recgMGU/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">
-                                        </div>
-                                        <i class="far fa-play-circle"></i>
-                                    </div>
-                                </div>
+
                             <h4>Market Statistics</h4>
 
                             <div class="link-placeholder">

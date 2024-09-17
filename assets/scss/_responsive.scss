@@ -129,6 +129,12 @@
     .banner-main {
         margin-top: 74px;
     }
+    .heroSection {
+        margin-top: 74px;
+    }
+    .nav-section {
+        top: 136px;
+    }
 }
 
 // @media (min-width: 991px) and (max-width: 1024px) {
@@ -554,6 +560,12 @@
     .mobile-banner-content .banner-main-content {
         top: -50px;
         position: relative;
+    }
+    .heroSection {
+        margin-top: 27px;
+    }
+    .nav-section {
+        top: 65px;
     }
 }
 
@@ -1185,5 +1197,8 @@
     }
     .journey li+li {
         margin-top: 20px;
+    }
+    .heroSection {
+        margin-top: 0;
     }
 }
