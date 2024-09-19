@@ -120,11 +120,11 @@ include "header.php";
 
                                     <div class="wrapInvest">
                                         <div class="reasonNumber">2</div>
-                                        <p>CancerVax is proud to be working with a world-class team of experienced cancer researchers and physicians at UCLA. This team of MDs and PhDs has 80+ years of combined experience in cancer research and clinical treatment. Combined with the strong management team at CancerVax, we are undertaking a bold and innovative immunotherapy research approach - a Universal Cancer Vaccine platform - a better way to treat cancer.</p>
+                                        <p>CancerVax is led by an experienced team of biotech experts, cancer researchers and marketing executives who are working with development partners to create its innovative Universal Cancer Treatment Platform.</p>
                                     </div>
                                     <div class="wrapInvestZero">
                                         <div class="reasonNumber">3</div>
-                                        <p>CancerVax has previously raised over <span>$3.3 million in funding.</span></p>
+                                        <p>CancerVax has previously raised over <span>$4.8 million in funding.</span></p>
                                     </div>
                                 </div>
 
