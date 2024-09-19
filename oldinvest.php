@@ -38,10 +38,8 @@ include "header.php";
 
                         <div class="offerInvest">
                             <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
-                            <div class="text-start">
                             <p>Previously Raised $4.8 million of Funding
                             </p>
-                            </div>
                         </div>
                     </div>
                     <div class="col-lg-6 d-none d-lg-block">
@@ -113,18 +111,26 @@ include "header.php";
                                 <div class="investReasons">
                                  
 
-                                    <div class="wrapInvest">
+                                <div class="wrapInvest">
                                         <div class="reasonNumber">1</div>
+                                        <p>According to the American Cancer Society, <strong>cancer is the second leading cause of death in the United States in 2022,</strong> more than COVID deaths. According to Fortune Business Insights, the global cancer drugs market is projected to grow from $205 billion in 2023 to $484 billion by 2030 <sup>(2)</sup> </p>
+                                    </div>
+                                    <div class="wrapInvest">
+                                        <div class="reasonNumber">2</div>
                                         <p>Cancer affects many lives as the second leading cause of death in the US. <sup>(1)</sup> While we don’t have a solution to prevent cancer, our objective is to develop our Universal Cancer Vaccine platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities. </p>
                                     </div>
 
                                     <div class="wrapInvest">
-                                        <div class="reasonNumber">2</div>
+                                        <div class="reasonNumber">3</div>
                                         <p>CancerVax is led by an experienced team of biotech experts, cancer researchers and marketing executives who are working with development partners to create its innovative Universal Cancer Treatment Platform.</p>
                                     </div>
-                                    <div class="wrapInvestZero">
-                                        <div class="reasonNumber">3</div>
+                                    <div class="wrapInvest">
+                                        <div class="reasonNumber">4</div>
                                         <p>CancerVax has previously raised over <span>$4.8 million in funding.</span></p>
+                                    </div>
+                                    <div class="wrapInvestZero">
+                                        <div class="reasonNumber">5</div>
+                                        <p>CancerVax is creating a better way to fight cancer.</p>
                                     </div>
                                 </div>
 
