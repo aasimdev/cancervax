@@ -38,8 +38,10 @@ include "header.php";
 
                         <div class="offerInvest">
                             <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
+                            <div class="text-start">
                             <p>Previously Raised $4.8 million of Funding
                             </p>
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-6 d-none d-lg-block">
@@ -301,8 +303,8 @@ include "header.php";
                                 <h4>Features of Our Universal Cancer Treatment Platform
                                 </h4>
                                 <ul class="theme-list">
-                                    <li>A Customizable Platform for treatnig many types of cancer</li>
-                                    <li><strong>Makes cancer cells look like well immunized diseases</strong> (chickenpox, measles, etc.)</li>
+                                    <li>A Customizable Platform for treating many types of cancer</li>
+                                    <li>Makes cancer cells look like well immunized diseases (chickenpox, measles, etc.)</li>
                                     <li>Novel 2-step precise detection of cancer cells (outside cell signature + inside cell signature)​</li>
                                     <li>DETECT, MARK, and KILL only cancer cells​</li>
                                     <li>Proprietary artificial intelligence and machine learning algorithms to find cellular signatures for various cancer types​</li>
