@@ -82,7 +82,6 @@ include('header.php'); ?>
 
         <ul class="theme-list mb-4">
             <li><strong>Makes cancer cells look like well immunized diseases</strong> (chickenpox, measles, etc.)</li>
-            <li>No academic papers or published patents have described this novel approach</li>
             <li>Novel 2-step precise detection of cancer cells (outside cell signature + inside cell signature)​</li>
             <li>DETECT, MARK, and KILL only cancer cells​</li>
             <li>Proprietary artificial intelligence and machine learning algorithms to find cellular signatures for various cancer types​</li>
