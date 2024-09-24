@@ -61,32 +61,58 @@ include('header.php'); ?>
         </div>
 
         <div class="row justify-content-center">
-
-            <div class="col-md-6 col-xl-3">
+        <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
-                            <img src="./assets/img/Ryan-Davies.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
+                            <img src="./assets/img/adam-grant.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
                         </a>
                     </div>
                     <h5>
-                        Ryan Davies
+                        Adam Grant, <span>PhD</span>
                     </h5>
                     <p>
-                        Chairman
+                        Principal Scientist
                     </p>
                     <div class="team-description">
                         <ul class="theme-list pb-4 px-4">
-                            <li>
-                                Extensive background in the biotech industry​</li>
-                            <li> Former CEO of Curza, a small molecule antibiotics drug company​</li>
-                            <li> Co-founded several biotech companies​</li>
-                            <li> Partner in a private equity firm​</li>
-                            <li>Served on two U.S. presidential campaigns</li>
+                            <li>An inventor of the Company’s Universal Cancer Treatment platform​</li>
+
+                            <li> Expert computational biologist using AI and machine learning to discover new drugs and biological pathways​</li>
+                            <li>Invented software to improve cancer antigen detection​</li>
+                            <li>Invented a gene-signature approach to select treatment for breast cancer</li>
                         </ul>
                     </div>
                 </div>
             </div>
+        <div class="col-md-6 col-xl-3">
+                <div class="team-box">
+                    <div class="team-box-img">
+                        <a href="#">
+                            <img src="./assets/img/lakey.png" class="object-fit-cover" style="    object-position: bottom;" alt="john">
+                        </a>
+                    </div>
+                    <h5>
+                        Jonathan Lakey, <span>PhD</span>
+                    </h5>
+                    <p>
+                        Chief Scientific Advisor
+                    </p>
+                    <div class="team-description">
+                        <ul class="theme-list pb-4 px-4">
+                            <li>Extensive experience in the fields of oncology, stem cells, and organ transplantation
+                                ​</li>
+
+                            <li> An inventor of the famous “Edmonton Protocol” for treating Type 1 diabetes</li>
+                            <li>Published over 495 scientific papers, 45 books, and over 500 scientific abstracts </li>
+                            <li>Professor Emeritus at University of California, Irvine.</li>
+                            <li>Advisor to many biotech companies</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+       
             <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
@@ -114,61 +140,7 @@ include('header.php'); ?>
 
         </div>
 
-        <div class="row justify-content-center mt-4">
 
-
-            <div class="col-md-6 col-xl-3">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/lakey.png" class="object-fit-cover" style="    object-position: bottom;" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                        Jonathan Lakey, <span>PhD</span>
-                    </h5>
-                    <p>
-                        Chief Scientific Advisor
-                    </p>
-                    <div class="team-description">
-                        <ul class="theme-list pb-4 px-4">
-                            <li>Extensive experience in the fields of oncology, stem cells, and organ transplantation
-                                ​</li>
-
-                            <li> An inventor of the famous “Edmonton Protocol” for treating Type 1 diabetes</li>
-                            <li>Published over 495 scientific papers, 45 books, and over 500 scientific abstracts </li>
-                            <li>Professor Emeritus at University of California, Irvine.</li>
-                            <li>Advisor to many biotech companies</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-6 col-xl-3">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/adam-grant.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                        Adam Grant, <span>PhD</span>
-                    </h5>
-                    <p>
-                        Principal Scientist
-                    </p>
-                    <div class="team-description">
-                        <ul class="theme-list pb-4 px-4">
-                            <li>An inventor of the Company’s Universal Cancer Treatment platform​</li>
-
-                            <li> Expert computational biologist using AI and machine learning to discover new drugs and biological pathways​</li>
-                            <li>Invented software to improve cancer antigen detection​</li>
-                            <li>Invented a gene-signature approach to select treatment for breast cancer</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
 </section>
 
