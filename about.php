@@ -62,62 +62,31 @@ include('header.php'); ?>
 
         <div class="row justify-content-center">
 
-            <div class="col-md-6 col-xl-3">
+        <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
-                            <img src="./assets/img/Ryan-Davies.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
+                            <img src="./assets/img/adam-grant.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
                         </a>
                     </div>
                     <h5>
-                        Ryan Davies
+                        Adam Grant, <span>PhD</span>
                     </h5>
                     <p>
-                        Chairman
+                        Principal Scientist
                     </p>
                     <div class="team-description">
                         <ul class="theme-list pb-4 px-4">
-                            <li>
-                                Extensive background in the biotech industry​</li>
-                            <li> Former CEO of Curza, a small molecule antibiotics drug company​</li>
-                            <li> Co-founded several biotech companies​</li>
-                            <li> Partner in a private equity firm​</li>
-                            <li>Served on two U.S. presidential campaigns</li>
+                            <li>An inventor of the Company’s Universal Cancer Treatment platform​</li>
+
+                            <li> Expert computational biologist using AI and machine learning to discover new drugs and biological pathways​</li>
+                            <li>Invented software to improve cancer antigen detection​</li>
+                            <li>Invented a gene-signature approach to select treatment for breast cancer</li>
                         </ul>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-xl-3">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/byron-cvax.png" class="object-fit-cover" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                        Byron Elton
-                    </h5>
-                    <p>
-                        CEO
-                    </p>
-                    <div class="team-description">
-                        <ul class="theme-list pb-4 px-4">
-                            <li>Long career in sales and marketing ​</li>
-
-                            <li>Senior Vice President of Sales for Univision</li>
-                            <li> Regional Vice President of Sales for AOL ​</li>
-                            <li> Senior Vice President of E-commerce for AOL Canada</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-
-        <div class="row justify-content-center mt-4">
-
-
-            <div class="col-md-6 col-xl-3">
+        <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
@@ -148,27 +117,29 @@ include('header.php'); ?>
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
-                            <img src="./assets/img/adam-grant.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
+                            <img src="./assets/img/byron-cvax.png" class="object-fit-cover" alt="john">
                         </a>
                     </div>
                     <h5>
-                        Adam Grant, <span>PhD</span>
+                        Byron Elton
                     </h5>
                     <p>
-                        Principal Scientist
+                        CEO
                     </p>
                     <div class="team-description">
                         <ul class="theme-list pb-4 px-4">
-                            <li>An inventor of the Company’s Universal Cancer Treatment platform​</li>
+                            <li>Long career in sales and marketing ​</li>
 
-                            <li> Expert computational biologist using AI and machine learning to discover new drugs and biological pathways​</li>
-                            <li>Invented software to improve cancer antigen detection​</li>
-                            <li>Invented a gene-signature approach to select treatment for breast cancer</li>
+                            <li>Senior Vice President of Sales for Univision</li>
+                            <li> Regional Vice President of Sales for AOL ​</li>
+                            <li> Senior Vice President of E-commerce for AOL Canada</li>
                         </ul>
                     </div>
                 </div>
             </div>
+
         </div>
+
     </div>
 </section>
 
