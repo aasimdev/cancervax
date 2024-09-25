@@ -13,13 +13,17 @@ include('header.php'); ?>
 <section class="market-content">
     <div class="container">
         <div class="tagline">
-            <p>According to the World Health Organization, <strong>cancer is the second leading cause</strong> of death globally and was responsible for 10 million deaths in 2020.  
+            <p>According to the World Health Organization, <strong>cancer is the second leading cause</strong> of death globally and was responsible for an estimated 10 million deaths in 2023.  
+
             </p>
             <p>The American Cancer Society estimates that 1.95 million new cases of cancer were diagnosed and that 609,820 cancer deaths occurred in the United States in 2023. 
+ 
             </p>
-            <p>Conventional cancer treatment methods such as surgery, chemotherapy and radiation therapy often have limited efficacy and serious side effects.  The “war on cancer” continues.
+            <p>Conventional cancer treatment methods such as surgery, chemotherapy and radiation therapy often have limited efficacy and serious side effects. The “war on cancer” continues.
+
             </p>
-            <p>According to a 2020 report from Reports and Data, the global cancer immunotherapy market will grow from $78 billion in 2019 to $153 billion by 2027.
+            <p>According to a 2024 report from Statista, the global cancer immunotherapy market will grow from $83 billion in 2023 to $231 billion by 2031.
+
             </p>
         </div>
         <div class="row mcontentrow">
