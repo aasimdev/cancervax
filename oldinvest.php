@@ -113,11 +113,11 @@ include "header.php";
 
                                 <div class="wrapInvest">
                                         <div class="reasonNumber">1</div>
-                                        <p>According to the American Cancer Society, <strong>cancer is the second leading cause of death in the United States in 2022,</strong> more than COVID deaths. According to Fortune Business Insights, the global cancer drugs market is projected to grow from $205 billion in 2023 to $484 billion by 2030 <sup>(2)</sup> </p>
+                                        <p>According to the American Cancer Society, <strong>cancer was the second leading cause of death in the United States in 2023<sup>(1)</sup>,</strong>. According to Fortune Business Insights, the global cancer drugs market is projected to grow from $205 billion in 2023 to $484 billion by 2030 <sup>(2)</sup> </p>
                                     </div>
                                     <div class="wrapInvest">
                                         <div class="reasonNumber">2</div>
-                                        <p>Cancer affects many lives as the second leading cause of death in the US. <sup>(1)</sup> While we don’t have a solution to prevent cancer, our objective is to develop our Universal Cancer Vaccine platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities. </p>
+                                        <p> While we don’t have a to prevent cancer, our objective is to develop our Universal Cancer Vaccine platform so that it can be customized to treat a broad spectrum of cancer types and substantially decrease the number of cancer-related fatalities. </p>
                                     </div>
 
                                     <div class="wrapInvest">
@@ -146,7 +146,7 @@ include "header.php";
                                 <div class="row pt-md-5 pt-3 align-items-center">
                                     <div class="col-lg-8">
                                         <h4>How big is the biotechnology market?</h4>
-                                        <p>According to Precedence Research, the global biotechnology market is projected to grow from $1.3 trillion in 2023 to <span>$3.2 trillion by 2030</span>
+                                        <p>According to Precedence Research, the global biotechnology market is projected to grow from $1.3 trillion in 2023 to <span>$3.2 trillion by 2030<sup>(3)</sup></span>
                                         </p>
                                     </div>
                                     <div class="col-lg-4 text-center">
@@ -204,6 +204,30 @@ include "header.php";
                             <h3>Our Scientific Team
                             </h3>
                             <div class="row justify-content-center mt-4">
+                            <div class="col-md-6">
+                                    <div class="team-box">
+                                        <div class="team-box-img">
+                                            <a href="#">
+                                                <img src="./assets/img/adam-grant.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
+                                            </a>
+                                        </div>
+                                        <h5>
+                                            Adam Grant, <span>PhD</span>
+                                        </h5>
+                                        <p>
+                                            Principal Scientist
+                                        </p>
+                                        <div class="team-description">
+                                            <ul class="theme-list pb-4 px-4">
+                                                <li>An inventor of the Company’s Universal Cancer Treatment platform​</li>
+
+                                                <li> Expert computational biologist using AI and machine learning to discover new drugs and biological pathways​</li>
+                                                <li>Invented software to improve cancer antigen detection​</li>
+                                                <li>Invented a gene-signature approach to select treatment for breast cancer</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
                                 <div class="col-md-6">
                                     <div class="team-box">
                                         <div class="team-box-img">
@@ -231,30 +255,7 @@ include "header.php";
                                     </div>
                                 </div>
 
-                                <div class="col-md-6">
-                                    <div class="team-box">
-                                        <div class="team-box-img">
-                                            <a href="#">
-                                                <img src="./assets/img/adam-grant.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
-                                            </a>
-                                        </div>
-                                        <h5>
-                                            Adam Grant, <span>PhD</span>
-                                        </h5>
-                                        <p>
-                                            Principal Scientist
-                                        </p>
-                                        <div class="team-description">
-                                            <ul class="theme-list pb-4 px-4">
-                                                <li>An inventor of the Company’s Universal Cancer Treatment platform​</li>
-
-                                                <li> Expert computational biologist using AI and machine learning to discover new drugs and biological pathways​</li>
-                                                <li>Invented software to improve cancer antigen detection​</li>
-                                                <li>Invented a gene-signature approach to select treatment for breast cancer</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
+                            
                             </div>
                         </div>
 
@@ -486,7 +487,7 @@ include "header.php";
 
                             <div class="link-placeholder">
                                 <a href="https://www.cancer.org/research/cancer-facts-statistics/all-cancer-facts-figures/cancer-facts-figures-2022.html" target="_blank">
-                                    1. (2022) American Cancer Society
+                                    1. (2023) American Cancer Society
                                 </a>
                             </div>
 
@@ -496,21 +497,10 @@ include "header.php";
                                 </a>
                             </div>
 
-                            <div class="link-placeholder">
-                                <a href="https://www.cancer.org/research/cancer-facts-statistics/all-cancer-facts-figures/cancer-facts-figures-2022.html" target="_blank">
-                                    3.(2022) American Cancer Society
-                                </a>
-                            </div>
-
-                            <div class="link-placeholder">
-                                <a href="https://www.statista.com/statistics/1313989/projection-on-cancer-care-costs-us/" target="_blank">
-                                    4. (2023) Statista
-                                </a>
-                            </div>
 
                             <div class="link-placeholder">
                                 <a href="https://www.precedenceresearch.com/biotechnology-market" target="_blank">
-                                    5. (2023) Precedence Research
+                                    3. (2023) Precedence Research
                                 </a>
                             </div>
                             <h4 class="mt-5 dis-space">Disclaimer</h4>

@@ -35,8 +35,8 @@ include('header.php'); ?>
             <div class="col-xl-7">
                 <div class="mcontent-text">
                     <p>
-                        Cancer immunotherapy, also known as cancer treatment vaccine, has emerged as a very promising next generation treatment. Immunotherapy utilizes the body’s own immune system to fight cancer, usually with milder side effects and more targeted than chemotherapy. <br>
-                        According to a 2020 report from Reports and Data, global cancer immunotherapy will grow from $78 billion in 2019 to $153 billion by 2027.</p>
+                        Cancer immunotherapy, also known as cancer treatment vaccine, has emerged as a very promising next generation treatment. Immunotherapy utilizes the body’s own immune system to fight cancer, usually with milder side effects and more targeted than chemotherapy. 
+                       </p>
                     <h5>The rapid growth of the immunotherapy market can be attributed to three primary factors:</h5>
                     <ul class="theme-check-list">
                         <li>Rising cancer incidence, worldwide </li>
@@ -46,9 +46,7 @@ include('header.php'); ?>
                 </div>
             </div>
         </div>
-        <div class="mcontent-keytruda">
-            <img src="./assets/img/market-2.png" alt="market">
-        </div>
+  <br><br>
         <div class="mcontent-ct">
             <p>
                 The two biggest immunotherapy drugs – Keytruda from Merck (NYSE: MRK) and Opdivo from Bristol-Myers Squibb (NYSE: BMY) – started out as niche products for incurable lung cancer and gradually expanded into blockbuster drugs with multiple cancer indications. Their robust sales are strong testaments to the science and market potential of immunotherapy – using the body’s immune system to fight cancer.
