@@ -37,7 +37,7 @@ include('header.php'); ?>
                 <h5>July 2024
                 </h5>
                 <p>CancerVax filed a provisional patent application describing a novel messenger
-                RNA (mRNA) approach to DETECT and MARK cancer cells with precision.
+                    RNA (mRNA) approach to DETECT and MARK cancer cells with precision.
                 </p>
             </li>
             <li>
@@ -61,8 +61,7 @@ include('header.php'); ?>
         </div>
 
         <div class="row justify-content-center">
-
-        <div class="col-md-6 col-xl-3">
+            <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
@@ -86,7 +85,7 @@ include('header.php'); ?>
                     </div>
                 </div>
             </div>
-        <div class="col-md-6 col-xl-3">
+            <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
@@ -113,6 +112,8 @@ include('header.php'); ?>
                 </div>
             </div>
 
+        </div>
+        <div class="row justify-content-center mt-4">
             <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
@@ -133,6 +134,31 @@ include('header.php'); ?>
                             <li>Senior Vice President of Sales for Univision</li>
                             <li> Regional Vice President of Sales for AOL ​</li>
                             <li> Senior Vice President of E-commerce for AOL Canada</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-xl-3">
+                <div class="team-box">
+                    <div class="team-box-img">
+                        <a href="#">
+                        <img src="./assets/img/Ryan-Davies.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
+                        </a>
+                    </div>
+                    <h5>
+                    Ryan Davies
+                    </h5>
+                    <p>
+                        Chairman Emeritus
+                    </p>
+                    <div class="team-description">
+                        <ul class="theme-list pb-4 px-4">
+                        <li>
+                                Extensive background in the biotech industry​</li>
+                            <li> Former CEO of Curza, a small molecule antibiotics drug company​</li>
+                            <li> Co-founded several biotech companies​</li>
+                            <li> Partner in a private equity firm​</li>
+                            <li>Served on two U.S. presidential campaigns</li>
                         </ul>
                     </div>
                 </div>

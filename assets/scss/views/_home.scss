@@ -1190,7 +1190,7 @@ body.modal-open {
     p {
         color: #000;
         font-size: 16px;
-        line-height: 30px;
+        line-height: 1.5;
     }
 
     .tagline {
@@ -1198,7 +1198,7 @@ body.modal-open {
 
         p {
             &+p {
-                margin-top: 8px;
+                margin-top: 12px;
             }
         }
     }
@@ -1398,8 +1398,9 @@ body.modal-open {
         p,
         a {
             font-size: 16px;
-            margin-bottom: 24px;
+            margin-bottom: 16px;
             color: #000;
+            line-height: 1.5;
         }
 
         .theme-list li {

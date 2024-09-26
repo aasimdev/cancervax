@@ -13,13 +13,17 @@ include('header.php'); ?>
 <section class="market-content">
     <div class="container">
         <div class="tagline">
-            <p>According to the World Health Organization, <strong>cancer is the second leading cause</strong> of death globally and was responsible for 10 million deaths in 2020.  
+            <p>According to the World Health Organization, <strong>cancer is the second leading cause</strong> of death globally and was responsible for an estimated 10 million deaths in 2023.  
+
             </p>
             <p>The American Cancer Society estimates that 1.95 million new cases of cancer were diagnosed and that 609,820 cancer deaths occurred in the United States in 2023. 
+ 
             </p>
-            <p>Conventional cancer treatment methods such as surgery, chemotherapy and radiation therapy often have limited efficacy and serious side effects.  The “war on cancer” continues.
+            <p>Conventional cancer treatment methods such as surgery, chemotherapy and radiation therapy often have limited efficacy and serious side effects. The “war on cancer” continues.
+
             </p>
-            <p>According to a 2020 report from Reports and Data, the global cancer immunotherapy market will grow from $78 billion in 2019 to $153 billion by 2027.
+            <p>According to a 2024 report from Statista, the global cancer immunotherapy market will grow from $83 billion in 2023 to $231 billion by 2031.
+
             </p>
         </div>
         <div class="row mcontentrow">
@@ -31,8 +35,8 @@ include('header.php'); ?>
             <div class="col-xl-7">
                 <div class="mcontent-text">
                     <p>
-                        Cancer immunotherapy, also known as cancer treatment vaccine, has emerged as a very promising next generation treatment. Immunotherapy utilizes the body’s own immune system to fight cancer, usually with milder side effects and more targeted than chemotherapy. <br>
-                        According to a 2020 report from Reports and Data, global cancer immunotherapy will grow from $78 billion in 2019 to $153 billion by 2027.</p>
+                        Cancer immunotherapy, also known as cancer treatment vaccine, has emerged as a very promising next generation treatment. Immunotherapy utilizes the body’s own immune system to fight cancer, usually with milder side effects and more targeted than chemotherapy. 
+                       </p>
                     <h5>The rapid growth of the immunotherapy market can be attributed to three primary factors:</h5>
                     <ul class="theme-check-list">
                         <li>Rising cancer incidence, worldwide </li>
@@ -42,9 +46,7 @@ include('header.php'); ?>
                 </div>
             </div>
         </div>
-        <div class="mcontent-keytruda">
-            <img src="./assets/img/market-2.png" alt="market">
-        </div>
+  <br><br>
         <div class="mcontent-ct">
             <p>
                 The two biggest immunotherapy drugs – Keytruda from Merck (NYSE: MRK) and Opdivo from Bristol-Myers Squibb (NYSE: BMY) – started out as niche products for incurable lung cancer and gradually expanded into blockbuster drugs with multiple cancer indications. Their robust sales are strong testaments to the science and market potential of immunotherapy – using the body’s immune system to fight cancer.
