@@ -113,7 +113,7 @@ include "header.php";
 
                                 <div class="wrapInvest">
                                         <div class="reasonNumber">1</div>
-                                        <p>According to the American Cancer Society, <strong>cancer was the second leading cause of death in the United States in 2023<sup>(1)</sup>,</strong>. According to Fortune Business Insights, the global cancer drugs market is projected to grow from $205 billion in 2023 to $484 billion by 2030 <sup>(2)</sup> </p>
+                                        <p>According to the American Cancer Society, <strong>cancer was the second leading cause of death in the United States in 2023<sup>(1)</sup>,</strong> According to Fortune Business Insights, the global cancer drugs market is projected to grow from $205 billion in 2023 to $484 billion by 2030 <sup>(2)</sup>. </p>
                                     </div>
                                     <div class="wrapInvest">
                                         <div class="reasonNumber">2</div>
