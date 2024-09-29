@@ -79,7 +79,7 @@ include('header.php'); ?>
                     </div>
                 </div>
                 <div class="col-lg-5">
-                    
+
                     <div class="banner-video d-none d-lg-block">
                         <div class="banner-thumbnail">
                             <img src="https://i.ytimg.com/vi/PXBNJe3nHp0/maxresdefault.jpg" alt="thumbnail">
@@ -89,6 +89,7 @@ include('header.php'); ?>
                             <span>Watch video</span>
                         </a>
                     </div>
+
 
                     <div class="banner-announcement">
                         <h4>Breaking News</h4>
