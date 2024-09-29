@@ -59,9 +59,9 @@ include('header.php'); ?>
                 <div class="col-lg-7">
                     <div class="banner-video d-lg-none">
                         <div class="banner-thumbnail">
-                            <img src="https://i.ytimg.com/vi/jfXTYVtlbFE/maxresdefault.jpg" alt="thumbnail">
+                            <img src="https://i.ytimg.com/vi/PXBNJe3nHp0/maxresdefault.jpg" alt="thumbnail">
                         </div>
-                        <a href="http://www.youtube.com/watch?v=jfXTYVtlbFE" class="theme-btn text-uppercase popup-youtube">
+                        <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="theme-btn text-uppercase popup-youtube">
                             <i class="far fa-play-circle"></i>
                             <span>Watch video</span>
                         </a>
