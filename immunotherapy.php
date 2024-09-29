@@ -105,7 +105,7 @@ include('header.php'); ?>
                 </div>
                 <div class="col-lg-5">
                     <div class="immtypes__img">
-                        <img src="./assets/img/immtype1.jpg" alt="imm">
+                        <img src="./assets/img/immtype1.png" alt="imm">
                     </div>
                 </div>
             </div>
@@ -120,7 +120,7 @@ include('header.php'); ?>
                 </div>
                 <div class="col-lg-5">
                     <div class="immtypes__img">
-                        <img src="./assets/img/immtype2.jpg" alt="imm">
+                        <img src="./assets/img/immtype2.png" alt="imm">
                     </div>
                 </div>
             </div>
