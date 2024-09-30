@@ -92,8 +92,8 @@ include('header.php'); ?>
             <div class="row">
                 <div class="col-lg-7">
                     <div class="immtypes__content">
-                        <h5>Immune checkpoint inhibitors</h5>
-                        <p>which are drugs that block immune checkpoints. These checkpoints are a normal part of the immune system and keep immune responses from being too strong. By blocking them, these drugs allow immune cells to respond more strongly to cancer.</p>
+                        <h5>Immune Checkpoint Inhibitors</h5>
+                        <p>These are drugs that block immune checkpoints. Checkpoints are a normal part of the immune system and keep immune responses from being too strong. By blocking them, these drugs allow immune cells to respond more strongly to cancer.</p>
                         <p>Example blockbuster immunotherapy drugs:</p>
 
                         <ul class="theme-list">
@@ -105,7 +105,7 @@ include('header.php'); ?>
                 </div>
                 <div class="col-lg-5">
                     <div class="immtypes__img">
-                        <img src="./assets/img/immtype1.jpg" alt="imm">
+                        <img src="./assets/img/immtype1.png" alt="imm">
                     </div>
                 </div>
             </div>
@@ -114,13 +114,13 @@ include('header.php'); ?>
             <div class="row">
                 <div class="col-lg-7">
                     <div class="immtypes__content">
-                        <h5>T-cell transfer therapy</h5>
-                        <p>which is a personalized treatment that boosts the natural ability of the body’s immune T-cells to fight cancer. In this treatment, immune cells are taken from the tumor. Those that are most active against the cancer are selected or genetically modified in the lab to better attack your cancer cells, grown in large batches, and put back into the body through an injection.</p>
+                        <h5>T-cell Transfer Therapy (CAR-T)</h5>
+                        <p>This is a personalized treatment that boosts the natural ability of the body’s immune T-cells to fight cancer. In this treatment, immune cells are taken from the tumor. Those that are most active against the cancer are selected or genetically modified in the lab to better attack your cancer cells, grown in large batches, and put back into the body through an injection.</p>
                     </div>
                 </div>
                 <div class="col-lg-5">
                     <div class="immtypes__img">
-                        <img src="./assets/img/immtype2.jpg" alt="imm">
+                        <img src="./assets/img/immtype2.png" alt="imm">
                     </div>
                 </div>
             </div>
@@ -129,8 +129,8 @@ include('header.php'); ?>
             <div class="row">
                 <div class="col-lg-7">
                     <div class="immtypes__content">
-                        <h5>Monoclonal antibodies</h5>
-                        <p>which are immune system proteins created in the lab that are designed to bind to specific targets on cancer cells. Some monoclonal antibodies mark cancer cells so that they will be better seen and destroyed by the immune system. Such monoclonal antibodies are a type of immunotherapy.</p>
+                        <h5>Monoclonal Antibodies</h5>
+                        <p>These are immune system proteins created in the lab that are designed to bind to specific targets on cancer cells. Some monoclonal antibodies mark cancer cells so that they will be better seen and destroyed by the immune system. Such monoclonal antibodies are a type of immunotherapy.</p>
                         <p>As a point of reference, the Pfizer and Modern COVID-19 vaccines are monoclonal antibodies for the coronavirus.</p>
                     </div>
                 </div>
@@ -145,8 +145,8 @@ include('header.php'); ?>
             <div class="row">
                 <div class="col-lg-7">
                     <div class="immtypes__content">
-                        <h5>Treatment vaccines</h5>
-                        <p>which work against cancer by boosting the immune system’s response to cancer cells. Treatment vaccines are different from the ones that help prevent disease.</p>
+                        <h5>Treatment Vaccines</h5>
+                        <p>These work against cancer by boosting the immune system’s response to cancer cells. Treatment vaccines are different from the ones that help prevent diseases.</p>
                     </div>
                 </div>
                 <div class="col-lg-5">
@@ -160,8 +160,8 @@ include('header.php'); ?>
             <div class="row">
                 <div class="col-lg-7">
                     <div class="immtypes__content">
-                        <h5>Immune system modulators</h5>
-                        <p>which enhance the body’s immune response against cancer. Some of these agents affect specific parts of the immune system, whereas others affect the immune system in a more general way</p>
+                        <h5>Immune System Modulators</h5>
+                        <p>These enhance the body’s immune response against cancer. Some of these agents affect specific parts of the immune system, whereas others affect the immune system in a more general way.</p>
                     </div>
                 </div>
                 <div class="col-lg-5">
