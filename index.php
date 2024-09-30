@@ -88,8 +88,8 @@ include('header.php'); ?>
                     </div>
                 </div>
                 <div class="col-lg-5">
-
-                    <div class="banner-video d-none d-lg-block">
+                    <h2 class="banner-video-head">Short Explainer Video</h2>
+                    <div class="banner-video banner-video-top d-none d-lg-block">
                         <div class="banner-thumbnail">
                             <img src="./assets/img/home-video-thumbnail.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail.jpg'); ?>" alt="thumbnail">
                         </div>
@@ -99,7 +99,7 @@ include('header.php'); ?>
                         </a>
                     </div>
 
-                    <div class="banner-video d-none d-lg-block" style="margin-top: 36px;">
+                    <div class="banner-video d-none d-lg-block">
                         <div class="banner-thumbnail">
                         <img src="./assets/img/home-video-thumbnail2.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail2.jpg'); ?>" alt="thumbnail">
                         </div>
