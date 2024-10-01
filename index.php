@@ -57,9 +57,19 @@ include('header.php'); ?>
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-7">
+                <h2 class="banner-video-head d-lg-none">Short Explainer Video</h2>
+                    <div class="banner-video banner-video-top d-lg-none">
+                        <div class="banner-thumbnail">
+                        <img src="./assets/img/home-video-thumbnail.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail.jpg'); ?>" alt="thumbnail">
+                        </div>
+                        <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="theme-btn text-uppercase popup-youtube">
+                            <i class="far fa-play-circle"></i>
+                            <span>Watch video</span>
+                        </a>
+                    </div>
                     <div class="banner-video d-lg-none">
                         <div class="banner-thumbnail">
-                            <img src="https://i.ytimg.com/vi/jfXTYVtlbFE/maxresdefault.jpg" alt="thumbnail">
+                        <img src="./assets/img/home-video-thumbnail2.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail2.jpg'); ?>" alt="thumbnail">
                         </div>
                         <a href="http://www.youtube.com/watch?v=jfXTYVtlbFE" class="theme-btn text-uppercase popup-youtube">
                             <i class="far fa-play-circle"></i>
@@ -79,16 +89,27 @@ include('header.php'); ?>
                     </div>
                 </div>
                 <div class="col-lg-5">
-                    
+                    <h2 class="banner-video-head d-none d-lg-block">Short Explainer Video</h2>
+                    <div class="banner-video banner-video-top d-none d-lg-block">
+                        <div class="banner-thumbnail">
+                            <img src="./assets/img/home-video-thumbnail.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail.jpg'); ?>" alt="thumbnail">
+                        </div>
+                        <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="theme-btn text-uppercase popup-youtube">
+                            <i class="far fa-play-circle"></i>
+                            <span>Watch video</span>
+                        </a>
+                    </div>
+
                     <div class="banner-video d-none d-lg-block">
                         <div class="banner-thumbnail">
-                            <img src="https://i.ytimg.com/vi/jfXTYVtlbFE/maxresdefault.jpg" alt="thumbnail">
+                        <img src="./assets/img/home-video-thumbnail2.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail2.jpg'); ?>" alt="thumbnail">
                         </div>
                         <a href="http://www.youtube.com/watch?v=jfXTYVtlbFE" class="theme-btn text-uppercase popup-youtube">
                             <i class="far fa-play-circle"></i>
                             <span>Watch video</span>
                         </a>
                     </div>
+
 
                     <div class="banner-announcement">
                         <h4>Breaking News</h4>

@@ -19,7 +19,7 @@
     margin-top: 88px;
 
     &-bg {
-      
+
         // height: 1080px;
         height: 800px;
         // padding-top: 88px;
@@ -172,6 +172,20 @@
                 background-color: #fff;
             }
         }
+
+        &-top {
+            margin-bottom: 36px;
+            border: 16px solid #1d8f97;
+            border-radius: 16px;
+        }
+
+        &-head {
+            color: #1d8f97;
+            font-size: 24px;
+            text-align: center;
+            margin-bottom: 16px;
+            font-weight: 600;
+        }
     }
 
     &.ubBanner {
@@ -202,6 +216,7 @@
         margin-top: 36px;
         text-align: center;
         border-radius: 16px;
+
         h4 {
             color: red;
             font-weight: 600;
@@ -814,6 +829,7 @@ body.modal-open {
 .abtinfo {
     padding: 80px 0 0;
     background: #fff;
+
     h2 {
         color: #000;
         font-size: 60px;
@@ -3343,13 +3359,15 @@ label.error {
 .journey {
     margin: 50px auto 0;
     max-width: 600px;
-    
+
     li {
         position: relative;
         padding-left: 26px;
-        & +li{
+
+        &+li {
             margin-top: 40px;
         }
+
         &::after {
             left: 0;
             background: #000;

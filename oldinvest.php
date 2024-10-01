@@ -16,8 +16,8 @@ include "header.php";
                         <div class="heroSection-content">
                             <h2>The CancerVax Way</h2>
                             <div class="video-section first-mobile">
-                                <a href="https://www.youtube.com/watch?v=jfXTYVtlbFE" class="popup-youtube">
-                                    <img src="https://i.ytimg.com/vi/jfXTYVtlbFE/maxresdefault.jpg" alt="hero" class="img-fluid">
+                                <a href="https://www.youtube.com/watch?v=PXBNJe3nHp0" class="popup-youtube">
+                                    <img src="https://i.ytimg.com/vi/PXBNJe3nHp0/maxresdefault.jpg" alt="hero" class="img-fluid">
                                     <i class="far fa-play-circle"></i>
                                 </a>
                             </div>
@@ -44,8 +44,8 @@ include "header.php";
                     </div>
                     <div class="col-lg-6 d-none d-lg-block">
                         <div class="video-section mt-4 mb-5">
-                            <a href="https://www.youtube.com/watch?v=jfXTYVtlbFE" class="popup-youtube">
-                                <img src="https://i.ytimg.com/vi/jfXTYVtlbFE/maxresdefault.jpg" alt="hero" class="img-fluid">
+                            <a href="https://www.youtube.com/watch?v=PXBNJe3nHp0" class="popup-youtube">
+                                <img src="https://i.ytimg.com/vi/PXBNJe3nHp0/maxresdefault.jpg" alt="hero" class="img-fluid">
                                 <i class="far fa-play-circle"></i>
                             </a>
                         </div>

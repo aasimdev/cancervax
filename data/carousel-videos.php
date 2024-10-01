@@ -1,6 +1,22 @@
 <?php
 $videos = [
     [
+        'title' => "September 30, 2024 - CancerVax News Commentary",
+        'videoID' => "6WyjwuLcVqw",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "september-30-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "September 16, 2024 - CancerVax News Commentary",
+        'videoID' => "P6i4UHCgrfM",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "september-16-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
         'title' => "August 19, 2024 - CancerVax News Commentary",
         'videoID' => "t38nUQeA450",
         'date' => "",
@@ -22,22 +38,6 @@ $videos = [
         'date' => "",
         'category' => "news-commentary",
         'slug' => "august-5-2024-cancervax-news-commentary",
-        'scope' => "public"
-    ],
-    [
-        'title' => "July 22, 2024 - CancerVax News Commentary",
-        'videoID' => "0L3KOd8Wd7Q",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "july-22-2024-cancervax-news-commentary",
-        'scope' => "public"
-    ],
-    [
-        'title' => "July 15, 2024 - CancerVax News Commentary",
-        'videoID' => "zzXmMuTzu4g",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "july-15-2024-cancervax-news-commentary",
         'scope' => "public"
     ],
 ];
