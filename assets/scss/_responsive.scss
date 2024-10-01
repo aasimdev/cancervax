@@ -129,9 +129,11 @@
     .banner-main {
         margin-top: 74px;
     }
+
     .heroSection {
         margin-top: 74px;
     }
+
     .nav-section {
         top: 136px;
     }
@@ -561,9 +563,11 @@
         top: -50px;
         position: relative;
     }
+
     .heroSection {
         margin-top: 27px;
     }
+
     .nav-section {
         top: 65px;
     }
@@ -885,9 +889,11 @@
         font-size: 24px;
         line-height: 1.5;
     }
-    .immtypes__heading h4{
+
+    .immtypes__heading h4 {
         margin: 0;
     }
+
     .immnewpyramid h4 {
         margin-bottom: 32px;
     }
@@ -1046,7 +1052,8 @@
         top: -0.5em;
     }
 
-    .banner-announcement {
+    .banner-announcement,
+    .banner-video-top {
         border: 10px solid #1d8f97;
         padding: 12px;
     }
@@ -1059,6 +1066,12 @@
         color: #070707;
         font-size: 15px;
         margin-top: 12px;
+    }
+    .banner-video-top{
+        margin-top: 0;
+    }
+    .banner-video-head {
+        font-size: 20px;
     }
 
     .invest-bar-text {
@@ -1195,9 +1208,11 @@
     .mobile-banner-content {
         box-shadow: 0px -3px 20px 11px rgba(255, 255, 255, 1);
     }
+
     .journey li+li {
         margin-top: 20px;
     }
+
     .heroSection {
         margin-top: 0;
     }

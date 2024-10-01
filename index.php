@@ -57,7 +57,8 @@ include('header.php'); ?>
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-7">
-                    <div class="banner-video d-lg-none">
+                <h2 class="banner-video-head d-lg-none">Short Explainer Video</h2>
+                    <div class="banner-video banner-video-top d-lg-none">
                         <div class="banner-thumbnail">
                         <img src="./assets/img/home-video-thumbnail.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail.jpg'); ?>" alt="thumbnail">
                         </div>
@@ -88,7 +89,7 @@ include('header.php'); ?>
                     </div>
                 </div>
                 <div class="col-lg-5">
-                    <h2 class="banner-video-head">Short Explainer Video</h2>
+                    <h2 class="banner-video-head d-none d-lg-block">Short Explainer Video</h2>
                     <div class="banner-video banner-video-top d-none d-lg-block">
                         <div class="banner-thumbnail">
                             <img src="./assets/img/home-video-thumbnail.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail.jpg'); ?>" alt="thumbnail">
