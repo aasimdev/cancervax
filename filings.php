@@ -1,5 +1,5 @@
 <?php
-$GLOBALS['title'] = "Fillings - CancerVax";
+$GLOBALS['title'] = "Filings - CancerVax";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 include('header.php'); ?>
