@@ -17,7 +17,7 @@ include "header.php";
                             <h2>The CancerVax Way</h2>
                             <div class="video-section first-mobile">
                             <h3 class="banner-video-head">Short Explainer Video</h3>
-                                <div class="banner-video-top m-0">
+                                <div class="banner-video-top m-0 position-relative">
                                 <a href="https://www.youtube.com/watch?v=PXBNJe3nHp0" class="popup-youtube">
                                     <img src="https://i.ytimg.com/vi/PXBNJe3nHp0/maxresdefault.jpg" alt="hero" class="img-fluid">
                                     <i class="far fa-play-circle"></i>
@@ -50,7 +50,7 @@ include "header.php";
 
                         <div class="video-section mt-4 mb-5">
                             <h3 class="banner-video-head">Short Explainer Video</h3>
-                            <div class="banner-video-top m-0">
+                            <div class="banner-video-top m-0 position-relative">
                             <a href="https://www.youtube.com/watch?v=PXBNJe3nHp0" class="popup-youtube">
                                 <img src="https://i.ytimg.com/vi/PXBNJe3nHp0/maxresdefault.jpg" alt="hero" class="img-fluid">
                                 <i class="far fa-play-circle"></i>
