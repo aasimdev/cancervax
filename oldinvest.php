@@ -424,7 +424,7 @@ include "header.php";
                                     <div class="col-6">
                                         <div class="term-blo d-flex flex-column">
                                             <div class="offer-title">OFFERING CIRCULAR</div>
-                                            <a href="https://cancervax.com/2024oc" target="_blank" class="offer-price last-offer mb-0">See on SEC.gov</a>
+                                            <a href="/filings" class="offer-price last-offer mb-0">See on Click Here</a>
                                         </div>
                                     </div>
                                     <div class="col-6">
@@ -520,7 +520,7 @@ include "header.php";
 
                             <p>THIS REG A INVESTMENT IS SPECULATIVE, ILLIQUID, AND INVOLVES A HIGH DEGREE OF RISK, INCLUDING THE POSSIBLE LOSS OF YOUR ENTIRE INVESTMENT. ALL INVESTORS SHOULD MAKE THEIR OWN DETERMINATION, WITH THE ASSISTANCE OF THEIR OWN FINANCIAL OR OTHER ADVISORS, AS TO WHETHER OR NOT TO MAKE ANY INVESTMENT, BASED ON THEIR OWN INDEPENDENT EVALUATION, ANALYSIS AND CIRCUMSTANCES.</p>
 
-                            <p> AN OFFERING STATEMENT REGARDING THIS OFFERING HAS BEEN FILED WITH THE SEC. THE SEC HAS QUALIFIED THAT OFFERING STATEMENT, WHICH ONLY MEANS THAT THE COMPANY MAY MAKE SALES OF THE SECURITIES DESCRIBED BY THE OFFERING STATEMENT. IT DOES NOT MEAN THAT THE SEC HAS APPROVED, PASSED UPON THE MERITS OR PASSED UPON THE ACCURACY OR COMPLETENESS OF THE INFORMATION IN THE OFFERING STATEMENT. THE OFFERING CIRCULAR THAT IS PART OF THAT OFFERING STATEMENT IS AT: <a href="https://cancervax.com/2024oc" target="_blank">sec.gov</a></p>
+                            <p> AN OFFERING STATEMENT REGARDING THIS OFFERING HAS BEEN FILED WITH THE SEC. THE SEC HAS QUALIFIED THAT OFFERING STATEMENT, WHICH ONLY MEANS THAT THE COMPANY MAY MAKE SALES OF THE SECURITIES DESCRIBED BY THE OFFERING STATEMENT. IT DOES NOT MEAN THAT THE SEC HAS APPROVED, PASSED UPON THE MERITS OR PASSED UPON THE ACCURACY OR COMPLETENESS OF THE INFORMATION IN THE OFFERING STATEMENT. THE OFFERING CIRCULAR THAT IS PART OF THAT OFFERING STATEMENT IS AT: <a href="/filings">Click Here</a></p>
                         </div>
 
                     </div>
@@ -552,7 +552,7 @@ include "header.php";
                                         $525.00 </div>
                                     <div class="cardPrice">
                                         OFFERING CIRCULAR </div>
-                                    <a href="https://cancervax.com/2024oc" target="_blank" class="cardActualBottom">See on SEC.gov</a>
+                                    <a href="/filings" class="cardActualBottom">See on Click Here</a>
                                 </div>
                             </div>
                             <div class="brokerCard">BROKER DEALER
