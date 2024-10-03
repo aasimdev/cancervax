@@ -16,10 +16,14 @@ include "header.php";
                         <div class="heroSection-content">
                             <h2>The CancerVax Way</h2>
                             <div class="video-section first-mobile">
+                            <h3 class="banner-video-head">Short Explainer Video</h3>
+                                <div class="banner-video-top m-0">
                                 <a href="https://www.youtube.com/watch?v=PXBNJe3nHp0" class="popup-youtube">
                                     <img src="https://i.ytimg.com/vi/PXBNJe3nHp0/maxresdefault.jpg" alt="hero" class="img-fluid">
                                     <i class="far fa-play-circle"></i>
                                 </a>
+                                </div>
+                              
                             </div>
                             <div class="video-section first-mobile">
                                 <a href="https://www.youtube.com/watch?v=jfXTYVtlbFE" class="popup-youtube">
@@ -43,11 +47,16 @@ include "header.php";
                         </div>
                     </div>
                     <div class="col-lg-6 d-none d-lg-block">
+
                         <div class="video-section mt-4 mb-5">
+                            <h3 class="banner-video-head">Short Explainer Video</h3>
+                            <div class="banner-video-top m-0">
                             <a href="https://www.youtube.com/watch?v=PXBNJe3nHp0" class="popup-youtube">
                                 <img src="https://i.ytimg.com/vi/PXBNJe3nHp0/maxresdefault.jpg" alt="hero" class="img-fluid">
                                 <i class="far fa-play-circle"></i>
                             </a>
+                            </div>
+                           
                         </div>
                         <div class="video-section">
                             <a href="https://www.youtube.com/watch?v=jfXTYVtlbFE" class="popup-youtube">
@@ -109,9 +118,9 @@ include "header.php";
                                 <h3>Reasons to Invest</h3>
 
                                 <div class="investReasons">
-                                 
 
-                                <div class="wrapInvest">
+
+                                    <div class="wrapInvest">
                                         <div class="reasonNumber">1</div>
                                         <p>According to the American Cancer Society, <strong>cancer was the second leading cause of death in the United States in 2023<sup>(1)</sup>,</strong> According to Fortune Business Insights, the global cancer drugs market is projected to grow from $205 billion in 2023 to $484 billion by 2030 <sup>(2)</sup>. </p>
                                     </div>
@@ -204,7 +213,7 @@ include "header.php";
                             <h3>Our Scientific Team
                             </h3>
                             <div class="row justify-content-center mt-4">
-                            <div class="col-md-6">
+                                <div class="col-md-6">
                                     <div class="team-box">
                                         <div class="team-box-img">
                                             <a href="#">
@@ -255,7 +264,7 @@ include "header.php";
                                     </div>
                                 </div>
 
-                            
+
                             </div>
                         </div>
 
