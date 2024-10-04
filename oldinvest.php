@@ -424,7 +424,7 @@ include "header.php";
                                     <div class="col-6">
                                         <div class="term-blo d-flex flex-column">
                                             <div class="offer-title">OFFERING CIRCULAR</div>
-                                            <a href="/filings" class="offer-price last-offer mb-0">See on Click Here</a>
+                                            <a href="/filings" class="offer-price last-offer mb-0">Click Here</a>
                                         </div>
                                     </div>
                                     <div class="col-6">
@@ -552,7 +552,7 @@ include "header.php";
                                         $525.00 </div>
                                     <div class="cardPrice">
                                         OFFERING CIRCULAR </div>
-                                    <a href="/filings" class="cardActualBottom">See on Click Here</a>
+                                    <a href="/filings" class="cardActualBottom">Click Here</a>
                                 </div>
                             </div>
                             <div class="brokerCard">BROKER DEALER
