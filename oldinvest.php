@@ -585,9 +585,11 @@ include "header.php";
                         </div>
                     </div>
                     <div class="col-lg-5">
-                        <div class="email-input">
-                            <input type="text" name="name" placeholder="Enter your email" class="form-control"> <button>Subscribe</button>
-                        </div>
+                        <form action="https://submit.jotform.com/submit/242775392698071/" method="POST" class="email-input">
+                            <input type="hidden" name="formID" value="242775392698071" />
+                            <input type="email" id="input_3" name="q3_email" class="form-control" placeholder="Enter your email">
+                            <button type="submit">Subscribe</button>
+                        </form>
                         <div class="we-care">We care about your data in our privacy policy</div>
                     </div>
                 </div>

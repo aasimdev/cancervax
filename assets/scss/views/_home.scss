@@ -379,8 +379,8 @@
     }
 
     .form-control {
-        background-color: #091114;
-        color: #fff;
+        background-color: #f1f1f1;
+        color: #000;
         font-size: 17px;
         border-radius: 30px;
         height: 60px;
@@ -388,7 +388,7 @@
         padding: 0 1.75em;
 
         &::placeholder {
-            color: #fff;
+            color: #000;
         }
     }
 
