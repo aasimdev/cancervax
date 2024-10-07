@@ -32,6 +32,18 @@ include('header.php'); ?>
                     <li>Our unique technology disguises cancer cells to look like measles and “tricks” the body into killing them.</li>
                 </ul>
             </div>
+            <div class="banner-main-video">
+                <h2 class="banner-video-head d-none d-xl-block">Short Explainer Video</h2>
+                <div class="banner-video banner-video-top d-none d-xl-block">
+                    <div class="banner-thumbnail">
+                        <img src="./assets/img/home-video-thumbnail.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail.jpg'); ?>" alt="thumbnail">
+                    </div>
+                    <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="theme-btn text-uppercase popup-youtube">
+                        <i class="far fa-play-circle"></i>
+                        <span>Watch video</span>
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -55,12 +67,12 @@ include('header.php'); ?>
 <section class="banner">
     <div class="banner__content">
         <div class="container">
-            <div class="row align-items-center">
+            <div class="row">
                 <div class="col-lg-7">
-                <h2 class="banner-video-head d-lg-none">Short Explainer Video</h2>
+                    <h2 class="banner-video-head d-lg-none">Short Explainer Video</h2>
                     <div class="banner-video banner-video-top d-lg-none">
                         <div class="banner-thumbnail">
-                        <img src="./assets/img/home-video-thumbnail.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail.jpg'); ?>" alt="thumbnail">
+                            <img src="./assets/img/home-video-thumbnail.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail.jpg'); ?>" alt="thumbnail">
                         </div>
                         <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="theme-btn text-uppercase popup-youtube">
                             <i class="far fa-play-circle"></i>
@@ -69,7 +81,7 @@ include('header.php'); ?>
                     </div>
                     <div class="banner-video d-lg-none">
                         <div class="banner-thumbnail">
-                        <img src="./assets/img/home-video-thumbnail2.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail2.jpg'); ?>" alt="thumbnail">
+                            <img src="./assets/img/home-video-thumbnail2.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail2.jpg'); ?>" alt="thumbnail">
                         </div>
                         <a href="http://www.youtube.com/watch?v=jfXTYVtlbFE" class="theme-btn text-uppercase popup-youtube">
                             <i class="far fa-play-circle"></i>
@@ -89,20 +101,20 @@ include('header.php'); ?>
                     </div>
                 </div>
                 <div class="col-lg-5">
-                    <h2 class="banner-video-head d-none d-lg-block">Short Explainer Video</h2>
-                    <div class="banner-video banner-video-top d-none d-lg-block">
-                        <div class="banner-thumbnail">
-                            <img src="./assets/img/home-video-thumbnail.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail.jpg'); ?>" alt="thumbnail">
-                        </div>
-                        <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="theme-btn text-uppercase popup-youtube">
-                            <i class="far fa-play-circle"></i>
-                            <span>Watch video</span>
-                        </a>
+                <h2 class="banner-video-head d-none d-lg-block d-xl-none">Short Explainer Video</h2>
+                <div class="banner-video banner-video-top d-none d-lg-block d-xl-none">
+                    <div class="banner-thumbnail">
+                        <img src="./assets/img/home-video-thumbnail.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail.jpg'); ?>" alt="thumbnail">
                     </div>
+                    <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="theme-btn text-uppercase popup-youtube">
+                        <i class="far fa-play-circle"></i>
+                        <span>Watch video</span>
+                    </a>
+                </div>
 
                     <div class="banner-video d-none d-lg-block">
                         <div class="banner-thumbnail">
-                        <img src="./assets/img/home-video-thumbnail2.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail2.jpg'); ?>" alt="thumbnail">
+                            <img src="./assets/img/home-video-thumbnail2.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail2.jpg'); ?>" alt="thumbnail">
                         </div>
                         <a href="http://www.youtube.com/watch?v=jfXTYVtlbFE" class="theme-btn text-uppercase popup-youtube">
                             <i class="far fa-play-circle"></i>
@@ -209,13 +221,14 @@ include('header.php'); ?>
         <div class="newsletter-wrap">
             <h2>SUBSCRIBE</h2>
             <p>Keep up with our progress by subscribing to our email newsletter!</p>
-            <!-- <form action="./php/subscriber.php" method="POST" id="subscriber-form">
-                <input type="email" name="email" id="email" class="form-control" placeholder="Your email address...">
+            <form action="https://submit.jotform.com/submit/242775392698071/" method="POST">
+                <input type="hidden" name="formID" value="242775392698071" />
+                <input type="email" id="input_3" name="q3_email" class="form-control" placeholder="Your email address...">
                 <button type="submit">Subscribe</button>
-            </form> -->
-            <div id="icontactSignupFormWrapper956">
+            </form>
+            <!-- <div id="icontactSignupFormWrapper956">
                 <script type="text/javascript" async src="https://app.icontact.com/icp/core/mycontacts/signup/designer/form/automatic?id=956&cid=1868283&lid=5400&divid=icontactSignupFormWrapper956"></script>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
