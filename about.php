@@ -7,7 +7,7 @@ include('header.php'); ?>
 <section class="abtBanner">
     <div class="container">
         <div class="abtBanner-text">
-            <h1>CancerVax is a pre-clinical biotech company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells look like well immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We have also created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to fight cancer. </h1>
+            <h1>CancerVax is a pre-clinical biotech company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells look like well-immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We have also created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to fight cancer. </h1>
         </div>
     </div>
 </section>
@@ -56,7 +56,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="coreTeam-head">
             <h3>CancerVax Team</h3>
-            <p>CancerVax is led by an experienced team of biotech experts, cancer researchers and marketing executives, who are working with development partners to create its innovative Universal Cancer Treatment Platform.
+            <p>CancerVax is led by an experienced team of biotech experts, cancer researchers, and marketing executives who are working with development partners to create its innovative Universal Cancer Treatment Platform.
             </p>
         </div>
 

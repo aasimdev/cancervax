@@ -19,7 +19,7 @@ include('header.php'); ?>
             <p>The American Cancer Society estimates that 1.95 million new cases of cancer were diagnosed and that 609,820 cancer deaths occurred in the United States in 2023. 
  
             </p>
-            <p>Conventional cancer treatment methods such as surgery, chemotherapy and radiation therapy often have limited efficacy and serious side effects. The “war on cancer” continues.
+            <p>Conventional cancer treatment methods such as surgery, chemotherapy, and radiation therapy often have limited efficacy and serious side effects. The “war on cancer” continues.
 
             </p>
             <p>According to a 2024 report from Statista, the global cancer immunotherapy market will grow from $83 billion in 2023 to $231 billion by 2031.
@@ -35,12 +35,12 @@ include('header.php'); ?>
             <div class="col-xl-7">
                 <div class="mcontent-text">
                     <p>
-                        Cancer immunotherapy, also known as cancer treatment vaccine, has emerged as a very promising next generation treatment. Immunotherapy utilizes the body’s own immune system to fight cancer, usually with milder side effects and more targeted than chemotherapy. 
+                        Cancer immunotherapy, also known as cancer treatment vaccine, has emerged as a very promising next-generation treatment. Immunotherapy utilizes the body’s own immune system to fight cancer, usually with milder side effects and more targeted than chemotherapy. 
                        </p>
                     <h5>The rapid growth of the immunotherapy market can be attributed to three primary factors:</h5>
                     <ul class="theme-check-list">
-                        <li>Rising cancer incidence, worldwide </li>
-                        <li> Increased awareness about immunotherapy treatment options beyond traditional chemotherapy, radiation and surgery</li>
+                        <li>Rising cancer incidence worldwide </li>
+                        <li> Increased awareness about immunotherapy treatment options beyond traditional chemotherapy, radiation, and surgery</li>
                         <li>Increasing patient and physician interest in newly invented advanced treatments</li>
                     </ul>
                 </div>
