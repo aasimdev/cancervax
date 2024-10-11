@@ -294,32 +294,32 @@ include('header.php'); ?>
                 <div class="news-item">
                     <a href="cancervax-taps-flashpoint-therapeutics-nanotechnology-platform-to-drive-universal-cancer-treatment.php"></a>
                     <span> August 29, 2024</span>
-                    <h3>CancerVax Taps Flashpoint Therapeutics’ Nanotechnology Platform to Drive Universal Cancer Treatment </h3>
-                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has entered into a research agreement with Flashpoint Therapeutics to perform research on its newly patent-pending Universal Cancer Treatment platform. </p>
+                    <h3>Cancervax Taps Flashpoint Therapeutics’ Nanotechnology Platform to Drive Universal Cancer Treatment </h3>
+                    <p> Cancervax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has entered into a research agreement with Flashpoint Therapeutics to perform research on its newly patent-pending Universal Cancer Treatment platform. </p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php"></a>
                     <span> August 27, 2024</span>
-                    <h3>CancerVax Files New Patent for Its Novel Universal Cancer Treatment Platform </h3>
-                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has recently filed a new patent application which includes a Smart mRNA Technology. mRNA, short for messenger RNA, is the underlying technology that made the COVID-19 vaccine so effective and inexpensive. </p>
+                    <h3>Cancervax Files New Patent for Its Novel Universal Cancer Treatment Platform </h3>
+                    <p> Cancervax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has recently filed a new patent application which includes a Smart mRNA Technology. mRNA, short for messenger RNA, is the underlying technology that made the COVID-19 vaccine so effective and inexpensive. </p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-adds-key-members-to-its-research-team.php"></a>
                     <span> August 1, 2024</span>
-                    <h3>CancerVax Adds Key Members to Its Research Team </h3>
-                    <p> CancerVax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that the Company has added two key members to its cancer research team. Dr. Jonathan Lakey will serve as Chief Scientific Advisor and Dr. Adam Grant will serve as Principal Scientist. </p>
+                    <h3>Cancervax Adds Key Members to Its Research Team </h3>
+                    <p> Cancervax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that the Company has added two key members to its cancer research team. Dr. Jonathan Lakey will serve as Chief Scientific Advisor and Dr. Adam Grant will serve as Principal Scientist. </p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-successfully-uses-nobel-prize-chemistry-to-achieve-universal-cancer-vaccine-targeting-milestone.php"></a>
                     <span> May 21, 2024</span>
-                    <h3>CancerVax Successfully Uses Nobel Prize Chemistry to Achieve Universal Cancer Treatment Targeting Milestone </h3>
-                    <p> CancerVax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has achieved a critical milestone by creating a process to add any antibody to lipid nanoparticles (LNP) using “click chemistry,” for targeting cancer cells. </p>
+                    <h3>Cancervax Successfully Uses Nobel Prize Chemistry to Achieve Universal Cancer Treatment Targeting Milestone </h3>
+                    <p> Cancervax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has achieved a critical milestone by creating a process to add any antibody to lipid nanoparticles (LNP) using “click chemistry,” for targeting cancer cells. </p>
                 </div>
             </div>
 
