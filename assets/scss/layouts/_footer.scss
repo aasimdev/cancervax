@@ -26,7 +26,10 @@
         }
 
         &.no-head {
-            margin-top: 42px;
+            @media (max-width: 576px) {
+                margin-top: 42px;
+            }
+          
         }
     }
 
@@ -70,6 +73,14 @@
             margin-bottom: 0;
             color: #000;
             text-align: right;
+        }
+    }
+    &-linkhead {
+        border-bottom: 1px solid #000;
+        margin-bottom: 16px;
+        padding-bottom: 16px;
+        h6{
+            margin-bottom: 0;
         }
     }
 }
