@@ -81,7 +81,7 @@ include "header.php";
                             <a class="nav-link" href="#terms">Terms</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/news">Updates</a>
+                            <a class="nav-link" href="/news" target="_blank">Updates</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#bonus-shares">Bonus Shares</a>

@@ -12,9 +12,9 @@ include('header.php'); ?>
 
 <section class="faqs">
     <div class="container">
-        <div class="faqs-btn">
+        <!-- <div class="faqs-btn">
             <button class="theme-btn" type="button" data-bs-toggle="modal" data-bs-target="#investors-message">Important Message to <br> StartEngine Investors</button>
-        </div>
+        </div> -->
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <h2>CancerVax, Inc Investment Portal FAQ</h2>
