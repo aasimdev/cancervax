@@ -22,7 +22,7 @@ include('header.php'); ?>
 
         <h3>About Us</h3>
 
-        <p>Cancervax, Inc. is a pre-clinical biotechnology company creating a better way to treat cancer. Working with a team of world class cancer researchers and practicing oncologists at UCLA, we are developing a breakthrough Universal Cancer Treatment platform that will leverage the body’s immune system to detect, mark, and destroy only cancer cells. We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. To learn more, please visit <a href="www.CancerVax.com" target="_blank" rel="noopener noreferrer">www.CancerVax.com</a> </p>
+        <p>Cancervax, Inc. is a pre-clinical biotechnology company creating a better way to treat cancer. Working with a team of world class cancer researchers and practicing oncologists at UCLA, we are developing a breakthrough Universal Cancer Treatment platform that will leverage the body’s immune system to detect, mark, and destroy only cancer cells. We have created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. To learn more, please visit <a href="www.cancervax.com" target="_blank" rel="noopener noreferrer">www.cancervax.com</a> </p>
 
         <h3>Forward-Looking Statements </h3>
 

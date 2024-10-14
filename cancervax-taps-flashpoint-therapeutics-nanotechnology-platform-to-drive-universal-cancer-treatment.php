@@ -10,7 +10,7 @@ include('header.php'); ?>
             <h1>Cancervax Taps Flashpoint Therapeutics’ Nanotechnology Platform to Drive Universal Cancer Treatment </h1>
         </div>
 
-        <h3>Research Agreement Leverages Structural Nanomedicine to Develop CancerVax’s Advanced Cancer Therapies</h3>
+        <h3>Research Agreement Leverages Structural Nanomedicine to Develop Cancervax’s Advanced Cancer Therapies</h3>
         <p>Santa Barbara, CA, August 29, 2024 (GLOBE NEWSWIRE) -- Cancervax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has entered into a research agreement with Flashpoint Therapeutics to perform research on its newly patent-pending Universal Cancer Treatment platform. </p>
 
         <p>"We are very excited about this opportunity to work with the world-class research team at Flashpoint Therapeutics,” said Byron Elton, Cancervax CEO. “Flashpoint’s researchers and its proprietary technology will help us continue to develop our Universal Cancer Treatment platform.” </p>
@@ -22,7 +22,7 @@ include('header.php'); ?>
 
         <h3>About Cancervax</h3>
 
-        <p>Cancervax, Inc. is a pre-clinical biotechnology company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells “look” like well immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We have also created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. To learn more, please visit <a href="www.CancerVax.com" target="_blank" rel="noopener noreferrer">www.CancerVax.com</a> </p>
+        <p>Cancervax, Inc. is a pre-clinical biotechnology company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells “look” like well immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We have also created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. To learn more, please visit <a href="www.cancervax.com" target="_blank" rel="noopener noreferrer">www.cancervax.com</a> </p>
 
         <h3>About Flashpoint</h3>
 
