@@ -41,7 +41,7 @@ include('header.php'); ?>
                         <div id="faq2" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
                                 <p>The more you invest, the more Bonus Shares you get, which effectively gives you a discount on $2.10 offering price. The number of Bonus Shares you get is based on your total investment in this entire offering. We will calculate Bonus Shares and issue them every time you increase your investment until the offering is closed. <br> <br>
-                                    To learn more about the different tiers of Bonus Shares, <a href="oldinvest.php#bonus-shares">click here</a>. <br><br>
+                                    To learn more about the different tiers of Bonus Shares, <a href="regainvest.php#bonus-shares">click here</a>. <br><br>
                                     Please note that the online investment forms do not automatically calculate Bonus Shares. We will calculate and issue your Bonus Shares after your online investment is complete.
                                 </p>
                             </div>
