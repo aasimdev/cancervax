@@ -973,7 +973,6 @@ body.modal-open {
             img {
                 width: auto;
                 height: auto;
-                border-radius: 0;
             }
         }
     }
@@ -995,6 +994,15 @@ body.modal-open {
         }
     }
 
+    &.regainest-team{
+        .team-box{
+            margin-bottom: 24px;
+        }
+        .team-box-img img{
+            width: 307px;
+            height: 325px;
+        }
+    }
 }
 
 
