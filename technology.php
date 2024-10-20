@@ -94,18 +94,6 @@ include('header.php'); ?>
             <li>2 patent applications</li>
         </ul>
 
-        <div class="post-title mt-5">
-            <h1>Ewing Sarcoma​</h1>
-        </div>
-        <ul class="theme-list pb-5">
-            <li>Working with UCLA, we developed a promising drug
-                candidate for treating Ewing Sarcoma - a deadly
-                children’s cancer.​ </li>
-            <li> It has been demonstrated in lab tests to kill Ewing
-                Sarcoma cells with good efficiency.</li>
-            <li> We have an exclusive right to license this drug from
-                UCLA and commercialize it.</li>
-        </ul>
     </div>
 </section>
 
