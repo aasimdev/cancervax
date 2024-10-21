@@ -1,4 +1,9 @@
 <?php
+
+include 'CacheControl.php'; 
+
+CacheControl::preventCaching();
+
 $GLOBALS["title"] = "Investors - CancerVax";
 $GLOBALS["desc"] = "";
 $GLOBALS["keywords"] = "";

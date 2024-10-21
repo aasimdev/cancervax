@@ -1,4 +1,8 @@
 <?php
+include 'CacheControl.php'; 
+
+CacheControl::preventCaching();
+
 $GLOBALS['title'] = "About - CancerVax";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
@@ -117,6 +121,7 @@ include('header.php'); ?>
                 </div>
             </div>
         </div>
+
         <div class="row justify-content-center mt-4">
             <div class="col-md-6 col-xl-3">
                 <div class="team-box">
@@ -214,97 +219,6 @@ include('header.php'); ?>
     <div class="container">
         <h3 style="text-align:center;margin-bottom:35px;">The UCLA Research Team</h3>
         <div class="row justify-content-center">
-            <!-- <div class="col-md-6 col-xl-4">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/john.png" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                        Steven J. Jonas, MD/PhD
-                    </h5>
-                    <p>
-                        Principal Investigator
-                    </p>
-                    <div class="team-description">
-                        <p>Dr. Jonas is a UCLA physician-scientist specializing in pediatric hematology/oncology. He received a bachelor’s degree in materials science & engineering and a master’s degree in biomedical engineering prior to starting his medical training to pursue his M.D. and Ph.D. degrees at UCLA through its NIH-supported Medical Scientist Training Program. He leads a multidisciplinary research team that targets the development and application of new nanotechnologies and methods to support the childhood cancer and regenerative medicine communities in accelerating the discovery of innovative gene therapy approaches.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/satiro.jpg" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                        Satiro De Oliveira, MD
-                    </h5>
-                    <p>
-                        Principal Investigator
-                    </p>
-                
-                    <div class="team-description">
-                        <p>Dr. De Oliveira is a board-certified pediatrician and board-certified pediatric hematology/oncologist. He received his medical degree in Brazil and completed his pediatric residency at Woodhull Medical and Mental Health Center in New York and his pediatric hematology/oncology fellowship at the Children’s Hospital Los Angeles. His clinical focus is on pediatric oncology and gene therapies and his research focus is on cancer immunotherapy and biology of stem cell transplantation.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/seet.jpg" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                        Chistopher Seet, MD/PHD
-                    </h5>
-                    <p>
-                        Principal Investigator
-                    </p>
-                    <div class="team-description">
-                        <p>Dr. Seet is a hematologist and oncologist subspecializing in the treatment of hematologic malignancies, including hematopoietic stem cell transplantation, cellular therapy and clinical trials of novel therapeutics. He received a undergraduate degree in Biological Science at the University of Chicago, a medical degree at the University of Sydney, Australia and PhD in Cellular and Molecular Pathology at UCLA. His research focuses on human T cell and dendritic cell tumor immunology, and the development of engineered stem cell-based approaches to cancer therapy.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/noah.jpg" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                        Noah Federman, MD
-                    </h5>
-                    <p>
-                        Principal Investigator
-                    </p>
-                    <div class="team-description">
-                        <p>Dr. Federman is the Director of the Pediatric Bone and Soft Tissue Sarcoma Program at UCLA. He specializes in treating children, adolescents and young adults with these aggressive cancers. He runs a multidisciplinary program involving pediatric and medical oncologists, radiation oncologists, orthopedic oncology surgeons, musculoskeletal radiologists and pathologists, nuclear medicine specialists, physical therapists and prosthetic specialists. He received a medical degree from the Icahn School of Medicine at Mount Sinai and completed his residency and fellowship at UCLA.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/christopher.jpg" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                        Christopher Denny, MD
-                    </h5>
-                    <p>
-                        Project Advisor
-                    </p>
-                    <div class="team-description">
-                        <p>Dr. Denny has served as a physician at UCLA for over 3 decades primarily focused on pediatric oncology. He has trained and mentored some of UCLA’s best and brightest scientists and doctors in the field. Dr. Denny received a bachelor’s degree from University of Pennsylvania and a medical degree from the University of Pennsylvania School of Medicine. He completed his residency at the Children’s National Medical Center and fellowship at the National Institutes of Health Clinical Center. Most of Dr. Denny’s academic success has come through applying basic molecular biology tools to seek molecular mechanisms for what he witnesses when treating pediatric hematology/oncology patients.</p>
-                    </div>
-                </div>
-            </div> -->
             <div class="col-md-6 col-xl-4">
                 <div class="abtcounter">
                     <div class="cancervax-counter">
