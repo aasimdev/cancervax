@@ -155,7 +155,7 @@ include('header.php'); ?>
                         </a>
                     </div>
                     <h5>
-                        Matthew Spear, <span>PhD</span>
+                        Matthew Spear, <span>MD</span>
                     </h5>
                     <p>
                         Scientific Advisor
