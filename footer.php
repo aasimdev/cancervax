@@ -67,16 +67,16 @@ if ($page_name !== "prep.php") {
                                         <h6 class="d-sm-none">COMPANY</h6>
                                         <ul class="links">
                                             <li>
-                                                <a href="/about">About Us</a>
+                                                <a href="/about?nocache=<?php echo time(); ?>">About Us</a>
                                             </li>
                                             <li>
-                                                <a href="/progress">Progress</a>
+                                                <a href="/progress?nocache=<?php echo time(); ?>">Progress</a>
                                             </li>
                                             <li>
-                                                <a href="/market">Market</a>
+                                                <a href="/market?nocache=<?php echo time(); ?>">Market</a>
                                             </li>
                                             <li>
-                                                <a href="/news">Newsroom</a>
+                                                <a href="/news?nocache=<?php echo time(); ?>">Newsroom</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -85,19 +85,19 @@ if ($page_name !== "prep.php") {
                                     <div class="footer-link">
                                         <ul class="links no-head">
                                             <li>
-                                                <a href="/videos">Videos</a>
+                                                <a href="/videos?nocache=<?php echo time(); ?>">Videos</a>
                                             </li>
                                             <li>
-                                                <a href="/invest">Investors</a>
+                                                <a href="/invest?nocache=<?php echo time(); ?>">Investors</a>
                                             </li>
                                             <li>
-                                                <a href="/contact">Contact</a>
+                                                <a href="/contact?nocache=<?php echo time(); ?>">Contact</a>
                                             </li>
                                             <li>
-                                                <a href="/privacy-policy">Privacy Policy</a>
+                                                <a href="/privacy-policy?nocache=<?php echo time(); ?>">Privacy Policy</a>
                                             </li>
                                             <li>
-                                                <a href="/terms-of-use">Terms of Use</a>
+                                                <a href="/terms-of-use?nocache=<?php echo time(); ?>">Terms of Use</a>
                                             </li>
                                         </ul>
                                     </div>
