@@ -1,4 +1,7 @@
 <?php
+ini_set('session.cache_limiter', 'nocache');
+session_cache_limiter('nocache');
+
 include 'CacheControl.php'; 
 
 CacheControl::preventCaching();
