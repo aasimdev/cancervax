@@ -116,7 +116,6 @@ include('header.php'); ?>
                     </div>
                 </div>
             </div>
-
         </div>
         <div class="row justify-content-center mt-4">
             <div class="col-md-6 col-xl-3">

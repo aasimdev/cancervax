@@ -253,19 +253,19 @@ include "header.php";
                                             Chief Scientific Advisor
                                         </p>
                                         <div class="team-description">
-                                        <ul class="theme-list pb-4 px-4">
-                            <li>An inventor of the famous “Edmonton Protocol” for treating Type 1 diabetes</li>
-                            <li> Extensive experience in the fields of oncology, stem cells, and organ transplantation</li>
-                            <li>Currently Professor Emeritus at University of California, Irvine.</li>
-                            <li>Formerly Postdoctoral Fellow, Cryobiology Research Institute Indiana University Indianapolis
-                                Formerly Postdoctoral Fellow, Clinical tissue banking University of Washington</li>
-                            <li>Formerly Postdoctoral Fellow, Tissue banking/cryopreservation University of Alberta</li>
-                            <li>Published over 495 scientific papers, 45 books, and over 500 scientific abstracts</li>
-                            <li>Advisor to many biotech companies</li>
-                            <li>Received his BS in Zoology/Animal Biology from University of Alberta</li>
-                            <li>Received his MS in Zoology/Animal Biology from University of Alberta</li>
-                            <li>Received his PhD of Islet transplantation, diabetes, and medical devices from University of Alberta</li>
-                        </ul>
+                                            <ul class="theme-list pb-4 px-4">
+                                                <li>An inventor of the famous “Edmonton Protocol” for treating Type 1 diabetes</li>
+                                                <li> Extensive experience in the fields of oncology, stem cells, and organ transplantation</li>
+                                                <li>Currently Professor Emeritus at University of California, Irvine.</li>
+                                                <li>Formerly Postdoctoral Fellow, Cryobiology Research Institute Indiana University Indianapolis
+                                                    Formerly Postdoctoral Fellow, Clinical tissue banking University of Washington</li>
+                                                <li>Formerly Postdoctoral Fellow, Tissue banking/cryopreservation University of Alberta</li>
+                                                <li>Published over 495 scientific papers, 45 books, and over 500 scientific abstracts</li>
+                                                <li>Advisor to many biotech companies</li>
+                                                <li>Received his BS in Zoology/Animal Biology from University of Alberta</li>
+                                                <li>Received his MS in Zoology/Animal Biology from University of Alberta</li>
+                                                <li>Received his PhD of Islet transplantation, diabetes, and medical devices from University of Alberta</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
