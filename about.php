@@ -55,9 +55,7 @@ include('header.php'); ?>
 <section class="coreTeam">
     <div class="container">
         <div class="coreTeam-head">
-            <h3>CancerVax Team</h3>
-            <p>CancerVax is led by an experienced team of biotech experts, cancer researchers, and marketing executives who are working with development partners to create its innovative Universal Cancer Treatment Platform.
-            </p>
+            <h3>Our Extraordinary Scientific Team</h3>
         </div>
 
         <div class="row justify-content-center">
@@ -120,7 +118,7 @@ include('header.php'); ?>
             </div>
 
         </div>
-        <div class="row justify-content-center my-4">
+        <div class="row justify-content-center mt-4">
             <div class="col-md-6 col-xl-3">
                 <div class="team-box">
                     <div class="team-box-img">
@@ -208,57 +206,7 @@ include('header.php'); ?>
             </div>
 
         </div>
-        <div class="row justify-content-center">
-            <div class="col-md-6 col-xl-3">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/byron-cvax.png" class="object-fit-cover" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                        Byron Elton
-                    </h5>
-                    <p>
-                        CEO
-                    </p>
-                    <div class="team-description">
-                        <ul class="theme-list pb-4 px-4">
-                            <li>Long career in sales and marketing ​</li>
 
-                            <li>Senior Vice President of Sales for Univision</li>
-                            <li> Regional Vice President of Sales for AOL ​</li>
-                            <li> Senior Vice President of E-commerce for AOL Canada</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-3">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/Ryan-Davies.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                        Ryan Davies
-                    </h5>
-                    <p>
-                        Chairman Emeritus
-                    </p>
-                    <div class="team-description">
-                        <ul class="theme-list pb-4 px-4">
-                            <li>
-                                Extensive background in the biotech industry​</li>
-                            <li> Former CEO of Curza, a small molecule antibiotics drug company​</li>
-                            <li> Co-founded several biotech companies​</li>
-                            <li> Partner in a private equity firm​</li>
-                            <li>Served on two U.S. presidential campaigns</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
 
     </div>
 </section>
