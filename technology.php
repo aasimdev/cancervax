@@ -15,14 +15,14 @@ include('header.php'); ?>
             ​​</p>
 
 
-        <p>Our innovative approach <strong>DETECTS, MARKS, and KILLS</strong> only cancer cells. By making cancer cells “look” like well immunized diseases such as measles or chickenpox, we intend to harness the body’s natural immunity to easily kill cancer cells. For example, anyone who has had measles, or been vaccinated for measles, has lifetime immunity to the disease.
+        <p>Our innovative approach <strong>DETECTS, MARKS, and KILLS</strong> only cancer cells. By making cancer cells “look” like well-immunized diseases such as measles or chickenpox, we intend to harness the body’s natural immunity to easily kill cancer cells. For example, anyone who has had measles or been vaccinated for measles has lifetime immunity to the disease.
 
             ​</p>
-        <p>Our form of treatment is known as <strong>cancer immunotherapy, or therapeutic cancer vaccines</strong>.​</p>
-        <p>Cancer immunotherapy is the latest weapon in the war against cancer, with a forecasted market size of $231 Billion by 2031 (Statista). It is less toxic than chemotherapy and radiation, and less radical than surgery.
+        <p>Our form of treatment is known as <strong>cancer immunotherapy or therapeutic cancer vaccines</strong>.​</p>
+        <p>Cancer immunotherapy is the latest weapon in the war against cancer, with a forecasted market size of $231 billion by 2031 (Statista). It is less toxic than chemotherapy and radiation, and less radical than surgery.
 
             ​</p>
-        <p>Our novel approach is fundamentally different than other treatments and we believe this is a “Better Way to Fight Cancer.”
+        <p>Our novel approach is fundamentally different from other treatments, and we believe this is a “Better Way to Fight Cancer.”
 
             ​</p>
 
@@ -50,7 +50,7 @@ include('header.php'); ?>
                 </ul>
 
                 <p>Our technology is packaged into a nanoparticle, very much like the COVID-19 vaccine. </p>
-                <p>Unlike any other approach, our nanoparticles are programmable to seek out <strong>only cancer cells</strong>, then mark them for destruction.</p>
+                <p>Unlike any other approach, our nanoparticles are programmable to seek out <strong>only cancer cells</strong> and then mark them for destruction.</p>
             </div>
             <div class="col-lg-6">
                 <div class="prob-the-sol">
@@ -85,13 +85,13 @@ include('header.php'); ?>
         <h3>A Customizable Platform for Many Cancers​</h3>
 
         <ul class="theme-list mb-4">
-            <li><strong>Makes cancer cells look like well immunized diseases</strong> (chickenpox, measles, etc.)</li>
-            <li>Novel 2-step precise detection of cancer cells (outside cell signature + inside cell signature)​</li>
+            <li><strong>Makes cancer cells look like well-immunized diseases</strong> (chickenpox, measles, etc.)</li>
+            <li>Novel two-step precise detection of cancer cells (outside cell signature + inside cell signature)​</li>
             <li>DETECT, MARK, and KILL only cancer cells​</li>
             <li>Proprietary artificial intelligence and machine learning algorithms to find cellular signatures for various cancer types​</li>
             <li>Built on tried-and-true messenger RNA (mRNA) technology​</li>
             <li>Built on tried-and-true lipid nanoparticle technology​</li>
-            <li>2 patent applications</li>
+            <li>Two patent applications</li>
         </ul>
 
     </div>

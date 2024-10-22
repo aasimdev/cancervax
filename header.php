@@ -1,9 +1,8 @@
 <?php
-include 'CacheControl.php'; 
+ini_set('session.cache_limiter', 'nocache');
+session_cache_limiter('nocache');
 
-if (function_exists('opcache_reset')) {
-    opcache_reset();
-}
+include 'CacheControl.php'; 
 
 CacheControl::preventCaching();
 ?>
@@ -218,31 +217,31 @@ CacheControl::preventCaching();
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                                <a class="nav-link <?php active('about'); ?>" href="/about">About</a>
+                                <a class="nav-link <?php active('about'); ?>" href="/about?nocache=<?php echo time(); ?>">About</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link <?php active('technology'); ?>" href="/technology">Technology</a>
+                                <a class="nav-link <?php active('technology'); ?>" href="/technology?nocache=<?php echo time(); ?>">Technology</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link <?php active('progress'); ?>" href="/progress">Progress</a>
+                                <a class="nav-link <?php active('progress'); ?>" href="/progress?nocache=<?php echo time(); ?>">Progress</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link <?php active('immunotherapy'); ?>" href="/immunotherapy">Immunotherapy</a>
+                                <a class="nav-link <?php active('immunotherapy'); ?>" href="/immunotherapy?nocache=<?php echo time(); ?>">Immunotherapy</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link <?php active('market'); ?>" href="/market">Market</a>
+                                <a class="nav-link <?php active('market'); ?>" href="/market?nocache=<?php echo time(); ?>">Market</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link <?php active('news'); ?>" href="/news">Newsroom</a>
+                                <a class="nav-link <?php active('news'); ?>" href="/news?nocache=<?php echo time(); ?>">Newsroom</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
+                                <a class="nav-link <?php active('videos'); ?>" href="/videos?nocache=<?php echo time(); ?>">Videos</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link <?php active('invest'); ?>" href="/invest">Investors</a>
+                                <a class="nav-link <?php active('invest'); ?>" href="/invest?nocache=<?php echo time(); ?>">Investors</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link <?php active('contact'); ?>" href="/contact">Contact</a>
+                                <a class="nav-link <?php active('contact'); ?>" href="/contact?nocache=<?php echo time(); ?>">Contact</a>
                             </li>
 
                         </ul>

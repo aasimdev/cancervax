@@ -40,75 +40,77 @@ if ($page_name !== "prep.php") {
         <div class="container">
             <div class="footer-top">
                 <div class="row">
-                    <div class="col-lg-6">
-                        <div class="row footerlinks">
-                            <div class="col-sm-4">
-                                <div class="footer-logo">
-                                    <a href="/">
-                                        <img src="<?php echo  $full_url; ?>./assets/img/C-01-1.png" alt="logo">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-4">
-                                <div class="footer-link">
-                                    <h6>COMPANY</h6>
-                                    <ul class="links">
-                                        <li>
-                                            <a href="/about">About Us</a>
-                                        </li>
-                                        <li>
-                                            <a href="/progress">Progress</a>
-                                        </li>
-                                        <li>
-                                            <a href="/market">Market</a>
-                                        </li>
-                                        <li>
-                                            <a href="/news">Newsroom</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-4">
-                                <div class="footer-link">
-                                    <ul class="links no-head">
-                                        <li>
-                                            <a href="/videos">Videos</a>
-                                        </li>
-                                        <li>
-                                            <a href="/invest">Investors</a>
-                                        </li>
-                                        <li>
-                                            <a href="/contact">Contact</a>
-                                        </li>
-                                        <li>
-                                            <a href="/privacy-policy">Privacy Policy</a>
-                                        </li>
-                                        <li>
-                                            <a href="/terms-of-use">Terms of Use</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
+                    <div class="col-lg-2">
+                        <div class="footer-logo">
+                            <a href="/">
+                                <img src="<?php echo  $full_url; ?>./assets/img/C-01-1.png" alt="logo">
+                            </a>
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="footer-info">
+                        <div class="footer-linkhead d-none d-sm-block">
+                            <div class="row">
+                                <div class="col-6 col-sm-4">
+                                    <h6>COMPANY</h6>
+                                </div>
+                                <div class="col-6 col-sm-4">
+                                </div>
+                                <div class="col-6 col-sm-4">
                                     <h6>CONTACT US</h6>
-                                    <a href="tel:8053561810">(805) 356-1810</a>
-                                    <a href="mailto:info@cancervax.com">info@cancervax.com</a>
                                 </div>
                             </div>
-                            <!-- <div class="col-md-6">
-                            <div class="footer-social">
-                                <h6>FOLLOW US</h6>
-                                <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
-                                <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
-                                <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
-                                <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
+                        </div>
+                        <div class="footer-linkbody">
+                            <div class="row">
+                                <div class="col-6 col-sm-4">
+                                    <div class="footer-link">
+                                        <h6 class="d-sm-none">COMPANY</h6>
+                                        <ul class="links">
+                                            <li>
+                                                <a href="/about?nocache=<?php echo time(); ?>">About Us</a>
+                                            </li>
+                                            <li>
+                                                <a href="/progress?nocache=<?php echo time(); ?>">Progress</a>
+                                            </li>
+                                            <li>
+                                                <a href="/market?nocache=<?php echo time(); ?>">Market</a>
+                                            </li>
+                                            <li>
+                                                <a href="/news?nocache=<?php echo time(); ?>">Newsroom</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-6 col-sm-4">
+                                    <div class="footer-link">
+                                        <ul class="links no-head">
+                                            <li>
+                                                <a href="/videos?nocache=<?php echo time(); ?>">Videos</a>
+                                            </li>
+                                            <li>
+                                                <a href="/invest?nocache=<?php echo time(); ?>">Investors</a>
+                                            </li>
+                                            <li>
+                                                <a href="/contact?nocache=<?php echo time(); ?>">Contact</a>
+                                            </li>
+                                            <li>
+                                                <a href="/privacy-policy?nocache=<?php echo time(); ?>">Privacy Policy</a>
+                                            </li>
+                                            <li>
+                                                <a href="/terms-of-use?nocache=<?php echo time(); ?>">Terms of Use</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="footer-info">
+                                        <h6 class="d-sm-none">CONTACT US</h6>
+                                        <a href="tel:8053561810">(805) 356-1810</a>
+                                        <a href="mailto:info@cancervax.com">info@cancervax.com</a>
+                                    </div>
+                                </div>
                             </div>
-                        </div> -->
                         </div>
                     </div>
                 </div>
@@ -118,6 +120,7 @@ if ($page_name !== "prep.php") {
             </div>
         </div>
     </footer>
+
 
 <?php } ?>
 

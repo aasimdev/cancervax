@@ -24,4 +24,9 @@ RewriteRule ^videos/short-videos/(.*)$ videos/short-videos/index.php [L,QSA]
         Header set Pragma "no-cache"
         Header set Expires "0"
     </FilesMatch>
+
+    <FilesMatch "\.(html|php)$">
+    Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+</FilesMatch>
+
 </IfModule>
