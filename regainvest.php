@@ -656,8 +656,9 @@ include "header.php";
             </div>
             <div class="priceCardmob d-lg-none">
                 <div class="priceCardmob-text">
-                    <p><span>$2.10</span> per share</p>
                     <a href="#bonus-shares">Earn Bonus Shares</a>
+                    <a href="/filings" class="d-block text-decoration-none">SEC Filings</a>
+
                 </div>
                 <div class="offerInvest">
                     <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
