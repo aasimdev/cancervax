@@ -22,7 +22,7 @@ include('header.php'); ?>
 
         <h3>About Cancervax</h3>
 
-        <p>Cancervax, Inc. is a pre-clinical biotechnology company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells “look” like well immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We have also created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. To learn more, please visit <a href="www.cancervax.com" target="_blank" rel="noopener noreferrer">www.cancervax.com</a> </p>
+        <p>Cancervax, Inc. is a pre-clinical biotechnology company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells “look” like well immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. To learn more, please visit <a href="www.cancervax.com" target="_blank" rel="noopener noreferrer">www.cancervax.com</a> </p>
 
         <h3>About Flashpoint</h3>
 
