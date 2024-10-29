@@ -6,7 +6,6 @@ include 'CacheControl.php';
 
 CacheControl::preventCaching();
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 
