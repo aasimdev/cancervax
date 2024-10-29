@@ -18,7 +18,7 @@ include('investor-header.php'); ?>
                         <p id="isPasted">Our project pipeline with UCLA now includes:</p>
                         <ul start="1" type="1" id="isPasted">
                             <li><strong>Children’s Cancer</strong> – Immunotherapy treatments for Ewing sarcoma, a children’s bone and tissue cancer with a death rate of 100% for recurrence.</li>
-                            <li><strong>Universal Cancer Vaccine Platform</strong> – A novel and customizable Universal Cancer Vaccine (UCV), to be delivered as a shot, that we believe can uniquely detect, mark and kill only cancer cells.&nbsp;</li>
+                            <li><strong>Universal Cancer Treatment Platform</strong> – A novel and customizable Universal Cancer Treatment, to be delivered as a shot, that we believe can uniquely detect, mark and kill only cancer cells.&nbsp;</li>
                             <li><strong>Universal CAR-T Cell Platform</strong> – A novel and customizable low-cost treatment, to be delivered as a shot, that we believe can reprogram natural immune T-cells inside the body to seek and destroy targeted cancer cells.</li>
                         </ul>
                         <p style="text-align: center;"><strong><span>We now have 3 shots on goal!</span></strong>&nbsp;</p>

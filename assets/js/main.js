@@ -14,13 +14,41 @@ $(function () {
             scrollTop: $(id).offset().top - 253.42
         });
     });
+  
+
+    $('#jotformForm2').submit(function (e) {
+        e.preventDefault();
+        var form = $(this); // Cache the form element
+        var formData = form.serialize();
+        $.ajax({
+            type: 'POST',
+            url: form.attr('action'),
+            data: formData,
+            success: function (response) {
+                $('.invest-sbmit-btn').fadeIn();
+                $('.invest-modal .spinner-border').hide();
+                $('.invest-alert').fadeIn();
+                setTimeout(() => {
+                    $('#investMoreModal').modal('hide');
+                    $('body').removeClass('no-scroll');
+                    form[0].reset();
+                    $('.invest-alert').hide();
+                }, 1500)
+            },
+            error: function (xhr, status, error) {
+                console.error(xhr.responseText);
+            }
+        });
+    });
+
+
 
     const teamModal = new bootstrap.Modal(document.getElementById('team'));
     $('.team-box-img').on('click', function (e) {
         e.preventDefault();
         var title = $(this).parent().find('h5').html();
         var decription = $(this).parent().find('.team-description').html();
-        $('#team').find('.modal-title').text(title);
+        $('#team').find('.modal-title').html(title);
         $('#team').find('.modal-body').html(decription);
         teamModal.show();
     });

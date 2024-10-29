@@ -19,7 +19,7 @@ include('header.php'); ?>
             <div class="row align-items-center">
                 <div class="col-lg-7">
                     <div class="banner-text">
-                        <h1>Developing a Breakthrough Universal Cancer Vaccine</h1>
+                        <h1>Developing a Breakthrough Universal Cancer Treatment</h1>
                         <p>Using the body’s immune system to fight cancer</p>
 
                         <div class="banner-video">
@@ -95,12 +95,12 @@ include('header.php'); ?>
 <section class="fcancervax">
     <div class="container">
         <div class="fcancervax-box">
-            <h4>Universal Cancer Vaccine</h4>
+            <h4>Universal Cancer Treatment</h4>
             <div class="row align-items-center">
                 <div class="col-lg-6 order-lg-0 order-1">
                     <div class="fcancervax-text">
-                        <h5>Universal Cancer Vaccine</h5>
-                        <p>We are developing a Universal Cancer Vaccine (UCV) that will use the body’s own immune
+                        <h5>Universal Cancer Treatment</h5>
+                        <p>We are developing a Universal Cancer Treatment (UCV) that will use the body’s own immune
                             system to target and eliminate cancer cells. The UCV will use cutting edge
                             bioengineering and molecular technologies to uniquely detect, mark and kill only cancer
                             cells. By forcing cancer cells to express a unique marker that healthy cells do not
@@ -446,7 +446,7 @@ include('header.php'); ?>
                         <img src="./assets/img/news3.jpg" alt="news">
                     </div>
                     <span>October 6, 2021</span>
-                    <p>CancerVax Files Provisional Patent for a Universal Cancer Vaccine</p>
+                    <p>CancerVax Files Provisional Patent for a Universal Cancer Treatment</p>
                     <a href="cancervax-files-provisional-patent-for-a-universal-cancer-vaccine.php"></a>
                 </div>
             </div>

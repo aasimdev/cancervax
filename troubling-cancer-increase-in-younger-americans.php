@@ -22,7 +22,7 @@ include('investor-header.php'); ?>
                         <p>Recent trends suggest that worldwide by 2040, the number of <strong><span>new cancer cases per year is expected to rise to 29.5 million.</span></strong></p>
                         <p>While there are different studies addressing the root causes of the cancer epidemic, the need for better, more advanced treatments fuels CancerVax and the team of researchers.</p>
                         <p>As Ryan, CEO of CancerVax has stated, <strong><span>“Cancer is among the leading causes of death worldwide.”</span></strong></p>
-                        <p>CancerVax has a valuable Sponsored Research Agreement with UCLA to develop a universal cancer vaccine (“UCV”) that will precisely detect, mark and kill cancer cells, while leaving healthy cells intact.</p>
+                        <p>CancerVax has a valuable Sponsored Research Agreement with UCLA to develop a universal cancer treatment that will precisely detect, mark and kill cancer cells, while leaving healthy cells intact.</p>
                         <p class="text-center">We invite you to <strong><span>help us in the fight against cancer</span></strong> by investing in CancerVax.</p>
                     </div>
                     <div class="inPost-btn"><a href="https://join.cancervax.com/act" target="_blank" rel="noopener noreferrer"><img src="https://d2j6gq8tvnyhoe.cloudfront.net/f50c1cb1-2916-4e4d-a9bf-e4deb3e9f2d7.png"></a>

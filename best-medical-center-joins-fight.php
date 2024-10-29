@@ -18,7 +18,7 @@ include('investor-header.php'); ?>
                         <p>This comes as no surprise to the team at CancerVax who proudly work with UCLA in their vital cancer research.</p>
                         <p>When CancerVax went in search of the best cancer researchers for their ground-breaking cancer treatment research program, the UCLA medical center was the perfect fit.</p>
                         <p><strong><span>Three separate teams of physician scientists at UCLA</span></strong> are working on three different parts of the project and have made significant progress.</p>
-                        <p>CancerVax has a valuable Sponsored Research Agreement with UCLA to develop a universal cancer vaccine (“UCV”) that will precisely detect, mark and kill cancer cells, while leaving healthy cells intact.&nbsp;</p>
+                        <p>CancerVax has a valuable Sponsored Research Agreement with UCLA to develop a universal Cancer Treatment that will precisely detect, mark and kill cancer cells, while leaving healthy cells intact.&nbsp;</p>
                         <p>“We needed to work with the best on this critical mission,” explained CancerVax CEO Ryan Davies.</p>
                         <p>&nbsp;The UCLA research team is working tirelessly on non-invasive cancer treatments using the <strong><span>amazing power of the body’s own immune system</span></strong>, also known as cancer immunotherapy or cancer vaccines.&nbsp;</p>
                         <p class="text-center"><br></p>

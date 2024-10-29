@@ -1,33 +1,33 @@
-@media (min-width: 1025px) {
-    .banner {
-        height: 100vh;
+// @media (min-width: 1025px) {
+//     .banner {
+//         height: 100vh;
 
-        video {
-            height: 100vh;
-        }
-    }
-}
+//         video {
+//             height: 100vh;
+//         }
+//     }
+// }
 
 @media(min-width: 1600px) {
-    .banner {
-        height: 800px;
+    // .banner {
+    //     height: a;
 
-        video {
-            height: 800px;
-        }
-    }
+    //     video {
+    //         height: 800px;
+    //     }
+    // }
 
     .banner-object {
         margin: -480px -380px -380px -100px;
     }
 
-    .banner__content {
-        padding-top: 0;
-    }
+    // .banner__content {
+    //     padding-top: 0;
+    // }
 
-    .banner-announcement {
-        margin-top: 150px;
-    }
+    // .banner-announcement {
+    //     margin-top: 150px;
+    // }
 }
 
 @media (min-width: 1200px) and (max-width: 1400px) {
@@ -45,7 +45,14 @@
         font-size: 65px;
     }
 }
-
+@media (max-width: 1400px) {
+    .banner-main-content ul {
+        max-width: 81%;
+        li{
+            font-size: 20px;
+        }
+    }
+}
 @media (max-width: 1200px) {
     .redefining-text h2 {
         font-size: 114px;
@@ -112,13 +119,38 @@
     .abtBanner {
         min-height: 680px;
     }
-}
 
-@media (min-width: 991px) and (max-width: 1024px) {
-    .banner {
-        height: 765px;
+    .banner-main-content {
+        max-width: 530px;
+        padding-top: 50px;
+    }
+
+    .banner-main-content h1 {
+        font-size: 50px;
+    }
+
+    .banner-main-content p {
+        font-size: 24px;
+    }
+
+    .banner-main {
+        margin-top: 74px;
+    }
+
+    .heroSection {
+        margin-top: 74px;
+    }
+
+    .nav-section {
+        top: 136px;
     }
 }
+
+// @media (min-width: 991px) and (max-width: 1024px) {
+//     .banner {
+//         height: 765px;
+//     }
+// }
 
 @media (max-width: 991px) {
     .redefining-text h2 {
@@ -131,8 +163,9 @@
     }
 
     .navbar-collapse {
-        background: rgb(23, 23, 23);
-        box-shadow: 0 10px 50px rgba(0, 0, 0, .05);
+        // background: rgb(23, 23, 23);
+        background-color: #fff;
+        // box-shadow: 0 10px 50px rgba(0, 0, 0, .05);
         padding-right: 15px;
         padding-left: 15px;
     }
@@ -246,13 +279,13 @@
         max-width: 100%;
     }
 
-    .banner {
-        height: 1250px;
-    }
+    // .banner {
+    //     height: 1250px;
+    // }
 
-    .banner-text {
-        padding-top: 70px;
-    }
+    // .banner-text {
+    //     padding-top: 70px;
+    // }
 
     .nCommentary .cchat {
         margin-bottom: 40px;
@@ -380,7 +413,6 @@
     }
 
     .banner-announcement {
-        margin-bottom: 0;
         max-width: 100%;
         margin-top: 20px;
     }
@@ -392,10 +424,33 @@
     .heroSection .video-section {
         max-width: 100%;
     }
+
+    .dev-partners-img {
+        margin-bottom: 32px;
+    }
+    .banner-main-content ul {
+        max-width: 50%;
+    }
+    .footer-linkhead {
+        margin-top: 32px;
+    }
 }
 
 @media (max-width: 767px) {
 
+    .banner-main-bg {
+        height: 480px;
+        padding-top: 0;
+    }
+
+    .banner-main {
+        padding-top: 48px;
+        background: #fff;
+    }
+
+    .banner-main-content {
+        padding-top: 0;
+    }
 
     .redefining-text h2 {
         font-size: 64px;
@@ -448,12 +503,12 @@
 
     .pipelinebanner {
         padding: 120px 0px 80px;
-        margin-top: 42px;
+        margin-top: 0;
     }
 
     .marketbanner {
         padding-top: 120px;
-        margin-top: 42px;
+        margin-top: 0;
     }
 
     .marketbanner h1 {
@@ -462,7 +517,7 @@
 
     .news-detail {
         padding-top: 110px;
-        margin-top: 42px;
+        margin-top: 0;
     }
 
     .news-detail .post-title h1 {
@@ -497,19 +552,47 @@
     .abtBanner {
         position: relative;
         padding-top: 85px;
-        margin-top: 42px;
+        margin-top: 0;
     }
 
     .invest-bar-text a {
         flex: 0 0 auto;
     }
 
+    .invest-bar {
+        display: none;
+    }
+
+    .banner-main {
+        margin-top: 0;
+    }
+
+    .mobile-banner-content {
+        box-shadow: 0px -20px 20px 20px #fff;
+        margin-bottom: -50px;
+    }
+
+    .mobile-banner-content .banner-main-content {
+        top: -50px;
+        position: relative;
+    }
+
+    .heroSection {
+        margin-top: 27px;
+    }
+
+    .nav-section {
+        top: 65px;
+    }
+    .banner-main-content ul {
+        max-width: 100%;
+    }
 }
 
 @media only screen and (max-width: 767px) and (orientation : landscape) {
-    .banner {
-        height: 1010px;
-    }
+    // .banner {
+    //     height: 1010px;
+    // }
 
     .pclinical-video {
         width: 1000px;
@@ -529,6 +612,7 @@
         max-height: 200px;
         overflow-y: auto;
     }
+
 }
 
 
@@ -701,11 +785,11 @@
 
     .cchatsbanner {
         padding: 120px 0px 40px 0px;
-        margin-top: 42px;
+        margin-top: 0;
     }
 
     .podcast-detail {
-        margin-top: 42px;
+        margin-top: 0;
     }
 
     .abtceo {
@@ -820,6 +904,10 @@
     .immtypes__content h5 {
         font-size: 24px;
         line-height: 1.5;
+    }
+
+    .immtypes__heading h4 {
+        margin: 0;
     }
 
     .immnewpyramid h4 {
@@ -980,7 +1068,8 @@
         top: -0.5em;
     }
 
-    .banner-announcement {
+    .banner-announcement,
+    .banner-video-top {
         border: 10px solid #1d8f97;
         padding: 12px;
     }
@@ -995,6 +1084,14 @@
         margin-top: 12px;
     }
 
+    .banner-video-top {
+        margin-top: 0;
+    }
+
+    .banner-video-head {
+        font-size: 20px;
+    }
+
     .invest-bar-text {
         flex-direction: column;
         gap: 4px;
@@ -1004,13 +1101,158 @@
         padding: 5px 30px;
     }
 
-    .priceCardmob .offerInvest a {
-        padding: 6px 13px;
-        font-size: 14px;
+    .priceCardmob {
 
-        span {
-            font-size: 10px;
-            line-height: 1;
+        .offerInvest a,
+        .offerInvestTwo.green-btn a {
+            padding: 6px 10px;
+            font-size: 14px;
+
+            span {
+                font-size: 9px;
+                line-height: 1;
+            }
+
+        }
+    }
+
+    .priceCardmob .offerInvestTwo.green-btn a {
+        font-size: 11px;
+    }
+
+    .invest-modal .modal-body h3 {
+        font-size: 22px;
+
+        br {
+            display: none;
+        }
+    }
+
+    .invest-modal .modal-content {
+        padding: 12px;
+    }
+
+    .invest-modal .form-control {
+        width: 100%;
+    }
+
+    .invest-modal button[type=submit] {
+        font-size: 22px;
+    }
+
+    .pi-ty h1 {
+        font-size: 32px;
+        margin-bottom: 12px;
+    }
+
+    .pi-ty p {
+        font-size: 20px;
+        line-height: 1.4;
+    }
+
+    .pi-ty,
+    .pi-ty-btns,
+    .pi-invest-main {
+        padding: 40px 0;
+    }
+
+    .pi-invest-main h2 {
+        font-size: 28px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+
+    .pi-invest-content h3 {
+        font-size: 20px;
+    }
+
+    .pi-invest-step {
+        margin-top: 32px;
+    }
+
+    .pvt-page h2 {
+        font-size: 30px;
+        margin-top: 24px;
+    }
+
+    .pvt-page h1 {
+        font-size: 53px;
+    }
+
+    .pvt-page p {
+        margin-top: 16px;
+    }
+
+    // .banner {
+    //     height: 1100px;
+    // }
+
+    .banner__content {
+        padding: 24px 0;
+    }
+
+    .banner-main {
+        padding-top: 45px;
+    }
+
+    .banner-main-bg {
+        height: 245px;
+    }
+
+    .banner-main-content {
+        position: relative;
+        top: -28px;
+    }
+
+    .banner-main-content h1 {
+        font-size: 33px;
+    }
+
+    .banner-main-content p {
+        font-size: 18px;
+        line-height: 1.3;
+        font-weight: 600;
+        margin-top: 0;
+    }
+
+    .banner-main-content ul li {
+        font-size: 16px;
+    }
+
+    .banner-main-content ul li+li {
+        margin-top: 12px;
+    }
+
+    .mobile-banner-content {
+        box-shadow: 0px -3px 20px 11px rgba(255, 255, 255, 1);
+    }
+
+    .journey li+li {
+        margin-top: 20px;
+    }
+
+    .heroSection {
+        margin-top: 0;
+    }
+
+    .filings {
+        padding: 60px 0;
+    }
+
+    .filings h1 {
+        font-size: 28px;
+    }
+
+    .filings-links {
+        margin: 50px auto 0;
+    }
+    .footer-linkbody{
+        .row{
+            & > div{
+                &:last-of-type{
+                    margin-top: 35px;
+                }
+            }
         }
     }
 }

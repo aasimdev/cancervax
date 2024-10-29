@@ -1,6 +1,134 @@
 <?php
 $videos = [
     [
+        'title' => "September 30, 2024 - CancerVax News Commentary",
+        'videoID' => "6WyjwuLcVqw",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "september-30-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "September 16, 2024 - CancerVax News Commentary",
+        'videoID' => "P6i4UHCgrfM",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "september-16-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "August 19, 2024 - CancerVax News Commentary",
+        'videoID' => "t38nUQeA450",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "august-19-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "August 12, 2024 - CancerVax News Commentary",
+        'videoID' => "TDwpk9sNep4",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "august-12-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "August 5, 2024 - CancerVax News Commentary",
+        'videoID' => "ZTNYYHrffTg",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "august-5-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "July 22, 2024 - CancerVax News Commentary",
+        'videoID' => "0L3KOd8Wd7Q",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "july-22-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "July 15, 2024 - CancerVax News Commentary",
+        'videoID' => "zzXmMuTzu4g",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "july-15-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "June 24, 2024 - CancerVax News Commentary",
+        'videoID' => "wOm6GCd6i2k",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "june-24-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "June 17, 2024 - CancerVax News Commentary",
+        'videoID' => "ozneTgauntQ",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "june-17-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "June 3, 2024 - CancerVax News Commentary",
+        'videoID' => "D_f7fD3jvCg",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "june-3-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "May 27, 2024 - CancerVax News Commentary",
+        'videoID' => "pTRORP3qtbM",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "may-27-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "May 20, 2024 - CancerVax News Commentary",
+        'videoID' => "ytTgBgz661s",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "may-20-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "May 13, 2024 - CancerVax News Commentary",
+        'videoID' => "MiSo6MhG2Ts",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "may-13-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "May 6, 2024 - CancerVax News Commentary",
+        'videoID' => "Mqr0z5YamWE",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "may-6-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "April 29, 2024 - CancerVax News Commentary",
+        'videoID' => "6ty8uCpRE8w",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "april-29-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "April 22, 2024 - CancerVax News Commentary",
+        'videoID' => "v_D_GpohyuY",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "april-22-2024-cancervax-news-commentary",
+        'scope' => "public"
+    ],
+    [
         'title' => "April 15, 2024 - CancerVax News Commentary",
         'videoID' => "cX6axn7KvbE",
         'date' => "",
@@ -377,6 +505,123 @@ $videos = [
         'scope' => "public"
     ],
     // new
+    [
+        'title' => "Alarming rise in early onset cancer cases demands urgent attention!",
+        'videoID' => "wcr2M7T79l4",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "alarming-rise-in-early-onset-cancer-cases-demands-urgent-attention",
+        "display" => true
+    ],
+    [
+        'title' => "CancerVAX is leading the charge in developing a groundbreaking universal cancer treatment.",
+        'videoID' => "Kk4IDipssRQ",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "cancervax-is-leading-the-charge-in-developing-a-groundbreaking-universal-cancer-treatment",
+        "display" => true
+    ],
+    [
+        'title' => "UCLA Recognized as Top Medical Research Institution!",
+        'videoID' => "QvgjPlHwix8",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "ucla-recognized-as-top-medical-research-institution",
+        "display" => true
+    ],
+    [
+        'title' => "Artificial intelligence is transforming the way cancer patients navigate their journey.",
+        'videoID' => "0UFeuKwfwxE",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "artificial-intelligence-is-transforming-the-way-cancer-patients-navigate-their-journey",
+        "display" => true
+    ],
+    [
+        'title' => "The future of cancer treatment is bright, driven by innovation and growing investment",
+        'videoID' => "IRWq4kMfzBk",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "the-future-of-cancer-treatment-is-bright-driven-by-innovation-and-growing-investment",
+        "display" => true
+    ],
+    [
+        'title' => "A universal cancer treatment holds the potential to significantly advance cancer care",
+        'videoID' => "JnjFNzGaDJU",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "a-universal-cancer-treatment-holds-the-potential-to-significantly-advance-cancer-care",
+        "display" => true
+    ],
+    [
+        'title' => "The journey to conquer cancer is long, but every step forward is a beacon of hope.",
+        'videoID' => "tg8NxaDAaVw",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "the-journey-to-conquer-cancer-is-long-but-every-step-forward-is-a-beacon-of-hope",
+        "display" => true
+    ],
+    [
+        'title' => "CancerVAX is at the forefront of developing a universal cancer treatment in collaboration with UCLA.",
+        'videoID' => "kWhwUN2356s",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "cancervax-is-at-the-forefront-of-developing-a-universal-cancer-treatment-in-collaboration-with-ucla",
+        "display" => true
+    ],
+    [
+        'title' => "A universal cancer vaccine is not just a dream; it's a promise we're working tirelessly to fulfill",
+        'videoID' => "57Q4I7vwSAs",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "a-universal-cancer-vaccine-is-not-just-a-dream-its-a-promise-we-working-tirelessly-to-fulfill",
+        "display" => true
+    ],
+    [
+        'title' => "Every step towards a universal cancer vaccine brings us closer to a world without this disease.",
+        'videoID' => "efsWpootp2g",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "every-step-towards-a-universal-cancer-vaccine-brings-us-closer-to-a-world-without-this-disease",
+        "display" => true
+    ],
+    [
+        'title' => "Shortage of Cancer Drugs Creates Challenges for Treatment",
+        'videoID' => "dtVhqIqiypg",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "shortage-of-cancer-drugs-creates-challenges-for-treatment",
+        "display" => true
+    ],
+    [
+        'title' => "Fight for the Future: Funding & Research Advancements Bring Hope for Childhood Cancers",
+        'videoID' => "eBzABy41o18",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "fight-for-the-future-funding-research-advancements-bring-hope-for-childhood-cancers",
+        "display" => true
+    ],
+    [
+        'title' => "Hope on the Horizon: CancerVax Develops Promising Universal Cancer Treatment",
+        'videoID' => "nzF_C7lMvzk",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "hope-on-the-horizon-cancervax-develops-promising-universal-cancer-treatment",
+        "display" => true
+    ],
     [
         'title' => "Biotechnology in oncology",
         'videoID' => "0Gd8mmrkB1s",

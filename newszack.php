@@ -57,7 +57,7 @@ include('header.php'); ?>
                     <a href="biotech-entrepreneur-and-venture-capitalist-dinesh-patel-discusses-therapeutics-and-medical-devices-with-cancervax-ceo-ryan-davies.php"></a>
                     <span>May 17, 2023</span>
                     <h3>Biotech Entrepreneur and Venture Capitalist Dinesh Patel Discusses Therapeutics and Medical Devices with CancerVax CEO Ryan Davies</h3>
-                    <p>Lehi, UT – May 17, 2023 – CancerVax, developer of a breakthrough universal cancer vaccine that will use the body’s immune system to fight cancer, today reported that the Company’s CEO, Ryan Davies</p>
+                    <p>Lehi, UT – May 17, 2023 – CancerVax, developer of a breakthrough Universal Cancer Treatment that will use the body’s immune system to fight cancer, today reported that the Company’s CEO, Ryan Davies</p>
 
                 </div>
             </div>
@@ -124,8 +124,8 @@ include('header.php'); ?>
                 <div class="news-item">
                     <a href="cancervax-universal-cancer-vaccine-being-developed-by-UCLA.php"></a>
                     <span>March 17, 2023</span>
-                    <h3>CancerVax Universal Cancer Vaccine Being Developed by UCLA</h3>
-                    <p>The UCLA research team, which includes Dr. Steven Jonas, Dr. Christopher Seet, Dr. Satiro De Oliveira and Dr. Christopher Denny, will leverage cutting-edge technologies to develop a breakthrough universal cancer vaccine (UCV) that will train the body to target and destroy cancer cells.</p>
+                    <h3>CancerVax Universal Cancer Treatment Being Developed by UCLA</h3>
+                    <p>The UCLA research team, which includes Dr. Steven Jonas, Dr. Christopher Seet, Dr. Satiro De Oliveira and Dr. Christopher Denny, will leverage cutting-edge technologies to develop a breakthrough Universal Cancer Treatment that will train the body to target and destroy cancer cells.</p>
 
                 </div>
             </div>
@@ -133,8 +133,8 @@ include('header.php'); ?>
                 <div class="news-item">
                     <a href="cancervax-files-non-provisional-patent-for-universal-cancer-vaccine.php"></a>
                     <span>March 16, 2023</span>
-                    <h3>CancerVax Files Non-Provisional Patent for Universal Cancer Vaccine</h3>
-                    <p>The Company’s patent application describes how it plans to leverage cutting-edge CRISPR and mRNA technologies to develop a breakthrough universal cancer vaccine (UCV)</p>
+                    <h3>CancerVax Files Non-Provisional Patent for Universal Cancer Treatment</h3>
+                    <p>The Company’s patent application describes how it plans to leverage cutting-edge CRISPR and mRNA technologies to develop a breakthrough Universal Cancer Treatment</p>
 
                 </div>
             </div>
@@ -143,7 +143,7 @@ include('header.php'); ?>
                     <a href="cancervax-announces-research-program-to-develop-its-second-immunotherapy-cancer-treatment.php"></a>
                     <span>August 31, 2022</span>
                     <h3>CancerVax Announces Research Program to Develop Its Second Immunotherapy Cancer Treatment</h3>
-                    <p>The Company has entered into a Sponsored Research Agreement with UCLA to develop a new cancer immunotherapy universal cancer vaccine.</p>
+                    <p>The Company has entered into a Sponsored Research Agreement with UCLA to develop a new cancer immunotherapy Universal Cancer Treatment.</p>
 
                 </div>
             </div>
@@ -151,8 +151,8 @@ include('header.php'); ?>
                 <div class="news-item">
                     <a href="cancervax-files-provisional-patent-for-a-universal-cancer-vaccine.php"> </a>
                     <span>October 6, 2021</span>
-                    <h3>CancerVax Files Provisional Patent for a Universal Cancer Vaccine</h3>
-                    <p>The Company plans to leverage cutting-edge CRISPR and mRNA technologies in its quest to develop a breakthrough universal cancer vaccine (UCV).</p>
+                    <h3>CancerVax Files Provisional Patent for a Universal Cancer Treatment</h3>
+                    <p>The Company plans to leverage cutting-edge CRISPR and mRNA technologies in its quest to develop a breakthrough Universal Cancer Treatment.</p>
 
                 </div>
             </div>

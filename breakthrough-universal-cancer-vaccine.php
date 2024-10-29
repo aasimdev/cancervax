@@ -1,5 +1,5 @@
 <?php
-$GLOBALS['title'] = "Breakthrough Universal Cancer Vaccine - CancerVax";
+$GLOBALS['title'] = "Breakthrough Universal Cancer Treatment - CancerVax";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 include('investor-header.php'); ?>
@@ -9,7 +9,7 @@ include('investor-header.php'); ?>
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <div class="inPost-box">
-                    <h1>Breakthrough Universal Cancer Vaccine </h1>
+                    <h1>Breakthrough Universal Cancer Treatment </h1>
                     <div class="inPost-img">
                         <img src="./assets/img/inpost-32.png" alt="invest post">
                     </div>
