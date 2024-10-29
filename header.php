@@ -7,7 +7,6 @@ if (function_exists('opcache_reset')) {
 
 CacheControl::preventCaching();
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 
