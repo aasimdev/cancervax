@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/up51j258kry3/staging.cancervax.com
+    - export DEPLOYPATH=/home/up51j258kry3/public_html
     - /bin/cp * $DEPLOYPATH
