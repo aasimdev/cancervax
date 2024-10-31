@@ -811,14 +811,20 @@ body.modal-open {
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 100vh;
+    height: 100vh;
     display: flex;
     align-items: end;
     padding-bottom: 48px;
 
+    & > .container{
+        height: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
     &-text {
         max-width: 1150px;
-        margin: auto;
+        margin: 0 auto;
 
         h1 {
             font-weight: 300;
