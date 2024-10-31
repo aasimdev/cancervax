@@ -105,7 +105,8 @@ include('header.php'); ?>
                             <li>Extensive experience in the fields of oncology, stem cells, and organ transplantation</li>
                             <li>Currently Professor Emeritus at University of California, Irvine.</li>
                             <li>Formerly Postdoctoral Fellow, Cryobiology Research Institute Indiana University Indianapolis
-                                Formerly Postdoctoral Fellow, Clinical tissue banking University of Washington</li>
+                               </li>
+                               <li> Formerly Postdoctoral Fellow, Clinical tissue banking University of Washington</li>
                             <li>Formerly Postdoctoral Fellow, Tissue banking/cryopreservation University of Alberta</li>
                             <li>Published over 495 scientific papers, 45 books, and over 500 scientific abstracts</li>
                             <li>Advisor to many biotech companies</li>
