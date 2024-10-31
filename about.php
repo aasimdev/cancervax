@@ -55,7 +55,7 @@ include('header.php'); ?>
 <section class="coreTeam">
     <div class="container">
         <div class="coreTeam-head">
-            <h3>Our Extraordinary Scientific Team</h3>
+            <h3>Our Scientific Team</h3>
         </div>
 
         <div class="row justify-content-center">

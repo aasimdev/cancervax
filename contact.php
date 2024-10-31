@@ -17,8 +17,11 @@ include('header.php'); ?>
                     <div class="row">
                         <div class="col-sm-5">
                             <div class="contact-info-item">
-                                <h3>CALIFORNIA</h3>
-                                <p><a href="https://goo.gl/maps/5xZJ6Byy4tZt2P7AA" target="_blank" rel="noopener noreferrer">351 Paseo Nuevo, Floor 2 <br> Santa Barbara, CA 93101</a></p>
+                                <h3>UTAH</h3>
+                                <p><a href="https://goo.gl/maps/5xZJ6Byy4tZt2P7AA" target="_blank" rel="noopener noreferrer">
+                            
+                                1633 W Innovation Way <br> 4th floor, Lehi, UT 84043
+                            </a></p>
                             </div>
                         </div>
                         <div class="col-sm-7">

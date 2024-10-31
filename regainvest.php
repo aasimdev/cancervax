@@ -209,9 +209,7 @@ include "header.php";
 
                         <!-- 5h Section -->
                         <div class="coreTeam regainest-team">
-                            <h3>Our Extraordinary Scientific Team
-
-                            </h3>
+                            <h3>Our Scientific Team</h3>
                             <div class="row mt-4">
                                 <div class="col-md-6 my-2">
                                     <div class="team-box">
@@ -657,8 +655,10 @@ include "header.php";
             </div>
             <div class="priceCardmob d-lg-none">
                 <div class="priceCardmob-text">
-                    <p><span>$2.10</span> per share</p>
                     <a href="#bonus-shares">Earn Bonus Shares</a>
+                    <div>
+                    <a href="/filings">SEC Filings</a>
+                    </div>
                 </div>
                 <div class="offerInvest">
                     <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank">Invest Here <span>Secure Direct Invest Platform</span></a>
