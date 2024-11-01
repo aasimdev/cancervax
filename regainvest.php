@@ -242,6 +242,29 @@ include "header.php";
                                     <div class="team-box">
                                         <div class="team-box-img">
                                             <a href="#">
+                                                <img src="./assets/img/george.png" class="object-fit-cover unsized-team" style="object-position: 100% 0;" alt="john">
+                                            </a>
+                                        </div>
+                                        <h5>
+                                            George Katibah, <span>PhD</span>
+                                        </h5>
+                                        <p>
+                                            Pre-Clinical Development Advisor
+                                        </p>
+                                        <div class="team-description">
+                                            <ul class="theme-list pb-4 px-4">
+                                                <li>Former Director, Discovery Biology RAPT Therapeutics</li>
+                                                <li>
+                                                    Expert in oncology, immunology, host-pathogen interactions, personalized medicine, and genetic disorders.
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 my-2">
+                                    <div class="team-box">
+                                        <div class="team-box-img">
+                                            <a href="#">
                                                 <img src="./assets/img/lakey.png" class="object-fit-cover" style="    object-position: bottom;" alt="john">
                                             </a>
                                         </div>
@@ -257,14 +280,37 @@ include "header.php";
                                                 <li>Extensive experience in the fields of oncology, stem cells, and organ transplantation</li>
                                                 <li>Currently Professor Emeritus at University of California, Irvine.</li>
                                                 <li>Formerly Postdoctoral Fellow, Cryobiology Research Institute Indiana University Indianapolis
-                                                   </li>
-                                                    <li> Formerly Postdoctoral Fellow, Clinical tissue banking University of Washington</li>
+                                                </li>
+                                                <li> Formerly Postdoctoral Fellow, Clinical tissue banking University of Washington</li>
                                                 <li>Formerly Postdoctoral Fellow, Tissue banking/cryopreservation University of Alberta</li>
                                                 <li>Published over 495 scientific papers, 45 books, and over 500 scientific abstracts</li>
                                                 <li>Advisor to many biotech companies</li>
                                                 <li>Received his BS in Zoology/Animal Biology from University of Alberta</li>
                                                 <li>Received his MS in Zoology/Animal Biology from University of Alberta</li>
                                                 <li>Received his PhD of Islet transplantation, diabetes, and medical devices from University of Alberta</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 my-2">
+                                    <div class="team-box">
+                                        <div class="team-box-img">
+                                            <a href="#">
+                                                <img src="./assets/img/kristin.png" class="object-fit-cover unsized-team" style="object-position: 100% 0;" alt="john">
+                                            </a>
+                                        </div>
+                                        <h5>
+                                            Kristin Bedard, <span>PhD</span>
+                                        </h5>
+                                        <p>
+                                            Scientific Advisor
+                                        </p>
+                                        <div class="team-description">
+                                            <ul class="theme-list pb-4 px-4">
+                                                <li>Vice President Biologics, Oncology, Site Head SSF Eli Lilly and Company</li>
+                                                <li>
+                                                    Expert in the discovery and pre-clinical development of innovative oncology therapies, including biologics, antibody-drug conjugates and immunotherapies.
+                                                </li>
                                             </ul>
                                         </div>
                                     </div>
@@ -658,7 +704,7 @@ include "header.php";
                 <div class="priceCardmob-text">
                     <a href="#bonus-shares">Earn Bonus Shares</a>
                     <div>
-                    <a href="/filings">SEC Filings</a>
+                        <a href="/filings">SEC Filings</a>
                     </div>
                 </div>
                 <div class="offerInvest">

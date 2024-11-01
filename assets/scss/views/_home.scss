@@ -978,6 +978,10 @@ body.modal-open {
             img {
                 width: auto;
                 height: auto;
+                &.unsized-team{
+                    width: 307px;
+                    height: 325px;
+                }
             }
         }
     }
@@ -1005,7 +1009,10 @@ body.modal-open {
     }
 }
 }
-
+.team-wrapper{
+    max-width: 970px;
+    margin: 0 auto;
+}
 
 .otherteam {
     background-color: #091114;

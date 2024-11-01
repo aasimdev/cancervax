@@ -58,69 +58,118 @@ include('header.php'); ?>
             <h3>Our Scientific Team</h3>
         </div>
 
-        <div class="row justify-content-center">
-            <div class="col-md-6 col-xl-3">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/adam-grant.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                        Adam Grant, <span>PhD</span>
-                    </h5>
-                    <p>
-                        Principal Scientist
-                    </p>
-                    <div class="team-description">
-                        <ul class="theme-list pb-4 px-4">
-                            <li>An inventor of the Company’s Universal Cancer Treatment platform</li>
-                            <li>Expert computational biologist using next generation sequencing data to identify new drug targets and biomarkers of response to cancer therapeutics </li>
-                            <li>Formerly Bioinformatician at Xenter Medical Technologies</li>
-                            <li>Formerly Computational Scientist at RAPT Therapeutics</li>
-                            <li>Invented software to improve cancer antigen detection</li>
-                            <li>Invented a gene-signature approach to select treatment for breast cancer</li>
-                            <li>Received his B.S in Bioinformatics from Brigham Young University</li>
-                            <li>Received his PhD in Cancer Biology with an emphasis in Bioinformatics from the University of Arizona</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-3">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/lakey.png" class="object-fit-cover" style="    object-position: bottom;" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                        Jonathan Lakey, <span>PhD</span>
-                    </h5>
-                    <p>
-                        Chief Scientific Advisor
-                    </p>
-                    <div class="team-description">
-                        <ul class="theme-list pb-4 px-4">
-                            <li>An inventor of the famous “Edmonton Protocol” for treating Type 1 diabetes</li>
-                            <li>Extensive experience in the fields of oncology, stem cells, and organ transplantation</li>
-                            <li>Currently Professor Emeritus at University of California, Irvine.</li>
-                            <li>Formerly Postdoctoral Fellow, Cryobiology Research Institute Indiana University Indianapolis
-                               </li>
-                               <li> Formerly Postdoctoral Fellow, Clinical tissue banking University of Washington</li>
-                            <li>Formerly Postdoctoral Fellow, Tissue banking/cryopreservation University of Alberta</li>
-                            <li>Published over 495 scientific papers, 45 books, and over 500 scientific abstracts</li>
-                            <li>Advisor to many biotech companies</li>
-                            <li>Received his BS in Zoology/Animal Biology from University of Alberta</li>
-                            <li>Received his MS in Zoology/Animal Biology from University of Alberta</li>
-                            <li>Received his PhD of Islet transplantation, diabetes, and medical devices from University of Alberta</li>
-                        </ul>
+        <div class="team-wrapper">
+            <div class="row">
+                <div class="col-md-6 col-xl-4">
+                    <div class="team-box">
+                        <div class="team-box-img">
+                            <a href="#">
+                                <img src="./assets/img/adam-grant.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
+                            </a>
+                        </div>
+                        <h5>
+                            Adam Grant, <span>PhD</span>
+                        </h5>
+                        <p>
+                            Principal Scientist
+                        </p>
+                        <div class="team-description">
+                            <ul class="theme-list pb-4 px-4">
+                                <li>An inventor of the Company’s Universal Cancer Treatment platform</li>
+                                <li>Expert computational biologist using next generation sequencing data to identify new drug targets and biomarkers of response to cancer therapeutics </li>
+                                <li>Formerly Bioinformatician at Xenter Medical Technologies</li>
+                                <li>Formerly Computational Scientist at RAPT Therapeutics</li>
+                                <li>Invented software to improve cancer antigen detection</li>
+                                <li>Invented a gene-signature approach to select treatment for breast cancer</li>
+                                <li>Received his B.S in Bioinformatics from Brigham Young University</li>
+                                <li>Received his PhD in Cancer Biology with an emphasis in Bioinformatics from the University of Arizona</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
-            </div>
+                <div class="col-md-6 col-xl-4">
+                    <div class="team-box">
+                        <div class="team-box-img">
+                            <a href="#">
+                                <img src="./assets/img/george.png" class="object-fit-cover unsized-team" style="object-position: 100% 0;" alt="john">
+                            </a>
+                        </div>
+                        <h5>
+                            George Katibah, <span>PhD</span>
+                        </h5>
+                        <p>
+                            Pre-Clinical Development Advisor
+                        </p>
+                        <div class="team-description">
+                            <ul class="theme-list pb-4 px-4">
+                                <li>Former Director, Discovery Biology RAPT Therapeutics</li>
+                                <li>
+                                    Expert in oncology, immunology, host-pathogen interactions, personalized medicine, and genetic disorders.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-xl-4">
+                    <div class="team-box">
+                        <div class="team-box-img">
+                            <a href="#">
+                                <img src="./assets/img/lakey.png" class="object-fit-cover" style="    object-position: bottom;" alt="john">
+                            </a>
+                        </div>
+                        <h5>
+                            Jonathan Lakey, <span>PhD</span>
+                        </h5>
+                        <p>
+                            Chief Scientific Advisor
+                        </p>
+                        <div class="team-description">
+                            <ul class="theme-list pb-4 px-4">
+                                <li>An inventor of the famous “Edmonton Protocol” for treating Type 1 diabetes</li>
+                                <li>Extensive experience in the fields of oncology, stem cells, and organ transplantation</li>
+                                <li>Currently Professor Emeritus at University of California, Irvine.</li>
+                                <li>Formerly Postdoctoral Fellow, Cryobiology Research Institute Indiana University Indianapolis
+                                </li>
+                                <li> Formerly Postdoctoral Fellow, Clinical tissue banking University of Washington</li>
+                                <li>Formerly Postdoctoral Fellow, Tissue banking/cryopreservation University of Alberta</li>
+                                <li>Published over 495 scientific papers, 45 books, and over 500 scientific abstracts</li>
+                                <li>Advisor to many biotech companies</li>
+                                <li>Received his BS in Zoology/Animal Biology from University of Alberta</li>
+                                <li>Received his MS in Zoology/Animal Biology from University of Alberta</li>
+                                <li>Received his PhD of Islet transplantation, diabetes, and medical devices from University of Alberta</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
 
+            </div>
         </div>
-        <div class="row justify-content-center my-4">
-            <div class="col-md-6 col-xl-3">
+        <div class="team-wrapper">
+        <div class="row my-4">
+            <div class="col-md-6 col-xl-4">
+                <div class="team-box">
+                    <div class="team-box-img">
+                        <a href="#">
+                            <img src="./assets/img/kristin.png" class="object-fit-cover unsized-team" style="object-position: 100% 0;" alt="john">
+                        </a>
+                    </div>
+                    <h5>
+                        Kristin Bedard, <span>PhD</span>
+                    </h5>
+                    <p>
+                        Scientific Advisor
+                    </p>
+                    <div class="team-description">
+                        <ul class="theme-list pb-4 px-4">
+                            <li>Vice President Biologics, Oncology, Site Head SSF Eli Lilly and Company</li>
+                            <li>
+                                Expert in the discovery and pre-clinical development of innovative oncology therapies, including biologics, antibody-drug conjugates and immunotherapies.
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-xl-4">
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
@@ -149,7 +198,11 @@ include('header.php'); ?>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-xl-3">
+        </div>
+        </div>
+        <div class="team-wrapper">
+        <div class="row my-4">
+            <div class="col-md-6 col-xl-4">
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
@@ -179,7 +232,7 @@ include('header.php'); ?>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-xl-3">
+            <div class="col-md-6 col-xl-4">
                 <div class="team-box">
                     <div class="team-box-img">
                         <a href="#">
@@ -207,7 +260,7 @@ include('header.php'); ?>
                 </div>
             </div>
         </div>
-
+        </div>
     </div>
 </section>
 
