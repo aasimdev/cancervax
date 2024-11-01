@@ -2242,6 +2242,8 @@ label.error {
     &__img {
         @media (min-width: 992px) {
             text-align: right;
+            max-width: 467px;
+            margin-left: auto;
         }
     }
 }

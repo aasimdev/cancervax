@@ -136,7 +136,7 @@ include('header.php'); ?>
                 </div>
                 <div class="col-lg-5">
                     <div class="immtypes__img">
-                        <img src="./assets/img/immtype3.jpg" alt="imm">
+                        <img src="./assets/img/immtype3.png" alt="imm">
                     </div>
                 </div>
             </div>
