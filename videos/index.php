@@ -17,19 +17,16 @@ include('../header.php'); ?>
         <div class="trend-video">
             <div class="row justify-content-center">
                 <div class="col-lg-6">
-                    <div class="cchat">
-                        <div class="cchat-box mb-4" data-video="trend">
-                            <a class="popup-youtube" href="http://www.youtube.com/watch?v=Bk39recgMGU"></a>
-                            <div class="cchat-thumbnail thumbnail-overlay h-auto">
-                                <img src="//img.youtube.com/vi/Bk39recgMGU/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">
+                <div class="video-section">
+                                <h3 class="banner-video-head">Short Explainer Video</h3>
+                                <div class="banner-video-top m-0 position-relative">
+                                    <a href="https://www.youtube.com/watch?v=PXBNJe3nHp0" class="popup-youtube">
+                                        <img src="https://i.ytimg.com/vi/PXBNJe3nHp0/maxresdefault.jpg" alt="hero" class="img-fluid">
+                                        <i class="far fa-play-circle"></i>
+                                    </a>
+                                </div>
+
                             </div>
-                            <i class="far fa-play-circle"></i>
-                            <div class="trend-video-ucla">
-                                <img src="../assets/img/ucla.png" alt="ucla">
-                            </div>
-                        </div>
-                        <p class="mt-0">CancerVax Breaking News in the Battle Against Children's Cancer</p>
-                    </div>
                 </div>
               
             </div>
