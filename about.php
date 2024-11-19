@@ -71,7 +71,7 @@ include('header.php'); ?>
                             George Katibah, <span>PhD</span>
                         </h5>
                         <p>
-                            Chief Scientific Officer
+                            Chief Scientific Officer 
                         </p>
                         <div class="team-description">
                             <ul class="theme-list pb-4 px-4">
