@@ -211,6 +211,29 @@ include "header.php";
                         <div class="coreTeam regainest-team">
                             <h3>Our Scientific Team</h3>
                             <div class="row mt-4">
+                            <div class="col-md-6 my-2">
+                                    <div class="team-box">
+                                        <div class="team-box-img">
+                                            <a href="#">
+                                                <img src="./assets/img/george.png" class="object-fit-cover unsized-team" style="object-position: 100% 0;" alt="john">
+                                            </a>
+                                        </div>
+                                        <h5>
+                                            George Katibah, <span>PhD</span>
+                                        </h5>
+                                        <p>
+                                        Chief Scientific Advisor
+                                        </p>
+                                        <div class="team-description">
+                                            <ul class="theme-list pb-4 px-4">
+                                                <li>Former Director, Discovery Biology RAPT Therapeutics</li>
+                                                <li>
+                                                    Expert in oncology, immunology, host-pathogen interactions, personalized medicine, and genetic disorders.
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
                                 <div class="col-md-6 my-2">
                                     <div class="team-box">
                                         <div class="team-box-img">
@@ -238,29 +261,7 @@ include "header.php";
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-6 my-2">
-                                    <div class="team-box">
-                                        <div class="team-box-img">
-                                            <a href="#">
-                                                <img src="./assets/img/george.png" class="object-fit-cover unsized-team" style="object-position: 100% 0;" alt="john">
-                                            </a>
-                                        </div>
-                                        <h5>
-                                            George Katibah, <span>PhD</span>
-                                        </h5>
-                                        <p>
-                                            Pre-Clinical Development Advisor
-                                        </p>
-                                        <div class="team-description">
-                                            <ul class="theme-list pb-4 px-4">
-                                                <li>Former Director, Discovery Biology RAPT Therapeutics</li>
-                                                <li>
-                                                    Expert in oncology, immunology, host-pathogen interactions, personalized medicine, and genetic disorders.
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
+                           
                                 <div class="col-md-6 my-2">
                                     <div class="team-box">
                                         <div class="team-box-img">
@@ -288,29 +289,6 @@ include "header.php";
                                                 <li>Received his BS in Zoology/Animal Biology from University of Alberta</li>
                                                 <li>Received his MS in Zoology/Animal Biology from University of Alberta</li>
                                                 <li>Received his PhD of Islet transplantation, diabetes, and medical devices from University of Alberta</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 my-2">
-                                    <div class="team-box">
-                                        <div class="team-box-img">
-                                            <a href="#">
-                                                <img src="./assets/img/kristin.png" class="object-fit-cover unsized-team" style="object-position: 100% 0;" alt="john">
-                                            </a>
-                                        </div>
-                                        <h5>
-                                            Kristin Bedard, <span>PhD</span>
-                                        </h5>
-                                        <p>
-                                            Scientific Advisor
-                                        </p>
-                                        <div class="team-description">
-                                            <ul class="theme-list pb-4 px-4">
-                                                <li>Vice President Biologics, Oncology, Site Head SSF Eli Lilly and Company</li>
-                                                <li>
-                                                    Expert in the discovery and pre-clinical development of innovative oncology therapies, including biologics, antibody-drug conjugates and immunotherapies.
-                                                </li>
                                             </ul>
                                         </div>
                                     </div>

@@ -59,7 +59,30 @@ include('header.php'); ?>
         </div>
 
         <div class="team-wrapper">
-            <div class="row">
+            <div class="row justify-content-center">
+                <div class="col-md-6 col-xl-4">
+                    <div class="team-box">
+                        <div class="team-box-img">
+                            <a href="#">
+                                <img src="./assets/img/george.png" class="object-fit-cover unsized-team" style="object-position: 100% 0;" alt="john">
+                            </a>
+                        </div>
+                        <h5>
+                            George Katibah, <span>PhD</span>
+                        </h5>
+                        <p>
+                            Chief Scientific Advisor
+                        </p>
+                        <div class="team-description">
+                            <ul class="theme-list pb-4 px-4">
+                                <li>Former Director, Discovery Biology RAPT Therapeutics</li>
+                                <li>
+                                    Expert in oncology, immunology, host-pathogen interactions, personalized medicine, and genetic disorders.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
                 <div class="col-md-6 col-xl-4">
                     <div class="team-box">
                         <div class="team-box-img">
@@ -87,30 +110,14 @@ include('header.php'); ?>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-xl-4">
-                    <div class="team-box">
-                        <div class="team-box-img">
-                            <a href="#">
-                                <img src="./assets/img/george.png" class="object-fit-cover unsized-team" style="object-position: 100% 0;" alt="john">
-                            </a>
-                        </div>
-                        <h5>
-                            George Katibah, <span>PhD</span>
-                        </h5>
-                        <p>
-                            Pre-Clinical Development Advisor
-                        </p>
-                        <div class="team-description">
-                            <ul class="theme-list pb-4 px-4">
-                                <li>Former Director, Discovery Biology RAPT Therapeutics</li>
-                                <li>
-                                    Expert in oncology, immunology, host-pathogen interactions, personalized medicine, and genetic disorders.
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-xl-4">
+
+              
+
+            </div>
+        </div>
+        <div class="team-wrapper">
+            <div class="row my-4 justify-content-center">
+            <div class="col-md-6 col-xl-4">
                     <div class="team-box">
                         <div class="team-box-img">
                             <a href="#">
@@ -141,125 +148,97 @@ include('header.php'); ?>
                         </div>
                     </div>
                 </div>
-
+                <div class="col-md-6 col-xl-4">
+                    <div class="team-box">
+                        <div class="team-box-img">
+                            <a href="#">
+                                <img src="./assets/img/amit-indap.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
+                            </a>
+                        </div>
+                        <h5>
+                            Amit Indap, <span>PhD</span>
+                        </h5>
+                        <p>
+                            Scientific Advisor
+                        </p>
+                        <div class="team-description">
+                            <ul class="theme-list pb-4 px-4">
+                                <li>
+                                    Expert in immuno-oncology involving mRNA vaccine development for cancer and COVID, CDx development using comprehensive genomic profiling of tumors, ctDNA analysis of clinical samples, NGS based antibody discovery, and single cell RNAseq analysis</li>
+                                <li>Formerly Principal Scientist at Pfizer</li>
+                                <li>Formerly Scientist at Good Start Genetics</li>
+                                <li>Formerly Research Scientist at Human Longevity, Inc.</li>
+                                <li>Formerly Bioinformatics Scientist at Illumina</li>
+                                <li>Formerly Senior Manager of Bioinformatics at Xencor</li>
+                                <li>Received his B.S. in Molecular and Cellular Biology and minor in Computer Science From University of Arizona</li>
+                                <li>Received his M.S. degree in bioinformatics from Medical College of Wisconsin</li>
+                                <li>Received his PhD in Biology from Boston College</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="team-wrapper">
-        <div class="row my-4">
-            <div class="col-md-6 col-xl-4">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/kristin.png" class="object-fit-cover unsized-team" style="object-position: 100% 0;" alt="john">
-                        </a>
+            <div class="row my-4 justify-content-center">
+                <div class="col-md-6 col-xl-4">
+                    <div class="team-box">
+                        <div class="team-box-img">
+                            <a href="#">
+                                <img src="./assets/img/matthew-spear.png" class="object-fit-cover" style="    object-position: bottom;" alt="john">
+                            </a>
+                        </div>
+                        <h5>
+                            Matthew Spear, <span>MD</span>
+                        </h5>
+                        <p>
+                            Scientific Advisor
+                        </p>
+                        <div class="team-description">
+                            <ul class="theme-list pb-4 px-4">
+                                <li>Expert in guiding the development and commercialization of new drugs, therapies, and biotech products as Chief Development Officer and Chief Medical Officer of biotech companies</li>
+                                <li>Dr. Spear has been working in oncology and gene therapy research and development for over 30 years</li>
+                                <li>Currently Chief Development Officer / Chief Medical Officer at Denovo Biopharma</li>
+                                <li>Formerly Associate Professor on the faculty of the USC Keck School of Medicine, and the UCSD Medical School / UCSD Cancer Center where he managed a clinical practice, drug discovery/gene therapy research, and clinical trial programs for cancer.</li>
+                                <li>Formerly led multiple oncology clinical development programs at Pfizer</li>
+                                <li>Formerly served as Chief Medical Officer and Senior Vice-President at Nereus Pharmaceuticals</li>
+                                <li>Formerly Head of Oncology and Head of Biotherapeutics at Sunovion Pharmaceuticals</li>
+                                <li>Formerly Vice-President at Incyte and Sangamo Therapeutics</li>
+                                <li>Formerly Chief Medical Officer at Poseida Therapeutics developing multiple CAR-T cell and gene therapy products</li>
+                                <li>Received a B.A. degree from the Johns Hopkins University</li>
+                                <li>Received his M.D. degree from Stanford University</li>
+                            </ul>
+                        </div>
                     </div>
-                    <h5>
-                        Kristin Bedard, <span>PhD</span>
-                    </h5>
-                    <p>
-                        Scientific Advisor
-                    </p>
-                    <div class="team-description">
-                        <ul class="theme-list pb-4 px-4">
-                            <li>Vice President Biologics, Oncology, Site Head SSF Eli Lilly and Company</li>
-                            <li>
-                                Expert in the discovery and pre-clinical development of innovative oncology therapies, including biologics, antibody-drug conjugates and immunotherapies.
-                            </li>
-                        </ul>
+                </div>
+                <div class="col-md-6 col-xl-4">
+                    <div class="team-box">
+                        <div class="team-box-img">
+                            <a href="#">
+                                <img src="./assets/img/steven-warner.png" class="object-fit-cover" style="    object-position: bottom;" alt="john">
+                            </a>
+                        </div>
+                        <h5>
+                            Steven Warner, <span>PhD</span>
+                        </h5>
+                        <p>
+                            Scientific Advisor
+                        </p>
+                        <div class="team-description">
+                            <ul class="theme-list pb-4 px-4">
+                                <li>Specializes in small molecule drug discovery, new screening platforms in drug discovery, and translational research focusing on cancer therapeutics</li>
+                                <li>He is an expert in the discovery of novel cancer agents and has played integral roles in moving multiple compounds into clinical trials.</li>
+                                <li>Currently Senior VP and Head of US Research at Sumitomo Pharma America</li>
+                                <li>Formerly Manager of Discovery Biology at SuperGen</li>
+                                <li>Formerly Senior Manager of Drug Discovery at Huntsman Cancer Institute</li>
+                                <li>Formerly VP of Drug Discovery at Tolero Pharmaceuticals</li>
+                                <li>Received his B.S. in Biology from Brigham Young University</li>
+                                <li>Received his PhD in Pharmaceutical Sciences from the University of Arizona</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-xl-4">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/amit-indap.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                        Amit Indap, <span>PhD</span>
-                    </h5>
-                    <p>
-                        Scientific Advisor
-                    </p>
-                    <div class="team-description">
-                        <ul class="theme-list pb-4 px-4">
-                            <li>
-                                Expert in immuno-oncology involving mRNA vaccine development for cancer and COVID, CDx development using comprehensive genomic profiling of tumors, ctDNA analysis of clinical samples, NGS based antibody discovery, and single cell RNAseq analysis</li>
-                            <li>Formerly Principal Scientist at Pfizer</li>
-                            <li>Formerly Scientist at Good Start Genetics</li>
-                            <li>Formerly Research Scientist at Human Longevity, Inc.</li>
-                            <li>Formerly Bioinformatics Scientist at Illumina</li>
-                            <li>Formerly Senior Manager of Bioinformatics at Xencor</li>
-                            <li>Received his B.S. in Molecular and Cellular Biology and minor in Computer Science From University of Arizona</li>
-                            <li>Received his M.S. degree in bioinformatics from Medical College of Wisconsin</li>
-                            <li>Received his PhD in Biology from Boston College</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </div>
-        <div class="team-wrapper">
-        <div class="row my-4">
-            <div class="col-md-6 col-xl-4">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/matthew-spear.png" class="object-fit-cover" style="    object-position: bottom;" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                        Matthew Spear, <span>MD</span>
-                    </h5>
-                    <p>
-                        Scientific Advisor
-                    </p>
-                    <div class="team-description">
-                        <ul class="theme-list pb-4 px-4">
-                            <li>Expert in guiding the development and commercialization of new drugs, therapies, and biotech products as Chief Development Officer and Chief Medical Officer of biotech companies</li>
-                            <li>Dr. Spear has been working in oncology and gene therapy research and development for over 30 years</li>
-                            <li>Currently Chief Development Officer / Chief Medical Officer at Denovo Biopharma</li>
-                            <li>Formerly Associate Professor on the faculty of the USC Keck School of Medicine, and the UCSD Medical School / UCSD Cancer Center where he managed a clinical practice, drug discovery/gene therapy research, and clinical trial programs for cancer.</li>
-                            <li>Formerly led multiple oncology clinical development programs at Pfizer</li>
-                            <li>Formerly served as Chief Medical Officer and Senior Vice-President at Nereus Pharmaceuticals</li>
-                            <li>Formerly Head of Oncology and Head of Biotherapeutics at Sunovion Pharmaceuticals</li>
-                            <li>Formerly Vice-President at Incyte and Sangamo Therapeutics</li>
-                            <li>Formerly Chief Medical Officer at Poseida Therapeutics developing multiple CAR-T cell and gene therapy products</li>
-                            <li>Received a B.A. degree from the Johns Hopkins University</li>
-                            <li>Received his M.D. degree from Stanford University</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4">
-                <div class="team-box">
-                    <div class="team-box-img">
-                        <a href="#">
-                            <img src="./assets/img/steven-warner.png" class="object-fit-cover" style="    object-position: bottom;" alt="john">
-                        </a>
-                    </div>
-                    <h5>
-                        Steven Warner, <span>PhD</span>
-                    </h5>
-                    <p>
-                        Scientific Advisor
-                    </p>
-                    <div class="team-description">
-                        <ul class="theme-list pb-4 px-4">
-                            <li>Specializes in small molecule drug discovery, new screening platforms in drug discovery, and translational research focusing on cancer therapeutics</li>
-                            <li>He is an expert in the discovery of novel cancer agents and has played integral roles in moving multiple compounds into clinical trials.</li>
-                            <li>Currently Senior VP and Head of US Research at Sumitomo Pharma America</li>
-                            <li>Formerly Manager of Discovery Biology at SuperGen</li>
-                            <li>Formerly Senior Manager of Drug Discovery at Huntsman Cancer Institute</li>
-                            <li>Formerly VP of Drug Discovery at Tolero Pharmaceuticals</li>
-                            <li>Received his B.S. in Biology from Brigham Young University</li>
-                            <li>Received his PhD in Pharmaceutical Sciences from the University of Arizona</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
         </div>
     </div>
 </section>
