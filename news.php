@@ -17,9 +17,17 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="dr-george-katibah-to-serve-as-the-company-chief-scientific-officer.php"></a>
+                    <span> November 19, 2024 </span>
+                    <h3>Dr. George Katibah to serve as the Company’s Chief Scientific Officer</h3>
+                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, announced today that Dr. George Katibah will serve as the company’s Chief Scientific Officer</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancervax-taps-flashpoint-therapeutics-nanotechnology-platform-to-drive-universal-cancer-treatment.php"></a>
                     <span> August 29, 2024</span>
-                    <h3>Cancervax Taps Flashpoint Therapeutics’ Nanotechnology Platform to Drive Universal Cancer Treatment  </h3>
+                    <h3>Cancervax Taps Flashpoint Therapeutics’ Nanotechnology Platform to Drive Universal Cancer Treatment </h3>
                     <p> Cancervax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has entered into a research agreement with Flashpoint Therapeutics to perform research on its newly patent-pending Universal Cancer Treatment platform </p>
                 </div>
             </div>
@@ -39,20 +47,12 @@ include('header.php'); ?>
                     <p> Cancervax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that the Company has added two key members to its cancer research team. Dr. Jonathan Lakey will serve as Chief Scientific Advisor and Dr. Adam Grant will serve as Principal Scientist </p>
                 </div>
             </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-successfully-uses-nobel-prize-chemistry-to-achieve-universal-cancer-vaccine-targeting-milestone.php"></a>
-                    <span> May 21, 2024</span>
-                    <h3>Cancervax Successfully Uses Nobel Prize Chemistry to Achieve Universal Cancer Treatment Targeting Milestone </h3>
-                    <p> Cancervax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has achieved a critical milestone by creating a process to add any antibody to lipid nanoparticles (LNP) using “click chemistry”, for targeting cancer cells </p>
-                </div>
-            </div>
         </div>
         <div class="news-see-archive">
             <a href="/news-archive">See All</a>
         </div>
 
-   
+
     </div>
 </section>
 <!-- <section class="news">
@@ -148,7 +148,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://www.pacbiztimes.com/2023/10/06/santa-barbara-firm-partners-with-ucla-for-new-cancer-treatments/" target="_blank"></a>
-                  
+
                     <span style="margin-top:30px;">OCTOBER 6, 2023</span>
                     <h3>Santa Barbara firm partners with UCLA for new cancer treatments</h3>
                 </div>
@@ -156,7 +156,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://rescue.ceoblognation.com/2023/09/13/18-entrepreneurs-share-some-of-the-best-leadership-ceo-hacks-and-resources/" target="_blank"></a>
-                 
+
                     <span style="margin-top:13px;">September 26, 2023</span>
                     <h3>18 Entrepreneurs Share Some of The Best Leadership CEO Hacks and Resources</h3>
                 </div>
@@ -164,7 +164,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://coruzant.com/health-tech/cancer-vaccines-where-are-we-now-and-where-are-we-going/" target="_blank"></a>
-                   
+
                     <span style="margin-top:15px;">September 23, 2023</span>
                     <h3>Cancer Vaccines: Where are We Now and Where are We Going?</h3>
                 </div>
@@ -172,7 +172,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://coruzant.com/profiles/ryan-davies/" target="_blank"></a>
-               
+
                     <span style="margin-top:13px;">August 14, 2023</span>
                     <h3>Serial Entrepreneur Using Science to Tackle the Biggest Disease with Founder Ryan Davies | Ep 693</h3>
                 </div>
@@ -180,7 +180,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://www.labiotech.eu/in-depth/sarcoma-research-advances/" target="_blank"></a>
-                   
+
                     <span style="margin-top:25px;">July 24, 2023</span>
                     <h3>Labiotech: Sarcoma Research: Is a Breakthrough in Sight?</h3>
                 </div>
@@ -188,7 +188,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://www.healthcarebusinesstoday.com/scientists-have-found-the-silver-bullet-for-pediatric-cancer/" target="_blank"></a>
-                  
+
                     <span style="margin-top:13px;">July 14, 2023</span>
                     <h3>Healthcare Business Today: Scientists Have Found The Silver Bullet for Pediatric Cancer</h3>
                 </div>
@@ -196,7 +196,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://www.healthleadersmedia.com/pharma/cancervax-ceo-sees-home-run-breakthrough-universal-cancer-vaccine" target="_blank"></a>
-                  
+
                     <span style="margin-top:25px;">June 22, 2023</span>
                     <h3>HealthLeaders: CancerVax CEO Sees a Homerun With Breakthrough Cancer Vaccine</h3>
                 </div>
@@ -204,7 +204,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://www.healthcarebusinesstoday.com/scientists-have-found-the-silver-bullet-for-pediatric-cancer/" target="_blank"></a>
-                    
+
                     <span style="margin-top:8px;">July 14, 2023</span>
                     <h3>Scientists Have Found The Silver Bullet For Pediatric Cancer</h3>
                 </div>
@@ -212,7 +212,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="https://www.healthleadersmedia.com/pharma/cancervax-ceo-sees-home-run-breakthrough-universal-cancer-vaccine" target="_blank"></a>
-                
+
                     <span style="margin-top:23px;">JUNE 22, 2023</span>
                     <h3>CancerVax CEO Sees a Home Run With Breakthrough Universal Cancer Treatment</h3>
                 </div>
