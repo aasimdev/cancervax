@@ -31,7 +31,7 @@ include('../header.php'); ?>
               
             </div>
         </div>
-        <div class="row">
+        <div class="row justify-content-center">
             <div class="col-lg-4 col-md-6">
                 <div class="vCatBox">
                     <a href="#news-commentary">
@@ -42,7 +42,7 @@ include('../header.php'); ?>
                     </a>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
+<!--            <div class="col-lg-4 col-md-6">
                 <div class="vCatBox">
                     <a href="#podcast">
                         <div class="vCatBox-thumb">
@@ -51,7 +51,7 @@ include('../header.php'); ?>
                         <span>Podcast</span>
                     </a>
                 </div>
-            </div>
+            </div>-->
 
             <div class="col-lg-4 col-md-6">
                 <div class="vCatBox">
