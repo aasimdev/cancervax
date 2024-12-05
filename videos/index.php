@@ -12,23 +12,20 @@ include('../header.php'); ?>
 </section>
 
 <div class="videoCategories">
-
     <div class="container">
         <div class="trend-video">
             <div class="row justify-content-center">
                 <div class="col-lg-6">
-                <div class="video-section">
-                                <h3 class="banner-video-head">Short Explainer Video</h3>
-                                <div class="banner-video-top m-0 position-relative">
-                                    <a href="https://www.youtube.com/watch?v=PXBNJe3nHp0" class="popup-youtube">
-                                        <img src="https://i.ytimg.com/vi/PXBNJe3nHp0/maxresdefault.jpg" alt="hero" class="img-fluid">
-                                        <i class="far fa-play-circle"></i>
-                                    </a>
-                                </div>
-
-                            </div>
+                    <div class="video-section">
+                        <h3 class="banner-video-head">Short Explainer Video</h3>
+                        <div class="banner-video-top m-0 position-relative">
+                            <a href="https://www.youtube.com/watch?v=PXBNJe3nHp0" class="popup-youtube">
+                                <img src="https://i.ytimg.com/vi/PXBNJe3nHp0/maxresdefault.jpg" alt="hero" class="img-fluid">
+                                <i class="far fa-play-circle"></i>
+                            </a>
+                        </div>
+                    </div>
                 </div>
-              
             </div>
         </div>
         <div class="row justify-content-center">
@@ -42,7 +39,7 @@ include('../header.php'); ?>
                     </a>
                 </div>
             </div>
-<!--            <div class="col-lg-4 col-md-6">
+            <!--            <div class="col-lg-4 col-md-6">
                 <div class="vCatBox">
                     <a href="#podcast">
                         <div class="vCatBox-thumb">
@@ -93,8 +90,8 @@ include('../header.php'); ?>
             $latestNewsCommentary = array_slice($filteredNewsCommentaryVideos, 0, 4);
 
             foreach ($latestNewsCommentary as $video) {
-                if($video['date']){
-                    $title = $video['date']. " - " .$video['title'];
+                if ($video['date']) {
+                    $title = $video['date'] . " - " . $video['title'];
                 } else {
                     $title = $video['title'];
                 }
@@ -137,8 +134,8 @@ include('../header.php'); ?>
 
             $latestCeoPodcast = array_slice($filteredlatestCeoPodcast, 0, 4);
             foreach ($latestCeoPodcast as $video) {
-                if($video['date']){
-                    $title = $video['date']. " - " .$video['title'];
+                if ($video['date']) {
+                    $title = $video['date'] . " - " . $video['title'];
                 } else {
                     $title = $video['title'];
                 }
