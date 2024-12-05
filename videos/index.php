@@ -119,7 +119,7 @@ include('../header.php'); ?>
 </section>
 
 
-<section class="nCommentary" id="podcast">
+<!--<section class="nCommentary" id="podcast">
     <div class="container">
         <div class="nCommentary-heading">
             <h3>Podcast</h3>
@@ -159,7 +159,7 @@ include('../header.php'); ?>
             ?>
         </div>
     </div>
-</section>
+</section>-->
 
 
 <section class="nCommentary pb-0">
