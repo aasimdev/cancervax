@@ -290,6 +290,14 @@ include('header.php'); ?>
     <div class="container">
         <h4>News Highlights</h4>
         <div class="row">
+        <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="dr-george-katibah-to-serve-as-the-company-chief-scientific-officer.php"></a>
+                    <span> November 19, 2024 </span>
+                    <h3>Dr. George Katibah to serve as the Company’s Chief Scientific Officer</h3>
+                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, announced today that Dr. George Katibah will serve as the company’s Chief Scientific Officer</p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-taps-flashpoint-therapeutics-nanotechnology-platform-to-drive-universal-cancer-treatment.php"></a>
@@ -312,14 +320,6 @@ include('header.php'); ?>
                     <span> August 1, 2024</span>
                     <h3>Cancervax Adds Key Members to Its Research Team </h3>
                     <p> Cancervax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that the Company has added two key members to its cancer research team. Dr. Jonathan Lakey will serve as Chief Scientific Advisor and Dr. Adam Grant will serve as Principal Scientist. </p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-successfully-uses-nobel-prize-chemistry-to-achieve-universal-cancer-vaccine-targeting-milestone.php"></a>
-                    <span> May 21, 2024</span>
-                    <h3>Cancervax Successfully Uses Nobel Prize Chemistry to Achieve Universal Cancer Treatment Targeting Milestone </h3>
-                    <p> Cancervax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has achieved a critical milestone by creating a process to add any antibody to lipid nanoparticles (LNP) using “click chemistry,” for targeting cancer cells. </p>
                 </div>
             </div>
 
