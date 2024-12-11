@@ -17,6 +17,22 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php"></a>
+                    <span>December 11, 2024  </span>
+                    <h3>CancerVax Targets Hard to Treat Pancreatic Cancer</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, announced today that the Company has selected Pancreatic Ductal Adenocarcinoma (PDAC) as one of its first targets for preclinical development</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="dr-george-katibah-to-serve-as-the-company-chief-scientific-officer.php"></a>
+                    <span> November 19, 2024 </span>
+                    <h3>Dr. George Katibah to serve as the Company’s Chief Scientific Officer</h3>
+                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, announced today that Dr. George Katibah will serve as the company’s Chief Scientific Officer</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancervax-taps-flashpoint-therapeutics-nanotechnology-platform-to-drive-universal-cancer-treatment.php"></a>
                     <span> August 29, 2024</span>
                     <h3>Cancervax Taps Flashpoint Therapeutics’ Nanotechnology Platform to Drive Universal Cancer Treatment  </h3>

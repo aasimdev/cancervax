@@ -292,6 +292,14 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php"></a>
+                    <span>December 11, 2024  </span>
+                    <h3>CancerVax Targets Hard to Treat Pancreatic Cancer</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, announced today that the Company has selected Pancreatic Ductal Adenocarcinoma (PDAC) as one of its first targets for preclinical development</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
                     <a href="dr-george-katibah-to-serve-as-the-company-chief-scientific-officer.php"></a>
                     <span> November 19, 2024 </span>
                     <h3>Dr. George Katibah to serve as the Company’s Chief Scientific Officer</h3>
@@ -312,14 +320,6 @@ include('header.php'); ?>
                     <span> August 27, 2024</span>
                     <h3>Cancervax Files New Patent for Its Novel Universal Cancer Treatment Platform </h3>
                     <p> Cancervax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has recently filed a new patent application which includes a Smart mRNA Technology. mRNA, short for messenger RNA, is the underlying technology that made the COVID-19 vaccine so effective and inexpensive. </p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-adds-key-members-to-its-research-team.php"></a>
-                    <span> August 1, 2024</span>
-                    <h3>Cancervax Adds Key Members to Its Research Team </h3>
-                    <p> Cancervax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that the Company has added two key members to its cancer research team. Dr. Jonathan Lakey will serve as Chief Scientific Advisor and Dr. Adam Grant will serve as Principal Scientist. </p>
                 </div>
             </div>
 
