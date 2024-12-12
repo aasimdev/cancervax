@@ -125,9 +125,8 @@ include('header.php'); ?>
 
                     <div class="banner-announcement">
                         <h4>Breaking News</h4>
-                        <p>CancerVax Files New Patent for Its Novel
-                            Universal Cancer Treatment Platform</p>
-                        <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php" class="theme-btn">Learn More</a>
+                        <p>CancerVax Targets Hard to Treat Pancreatic Cancer</p>
+                        <a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php" class="theme-btn">Learn More</a>
                     </div>
 
 
