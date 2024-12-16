@@ -18,6 +18,7 @@ include('header.php'); ?>
     }
 </style>
 
+
 <section class="banner-main">
     <div class="banner-main-bg">
         <div class="container">
@@ -63,6 +64,7 @@ include('header.php'); ?>
     </div>
 
 </section>
+
 
 <section class="banner">
     <div class="banner__content">
@@ -139,7 +141,7 @@ include('header.php'); ?>
 </section>
 
 
-<div class="ctreament pt-5">
+<div class="ctreament">
     <div class="container">
         <div class="ctreament-wrap">
             <div class="ctreament-heading">
@@ -186,53 +188,9 @@ include('header.php'); ?>
     </div>
 </div>
 
-<section class="pvRecent pt-5 pb-4">
-    <div class="ceochats-carousel">
-        <?php
-
-        foreach ($videos as $video) :
-            $categoryName = ucwords(str_replace('-', ' ', $video['category']));
-            if ($video['category'] === "ceo-podcast") {
-                $categoryName = "Podcast";
-            }
-        ?>
-            <div class="cchat">
-                <div class="cchat-box">
-                    <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=<?= $video['videoID'] ?>"></a>
-                    <div class="cchat-thumbnail thumbnail-overlay">
-                        <img src="//img.youtube.com/vi/<?= $video['videoID'] ?>/maxresdefault.jpg" alt="Thumbnail">
-                    </div>
-                    <i class="far fa-play-circle"></i>
-                </div>
-                <p><?= $categoryName ?> - <?= $video['title'] ?></p>
-
-            </div>
-        <?php endforeach; ?>
-    </div>
-</section>
-
-
-
-
-
-<section class="newsletter home-newsletter">
-    <div class="container">
-        <div class="newsletter-wrap">
-            <h2>SUBSCRIBE</h2>
-            <p>Keep up with our progress by subscribing to our email newsletter!</p>
-            <form action="https://submit.jotform.com/submit/242775392698071/" method="POST">
-                <input type="hidden" name="formID" value="242775392698071" />
-                <input type="email" id="input_3" name="q3_email" class="form-control" placeholder="Your email address...">
-                <button type="submit">Subscribe</button>
-            </form>
-            <!-- <div id="icontactSignupFormWrapper956">
-                <script type="text/javascript" async src="https://app.icontact.com/icp/core/mycontacts/signup/designer/form/automatic?id=956&cid=1868283&lid=5400&divid=icontactSignupFormWrapper956"></script>
-            </div> -->
-        </div>
-    </div>
-</section>
 
 <div class="divider-section"></div>
+
 
 <section class="redefining">
     <div class="container">
@@ -242,6 +200,7 @@ include('header.php'); ?>
         </div>
     </div>
 </section>
+
 
 <section class="pclinical">
     <div class="container">
@@ -254,6 +213,112 @@ include('header.php'); ?>
         </div>
     </div>
 </section>
+
+
+<section class="nCommentary pt-0" id="short-videos">
+    <div class="container">
+    <h2 class="banner-video-head">One Minute Explainer Videos    </h2>
+        <div class="row justify-content-center g-sm-5">
+            <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=SLj-WU08GJQ"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                            <img src="//img.youtube.com/vi/SLj-WU08GJQ/maxresdefault.jpg" alt="Thumbnail">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">CancerVax - Weapon Against Cancer</p>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=RSgh0qaEUO4"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                            <img src="//img.youtube.com/vi/RSgh0qaEUO4/maxresdefault.jpg" alt="Thumbnail">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">CancerVax - Making Cancer Look Like Measles</p>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=kOxGWgLwuDs"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                            <img src="//img.youtube.com/vi/kOxGWgLwuDs/maxresdefault.jpg" alt="Thumbnail">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">CancerVax - Immune System Memory</p>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=8ESunhDXzU4"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                            <img src="//img.youtube.com/vi/8ESunhDXzU4/maxresdefault.jpg" alt="Thumbnail">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">CancerVax - Let's Talk About Cancer</p>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=hmvMkgdIP7E"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                            <img src="//img.youtube.com/vi/hmvMkgdIP7E/maxresdefault.jpg" alt="Thumbnail">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">CancerVax - Realities of Chemo and Radiation</p>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=W6fbVgrutxI"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                            <img src="//img.youtube.com/vi/W6fbVgrutxI/maxresdefault.jpg" alt="Thumbnail">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">CancerVax - Groundbreaking Treatment</p>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=SLj-WU08GJQ"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                            <img src="//img.youtube.com/vi/SLj-WU08GJQ/maxresdefault.jpg" alt="Thumbnail">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">CancerVax - Weapon Against Cancer</p>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=RSgh0qaEUO4"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay">
+                            <img src="//img.youtube.com/vi/RSgh0qaEUO4/maxresdefault.jpg" alt="Thumbnail">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                    <p class="mt-0">CancerVax - Making Cancer Look Like Measles</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 
 <section class="worldhealth-n">
     <div class="container">
@@ -283,6 +348,31 @@ include('header.php'); ?>
     </div>
 </section>
 
+
+<section class="pvRecent pt-5 pb-4">
+    <div class="ceochats-carousel">
+        <?php
+
+        foreach ($videos as $video) :
+            $categoryName = ucwords(str_replace('-', ' ', $video['category']));
+            if ($video['category'] === "ceo-podcast") {
+                $categoryName = "Podcast";
+            }
+        ?>
+            <div class="cchat">
+                <div class="cchat-box">
+                    <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=<?= $video['videoID'] ?>"></a>
+                    <div class="cchat-thumbnail thumbnail-overlay">
+                        <img src="//img.youtube.com/vi/<?= $video['videoID'] ?>/maxresdefault.jpg" alt="Thumbnail">
+                    </div>
+                    <i class="far fa-play-circle"></i>
+                </div>
+                <p><?= $categoryName ?> - <?= $video['title'] ?></p>
+
+            </div>
+        <?php endforeach; ?>
+    </div>
+</section>
 
 
 <section class="newshighlight">
@@ -324,6 +414,24 @@ include('header.php'); ?>
 
         </div>
 
+    </div>
+</section>
+
+
+<section class="newsletter home-newsletter">
+    <div class="container">
+        <div class="newsletter-wrap">
+            <h2>SUBSCRIBE</h2>
+            <p>Keep up with our progress by subscribing to our email newsletter!</p>
+            <form action="https://submit.jotform.com/submit/242775392698071/" method="POST">
+                <input type="hidden" name="formID" value="242775392698071" />
+                <input type="email" id="input_3" name="q3_email" class="form-control" placeholder="Your email address...">
+                <button type="submit">Subscribe</button>
+            </form>
+            <!-- <div id="icontactSignupFormWrapper956">
+                <script type="text/javascript" async src="https://app.icontact.com/icp/core/mycontacts/signup/designer/form/automatic?id=956&cid=1868283&lid=5400&divid=icontactSignupFormWrapper956"></script>
+            </div> -->
+        </div>
     </div>
 </section>
 

@@ -432,12 +432,12 @@
         bottom: -60px;
 
         span {
-            font-size: 12px;
+            font-size: 24px;
             font-weight: 700;
             letter-spacing: 4.4px;
-            color: #000000;
+            color: #000;
             line-height: 1;
-            margin: 0em 0em 2em 0em;
+            margin: 0 0 16px 0;
             display: block;
             text-indent: 12px;
         }
@@ -2643,7 +2643,7 @@ label.error {
 
 .ctreament {
     background: #fff;
-
+padding: 50px 0;
     &-wrap {
         background: #1D8F97;
         border-radius: 5px;
