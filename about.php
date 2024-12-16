@@ -71,14 +71,19 @@ include('header.php'); ?>
                             George Katibah, <span>PhD</span>
                         </h5>
                         <p>
-                            Chief Scientific Officer 
+                            Chief Scientific Officer
                         </p>
                         <div class="team-description">
                             <ul class="theme-list pb-4 px-4">
-                                <li>Former Director, Discovery Biology RAPT Therapeutics</li>
-                                <li>
-                                    Expert in oncology, immunology, host-pathogen interactions, personalized medicine, and genetic disorders.
-                                </li>
+                                <li>Expert in the discovery, development, and translation of novel therapies across diverse therapeutic modalities</li>
+                                <li>Deep background in immunology and the tumor microenvironment</li>
+                                <li>Broad therapeutic domain expertise, including oncology, immunology, personalized medicine, and infectious diseases</li>
+                                <li>Part of teams that developed the first-in-human drug candidates, including small molecule STING agonists and personalized cancer neoantigen vaccine</li>
+                                <li>Co-authored more than 16 scientific papers and inventor on 3 issued U.S. patents and multiple pending applications</li>
+                                <li>Formerly Director of Discovery Biology at RAPT Therapeutics</li>
+                                <li>Formerly Senior Scientist and Head of Biochemistry at Aduro Biotech</li>
+                                <li>Received his B.S. in Plant Sciences from the University of California, Santa Cruz</li>
+                                <li>Received his PhD in Molecular and Cell Biology from the University of California, Berkeley</li>
                             </ul>
                         </div>
                     </div>
@@ -111,13 +116,13 @@ include('header.php'); ?>
                     </div>
                 </div>
 
-              
+
 
             </div>
         </div>
         <div class="team-wrapper">
             <div class="row my-4 justify-content-center">
-            <div class="col-md-6 col-xl-4">
+                <div class="col-md-6 col-xl-4">
                     <div class="team-box">
                         <div class="team-box-img">
                             <a href="#">
