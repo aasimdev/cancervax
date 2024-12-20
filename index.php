@@ -127,8 +127,8 @@ include('header.php'); ?>
 
                     <div class="banner-announcement">
                         <h4>Breaking News</h4>
-                        <p>CancerVax Targets Hard to Treat Pancreatic Cancer</p>
-                        <a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php" class="theme-btn">Learn More</a>
+                        <p>CancerVax Passes First Test <br> with Flying Colors</p>
+                        <a href="cancervax-passes-first-test-with-flying-colors.php" class="theme-btn">Learn More</a>
                     </div>
 
 
@@ -381,6 +381,14 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="cancervax-passes-first-test-with-flying-colors.php"></a>
+                    <span>December 20, 2024 </span>
+                    <h3>CancerVax Passes First Test with Flying Colors</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, today announced the successful functional validation of its innovative Smart mRNA (messenger RNA) technology in lab tests</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php"></a>
                     <span>December 11, 2024  </span>
                     <h3>CancerVax Targets Hard to Treat Pancreatic Cancer</h3>
@@ -401,14 +409,6 @@ include('header.php'); ?>
                     <span> August 29, 2024</span>
                     <h3>Cancervax Taps Flashpoint Therapeutics’ Nanotechnology Platform to Drive Universal Cancer Treatment </h3>
                     <p> Cancervax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has entered into a research agreement with Flashpoint Therapeutics to perform research on its newly patent-pending Universal Cancer Treatment platform. </p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php"></a>
-                    <span> August 27, 2024</span>
-                    <h3>Cancervax Files New Patent for Its Novel Universal Cancer Treatment Platform </h3>
-                    <p> Cancervax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has recently filed a new patent application which includes a Smart mRNA Technology. mRNA, short for messenger RNA, is the underlying technology that made the COVID-19 vaccine so effective and inexpensive. </p>
                 </div>
             </div>
 

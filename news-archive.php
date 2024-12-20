@@ -17,6 +17,14 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="cancervax-passes-first-test-with-flying-colors.php"></a>
+                    <span>December 20, 2024 </span>
+                    <h3>CancerVax Passes First Test with Flying Colors</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, today announced the successful functional validation of its innovative Smart mRNA (messenger RNA) technology in lab tests</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php"></a>
                     <span>December 11, 2024  </span>
                     <h3>CancerVax Targets Hard to Treat Pancreatic Cancer</h3>
