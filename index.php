@@ -96,24 +96,24 @@ include('header.php'); ?>
 
                         <p> Our innovative approach <strong>DETECTS, MARKS, and KILLS</strong> only cancer cells. By making cancer cells “look” like well-immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill cancer cells. </p>
 
-                     
+
                         <p> We look forward to the day when treating cancer will be as simple as getting a shot – a better way to fight cancer.
                         </p>
 
                     </div>
                 </div>
                 <div class="col-lg-5">
-                <h2 class="banner-video-head d-none d-lg-block d-xl-none">Short Explainer Video</h2>
-                <div class="banner-video banner-video-top d-none d-lg-block d-xl-none">
-                    <div class="banner-thumbnail">
-                        <img src="./assets/img/home-video-thumbnail.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail.jpg'); ?>" alt="thumbnail">
+                    <h2 class="banner-video-head d-none d-lg-block d-xl-none">Short Explainer Video</h2>
+                    <div class="banner-video banner-video-top d-none d-lg-block d-xl-none">
+                        <div class="banner-thumbnail">
+                            <img src="./assets/img/home-video-thumbnail.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail.jpg'); ?>" alt="thumbnail">
+                        </div>
+                        <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="theme-btn text-uppercase popup-youtube">
+                            <i class="far fa-play-circle"></i>
+                            <span>Watch video</span>
+                        </a>
                     </div>
-                    <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="theme-btn text-uppercase popup-youtube">
-                        <i class="far fa-play-circle"></i>
-                        <span>Watch video</span>
-                    </a>
-                </div>
-                <h2 class="banner-video-head d-none d-lg-block">Interview with Our Principal Scientist</h2>
+                    <h2 class="banner-video-head d-none d-lg-block">Interview with Our Principal Scientist</h2>
                     <div class="banner-video banner-video-top d-none d-lg-block">
                         <div class="banner-thumbnail">
                             <img src="//img.youtube.com/vi/asKKFnY-LFk/maxresdefault.jpg" alt="thumbnail">
@@ -217,7 +217,7 @@ include('header.php'); ?>
 
 <section class="nCommentary pt-0" id="short-videos">
     <div class="container">
-    <h2 class="banner-video-head">One Minute Explainer Videos    </h2>
+        <h2 class="banner-video-head">One Minute Explainer Videos </h2>
         <div class="row justify-content-center g-sm-5">
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
@@ -379,7 +379,7 @@ include('header.php'); ?>
     <div class="container">
         <h4>News Highlights</h4>
         <div class="row">
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-passes-first-test-with-flying-colors.php"></a>
                     <span>December 20, 2024 </span>
@@ -387,15 +387,15 @@ include('header.php'); ?>
                     <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, today announced the successful functional validation of its innovative Smart mRNA (messenger RNA) technology in lab tests</p>
                 </div>
             </div>
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php"></a>
-                    <span>December 11, 2024  </span>
+                    <span>December 11, 2024 </span>
                     <h3>CancerVax Targets Hard to Treat Pancreatic Cancer</h3>
                     <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, announced today that the Company has selected Pancreatic Ductal Adenocarcinoma (PDAC) as one of its first targets for preclinical development</p>
                 </div>
             </div>
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="news-item">
                     <a href="dr-george-katibah-to-serve-as-the-company-chief-scientific-officer.php"></a>
                     <span> November 19, 2024 </span>
@@ -426,11 +426,29 @@ include('header.php'); ?>
             <form action="https://submit.jotform.com/submit/242775392698071/" method="POST">
                 <input type="hidden" name="formID" value="242775392698071" />
                 <input type="email" id="input_3" name="q3_email" class="form-control" placeholder="Your email address...">
-                <button type="submit">Subscribe</button>
+                <div class="form-line control-formnew mt-2 jf-required" data-type="control_captcha" id="id_4"><label class="form-label form-label-top form-label-auto" id="label_4" for="input_4" aria-hidden="false"> Please verify that you are human<span class="form-required">*</span> </label>
+                    <div id="cid_4" class="form-input-wide jf-required" data-layout="full">
+                        <section data-wrapper-react="true">
+                            <div id="hcaptcha_input_4" class="h-captcha" data-siteKey="772f4a50-7161-425e-8cd5-4d7e361ab765" data-callback="hcaptchaCallbackinput_4" data-expired-callback="hcaptchaExpiredCallbackinput_4"></div><input type="hidden" id="input_4" class="hidden validate[required]" name="hcaptcha_visible" required="" />
+                            <script type="text/javascript" src="https://hcaptcha.com/1/api.js"></script>
+                        </section>
+                    </div>
+                </div>
+                <button type="submit" id="submitNewsletterButton">Subscribe</button>
             </form>
-            <!-- <div id="icontactSignupFormWrapper956">
-                <script type="text/javascript" async src="https://app.icontact.com/icp/core/mycontacts/signup/designer/form/automatic?id=956&cid=1868283&lid=5400&divid=icontactSignupFormWrapper956"></script>
-            </div> -->
+            <script>
+                const submitNewsletterButton = document.getElementById('submitNewsletterButton');
+
+                function onCaptchaSuccess(token) {
+                    document.getElementById('input_4').value = token;
+                    submitNewsletterButton.disabled = false;
+                }
+
+                function onCaptchaExpired() {
+                    document.getElementById('input_4').value = '';
+                    submitNewsletterButton.disabled = true;
+                }
+            </script>
         </div>
     </div>
 </section>

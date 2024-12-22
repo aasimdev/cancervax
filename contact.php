@@ -19,9 +19,9 @@ include('header.php'); ?>
                             <div class="contact-info-item">
                                 <h3>UTAH</h3>
                                 <p><a href="https://goo.gl/maps/5xZJ6Byy4tZt2P7AA" target="_blank" rel="noopener noreferrer">
-                            
-                                1633 W Innovation Way <br> 4th floor, Lehi, UT 84043
-                            </a></p>
+
+                                        1633 W Innovation Way <br> 4th floor, Lehi, UT 84043
+                                    </a></p>
                             </div>
                         </div>
                         <div class="col-sm-7">
@@ -53,12 +53,34 @@ include('header.php'); ?>
                             <label for="input_5" class="form-label">Subject</label>
                             <input type="text" name="q5_typeA5" class="form-control" id="input_5">
                         </div>
-                        <div class="mb-5">
+                        <div class="mb-3">
                             <label for="input_6" class="form-label">Your message (optional)</label>
                             <textarea class="form-control" id="input_6" name="q6_typeA6" rows="10"></textarea>
                         </div>
-                        <button type="submit">Submit</button>
+                        <div class="form-line mb-5 jf-required" data-type="control_captcha" id="id_7"><label class="form-label form-label-top form-label-auto" id="label_7" for="input_7" aria-hidden="false"> Please verify that you are human<span class="form-required">*</span> </label>
+                            <div id="cid_7" class="form-input-wide jf-required" data-layout="full">
+                                <section data-wrapper-react="true">
+                                    <div id="hcaptcha_input_7" class="h-captcha" data-siteKey="772f4a50-7161-425e-8cd5-4d7e361ab765" data-callback="hcaptchaCallbackinput_7" data-expired-callback="hcaptchaExpiredCallbackinput_7"></div><input type="hidden" id="input_7" class="hidden validate[required]" name="hcaptcha_visible" required="" />
+                                    <script type="text/javascript" src="https://hcaptcha.com/1/api.js"></script>
+                                </section>
+                            </div>
+                        </div>
+                        <button type="submit" id="submitButton" >Submit</button>
                     </form>
+                    <script>
+                const submitButton = document.getElementById('submitButton');
+
+                function onCaptchaSuccess(token) {
+                    document.getElementById('input_7').value = token;
+                    submitButton.disabled = false; 
+                }
+
+                // Callback function when hCaptcha expires
+                function onCaptchaExpired() {
+                    document.getElementById('input_7').value = '';
+                    submitButton.disabled = true;
+                }
+            </script>
                 </div>
             </div>
         </div>

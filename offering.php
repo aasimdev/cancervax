@@ -482,10 +482,10 @@ include "header.php";
 
             <p> PLEASE NOTE INVESTORS IN THIS OFFERING WILL BE CLIENTS OF THE ISSUER AND NOT DALMORE GROUP, LLC (“DALMORE”), A REGISTERED BROKER-DEALER AND MEMBER FINRA/SIPC. DALMORE’S ROLE IN THE TRANSACTION IS TO FACILITATE BACK OFFICE AND REGULATORY FUNCTIONS RELATED TO THE REGULATION A TRANSACTION, AND ACTS ONLY AS THE BROKER/DEALER OF RECORD FOR THE OFFERING LISTED. DALMORE IS NOT PROVIDING INVESTMENT ADVICE OR RECOMMENDATIONS, OR LEGAL OR TAX ADVICE.</p>
 
-           <p> AN OFFERING STATEMENT REGARDING THIS OFFERING HAS BEEN FILED WITH THE SEC. THE SEC HAS QUALIFIED THAT OFFERING STATEMENT, WHICH ONLY MEANS THAT THE COMPANY MAY MAKE SALES OF THE SECURITIES DESCRIBED BY THE OFFERING STATEMENT. IT DOES NOT MEAN THAT THE SEC HAS APPROVED, PASSED UPON THE MERITS OR PASSED UPON THE ACCURACY OR COMPLETENESS OF THE INFORMATION IN THE OFFERING STATEMENT. THE OFFERING CIRCULAR
+            <p> AN OFFERING STATEMENT REGARDING THIS OFFERING HAS BEEN FILED WITH THE SEC. THE SEC HAS QUALIFIED THAT OFFERING STATEMENT, WHICH ONLY MEANS THAT THE COMPANY MAY MAKE SALES OF THE SECURITIES DESCRIBED BY THE OFFERING STATEMENT. IT DOES NOT MEAN THAT THE SEC HAS APPROVED, PASSED UPON THE MERITS OR PASSED UPON THE ACCURACY OR COMPLETENESS OF THE INFORMATION IN THE OFFERING STATEMENT. THE OFFERING CIRCULAR
                 THAT IS PART OF THAT OFFERING STATEMENT IS AT: [INSERT LINK TO S-1A FILING W SEC]</p>
 
-            <p>               DALMORE GROUP LLC’S, ROLE IN REG A OFFERINGS ARE LIMITED TO SERVING AS THE BROKER-DEALER OF RECORD. IN THIS CAPACITY DALMORE POVIDES VERY NARROW AND SPECIFIC SERVICES TO THE ISSUERS AND INVESTORS, WHICH DOES NOT INCLUDE INVESTMENT RECOMMENDATIONS IN ANY CAPACITY. IT'S IMPORTANT THAT DALMORE GROUP LLC EMPHASIZES IT IS NOT ENGAGED IN THE PLACEMENT OR SALE OF THESE SECURITIES ON BEHALF OF THE ISSUER., NOR IS IT ACTIVELY SEEKING INVESTMENTS FOR THE ISSUER OR FURNISHING RECOMMENDATIONS. RATHER, THEIR INVOLVEMENT REVOLVES AROUND THE METICULOUS <br>
+            <p> DALMORE GROUP LLC’S, ROLE IN REG A OFFERINGS ARE LIMITED TO SERVING AS THE BROKER-DEALER OF RECORD. IN THIS CAPACITY DALMORE POVIDES VERY NARROW AND SPECIFIC SERVICES TO THE ISSUERS AND INVESTORS, WHICH DOES NOT INCLUDE INVESTMENT RECOMMENDATIONS IN ANY CAPACITY. IT'S IMPORTANT THAT DALMORE GROUP LLC EMPHASIZES IT IS NOT ENGAGED IN THE PLACEMENT OR SALE OF THESE SECURITIES ON BEHALF OF THE ISSUER., NOR IS IT ACTIVELY SEEKING INVESTMENTS FOR THE ISSUER OR FURNISHING RECOMMENDATIONS. RATHER, THEIR INVOLVEMENT REVOLVES AROUND THE METICULOUS <br>
                 COLLECTION, ASSESSMENT, AND PROCESSING OF AN INVESTOR'S DOCUMENTATION FOR THIS INVESTMENT OPPORTUNITY. NOTABLY, DALMORE GROUP LLC DILIGENTLY UNDERTAKES ANTI-MONEY LAUNDERING, IDENTITY, AND BAD ACTOR DISQUALIFICATION REVIEWS OF THE ISSUER, AND VERIFIES THEIR STATUS AS A REGISTERED AND LEGITIMATE BUSINESS ENTITY. HOWEVER, IT'S ESSENTIAL TO UNDERSTAND THAT DALMORE GROUP LLC DOES NOT UNDERTAKE THE TASK
                 OF EVALUATING OR ENDORSING THE INFORMATION PROVIDED BY THE ISSUER OR THE ISSUER ITSELF.</p>
             <p> PLEASE REFER TO DALMORE GROUP, LLC’S CONTACT DETAILS FOR INVESTOR INQUIRIES AND REQUESTS PERTAINING TO REGULATION A IN GENERAL, OR THE SPECIFIC STATUS OF SUBMITTED DOCUMENTATION. IN RESPONSE DALMORE GROUP LLC MAY GUIDE INVESTORS TO PERTINENT SECTIONS WITHIN THE OFFERING CIRCULAR TO LOCATE THE INFORMATION OR ANSWERS TO THEIR QUERIES. PLEASE BE MINDFUL THAT DALMORE GROUP LLC REFRAINS FROM RENDERING OPINIONS OR GUIDANCE CONCERNING ISSUER-RELATED MATTERS.</p>
@@ -502,11 +502,32 @@ include "header.php";
                     </div>
                 </div>
                 <div class="col-lg-5">
-                <form action="https://submit.jotform.com/submit/242775392698071/" method="POST" class="email-input">
-                            <input type="hidden" name="formID" value="242775392698071" />
-                            <input type="email" id="input_3" name="q3_email" class="form-control" placeholder="Enter your email">
-                            <button type="submit">Subscribe</button>
-                        </form>
+                    <form action="https://submit.jotform.com/submit/242775392698071/" method="POST" class="email-input">
+                        <input type="hidden" name="formID" value="242775392698071" />
+                        <input type="email" id="input_3" name="q3_email" class="form-control" placeholder="Enter your email">
+                        <div class="form-line control-formnew mt-2 jf-required" data-type="control_captcha" id="id_4"><label class="form-label form-label-top form-label-auto" id="label_4" for="input_4" aria-hidden="false"> Please verify that you are human<span class="form-required">*</span> </label>
+                            <div id="cid_4" class="form-input-wide jf-required" data-layout="full">
+                                <section data-wrapper-react="true">
+                                    <div id="hcaptcha_input_4" class="h-captcha" data-siteKey="772f4a50-7161-425e-8cd5-4d7e361ab765" data-callback="hcaptchaCallbackinput_4" data-expired-callback="hcaptchaExpiredCallbackinput_4"></div><input type="hidden" id="input_4" class="hidden validate[required]" name="hcaptcha_visible" required="" />
+                                    <script type="text/javascript" src="https://hcaptcha.com/1/api.js"></script>
+                                </section>
+                            </div>
+                        </div>
+                        <button type="submit" id="submitNewsletterButton">Subscribe</button>
+                    </form>
+                    <script>
+                        const submitNewsletterButton = document.getElementById('submitNewsletterButton');
+
+                        function onCaptchaSuccess(token) {
+                            document.getElementById('input_4').value = token;
+                            submitNewsletterButton.disabled = false;
+                        }
+
+                        function onCaptchaExpired() {
+                            document.getElementById('input_4').value = '';
+                            submitNewsletterButton.disabled = true;
+                        }
+                    </script>
                     <div class="we-care">We care about your data in our privacy policy</div>
                 </div>
             </div>
