@@ -962,8 +962,8 @@
 
 .email-input {
   display: flex;
-  align-items: center;
-  gap: 10px;
+  flex-direction: column;
+  position: relative;
 }
 
 .email-input input {
@@ -971,6 +971,8 @@
   border: 1px solid #1d8f97;
   border-radius: 6px;
   width: 100%;
+  height: 50px;
+  padding-right: 120px;
 }
 
 .email-input Button {
@@ -981,7 +983,10 @@
   font-weight: 500;
   border: none;
   border-radius: 6px;
-  cursor: pointer;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 50px;
 }
 
 .we-care {

@@ -429,12 +429,12 @@ include('header.php'); ?>
                 <div class="form-line control-formnew mt-2 jf-required" data-type="control_captcha" id="id_4"><label class="form-label form-label-top form-label-auto" id="label_4" for="input_4" aria-hidden="false"> Please verify that you are human<span class="form-required">*</span> </label>
                     <div id="cid_4" class="form-input-wide jf-required" data-layout="full">
                         <section data-wrapper-react="true">
-                            <div id="hcaptcha_input_4" class="h-captcha" data-siteKey="772f4a50-7161-425e-8cd5-4d7e361ab765" data-callback="hcaptchaCallbackinput_4" data-expired-callback="hcaptchaExpiredCallbackinput_4"></div><input type="hidden" id="input_4" class="hidden validate[required]" name="hcaptcha_visible" required="" />
+                            <div id="hcaptcha_input_4" class="h-captcha" data-siteKey="772f4a50-7161-425e-8cd5-4d7e361ab765" data-callback="onCaptchaSuccess" data-expired-callback="onCaptchaExpired"></div><input type="hidden" id="input_4" class="hidden validate[required]" name="hcaptcha_visible" required="" />
                             <script type="text/javascript" src="https://hcaptcha.com/1/api.js"></script>
                         </section>
                     </div>
                 </div>
-                <button type="submit" id="submitNewsletterButton">Subscribe</button>
+                <button type="submit" id="submitNewsletterButton" disabled>Subscribe</button>
             </form>
             <script>
                 const submitNewsletterButton = document.getElementById('submitNewsletterButton');

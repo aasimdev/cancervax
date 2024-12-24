@@ -66,8 +66,8 @@ include('header.php'); ?>
                                     <div id="hcaptcha_input_7"
                                         class="h-captcha"
                                         data-sitekey="772f4a50-7161-425e-8cd5-4d7e361ab765"
-                                        data-callback="onCaptchaSuccess"
-                                        data-expired-callback="onCaptchaExpired">
+                                        data-callback="onCaptchaSuccessContact"
+                                        data-expired-callback="onCaptchaExpiredContact">
                                     </div>
                                     <input type="hidden" id="input_7" class="hidden validate[required]" name="hcaptcha_visible" required />
                                     <script type="text/javascript" src="https://hcaptcha.com/1/api.js"></script>
@@ -81,13 +81,13 @@ include('header.php'); ?>
                         const submitButton = document.getElementById('submitButton');
 
                         // Callback function when hCaptcha is successfully solved
-                        function onCaptchaSuccess(token) {
+                        function onCaptchaSuccessContact(token) {
                             document.getElementById('input_7').value = token;
                             submitButton.disabled = false;
                         }
 
                         // Callback function when hCaptcha expires
-                        function onCaptchaExpired() {
+                        function onCaptchaExpiredContact() {
                             document.getElementById('input_7').value = '';
                             submitButton.disabled = true;
                         }
