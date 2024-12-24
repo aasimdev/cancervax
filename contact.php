@@ -92,10 +92,7 @@ include('header.php'); ?>
                             submitButton.disabled = true;
                         }
 
-                        // Disable submit button initially
-                        document.addEventListener('DOMContentLoaded', () => {
-                            submitButton.disabled = true;
-                        });
+                     
                     </script>
 
                 </div>
