@@ -57,30 +57,47 @@ include('header.php'); ?>
                             <label for="input_6" class="form-label">Your message (optional)</label>
                             <textarea class="form-control" id="input_6" name="q6_typeA6" rows="10"></textarea>
                         </div>
-                        <div class="form-line mb-5 jf-required" data-type="control_captcha" id="id_7"><label class="form-label form-label-top form-label-auto" id="label_7" for="input_7" aria-hidden="false"> Please verify that you are human<span class="form-required">*</span> </label>
+                        <div class="form-line mb-5 jf-required" data-type="control_captcha" id="id_7">
+                            <label class="form-label form-label-top form-label-auto" id="label_7" for="input_7" aria-hidden="false">
+                                Please verify that you are human<span class="form-required">*</span>
+                            </label>
                             <div id="cid_7" class="form-input-wide jf-required" data-layout="full">
                                 <section data-wrapper-react="true">
-                                    <div id="hcaptcha_input_7" class="h-captcha" data-siteKey="772f4a50-7161-425e-8cd5-4d7e361ab765" data-callback="hcaptchaCallbackinput_7" data-expired-callback="hcaptchaExpiredCallbackinput_7"></div><input type="hidden" id="input_7" class="hidden validate[required]" name="hcaptcha_visible" required="" />
+                                    <div id="hcaptcha_input_7"
+                                        class="h-captcha"
+                                        data-sitekey="772f4a50-7161-425e-8cd5-4d7e361ab765"
+                                        data-callback="onCaptchaSuccess"
+                                        data-expired-callback="onCaptchaExpired">
+                                    </div>
+                                    <input type="hidden" id="input_7" class="hidden validate[required]" name="hcaptcha_visible" required />
                                     <script type="text/javascript" src="https://hcaptcha.com/1/api.js"></script>
                                 </section>
                             </div>
                         </div>
-                        <button type="submit" id="submitButton" >Submit</button>
+                        <button type="submit" id="submitButton" disabled>Submit</button>
                     </form>
+
                     <script>
-                const submitButton = document.getElementById('submitButton');
+                        const submitButton = document.getElementById('submitButton');
 
-                function onCaptchaSuccess(token) {
-                    document.getElementById('input_7').value = token;
-                    submitButton.disabled = false; 
-                }
+                        // Callback function when hCaptcha is successfully solved
+                        function onCaptchaSuccess(token) {
+                            document.getElementById('input_7').value = token;
+                            submitButton.disabled = false;
+                        }
 
-                // Callback function when hCaptcha expires
-                function onCaptchaExpired() {
-                    document.getElementById('input_7').value = '';
-                    submitButton.disabled = true;
-                }
-            </script>
+                        // Callback function when hCaptcha expires
+                        function onCaptchaExpired() {
+                            document.getElementById('input_7').value = '';
+                            submitButton.disabled = true;
+                        }
+
+                        // Disable submit button initially
+                        document.addEventListener('DOMContentLoaded', () => {
+                            submitButton.disabled = true;
+                        });
+                    </script>
+
                 </div>
             </div>
         </div>
