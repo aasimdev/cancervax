@@ -74,6 +74,7 @@ if ($page_name !== "prep.php") {
                         <div class="footer-logo">
                             <a href="/">
                                 <img src="<?php echo  $full_url; ?>./assets/img/C-01-1.png" alt="logo">
+                                <sup class="trademark">&reg;</sup>
                             </a>
                         </div>
                     </div>
