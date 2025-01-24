@@ -20,7 +20,7 @@ include('header.php'); ?>
                                 <h3>UTAH</h3>
                                 <p><a href="https://goo.gl/maps/5xZJ6Byy4tZt2P7AA" target="_blank" rel="noopener noreferrer">
 
-                                        1633 W Innovation Way <br> 4th floor, Lehi, UT 84043
+                                        1633 W Innovation Way <br> 5th floor, Lehi, UT 84043
                                     </a></p>
                             </div>
                         </div>
