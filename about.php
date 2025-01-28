@@ -7,7 +7,7 @@ include('header.php'); ?>
 <section class="abtBanner">
     <div class="container">
         <div class="abtBanner-text">
-            <h1>CancerVax is a pre-clinical biotech company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells look like well-immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to fight cancer. </h1>
+            <h1>CancerVax is a pre-clinical biotech company developing a novel Universal Cancer Treatment Platform that will be customizable as an injection, to treat many types of cancer. Powered by artificial intelligence, our revolutionary approach DETECTS, MARKS, and KILLS only cancer cells using the body’s own immune system. Other immunotherapies have had very limited success trying to teach the immune system how to recognize cancer cells. Instead, we intend to make cancer cells look like a common disease that it already recognizes, such as measles, and “trick” the body into killing these “disguised” cancer cells with strength. We look forward to the day when treating cancer will be as simple as getting a shot.</h1>
         </div>
     </div>
 </section>

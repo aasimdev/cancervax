@@ -191,7 +191,6 @@ CacheControl::preventCaching();
                 <div class="container-fluid">
                     <a class="navbar-brand" href="/">
                         <img src="<?php echo  $full_url; ?>/assets/img/light-logo.png" alt="logo">
-                        <sup class="trademark">&reg;</sup>
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
