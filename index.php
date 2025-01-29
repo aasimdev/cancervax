@@ -20,12 +20,15 @@ include('header.php'); ?>
 
 
 <section class="banner-main">
-    <div class="banner-main-bg">
+    <div class="banner-main-bg banner-home-up">
+       
         <div class="container">
+        <div class="banner-main-content text-center mx-auto">
+            <h1 style="color: #295d6e">A Revolutionary Way
+                to Fight Cancer</h1>
+        </div>
             <div class="banner-main-content">
-                <h1>A Revolutionary Way
-                    to Fight Cancer</h1>
-                <p class="d-none d-md-block">The CancerVax Way
+                <p class="d-none d-md-block mt-0">The CancerVax Way
                 </p>
                 <ul class="d-none d-md-block">
                     <li>10 million people died last year because the body does not easily recognize and kill cancer cells.</li>
@@ -93,8 +96,9 @@ include('header.php'); ?>
                     </div>
                     <div class="banner-text">
                         <p>
-                    
-                        <strong> CancerVax is a pre-clinical biotech company</strong> developing a novel Universal Cancer Treatment Platform that will be customizable as an injection, to treat many types of cancer.</p>
+
+                            <strong> CancerVax is a pre-clinical biotech company</strong> developing a novel Universal Cancer Treatment Platform that will be customizable as an injection, to treat many types of cancer.
+                        </p>
 
                         <p> Powered by artificial intelligence, our revolutionary approach <strong>DETECTS, MARKS, and KILLS</strong> only cancer cells using the body’s own immune system. Other immunotherapies have had very limited success trying to teach the immune system how to recognize cancer cells. Instead, we intend to make cancer cells look like a common disease that it already recognizes, such as measles, and “trick” the body into killing these “disguised” cancer cells with strength.</p>
 
