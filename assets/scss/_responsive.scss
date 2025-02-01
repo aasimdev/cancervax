@@ -129,9 +129,9 @@
         font-size: 24px;
     }
 
-    .banner-main {
-        margin-top: 74px;
-    }
+    // .banner-main {
+    //     margin-top: 74px;
+    // }
 
     .heroSection {
         margin-top: 74px;
@@ -583,6 +583,19 @@
     .banner-main-content ul {
         max-width: 100%;
     }
+    .coming-soon {
+        padding: 70px 0;
+    }
+    .coming-soon-title {
+        font-size: 48px;}
+        .coming-soon-content {
+            font-size: 28px;}
+            .coming-soon p {
+                font-size: 18px;
+            line-height: 1.2;}
+            .coming-soon form{
+                max-width: 370px;
+            }
 }
 
 @media only screen and (max-width: 767px) and (orientation : landscape) {
@@ -1255,5 +1268,11 @@
     .coreTeam .team-box-img img {
         width: 307px;
         height: 325px;
+    }
+    .banner-main-content.banner-heading{
+        padding-top: 0;
+    }
+    .coming-soon-content{
+        margin: 16px 0;
     }
 }
