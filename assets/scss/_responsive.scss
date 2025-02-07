@@ -395,7 +395,7 @@
     }
 
     .banner-text p {
-        font-size: 16px;
+        font-size: 18px;
         max-width: 100%;
     }
 
@@ -775,7 +775,7 @@
     }
 
     .mcta-text p {
-        font-size: 16px;
+        font-size: 18px;
         margin-bottom: 0;
         line-height: 1.5;
     }
@@ -789,7 +789,7 @@
     }
 
     .news-item span {
-        font-size: 12px;
+        font-size: 14px;
     }
 
     .cchatsbanner {
@@ -899,7 +899,7 @@
     .immtypes__heading p,
     .immtypes__content p,
     .immtypes__content li {
-        font-size: 16px;
+        font-size: 18px;
         line-height: 1.5;
     }
 
@@ -1089,7 +1089,7 @@
 
     .banner-announcement p {
         color: #070707;
-        font-size: 15px;
+        font-size: 18px;
         margin-top: 12px;
     }
 
@@ -1226,7 +1226,7 @@
     }
 
     .banner-main-content ul li {
-        font-size: 16px;
+        font-size: 18px;
     }
 
     .banner-main-content ul li+li {
@@ -1274,5 +1274,16 @@
     }
     .coming-soon-content{
         margin: 16px 0;
+    }
+    .contact-info h3{
+        font-size: 14px;
+    }
+    .news-detail h3 {
+        font-size: 20px;}
+    .news-item p, .abtinfo p, .news-detail p, .theme-list li, .market-content p, .theme-check-list li{
+        font-size: 18px;
+    }
+    .coreTeam .team-box h5{
+        font-size: 16px;
     }
 }
