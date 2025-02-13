@@ -12,7 +12,7 @@ if ($domain === 'localhost' || $domain === '127.0.0.1') {
     $full_url = $current_url . '/';
 }
 if ($page_name !== "prep.php") {
-    if ($page_name != "index.php" && $page_name != "regainvest.php" && $page_name != "regainvest") {
+    if ($page_name != "index.php" && $page_name != "regainvest.php" && $page_name != "regainvest" && $page_name != "webinar.php") {
 ?>
         <section class="newsletter">
             <div class="container">
