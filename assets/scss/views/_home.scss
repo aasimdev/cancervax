@@ -3530,3 +3530,446 @@ padding: 50px 0;
         }
     }
 }
+
+
+.techBanner {
+    background: url("../img/techBanner.png") no-repeat center / cover;
+    padding: 180px 0 85px;
+
+
+    .techBanner-text {
+        position: relative;
+        z-index: 1;
+
+        h1 {
+            color: #FFF;
+            text-align: center;
+            font-size: 85px;
+            font-weight: 500;
+            padding-bottom: 15px;
+            margin: 0;
+        }
+    }
+}
+
+.cancer-treatment {
+    background: url("../img/cancer-treatment.png") no-repeat top;
+    padding-block: 28px 128px;
+    opacity: 0.94;
+    position: relative;
+
+    &::after {
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, #FFF 100%);
+        position: absolute;
+        content: "";
+        width: 100%;
+        height: 258px;
+        bottom: 363px;
+        z-index: -1;
+    }
+
+    .ct-heading {
+        position: relative;
+        z-index: 1;
+        text-align: center;
+
+        h2 {
+            color: #000;
+            font-size: 60px;
+            font-weight: 500;
+            padding-block: 71px;
+            margin-bottom: 16px;
+        }
+
+        h3 {
+            color: #1D8F97;
+            padding-block: 8px 19px;
+            margin-bottom: 0;
+            font-size: 50px;
+            font-weight: 700;
+            line-height: 110%;
+        }
+
+        p {
+            color: #000;
+            font-size: 30px;
+            font-weight: 400;
+            text-align: center;
+            margin: 0;
+            padding-block: 10px 131px;
+            max-width: 85%;
+            margin: auto;
+        }
+    }
+
+    .ct-content {
+        margin-left: 37px;
+
+        p {
+            color: #000;
+            font-size: 20px;
+            font-weight: 400;
+            letter-spacing: 0.3px;            padding-bottom: 16px;
+
+        }
+    }
+
+    .ct-img {
+        img {
+            border-radius: 20px;
+        }
+    }
+}
+
+.problem {
+    background: url("../img/problem.png") no-repeat top / cover;
+    padding: 98px 0 85px;
+
+    &-content {
+        h3 {
+            color: #FFF;
+            font-size: 50px;
+            font-weight: 700;
+            padding-bottom: 22px;
+        }
+
+
+        li {
+            color: #FFF;
+            font-size: 20px;
+            font-weight: 400;
+            letter-spacing: 0.3px;
+            padding-left: 34px;
+            position: relative;
+            line-height: 28px;
+            padding-bottom: 20px;
+
+            &::before {
+                content: "";
+                position: absolute;
+                width: 10px;
+                height: 10px;
+                background-color: #2ABAC2;
+                left: 0;
+                border-radius: 50%;
+                top: 9%;
+            }
+        }
+
+
+    }
+
+    h2 {
+        color: #fff;
+        text-align: right;
+        font-size: 60px;
+        font-weight: 400;
+        letter-spacing: 0.3px;
+        line-height: 1.1;
+
+        span {
+            color: #2ABAC2;
+            font-weight: 700;
+        }
+    }
+}
+
+.solution {
+    padding-block: 121px 152px;
+
+    &-step {
+        text-align: center;
+
+        h5 {
+            color: #000;
+            font-size: 30px;
+            font-weight: 400;
+            margin-bottom: 26px;
+            padding-bottom: 36px;
+        }
+        svg{
+            display: block;
+            margin: auto;
+        }
+
+        .theme-btn {
+            display: block;
+            width: fit-content;
+            font-size: 30px;
+            padding: 23px 35px;
+            border-radius: 92px;
+            background: #FF7229;
+            border: 0;
+            line-height: 33px;
+            line-height: 1.1;
+            margin-inline: auto;
+        }
+        h6 {
+            color: #000;
+            font-size: 30px;
+            padding-left: 34px;
+            font-weight: 400;
+            margin-top: 36px;
+            margin-bottom: 9px;
+            padding-bottom: 27px;
+
+            span {
+                color: #1D8F97;
+                font-weight: 700;
+            }
+        }
+    }
+
+    &-content {
+        h3 {
+            color: #000;
+            font-size: 50px;
+            margin-bottom: 15px;
+            padding-bottom: 22px;
+
+            font-weight: 700;
+        }
+
+        ul {
+            ul {
+                padding-left: 34px;
+            }
+        }
+
+        li {
+            color: #000;
+            font-size: 20px;
+            font-weight: 400;
+            letter-spacing: 0.3px;
+            padding-left: 34px;
+            position: relative;
+            line-height: 28px;
+            padding-bottom: 16px;
+
+            &::before {
+                content: "";
+                position: absolute;
+                width: 10px;
+                height: 10px;
+                background-color: #2ABAC2;
+                left: 0;
+                border-radius: 50%;
+                top: 9%;
+            }
+        }
+
+        h6 {
+            color: #000;
+            font-size: 30px;
+            padding-left: 34px;
+            font-weight: 400;
+            margin-top: 36px;
+            margin-bottom: 9px;
+            padding-bottom: 27px;
+
+            span {
+                color: #1D8F97;
+                font-weight: 700;
+            }
+        }
+
+        img {
+            padding-left: 34px;
+        }
+
+    }
+}
+
+.treatment {
+    background-color: #D2F6F8;
+    text-align: center;
+    padding-block: 107px 81px;
+
+    h3 {
+        color: #000;
+        font-size: 50px;
+        font-weight: 700;
+        margin-bottom: 28px;
+        padding-bottom: 22px;
+
+    }
+
+    &-item {
+        padding-bottom: 55px;
+
+        h4 {
+            color: #2ABAC2;
+            font-size: 40px;
+            font-weight: 700;
+            padding-bottom: 32px;
+span{
+    color: #1D8F97    ;
+}
+        }
+    }
+
+}
+
+.remission {
+    padding-block: 108px 64px;
+    h3 {
+        color: #000;
+        font-size: 50px;
+        max-width: 858px;
+        margin: auto;
+        font-weight: 700;
+        margin-bottom: 41px;
+    }
+
+    h6 {
+        color: #000;
+        font-size: 30px;
+        font-weight: 400;
+        line-height: 1.4;
+        max-width: 858px;
+        margin: auto;
+        margin-bottom: 21px;
+
+        span {
+            font-weight: 700;
+        }
+    }
+
+    p {
+        color: #000;
+        font-size: 20px;
+        max-width: 858px;
+        font-weight: 400;
+        padding-bottom: 20px;
+        margin: auto;
+    }
+
+    img {
+        padding-block: 60px 80px;
+    }
+}
+
+
+.reducing-toxicity{
+    background: #02283D;
+    padding-block: 96px 148px;
+    h3{
+        color: #FFF;
+        text-align: center;
+font-size: 50px;
+font-style: normal;
+font-weight: 500;
+margin-bottom: 60px;
+    }
+    h5{
+        color:  #fff;
+        line-height: 1.4;
+font-size: 30px;
+font-weight: 400;
+letter-spacing: 0.3px;
+margin-bottom: 20px;
+span{
+    color:  #2ABAC2;
+    font-weight: 700;
+}
+    }
+p{
+    color: #FFF;
+font-size: 20px;
+padding-bottom: 20px;
+font-weight: 400;
+letter-spacing: 0.3px;
+line-height: 1.4;
+}
+img{
+    border-radius: 20px;
+}
+}
+
+.cold-tumors{
+    background: #D2F6F8 url("../img/cold-tumor-bg.png") no-repeat bottom;
+    
+    padding-block: 122px 176px;
+
+
+    &-content{
+        max-width: 638px;
+    }
+    h5{
+        color: #000;
+font-size: 50px;
+font-weight: 700;
+margin-bottom: 50px;
+line-height: 1.1;
+
+}
+p{
+    color: #000;
+font-size: 20px;
+font-weight: 400;
+letter-spacing: 0.3px;
+padding-bottom: 16px;
+}
+h3{
+    color: #1D8F97;
+text-align: center;
+font-size: 60px;
+font-weight: 400;
+margin-top: 73px;
+span{
+    font-weight: 700;
+}
+}
+
+}
+
+.artificial-intelligence{
+    padding-block: 135px 180px;
+    h3{
+        color: #000;
+text-align: center;
+font-size: 50px;
+font-weight: 500;
+line-height: 1.1;
+margin-bottom: 40px;
+    }
+    p{
+        color: #000;
+font-size: 20px;
+font-weight: 400;
+letter-spacing: 0.3px;
+margin-bottom: 20px;
+max-width: 851px;
+margin: auto;
+
+}
+ul{
+    max-width: 851px;
+margin: auto;
+}
+li {
+    color: #000;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+    padding-left: 34px;
+    position: relative;
+    line-height: 28px;
+    padding-bottom: 16px;
+
+    &::before {
+        content: "";
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        background-color: #2ABAC2;
+        left: 0;
+        border-radius: 50%;
+        top: 16%;
+    }
+}
+.ai-img{
+    text-align: center;
+    margin-block: 57px 170px;
+}
+}
