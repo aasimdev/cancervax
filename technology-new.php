@@ -17,8 +17,6 @@ include('header.php'); ?>
     <div class="container">
         <div class="ct-heading">
             <h2>Universal Cancer Treatment Platform</h2>
-            <h3>A Revolutionary Cancer Treatment</h3>
-            <p>We are developing a novel Universal Cancer Treatment Platform, powered by artificial intelligence, that will be customizable as an injection to treat many types of cancer.​​​</p>
         </div>
         <div class="row">
             <div class="col-lg-5">
@@ -32,7 +30,7 @@ include('header.php'); ?>
                     </p>
                     <p>Our revolutionary approach <strong>DETECTS, MARKS</strong>, and <strong>KILLS</strong> only cancer cells. By making cancer cells look like well-immunized diseases, such as measles, we intend to “trick” the body’s immune system into killing cancer cells. Anyone who has had measles or been vaccinated for it, has strong lifetime immunity to the disease. This immunity kills anything that looks like measles immediately upon re-exposure. </p>
 
-                    <p>Unlike conventional immunotherapies that try to “teach” the immune system how to recognize cancer cells, our approach is a <strong>paradigm shift</strong> that “tricks” the immune system.  
+                    <p>Unlike conventional immunotherapies that try to “teach” the immune system how to recognize cancer cells, our approach is a <strong>paradigm shift</strong> that “tricks” the immune system.
                     </p>
                     <p>We believe that teaching the immune system is as difficult as “teaching an old dog a new trick.” Instead, we trick the dog into doing something that it knows how to do very well. In the case of the immune system, that’s killing measles.
 
@@ -60,7 +58,9 @@ include('header.php'); ?>
                 </div>
             </div>
             <div class="col-lg-6">
+                <div>
                 <h2><span>“Tricking the immune system</span> may be just what the doctors needed”</h2>
+                </div>
             </div>
         </div>
     </div>
@@ -69,6 +69,10 @@ include('header.php'); ?>
 
 <section class="solution">
     <div class="container">
+        <div class="arct-text">
+            <h3>A Revolutionary Cancer Treatment</h3>
+            <p>We are developing a novel Universal Cancer Treatment Platform, powered by artificial intelligence, that will be customizable as <strong>off-the-shelf injections</strong> to treat many types of cancer </p>
+        </div>
         <div class="row flex-lg-row flex-column-reverse">
             <div class="col-lg-6">
                 <div class="solution-step">
@@ -87,8 +91,8 @@ include('header.php'); ?>
                     </svg>
                     <img src="./assets/img/solution4.png" alt="solution4">
                     <div class="d-lg-none d-block">
-                    <h6>Marker1+Marker2=<span>Cancer Cell</span></h6>
-                    <img src="./assets/img/solution-marker.png" alt="">
+                        <h6>Marker1+Marker2=<span>Cancer Cell</span></h6>
+                        <img src="./assets/img/solution-marker.png" alt="">
                     </div>
                 </div>
 
@@ -105,10 +109,10 @@ include('header.php'); ?>
                             <li>Step 2 - Detect cancer genetic signatures <strong>inside the cell (Marker2)</strong></li>
                         </ul>
                     </ul>
-                    <div  class="d-lg-block d-none">
-                    <h6>Marker1+Marker2=<span>Cancer Cell</span></h6>
-                    <img src="./assets/img/solution-marker.png" alt="">
-                </div>
+                    <div class="d-lg-block d-none">
+                        <h6>Marker1&nbsp;+&nbsp;Marker2&nbsp;=&nbsp;<span>Cancer Cell</span></h6>
+                        <img src="./assets/img/solution-marker.png" alt="">
+                    </div>
                 </div>
             </div>
         </div>
@@ -178,11 +182,11 @@ include('header.php'); ?>
                 <div class=" cold-tumors-content">
                     <h5>Turning “Cold Tumors” into “Hot Tumors”</h5>
                     <p>One of the biggest challenges in immunotherapy, or using the body’s immune system to fight cancer, is that many tumors are considered “cold” tumors. A cold tumor is one that doesn't trigger an immune response. Cold tumors are often surrounded by cells that suppress the immune response, making them resistant to immunotherapy. Typical examples of cold tumors are pancreatic cancer, prostate cancer, glioblastoma, and many breast cancers. </p>
-                    <p>Checkpoint inhibitors such as Keytruda, the blockbuster drug from Merck, can sometimes “heat up” a tumor by blocking the mechanism that cancers use to evade the immune system (PD-1/PD-L1).  But oftentimes, they cannot turn a cold tumor into a hot tumor so that it responds well to immunotherapy.</p>
-                <p>We believe that by going inside the cancer cell with our nanoparticle, confirming that it is a cancer cell with our Smart mRNA, then disguising the cell as measles, we can turn a cold tumor into a hot tumor because the body has a very strong immune response to measles.  </p>
-                <p>Other immunotherapies have had very limited success trying to teach the immune system how to recognize cancer cells from the outside. Instead, we modify cancer cells from the inside and trick the body into seeing something it recognizes well. </p>
+                    <p>Checkpoint inhibitors such as Keytruda, the blockbuster drug from Merck, can sometimes “heat up” a tumor by blocking the mechanism that cancers use to evade the immune system (PD-1/PD-L1). But oftentimes, they cannot turn a cold tumor into a hot tumor so that it responds well to immunotherapy.</p>
+                    <p>We believe that by going inside the cancer cell with our nanoparticle, confirming that it is a cancer cell with our Smart mRNA, then disguising the cell as measles, we can turn a cold tumor into a hot tumor because the body has a very strong immune response to measles. </p>
+                    <p>Other immunotherapies have had very limited success trying to teach the immune system how to recognize cancer cells from the outside. Instead, we modify cancer cells from the inside and trick the body into seeing something it recognizes well. </p>
 
-                 
+
                 </div>
             </div>
             <div class="col-lg-4 text-center">
@@ -200,11 +204,11 @@ include('header.php'); ?>
 <section class="artificial-intelligence">
     <div class="container">
         <h3>Powered by Artificial Intelligence</h3>
-        <p>Unlike expensive personalized mRNA cancer vaccines currently in development by other companies, we do not use tumor biopsies to determine patient specific tumor mutations to create a custom injection for a single patient.</p>
-        <p>Our universal approach uses proprietary AI algorithms to data mine the ever-growing public database of cancer genetic data to find universal biomarkers to use as Marker1 and Marker2 in our nanoparticle. As a result, our injections only need to be customized for cancer types, not individual patients. This reduces our drug cost dramatically as there are approximately 200 cancer types vs. 8 billion people in the world. </p>
-      <div class="ai-img">
-        <img src="./assets/img/ai.png" alt="">
-      </div>
+        <p>Unlike expensive personalized cancer vaccines currently in development by other companies, we do not use tumor biopsies to determine patient specific tumor mutations to create a custom injection for a single patient.</p>
+        <p class="mt-3">Our universal approach uses proprietary AI algorithms to data mine the ever-growing public database of cancer genetic data to find universal biomarkers to use as Marker1 and Marker2 in our nanoparticle. As a result, our injections only need to be customized for cancer types, not individual patients. This reduces our drug cost dramatically as there are approximately 200 cancer types vs. 8 billion people in the world. </p>
+        <div class="ai-img">
+            <img src="./assets/img/ai.png" alt="">
+        </div>
         <h3>A Customizable Platform for Many Cancers​</h3>
         <ul>
             <li>Makes cancer cells look like well-immunized diseases (chickenpox, measles, etc.)

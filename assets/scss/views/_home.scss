@@ -3581,25 +3581,7 @@ padding: 50px 0;
             margin-bottom: 16px;
         }
 
-        h3 {
-            color: #1D8F97;
-            padding-block: 8px 19px;
-            margin-bottom: 0;
-            font-size: 50px;
-            font-weight: 700;
-            line-height: 110%;
-        }
-
-        p {
-            color: #000;
-            font-size: 30px;
-            font-weight: 400;
-            text-align: center;
-            margin: 0;
-            padding-block: 10px 131px;
-            max-width: 85%;
-            margin: auto;
-        }
+     
     }
 
     .ct-content {
@@ -3620,7 +3602,30 @@ padding: 50px 0;
         }
     }
 }
+.arct-text{
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    h3 {
+        color: #1D8F97;
+        padding-block: 8px 19px;
+        margin-bottom: 0;
+        font-size: 50px;
+        font-weight: 700;
+        line-height: 110%;
+    }
 
+    p {
+        color: #000;
+        font-size: 30px;
+        font-weight: 400;
+        text-align: center;
+        margin: 0;
+        padding-block: 10px 131px;
+        max-width: 85%;
+        margin: auto;
+    }
+}
 .problem {
     background: url("../img/problem.png") no-repeat top / cover;
     padding: 98px 0 85px;
@@ -3652,7 +3657,8 @@ padding: 50px 0;
                 background-color: #2ABAC2;
                 left: 0;
                 border-radius: 50%;
-                top: 9%;
+                top: 0;
+                margin-top: 9px;
             }
         }
 
@@ -3666,7 +3672,7 @@ padding: 50px 0;
         font-weight: 400;
         letter-spacing: 0.3px;
         line-height: 1.1;
-
+        text-align: left;
         span {
             color: #2ABAC2;
             font-weight: 700;
@@ -3679,7 +3685,9 @@ padding: 50px 0;
 
     &-step {
         text-align: center;
-
+        img{
+            max-width: 70%;
+        }
         h5 {
             color: #000;
             font-size: 30px;
@@ -3754,7 +3762,8 @@ padding: 50px 0;
                 background-color: #2ABAC2;
                 left: 0;
                 border-radius: 50%;
-                top: 9%;
+                top: 0;
+                margin-top: 9px;
             }
         }
 
@@ -3832,6 +3841,7 @@ span{
 
         span {
             font-weight: 700;
+            color: #1d8f97;
         }
     }
 
