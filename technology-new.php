@@ -18,7 +18,7 @@ include('header.php'); ?>
         <div class="ct-heading">
             <h2>Universal Cancer Treatment Platform</h2>
             <h3>A Revolutionary Cancer Treatment</h3>
-            <p>We are developing a novel Universal Cancer Treatment Platform, powered by artificial intelligence, that will be customizable as an injection to treat many types of cancer.​​</p>
+            <p>We are developing a novel Universal Cancer Treatment Platform, powered by artificial intelligence, that will be customizable as an injection to treat many types of cancer.​​​</p>
         </div>
         <div class="row">
             <div class="col-lg-5">
@@ -30,8 +30,9 @@ include('header.php'); ?>
                 <div class="ct-content">
                     <p>Our form of treatment is generally known as <strong>cancer immunotherapy or therapeutic cancer vaccines.</strong>
                     </p>
-                    <p>Our revolutionary approach <strong>DETECTS, MARKS</strong>, and <strong>KILLS</strong> only cancer cells. By making cancer cells look like well-immunized diseases, such as measles, we intend to “trick” the body’s immune system into killing cancer cells. Anyone who has had measles or been vaccinated for it, has strong lifetime immunity to the disease. This immunity kills anything that looks like measles immediately upon re-exposure.</p>
-                    <p>Unlike conventional immunotherapies that try to “teach” the immune system how to recognize cancer cells, our approach is a <strong>paradigm shift</strong> that “tricks” the immune system.
+                    <p>Our revolutionary approach <strong>DETECTS, MARKS</strong>, and <strong>KILLS</strong> only cancer cells. By making cancer cells look like well-immunized diseases, such as measles, we intend to “trick” the body’s immune system into killing cancer cells. Anyone who has had measles or been vaccinated for it, has strong lifetime immunity to the disease. This immunity kills anything that looks like measles immediately upon re-exposure. </p>
+
+                    <p>Unlike conventional immunotherapies that try to “teach” the immune system how to recognize cancer cells, our approach is a <strong>paradigm shift</strong> that “tricks” the immune system.  
                     </p>
                     <p>We believe that teaching the immune system is as difficult as “teaching an old dog a new trick.” Instead, we trick the dog into doing something that it knows how to do very well. In the case of the immune system, that’s killing measles.
 
@@ -137,11 +138,10 @@ include('header.php'); ?>
 <section class="remission">
     <div class="container">
         <h3>Potential Long-Term Remission</h3>
-        <h6><span> Every day, hundreds of cells in our body acquire cancerous mutations that are immediately destroyed by the immune system.</span> The problem is when mutations occur in oncogene or tumor suppressor genes that do not activate the immune system.
-        </h6>
-        <p>This results in unchecked cell growth and cancer becomes a systemic disease. </p>
+        <h6><span>Every day, hundreds of cells in our body acquire cancerous mutations that are immediately destroyed by the immune system.</span> The problem is when mutations occur in oncogene or tumor suppressor genes that do not activate the immune system. This results in unchecked cell growth and cancer becomes a systemic disease. </h6>
+
         <p>Other immunotherapies such as personalized cancer vaccines, cytokine therapy or monoclonal antibodies often do not induce a strong enough immune response or last long enough to overwhelm cancer universally.</p>
-        <p>By “tricking” the body into mounting a strong initial immune response to cancer, like it does with measles, we believe there will be an enhanced immune memory-based secondary response to prov vide long-term remission.</p>
+        <p>By “tricking” the body into mounting a strong initial immune response to cancer, like it does with measles, we believe there will be an enhanced immune memory-based secondary response to provide long-term remission.</p>
         <img src="./assets/img/remission.png" alt="">
         <p>Once a strong immune response is kicked off by the initial treatment, naïve B-cells and naïve T-cells will be so close to the battle that they will take a snapshot of the cancer neoantigens (proteins) and become memory B and T cells for future battles. This is a normal immune process called epitope spreading or immune broadening. The key to all of this is a strong initial immune response.
         </p>
@@ -177,10 +177,12 @@ include('header.php'); ?>
             <div class="col-lg-8">
                 <div class=" cold-tumors-content">
                     <h5>Turning “Cold Tumors” into “Hot Tumors”</h5>
-                    <p>We are developing a novel technology that will precisely detect cancer cells and force them to produce special proteins to “look” like common diseases for which a strong immunity already exists – such as measles or chickenpox. Then, the immune system will automatically destroy these disguised cancer cells as if they were known foreign pathogens.</p>
-                    <p>Our technology is packaged into a nanoparticle that is programmed to seek out only cancer cells and uses a novel 2-step strategy to precisely detect cancer cells.</p>
-                    <p>We believe that by going inside the cancer cell with our nanoparticle, confirming that it is a cancer cell with our Smart mRNA, then disguising the cell as measles, we can turn a cold tumor into a hot tumor because the body has a very strong immune response to measles. </p>
-                    <p>Other immunotherapies have had very limited success trying to teach the immune system how to recognize cancer cells from the outside. Instead, we modify cancer cells from the inside and trick the body into seeing something it recognizes well.</p>
+                    <p>One of the biggest challenges in immunotherapy, or using the body’s immune system to fight cancer, is that many tumors are considered “cold” tumors. A cold tumor is one that doesn't trigger an immune response. Cold tumors are often surrounded by cells that suppress the immune response, making them resistant to immunotherapy. Typical examples of cold tumors are pancreatic cancer, prostate cancer, glioblastoma, and many breast cancers. </p>
+                    <p>Checkpoint inhibitors such as Keytruda, the blockbuster drug from Merck, can sometimes “heat up” a tumor by blocking the mechanism that cancers use to evade the immune system (PD-1/PD-L1).  But oftentimes, they cannot turn a cold tumor into a hot tumor so that it responds well to immunotherapy.</p>
+                <p>We believe that by going inside the cancer cell with our nanoparticle, confirming that it is a cancer cell with our Smart mRNA, then disguising the cell as measles, we can turn a cold tumor into a hot tumor because the body has a very strong immune response to measles.  </p>
+                <p>Other immunotherapies have had very limited success trying to teach the immune system how to recognize cancer cells from the outside. Instead, we modify cancer cells from the inside and trick the body into seeing something it recognizes well. </p>
+
+                 
                 </div>
             </div>
             <div class="col-lg-4 text-center">
