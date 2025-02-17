@@ -17,6 +17,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="ct-heading">
             <h2>Universal Cancer Treatment Platform</h2>
+            <p>We are developing a novel Universal Cancer Treatment Platform, powered by artificial intelligence, that will be customizable as <strong>off-the-shelf injections</strong> to treat many types of cancer. </p>
         </div>
         <div class="row">
             <div class="col-lg-5">
@@ -45,8 +46,8 @@ include('header.php'); ?>
 
 <section class="problem">
     <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6">
+        <div class="row align-items-center justify-content-between">
+            <div class="col-lg-5">
                 <div class="problem-content">
                     <h3>The Problem​</h3>
                     <ul>
@@ -71,7 +72,6 @@ include('header.php'); ?>
     <div class="container">
         <div class="arct-text">
             <h3>A Revolutionary Cancer Treatment</h3>
-            <p>We are developing a novel Universal Cancer Treatment Platform, powered by artificial intelligence, that will be customizable as <strong>off-the-shelf injections</strong> to treat many types of cancer </p>
         </div>
         <div class="row flex-lg-row flex-column-reverse">
             <div class="col-lg-6">
