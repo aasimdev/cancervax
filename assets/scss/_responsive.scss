@@ -1506,9 +1506,7 @@ margin-bottom: 30px;
     .problem-content li{
         font-size: 20px;
     }
-    .problem-content li::before{
-        top: 3%;
-    }
+  
     .problem h2 {
         padding-top: 58px;
         font-size: 34px;
@@ -1524,9 +1522,7 @@ margin-bottom: 30px;
     .solution-content li{
         font-size: 20px;
     }
-    .solution-content li::before {
-        top: 10%;
-    }
+
     .solution-step{
         padding-top: 18px;
     }

@@ -77,7 +77,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="solution-step">
                     <h5>CancerVax <br>Nanoparticle</h5>
-                    <a href="" class="theme-btn">Marker 1</a>
+                    <a href="" style="pointer-events: none;" class="theme-btn text-capitalize">Marker1</a>
                     <svg xmlns="http://www.w3.org/2000/svg" width="111" height="100" viewBox="0 0 147 149" fill="none">
                         <path d="M73.7658 24.6768L82.1134 87.9271L65.921 87.9915L73.7658 24.6768Z" fill="url(#paint0_linear_22_5898)" />
                         <path d="M73.917 123.79L51.8222 96.2371L52.0864 85.566L95.8854 85.566L95.8859 96.1366L73.917 123.79Z" fill="#B2F9FC" />
@@ -91,7 +91,7 @@ include('header.php'); ?>
                     </svg>
                     <img src="./assets/img/solution4.png" alt="solution4">
                     <div class="d-lg-none d-block">
-                        <h6>Marker1+Marker2=<span>Cancer Cell</span></h6>
+                    <h6>Marker1&nbsp;+&nbsp;Marker2&nbsp;=&nbsp;<span>Cancer Cell</span></h6>
                         <img src="./assets/img/solution-marker.png" alt="">
                     </div>
                 </div>
@@ -167,7 +167,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="rt-content">
                     <h5><span>One of the biggest problems with drug delivery today is liver and healthy tissue toxicity.</span> We are addressing this problem in two innovative ways:</h5>
-                    <p>1. We are making with world class technology partners to customize a nanoparticle that will avoid accumulation in the liver, as it circultes through the body looking for cancer cells.</p>
+                    <p>1. We are working with world class technology partners to customize a nanoparticle that will avoid accumulation in the liver, as it circultes through the body looking for cancer cells.</p>
                     <p>2. In the event that the nanoparticles are absorbed by the liver or healthy cells, our Smart mRNA will automatically be turned-off, preventing them from being marked as measles.</p>
                 </div>
             </div>
@@ -205,7 +205,7 @@ include('header.php'); ?>
     <div class="container">
         <h3>Powered by Artificial Intelligence</h3>
         <p>Unlike expensive personalized cancer vaccines currently in development by other companies, we do not use tumor biopsies to determine patient specific tumor mutations to create a custom injection for a single patient.</p>
-        <p class="mt-3">Our universal approach uses proprietary AI algorithms to data mine the ever-growing public database of cancer genetic data to find universal biomarkers to use as Marker1 and Marker2 in our nanoparticle. As a result, our injections only need to be customized for cancer types, not individual patients. This reduces our drug cost dramatically as there are approximately 200 cancer types vs. 8 billion people in the world. </p>
+        <p class="mt-3">Our universal approach uses proprietary AI algorithms to data mine the ever-growing public database of cancer genetic data to find <strong>universal biomarkers</strong> to use as Marker1 and Marker2 in our nanoparticle. As a result, our injections only need to be customized for cancer types, not individual patients. This reduces our drug cost dramatically as there are approximately 200 cancer types vs. 8 billion people in the world. </p>
         <div class="ai-img">
             <img src="./assets/img/ai.png" alt="">
         </div>
