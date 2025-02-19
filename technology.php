@@ -167,7 +167,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="rt-content">
                     <h5><span>One of the biggest problems with drug delivery today is liver and healthy tissue toxicity.</span> We are addressing this problem in two innovative ways:</h5>
-                    <p>1. We are working with world class technology partners to customize a nanoparticle that will avoid accumulation in the liver, as it circultes through the body looking for cancer cells.</p>
+                    <p>1. We are working with world class technology partners to customize a nanoparticle that will avoid accumulation in the liver, as it circulates through the body looking for cancer cells.</p>
                     <p>2. In the event that the nanoparticles are absorbed by the liver or healthy cells, our Smart mRNA will automatically be turned-off, preventing them from being marked as measles.</p>
                 </div>
             </div>
