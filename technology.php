@@ -167,7 +167,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="rt-content">
                     <h5><span>One of the biggest problems with drug delivery today is liver and healthy tissue toxicity.</span> We are addressing this problem in two innovative ways:</h5>
-                    <p>1. We are working with world class technology partners to customize a nanoparticle that will avoid accumulation in the liver, as it circultes through the body looking for cancer cells.</p>
+                    <p>1. We are working with world class technology partners to customize a nanoparticle that will avoid accumulation in the liver, as it circulates through the body looking for cancer cells.</p>
                     <p>2. In the event that the nanoparticles are absorbed by the liver or healthy cells, our Smart mRNA will automatically be turned-off, preventing them from being marked as measles.</p>
                 </div>
             </div>
@@ -182,7 +182,7 @@ include('header.php'); ?>
                 <div class=" cold-tumors-content">
                     <h5>Turning “Cold Tumors” into “Hot Tumors”</h5>
                     <p>One of the biggest challenges in immunotherapy, or using the body’s immune system to fight cancer, is that many tumors are considered “cold” tumors. A cold tumor is one that doesn't trigger an immune response. Cold tumors are often surrounded by cells that suppress the immune response, making them resistant to immunotherapy. Typical examples of cold tumors are pancreatic cancer, prostate cancer, glioblastoma, and many breast cancers. </p>
-                    <p>Checkpoint inhibitors such as Keytruda, the blockbuster drug from Merck, can sometimes “heat up” a tumor by blocking the mechanism that cancers use to evade the immune system (PD-1/PD-L1). But oftentimes, they cannot turn a cold tumor into a hot tumor so that it responds well to immunotherapy.</p>
+                    <p>Checkpoint inhibitors such as Keytruda<sup>TM</sup>, the blockbuster drug from Merck<sup>TM</sup>, can sometimes “heat up” a tumor by blocking the mechanism that cancers use to evade the immune system (PD-1/PD-L1). But oftentimes, they cannot turn a cold tumor into a hot tumor so that it responds well to immunotherapy.</p>
                     <p>We believe that by going inside the cancer cell with our nanoparticle, confirming that it is a cancer cell with our Smart mRNA, then disguising the cell as measles, we can turn a cold tumor into a hot tumor because the body has a very strong immune response to measles. </p>
                     <p>Other immunotherapies have had very limited success trying to teach the immune system how to recognize cancer cells from the outside. Instead, we modify cancer cells from the inside and trick the body into seeing something it recognizes well. </p>
 
