@@ -8,7 +8,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="coming-soon-title">Upcoming Webinar </div>
         <div class="coming-soon-content">Exciting Update on Our
-        <br class="d-none d-md-inline-block" /> Revolutionary Cancer Treatment
+        <br class="d-none d-md-inline-block" /> Revolutionary Cancer Treatment <br> Tuesday, February 25, 2025 <br> 1 pm Eastern (4 pm Pacific)
         </div>
     </div>
 </section>
