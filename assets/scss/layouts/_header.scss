@@ -74,6 +74,21 @@
     &-content {
         position: relative;
         padding: 8px 0;
+        .orange-btn{
+            background: #f2a743;
+            color: #000;
+            padding: 12px 18px;
+            border-radius: 12px;
+            border: 0;
+            letter-spacing: 0;
+            text-transform: none;
+            line-height: 1.5;
+            font-size: 15px;
+            &:hover{
+                background: #f2a743;
+                color: #000;
+            }
+        }
     }
 
     .tSocial {
