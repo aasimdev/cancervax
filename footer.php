@@ -97,7 +97,7 @@ if ($page_name !== "prep.php") {
                                         <h6 class="d-sm-none">COMPANY</h6>
                                         <ul class="links">
                                             <li>
-                                                <a href="/about">About Us</a>
+                                                <a href="/team">Team</a>
                                             </li>
                                             <li>
                                                 <a href="/progress">Progress</a>
