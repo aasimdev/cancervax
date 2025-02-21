@@ -97,7 +97,7 @@ if ($page_name !== "prep.php") {
                                         <h6 class="d-sm-none">COMPANY</h6>
                                         <ul class="links">
                                             <li>
-                                                <a href="/about">About Us</a>
+                                                <a href="/team">Team</a>
                                             </li>
                                             <li>
                                                 <a href="/progress">Progress</a>
@@ -146,7 +146,7 @@ if ($page_name !== "prep.php") {
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>© 2024 CancerVax. All rights reserved</p>
+                <p>© 2025 CancerVax. All rights reserved</p>
             </div>
         </div>
     </footer>
