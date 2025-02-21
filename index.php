@@ -525,7 +525,7 @@ include('header.php'); ?>
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=SLj-WU08GJQ"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
-                            <img src="//img.youtube.com/vi/SLj-WU08GJQ/maxresdefault.jpg" alt="Thumbnail">
+                            <img src="//img.youtube.com/vi/SLj-WU08GJQ/sddefault.jpg" alt="Thumbnail">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
@@ -537,7 +537,7 @@ include('header.php'); ?>
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=RSgh0qaEUO4"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
-                            <img src="//img.youtube.com/vi/RSgh0qaEUO4/maxresdefault.jpg" alt="Thumbnail">
+                            <img src="//img.youtube.com/vi/RSgh0qaEUO4/sddefault.jpg" alt="Thumbnail">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
@@ -549,7 +549,7 @@ include('header.php'); ?>
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=kOxGWgLwuDs"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
-                            <img src="//img.youtube.com/vi/kOxGWgLwuDs/maxresdefault.jpg" alt="Thumbnail">
+                            <img src="//img.youtube.com/vi/kOxGWgLwuDs/sddefault.jpg" alt="Thumbnail">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
@@ -561,7 +561,7 @@ include('header.php'); ?>
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=8ESunhDXzU4"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
-                            <img src="//img.youtube.com/vi/8ESunhDXzU4/maxresdefault.jpg" alt="Thumbnail">
+                            <img src="//img.youtube.com/vi/8ESunhDXzU4/sddefault.jpg" alt="Thumbnail">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
@@ -573,7 +573,7 @@ include('header.php'); ?>
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=hmvMkgdIP7E"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
-                            <img src="//img.youtube.com/vi/hmvMkgdIP7E/maxresdefault.jpg" alt="Thumbnail">
+                            <img src="//img.youtube.com/vi/hmvMkgdIP7E/sddefault.jpg" alt="Thumbnail">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
@@ -585,7 +585,7 @@ include('header.php'); ?>
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=W6fbVgrutxI"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
-                            <img src="//img.youtube.com/vi/W6fbVgrutxI/maxresdefault.jpg" alt="Thumbnail">
+                            <img src="//img.youtube.com/vi/W6fbVgrutxI/sddefault.jpg" alt="Thumbnail">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
@@ -597,7 +597,7 @@ include('header.php'); ?>
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=SLj-WU08GJQ"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
-                            <img src="//img.youtube.com/vi/SLj-WU08GJQ/maxresdefault.jpg" alt="Thumbnail">
+                            <img src="//img.youtube.com/vi/SLj-WU08GJQ/sddefault.jpg" alt="Thumbnail">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
@@ -609,7 +609,7 @@ include('header.php'); ?>
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=RSgh0qaEUO4"></a>
                         <div class="cchat-thumbnail thumbnail-overlay">
-                            <img src="//img.youtube.com/vi/RSgh0qaEUO4/maxresdefault.jpg" alt="Thumbnail">
+                            <img src="//img.youtube.com/vi/RSgh0qaEUO4/sddefault.jpg" alt="Thumbnail">
                         </div>
                         <i class="far fa-play-circle"></i>
                     </div>
