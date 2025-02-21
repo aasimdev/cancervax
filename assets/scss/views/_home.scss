@@ -3995,6 +3995,15 @@ li {
     margin-block: 57px 170px;
 }
 }
+.h-short-videos{
+    height: 540px;
+    position: relative;
+    img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}
 .about-team-content{
     background: #fff url("../img/team-first-bg.png") no-repeat center / cover;
     padding: 160px 0;
