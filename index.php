@@ -528,7 +528,7 @@ include('header.php'); ?>
                         <div class="short-thumbnail">
                             <img src="./assets/img/short-thumbnail.png" alt="thumbnail">
                             <div class="short-thumbnail-onview">
-                                <h5>CancerVax - Weapon Against Cance</h5>
+                                <h5>CancerVax - Weapon Against Cancer</h5>
                                 <img src="./assets/img/play-button.png" alt="play-button">
                                 <p>Play Video</p>
                             </div>
