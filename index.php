@@ -22,14 +22,14 @@ include('header.php'); ?>
     <div class="container">
         <div class="coming-soon-title">Upcoming Webinar </div>
         <div class="coming-soon-content">Exciting Update on Our
-        <br class="d-none d-md-inline-block" /> Revolutionary Cancer Treatment <br> Tuesday, February 25, 2025 <br> 1:00 pm PST / 4:00 pm EST
+            <br class="d-none d-md-inline-block" /> Revolutionary Cancer Treatment <br> Tuesday, February 25, 2025 <br> 1:00 pm PST / 4:00 pm EST
         </div>
         <p>Sign up now to reserve your spot
         </p>
         <form action="https://submit.jotform.com/submit/250306574577058/" method="POST" autocomplete="off">
             <input type="hidden" name="formID" value="250306574577058">
             <input type="email" id="webinar-email" name="q3_webinaremail" placeholder="Enter email address" required>
-         
+
             <button type="submit">Sign up!</button>
         </form>
     </div>
@@ -38,12 +38,12 @@ include('header.php'); ?>
 
 <section class="banner-main">
     <div class="banner-main-bg banner-home-up">
-       
+
         <div class="container">
-        <div class="banner-main-content banner-heading text-center mx-auto">
-            <h1 style="color: #295d6e">A Revolutionary Way
-                to Fight Cancer</h1>
-        </div>
+            <div class="banner-main-content banner-heading text-center mx-auto">
+                <h1 style="color: #295d6e">A Revolutionary Way
+                    to Fight Cancer</h1>
+            </div>
             <div class="banner-main-content">
                 <p class="d-none d-md-block mt-0">The CancerVax Way
                 </p>
@@ -242,18 +242,18 @@ include('header.php'); ?>
                             </a>
                         </div>
                         <h5>
-                            Sumant Ramachandra, <span>MD, PhD, MBA</span> 
-                           
+                            Sumant Ramachandra, <span>MD, PhD, MBA</span>
+
                         </h5>
                         <p>
                             Chief Scientific Advisor
                         </p>
 
-                      
+
                         <div class="team-description">
-                        <div class="popup-aftertitle">
-                            <h5>Founder: SR Global Health, LLC</h5>
-                        </div>
+                            <div class="popup-aftertitle">
+                                <h5>Founder: SR Global Health, LLC</h5>
+                            </div>
                             <p class="py-2">Sumant Ramachandra serves as an Independent Director on the Board of Lyell Immunopharma (“Lyell”), following Lyell’s acquisition of ImmPACT Bio (“ImmPACT”) in October 2024. As CEO of ImmPACT from November 2021 until its acquisition, he led capital raises, secured clinical grants, and built a team that achieved FDA clearance for three Investigational New Drug (IND) applications, established manufacturing capabilities, and advanced multiple clinical studies. </p>
                             <p class="py-2">In addition, Dr. Ramachandra currently serves as an advisor to private equity funds on companies in the pharmaceuticals, biotechnology, and medical devices/software spaces. <br> Previously, Dr. Ramachandra served as Chief Science, Technology, and Medical Officer at Baxter International, starting in June 2017. He was also appointed President of Baxter Pharmaceuticals in 2019. Prior to Baxter, he held the role of Senior Vice President, Head of Research & Development, at Pfizer Essential Health, and served as Chief Scientific Officer at Hospira from 2008 until Pfizer acquired Hospira in 2015. Earlier in his career, Dr. Ramachandra held senior roles at Pfizer and Merck & Co., specializing in oncology, global product development, medical affairs, business development, and clinical pharmacology. He began his medical career as an intern and resident physician at Massachusetts General Hospital, Harvard Medical School.</p>
                             <p class="py-2">Dr. Ramachandra earned his undergraduate degree in biochemistry, a PhD in experimental pathology (with a focus on chronic lymphocytic leukemia), and an MD from Rutgers University. He also holds an MBA from the Wharton School, University of Pennsylvania.</p>
@@ -326,7 +326,7 @@ include('header.php'); ?>
                 </div>
             </div>
             <div class="row my-4 justify-content-center">
-               
+
                 <div class="col-md-6 col-xl-4">
                     <div class="team-box">
                         <div class="team-box-img">
@@ -393,7 +393,7 @@ include('header.php'); ?>
 <section class="worldhealth-n pt-0">
     <div class="container">
         <h2>Our Development Partners</h2>
-      
+
         <div class="row">
             <div class="col-lg-4">
                 <div class="dev-partners-img">
@@ -412,7 +412,7 @@ include('header.php'); ?>
                 </div>
             </div>
             <div class="col-lg-8">
-                <p>Cytiva, formerly Precision NanoSystems, is a part of Danaher (NYSE: DHR) and a global leader in advancing and accelerating therapeutics. With a strong presence in life sciences research and bioprocessing, Cytiva provides innovative technologies and expertise to help companies bring life-changing treatments to market. The company specializes in biomanufacturing solutions, lipid nanoparticle (LNP) development, and cutting-edge analytical tools. CancerVax is working with Cytiva to leverage its clinically proven LNPs to to create a complete CancerVax therapeutic nanoparticle. 
+                <p>Cytiva, formerly Precision NanoSystems, is a part of Danaher (NYSE: DHR) and a global leader in advancing and accelerating therapeutics. With a strong presence in life sciences research and bioprocessing, Cytiva provides innovative technologies and expertise to help companies bring life-changing treatments to market. The company specializes in biomanufacturing solutions, lipid nanoparticle (LNP) development, and cutting-edge analytical tools. CancerVax is working with Cytiva to leverage its clinically proven LNPs to to create a complete CancerVax therapeutic nanoparticle.
                 </p>
             </div>
         </div>
@@ -524,96 +524,121 @@ include('header.php'); ?>
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=SLj-WU08GJQ"></a>
-                        <div class="h-short-videos">
-                            <img src="//img.youtube.com/vi/SLj-WU08GJQ/sddefault.jpg" alt="thumbnail">
+
+                        <div class="short-thumbnail">
+                            <img src="./assets/img/short-thumbnail.png" alt="thumbnail">
+                            <div class="short-thumbnail-onview">
+                                <h5>CancerVax - Weapon Against Cancer</h5>
+                                <img src="./assets/img/play-button.png" alt="play-button">
+                                <p>Play Video</p>
+                            </div>
                         </div>
-                        <i class="far fa-play-circle"></i>
                     </div>
-                    <p class="mt-0">CancerVax - Weapon Against Cancer</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=RSgh0qaEUO4"></a>
-                        <div class="h-short-videos">
-                            <img src="//img.youtube.com/vi/RSgh0qaEUO4/sddefault.jpg" alt="thumbnail">
+                        <div class="short-thumbnail">
+                            <img src="./assets/img/short-thumbnail.png" alt="thumbnail">
+                            <div class="short-thumbnail-onview">
+                                <h5>CancerVax - Making Cancer Look Like Measles</h5>
+                                <img src="./assets/img/play-button.png" alt="play-button">
+                                <p>Play Video</p>
+                            </div>
                         </div>
-                        <i class="far fa-play-circle"></i>
                     </div>
-                    <p class="mt-0">CancerVax - Making Cancer Look Like Measles</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=kOxGWgLwuDs"></a>
-                        <div class="h-short-videos">
-                            <img src="//img.youtube.com/vi/kOxGWgLwuDs/sddefault.jpg" alt="thumbnail">
+                        <div class="short-thumbnail">
+                            <img src="./assets/img/short-thumbnail.png" alt="thumbnail">
+                            <div class="short-thumbnail-onview">
+                                <h5>CancerVax - Immune System Memory</h5>
+                                <img src="./assets/img/play-button.png" alt="play-button">
+                                <p>Play Video</p>
+                            </div>
                         </div>
-                        <i class="far fa-play-circle"></i>
                     </div>
-                    <p class="mt-0">CancerVax - Immune System Memory</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=8ESunhDXzU4"></a>
-                        <div class="h-short-videos">
-                            <img src="//img.youtube.com/vi/8ESunhDXzU4/sddefault.jpg" alt="thumbnail">
+                        <div class="short-thumbnail">
+                            <img src="./assets/img/short-thumbnail.png" alt="thumbnail">
+                            <div class="short-thumbnail-onview">
+                                <h5>CancerVax - Let's Talk <br /> About Cancer</h5>
+                                <img src="./assets/img/play-button.png" alt="play-button">
+                                <p>Play Video</p>
+                            </div>
                         </div>
-                        <i class="far fa-play-circle"></i>
                     </div>
-                    <p class="mt-0">CancerVax - Let's Talk About Cancer</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=hmvMkgdIP7E"></a>
-                        <div class="h-short-videos">
-                            <img src="//img.youtube.com/vi/hmvMkgdIP7E/sddefault.jpg" alt="thumbnail">
+                        <div class="short-thumbnail">
+                            <img src="./assets/img/short-thumbnail.png" alt="thumbnail">
+                            <div class="short-thumbnail-onview">
+                                <h5>CancerVax - Realities of Chemo and Radiation</h5>
+                                <img src="./assets/img/play-button.png" alt="play-button">
+                                <p>Play Video</p>
+                            </div>
                         </div>
-                        <i class="far fa-play-circle"></i>
                     </div>
-                    <p class="mt-0">CancerVax - Realities of Chemo and Radiation</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=W6fbVgrutxI"></a>
-                        <div class="h-short-videos">
-                            <img src="//img.youtube.com/vi/W6fbVgrutxI/sddefault.jpg" alt="thumbnail">
+                        <div class="short-thumbnail">
+                            <img src="./assets/img/short-thumbnail.png" alt="thumbnail">
+                            <div class="short-thumbnail-onview">
+                                <h5>CancerVax - Groundbreaking Treatment</h5>
+                                <img src="./assets/img/play-button.png" alt="play-button">
+                                <p>Play Video</p>
+                            </div>
                         </div>
-                        <i class="far fa-play-circle"></i>
                     </div>
-                    <p class="mt-0">CancerVax - Groundbreaking Treatment</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=SLj-WU08GJQ"></a>
-                        <div class="h-short-videos">
-                            <img src="//img.youtube.com/vi/SLj-WU08GJQ/sddefault.jpg" alt="thumbnail">
+                        <div class="short-thumbnail">
+                            <img src="./assets/img/short-thumbnail.png" alt="thumbnail">
+                            <div class="short-thumbnail-onview">
+                                <h5>CancerVax - Weapon Against Cancer</h5>
+                                <img src="./assets/img/play-button.png" alt="play-button">
+                                <p>Play Video</p>
+                            </div>
                         </div>
-                        <i class="far fa-play-circle"></i>
                     </div>
-                    <p class="mt-0">CancerVax - Weapon Against Cancer</p>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
                         <a class="popup-youtube getThumbnail" href="https://www.youtube.com/watch?v=RSgh0qaEUO4"></a>
-                        <div class="h-short-videos">
-                            <img src="//img.youtube.com/vi/RSgh0qaEUO4/sddefault.jpg" alt="thumbnail">
+                        <div class="short-thumbnail">
+                            <img src="./assets/img/short-thumbnail.png" alt="thumbnail">
+                            <div class="short-thumbnail-onview">
+                                <h5>CancerVax - Making Cancer Look Like Measles</h5>
+                                <img src="./assets/img/play-button.png" alt="play-button">
+                                <p>Play Video</p>
+                            </div>
                         </div>
-                        <i class="far fa-play-circle"></i>
                     </div>
-                    <p class="mt-0">CancerVax - Making Cancer Look Like Measles</p>
                 </div>
             </div>
         </div>
