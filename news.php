@@ -15,14 +15,15 @@ include('header.php'); ?>
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
-        <div class="col-lg-6">
+    
+        <!-- <div class="col-lg-6">
                 <div class="news-item">
                     <a href="top-biotech-exec-joins-cancervax-as-chief-scientific-advisor.php"></a>
                     <span>February 25, 2025 </span>
                     <h3>Top Biotech Exec Joins CancerVax as Chief Scientific Advisor</h3>
                     <p>CancerVax, Inc., the developer of a revolutionary universal cancer treatment platform that will use the body’s immune system to fight cancer, announced today that Sumant Ramachandra, MD, PhD, MBA and founder of SR Global Health, LLC, a healthcare advisory firm, will serve as the Company’s new Chief Scientific Advisor</p>
                 </div>
-            </div>
+            </div> -->
         <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-passes-first-test-with-flying-colors.php"></a>
@@ -45,6 +46,14 @@ include('header.php'); ?>
                     <span> November 19, 2024 </span>
                     <h3>Dr. George Katibah to serve as the Company’s Chief Scientific Officer</h3>
                     <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, announced today that Dr. George Katibah will serve as the company’s Chief Scientific Officer</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancervax-taps-flashpoint-therapeutics-nanotechnology-platform-to-drive-universal-cancer-treatment.php"></a>
+                    <span> August 29, 2024</span>
+                    <h3>Cancervax Taps Flashpoint Therapeutics’ Nanotechnology Platform to Drive Universal Cancer Treatment  </h3>
+                    <p> Cancervax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has entered into a research agreement with Flashpoint Therapeutics to perform research on its newly patent-pending Universal Cancer Treatment platform </p>
                 </div>
             </div>
         </div>
