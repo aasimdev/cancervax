@@ -1,5 +1,5 @@
 RewriteEngine on
-RedirectMatch 301 ^/webinar/?$ https://youtu.be/FPUKs3cjQ8A
+RedirectMatch 301 ^/webinar(/)?$ https://youtu.be/FPUKs3cjQ8A
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
