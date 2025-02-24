@@ -1,6 +1,4 @@
 RewriteEngine on
-RewriteRule ^webinar/?$ https://youtu.be/FPUKs3cjQ8A [R=301,L]
-
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php [NC,L]
@@ -16,7 +14,7 @@ RewriteRule ^2024oc$ "https\:\/\/www\.sec\.gov\/Archives\/edgar\/data\/1905495\/
 RewriteCond %{HTTP_HOST} ^cancervax\.com$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.cancervax\.com$
 RewriteRule ^critical$ "https\:\/\/cancervax\.com\/cancervax\-successfully\-uses\-nobel\-prize\-chemistry\-to\-achieve\-universal\-cancer\-vaccine\-targeting\-milestone\.php" [R=301,L]
-
+RewriteRule ^webinar$ https://youtu.be/FPUKs3cjQ8A [R=301,L]
 
 
 <IfModule mod_headers.c>
