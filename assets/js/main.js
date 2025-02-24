@@ -44,7 +44,7 @@ $(function () {
 
 
     const teamModal = new bootstrap.Modal(document.getElementById('team'));
-    $('.team-box-img').on('click', function (e) {
+    $('.team-box-img, .team-box h5, .team-box p').on('click', function (e) {
         e.preventDefault();
         var title = $(this).parent().find('h5').html();
         var decription = $(this).parent().find('.team-description').html();
