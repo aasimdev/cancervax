@@ -1,5 +1,7 @@
 RewriteEngine on
 
+RewriteRule ^cancervax-passes-first-test-with-flying-colors\.php$ https://cancervax.com/cancervax-announces-successful-tests-of-its-smart-mrna-technology.php [R=301,L]
+
 RewriteRule ^webinar/?$ https://youtu.be/FPUKs3cjQ8A [R=301,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
