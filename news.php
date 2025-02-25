@@ -15,7 +15,14 @@ include('header.php'); ?>
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
-    
+        <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancervax-announces-successful-tests-of-its-smart-mrna-technology.php"></a>
+                    <span>February 25, 2025</span>
+                    <h3>CancerVax Announces Successful Tests of its Smart mRNA Technology</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, today announced the successful functional validation of its innovative Smart mRNA (messenger RNA) technology in lab tests</p>
+                </div>
+            </div>
         <!-- <div class="col-lg-6">
                 <div class="news-item">
                     <a href="top-biotech-exec-joins-cancervax-as-chief-scientific-advisor.php"></a>
