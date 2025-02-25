@@ -74,6 +74,9 @@
     &-content {
         position: relative;
         padding: 8px 0;
+        display: flex;
+    align-items: center;
+    justify-content: space-between;
         .orange-btn{
             background: #f2a743;
             color: #000;
@@ -91,12 +94,12 @@
         }
     }
 
-    .tSocial {
-        position: absolute;
-        right: 0;
-        top: 50%;
-        transform: translateY(-50%);
-    }
+    // .tSocial {
+    //     position: absolute;
+    //     right: 0;
+    //     top: 50%;
+    //     transform: translateY(-50%);
+    // }
 }
 
 
