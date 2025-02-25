@@ -150,8 +150,8 @@ include('header.php'); ?>
 
                     <div class="banner-announcement">
                         <h4>Breaking News</h4>
-                        <p>CancerVax Passes First Test <br> with Flying Colors</p>
-                        <a href="cancervax-passes-first-test-with-flying-colors.php" class="theme-btn">Learn More</a>
+                        <p>CancerVax Announces Successful Tests of its Smart mRNA Technology</p>
+                        <a href="cancervax-announces-successful-tests-of-its-smart-mrna-technology.php" class="theme-btn">Learn More</a>
                     </div>
 
 

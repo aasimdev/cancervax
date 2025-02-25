@@ -10,21 +10,22 @@ include('header.php'); ?>
             <h1>CancerVax Announces Successful Tests of its Smart mRNA Technology </h1>
         </div>
 
-        <h3>Recent in-vitro lab results confirm that the Company’s proprietary Smart mRNA can be used as a potential on/off switch for selectively detecting cancer cells</h3>
-        <p>Lehi, Utah – February 25, 2025 – CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, today announced the successful functional validation of its innovative Smart mRNA (messenger RNA) technology in lab tests.  </p>
+        <h3>Recent in-vitro lab results confirm that the Company’s proprietary Smart mRNA can be used as a potential on/off switch for selectively detecting cancer cells
+        </h3>
+        <p>Lehi, Utah – February 25, 2025 – CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, today announced the successful functional validation of its innovative Smart mRNA (messenger RNA) technology in lab tests.   </p>
 
         <p>The Company’s novel approach detects and universally marks cancer cells as common diseases such as measles. This tricks the natural immune system into mounting a strong immune response and kills cancer cells as if they were measles. The CancerVax technology uses a precision 2-step cancer detection mechanism in a highly functionalized nanoparticle.   </p>
 
-        <p>Step 1: the nanoparticle latches onto cells with surface proteins highly expressed on cancer cells. Step 2: the nanoparticle releases a proprietary Smart mRNA payload that is conditionally activated based on cancer genetic signatures. When the Smart mRNA encounters the cancer-specific signature, it forces the cancer cell to start producing measle proteins, which disguises the cancer cell as measles and attracts the immune cells. When it encounters a healthy cell signature, the Smart mRNA will not turn on, leaving the healthy cell un-harmed. This on/off cancer signature detection is a very exciting feature that we believe will improve the efficacy and safety of our treatment.      </p>
+        <p>Step 1: the nanoparticle latches onto cells with surface proteins highly expressed on cancer cells. Step 2: the nanoparticle releases a proprietary Smart mRNA payload that is conditionally activated based on cancer genetic signatures. When the Smart mRNA encounters the cancer-specific signature, it forces the cancer cell to start producing measle proteins, which disguises the cancer cell as measles and attracts the immune cells. When it encounters a healthy cell signature, the Smart mRNA will not turn on, leaving the healthy cell un-harmed. This on/off cancer signature detection is a very exciting feature that we believe will improve the efficacy and safety of our treatment.    </p>
 
-        <p>Since August 2024, the Company has been working with Flashpoint Therapeutics to leverage its Structural Nanomedicine (SN) system to deliver and confirm the on/off functionality of the CancerVax Smart mRNAs.     </p>
+        <p>Since August 2024, the Company has been working with Flashpoint Therapeutics to leverage its Structural Nanomedicine (SN) system to deliver and confirm the on/off functionality of the CancerVax Smart mRNAs.       </p>
 
         <p>Recent positive lab confirmation of Smart mRNA functionality is a tremendous milestone for the Company. This marks a significant step in CancerVax’s mission to develop effective treatments for hard-to-treat cancers, including pancreatic ductal adenocarcinoma (PDAC).</p>
 
         <h3>Goals of the Flashpoint Collaboration:</h3>
 
         <ul class="theme-list mb-4">
-      <li>  Demonstrate the successful incorporation of our Smart mRNA payload into Flashpoint nanoparticles</li>
+      <li> Demonstrate the successful incorporation of our Smart mRNA payload into Flashpoint nanoparticles</li>
 <li>Confirm that Smart mRNAs can be delivered into cancer cells and non-cancerous cells</li>
 <li>Confirm that Smart mRNAs can be turned on and off by introducing the expected genetic signatures</li>
 <li>Confirm that Smart mRNA will be turned off in non-cancerous cells with the corresponding genetic signature</li>
@@ -34,11 +35,13 @@ include('header.php'); ?>
 
         <ul class="theme-list mb-4">
             <li>Smart mRNAs were successfully delivered to pancreatic, lung, Ewing sarcoma, and breast cancer cell lines, as well as a positive control non-cancerous cell line with very high transfection rate.
-            </li>
-            <li>In all the above cell lines, Smart mRNAs were successfully turned off when the corresponding healthy genetic signature was present.</li>
+
+</li>
+<li>In all of the above cancer cell lines, Smart mRNAs were successfully turned on in the presence of natural cancer-specific signatures and turned off when healthy genetic signatures were artificially added.</li>
+<li>In the non-cancerous cell line, Smart mRNAs were successfully turned off in the presence of natural healthy genetic signatures.</li>
         </ul>
 
-        <p>Fluorescence microscopy images of PANC-1 (pancreatic cancer) cell line </p>
+        <p>Fluorescence microscopy images of PANC-1 (pancreatic cancer) cell line  </p>
 
         <img src="./assets/img/fluorescene-microscopy.png" alt="fluorescene-microscopy" class="my-4 w-75 d-block mx-auto">
 
