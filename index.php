@@ -121,12 +121,13 @@ include('header.php'); ?>
                             <span>Watch video</span>
                         </a>
                     </div>
-                    <h2 class="banner-video-head d-none d-lg-block">Interview with Our Principal Scientist</h2>
+                    <h2 class="banner-video-head d-none d-lg-block">Exciting Update on Our <br>
+                    Revolutionary Cancer Treatment</h2>
                     <div class="banner-video banner-video-top d-none d-lg-block">
                         <div class="banner-thumbnail">
-                            <img src="//img.youtube.com/vi/asKKFnY-LFk/maxresdefault.jpg" alt="thumbnail">
+                            <img src="//img.youtube.com/vi/FPUKs3cjQ8A/maxresdefault.jpg" alt="thumbnail">
                         </div>
-                        <a href="http://www.youtube.com/watch?v=asKKFnY-LFk" class="theme-btn text-uppercase popup-youtube">
+                        <a href="http://www.youtube.com/watch?v=FPUKs3cjQ8A" class="theme-btn text-uppercase popup-youtube">
                             <i class="far fa-play-circle"></i>
                             <span>Watch video</span>
                         </a>
