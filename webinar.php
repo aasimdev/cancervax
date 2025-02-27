@@ -4,13 +4,16 @@ $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 include('header.php'); ?>
 
-<section class="coming-soon">
+<section class="webinar">
     <div class="container">
-        <div class="coming-soon-title">Upcoming Webinar </div>
-        <div class="coming-soon-content">Exciting Update on Our
-        <br class="d-none d-md-inline-block" /> Revolutionary Cancer Treatment <br> Tuesday, February 25, 2025 <br> 1:00 pm PST / 4:00 pm EST
+        <div class="ratio ratio-16x9">
+            <iframe class='w-full aspect-video' src="https://www.youtube.com/embed/FPUKs3cjQ8A"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen=""></iframe>
         </div>
     </div>
+
 </section>
 
 
