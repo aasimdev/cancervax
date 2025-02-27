@@ -23,14 +23,14 @@ include('header.php'); ?>
                     <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, today announced the successful functional validation of its innovative Smart mRNA (messenger RNA) technology in lab tests</p>
                 </div>
             </div>
-        <!-- <div class="col-lg-6">
+        <div class="col-lg-6">
                 <div class="news-item">
                     <a href="top-biotech-exec-joins-cancervax-as-chief-scientific-advisor.php"></a>
                     <span>February 25, 2025 </span>
                     <h3>Top Biotech Exec Joins CancerVax as Chief Scientific Advisor</h3>
                     <p>CancerVax, Inc., the developer of a revolutionary universal cancer treatment platform that will use the body’s immune system to fight cancer, announced today that Sumant Ramachandra, MD, PhD, MBA and founder of SR Global Health, LLC, a healthcare advisory firm, will serve as the Company’s new Chief Scientific Advisor</p>
                 </div>
-            </div> -->
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php"></a>
