@@ -1,41 +1,62 @@
 RewriteEngine on
 
+# Permanent Redirect for a Specific Page
 RewriteRule ^cancervax-passes-first-test-with-flying-colors\.php$ https://cancervax.com/cancervax-announces-successful-tests-of-its-smart-mrna-technology.php [R=301,L]
 
+# Handle PHP File Access
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php [NC,L]
+
+# Redirections for Video URLs
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^videos/ceo-podcast/(.*)$ /videos/podcast/$1 [R=301,L]
 RewriteRule ^videos/podcast/(.*)$ videos/ceo-podcast/index.php [L,QSA]
 RewriteRule ^videos/cancer-survivor-stories/(.*)$ videos/cancer-survivor-stories/index.php [L,QSA]
 RewriteRule ^videos/news-commentary/(.*)$ videos/news-commentary/index.php [L,QSA]
 RewriteRule ^videos/short-videos/(.*)$ videos/short-videos/index.php [L,QSA]
+
+# Redirects for Specific Paths
 RewriteCond %{HTTP_HOST} ^cancervax\.com$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.cancervax\.com$
 RewriteRule ^2024oc$ "https\:\/\/www\.sec\.gov\/Archives\/edgar\/data\/1905495\/000149315224009596\/partiiandiii\.htm" [R=302,L]
+
 RewriteCond %{HTTP_HOST} ^cancervax\.com$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.cancervax\.com$
 RewriteRule ^critical$ "https\:\/\/cancervax\.com\/cancervax\-successfully\-uses\-nobel\-prize\-chemistry\-to\-achieve\-universal\-cancer\-vaccine\-targeting\-milestone\.php" [R=301,L]
 
+# Force Cache Refresh for All Users
+<IfModule mod_headers.c>
+    Header set Cache-Control "no-cache, no-store, must-revalidate, max-age=0, no-transform"
+    Header set Pragma "no-cache"
+    Header set Expires "0"
+</IfModule>
 
+# Prevent Caching for Specific File Types
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresDefault "access plus 0 seconds"
+</IfModule>
 
 <IfModule mod_headers.c>
-    # Prevent caching for images
+    # No Cache for Images
     <FilesMatch "\.(jpg|jpeg|png|gif|svg|ico)$">
-        Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+        Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0, no-transform"
         Header set Pragma "no-cache"
         Header set Expires "0"
     </FilesMatch>
     
-    # Prevent caching for CSS and JS
+    # No Cache for CSS & JS
     <FilesMatch "\.(css|js)$">
-        Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+        Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0, no-transform"
         Header set Pragma "no-cache"
         Header set Expires "0"
     </FilesMatch>
 
+    # No Cache for HTML & PHP Files
     <FilesMatch "\.(html|php)$">
-        Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+        Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0, no-transform"
+        Header set Pragma "no-cache"
+        Header set Expires "0"
     </FilesMatch>
 </IfModule>
