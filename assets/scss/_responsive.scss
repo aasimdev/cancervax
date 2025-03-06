@@ -473,7 +473,6 @@ margin-bottom: 30px;
     }
 
     .banner-text p {
-        font-size: 18px;
         max-width: 100%;
     }
 
@@ -608,10 +607,6 @@ margin-bottom: 30px;
 
     .ceochats {
         padding: 60px 0;
-    }
-
-    .abtBanner-text h1 {
-        font-size: 18px;
     }
 
     .abtinfo p {
@@ -810,6 +805,7 @@ margin-bottom: 30px;
 
     .newsletter p {
         text-align: center;
+        font-size: 20px;
     }
 
     .banner .developed-logo {
@@ -944,7 +940,7 @@ margin-bottom: 30px;
     }
 
     .mcta-text p {
-        font-size: 18px;
+        font-size: 20px;
         margin-bottom: 0;
         line-height: 1.5;
     }
@@ -1067,8 +1063,8 @@ margin-bottom: 30px;
     .immnewpyramid p,
     .immtypes__heading p,
     .immtypes__content p,
-    .immtypes__content li {
-        font-size: 18px;
+    .immtypes__content li, .nCommentary .cchat p {
+        font-size: 20px;
         line-height: 1.5;
     }
 
@@ -1255,10 +1251,10 @@ margin-bottom: 30px;
     .banner-announcement h4 {
         margin-top: 0 !important;
     }
-
+    .worldhealth-n p, .market-opp p{
+        font-size: 20px;
+    }
     .banner-announcement p {
-        color: #070707;
-        font-size: 18px;
         margin-top: 12px;
     }
 
@@ -1394,9 +1390,7 @@ margin-bottom: 30px;
         margin-top: 0;
     }
 
-    .banner-main-content ul li {
-        font-size: 18px;
-    }
+  
 
     .banner-main-content ul li+li {
         margin-top: 12px;
@@ -1449,8 +1443,8 @@ margin-bottom: 30px;
     }
     .news-detail h3 {
         font-size: 20px;}
-    .news-item p, .abtinfo p, .news-detail p, .theme-list li, .market-content p, .theme-check-list li{
-        font-size: 18px;
+    .news-item p, .abtinfo p, .news-detail p, .theme-list li, .market-content p, .theme-check-list li, .graph ul li {
+        font-size: 20px;
     }
     .coreTeam .team-box h5{
         font-size: 16px;
@@ -1635,4 +1629,6 @@ margin-bottom: 30px;
     font-size: 32px;
     line-height: 1.2;
 }
+.news-detail p, .news-detail a, .contact-title span, .contact-info p, .contact-info a {
+    font-size: 20px;}
 }
