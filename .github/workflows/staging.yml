@@ -1,1 +1,32 @@
+name: Deploy to cPanel Staging
 
+on:
+  push:
+    branches:
+      - dev-fixed
+
+jobs:
+  deploy:
+    name: Deploy to cPanel Staging
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Upload files via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.1
+        with:
+          server: ${{ secrets.CPANEL_STAGING_FTP_HOST }}
+          username: ${{ secrets.CPANEL_STAGING_FTP_USER }}
+          password: ${{ secrets.CPANEL_STAGING_FTP_PASSWORD }}
+          local-dir: ./
+          server-dir: /home/up51j258kry3/staging.cancervax.com/
+          exclude: |
+            **/.git*
+            **/.github*
+            **/node_modules/**
+            **/vendor/**
+
+      - name: Deployment complete
+        run: echo "Deployment to staging via FTP completed."
