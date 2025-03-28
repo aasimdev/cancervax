@@ -2,25 +2,12 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
+  <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="Thu, 01 Jan 1970 00:00:00 GMT">
-    <link rel="icon" type="image/png" href="<?php echo  $full_url; ?>/assets/images/favicon.png">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
-    <link href="<?php echo  $full_url; ?>/assets/css/style.css?v=<?php echo time(); ?>" rel="stylesheet">
-    <title>Newhydrogen</title>
-
-
-
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate">
-    <meta http-equiv="Pragma" content="no-cache">
-    <meta http-equiv="Expires" content="Thu, 01 Jan 1970 00:00:00 GMT">
-    <title>Newhydrogen</title>
+    <title>Cancervax</title>
     <link rel="apple-touch-icon" sizes="114x114" href="<?php echo  $full_url; ?>/assets/images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="<?php echo  $full_url; ?>/assets/images/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="<?php echo  $full_url; ?>/assets/images/favicon/favicon-16x16.png">
@@ -36,6 +23,7 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-7D9TX20JND"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
+
         function gtag() {
             dataLayer.push(arguments);
         }
@@ -123,6 +111,25 @@
 
 
 <body class="<?php echo ($page === 'home') ? 'home' : ''; ?>">
+    <div class="fixed w-full z-30 top-0">
+        <div class="bg-custom-teal-100 py-2">
+            <div class="mx-auto container px-2 sm:px-4">
+                <div class="flex items-center justify-between">
+                    <a href="/webinar" class="theme-btn orange-btn">Watch the Webinar</a>
+                    <a href="https://invest.cancervax.com/" target="_blank" class="theme-btn orange-btn">Invest in CancerVax</a>
+                    <div class="hidden md:block space-x-3">
+                        <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer" class="text-white text-xl"><i class="fab fa-facebook-square"></i></a>
+                        <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer" class="text-white text-xl"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer" class="text-white text-xl"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer" class="text-white text-xl"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+
 
     <div class="sticky top-0 z-20 bg-white transition-all duration-300 ease-in-out header-top">
         <div class="bg-black sm:px-5">

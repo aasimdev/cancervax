@@ -12,12 +12,13 @@ module.exports = {
       },
       colors: {
         custom: {
+          'teal-100': "#1d8f97",
+          'orange-100': "#f2a743",
           'green-100': "#00BC04",
           'green-200': "#0AE02D",
           'green-300': "#50E969",
           'green-400': "#0be02e",
           'green-500': "#4fe653",
-          'orange-100': "#ff5a00",
           'green-600': "#56b947",
           'gray-100': "#D8D5E8",
           'gray-200': "#F2F6FA",
