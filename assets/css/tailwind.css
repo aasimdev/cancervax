@@ -9,39 +9,66 @@
 @layer base {
   body {
     font-family: 'Roboto', sans-serif;
-    font-size: 15px;
+    font-size: 25px;
     position: relative;
+    line-height: 1.2;
+    letter-spacing: normal;
+    color: black;
   }
-
-  h1 {
-    @apply font-light text-[50px] leading-none;
+  
+  h1,
+  h2 {
+      @apply text-[85px] leading-none text-white;
   }
-
-  h2,
-  h3,
+  
+  h3 {
+      @apply text-6xl leading-none text-white;
+  }
+  
   h4 {
-    @apply font-normal text-[42px] leading-[120%] text-black;
+      @apply text-3xl leading-none text-white;
   }
-
-  h5,
+  
+  
   h6 {
-    @apply font-bold text-[18px] leading-[120%] text-black;
+    @apply text-sm font-bold leading-[24px] text-black;
   }
-
+  
   p {
-    @apply font-medium text-[15px] leading-[140%] text-black mb-0;
+      @apply text-2xl leading-[31px] text-white text-left font-normal ;
   }
-
+  
   a {
-    @apply text-black text-[14px] leading-[20px] no-underline;
+    @apply text-sm leading-[20px] text-black text-left font-normal;
   }
-
+  
   a:hover {
-    @apply text-black no-underline;
+    @apply text-black;
   }
+  .theme-list {
+    li {
+        color: #ABABAB;
+        font-size: 16px;
+        line-height: 1.7em;
+        position: relative;
+
+        padding-left: 18px;
+
+        &::before {
+            content: '';
+            width: 5px;
+            height: 5px;
+            position: absolute;
+            background: #ABABAB;
+            border-radius: 50%;
+            left: 0;
+            top: 10px;
+        }
+    }
+}
 
   .theme-list li {
-    @apply relative pl-11 text-lg lg:text-xl text-left text-black font-normal before:bg-greenlist before:absolute before:left-0 before:top-0 before:w-5 before:h-[21px] before:mt-1;
+    @apply relative pl-[18px] text-base text-left text-[#ABABAB] leading-relaxed font-normal before:bg-[#ABABAB] before:size-[5px] rounded-full before:absolute before:left-0 before:top-2.5;
   }
 
   .theme-list.blue-list li {
@@ -52,7 +79,7 @@
     @apply before:hidden;
   }
   .theme-btn{
-    @apply font-medium text-[13px] leading-[2.5em] uppercase text-white fill-white bg-custom-teal-100 border-custom-teal-100 border-2 border-solid rounded-full px-10 py-3 transition-all duration-300 ease-in-out;
+    @apply font-medium text-[13px] leading-[2.5em] tracking-[1.3px] uppercase text-white fill-white bg-custom-teal-100 border-custom-teal-100 border-2 border-solid rounded-full px-10 py-3 transition-all duration-300 ease-in-out inline-block;
   }
   .theme-btn:hover{
     @apply text-black bg-white shadow-[0_12px_28px_rgb(0_0_0_/_12%)];
@@ -70,10 +97,6 @@ html {
 }
 
 @layer utilities {
-  .header-top.scrolled {
-    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-  }
-
   .slick-initialized .slick-slide {
     margin: 0px 0.5%;
   }
@@ -121,4 +144,44 @@ html {
   .noscroll {
     @apply overflow-hidden;
   }
+  .container,.container-fluid,.container-lg,.container-md,.container-sm,.container-xl,.container-xxl {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto
+  }
+
+  @media (min-width: 576px) {
+    .container,.container-sm {
+      max-width:540px
+    }
+  }
+
+  @media (min-width: 768px) {
+    .container,.container-md,.container-sm {
+      max-width:720px
+    }
+  }
+
+  @media (min-width: 992px) {
+    .container,.container-lg,.container-md,.container-sm {
+      max-width:960px
+    }
+  }
+
+  @media (min-width: 1200px) {
+    .container,.container-lg,.container-md,.container-sm,.container-xl {
+      max-width:1140px
+    }
+  }
+
+  @media (min-width: 1400px) {
+    .container,.container-lg,.container-md,.container-sm,.container-xl,.container-xxl {
+      max-width:1320px
+    }
+  }
 }
+

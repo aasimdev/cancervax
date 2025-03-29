@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
@@ -111,12 +111,12 @@
 
 
 <body class="<?php echo ($page === 'home') ? 'home' : ''; ?>">
-    <div class="fixed w-full z-30 top-0">
-        <div class="bg-custom-teal-100 py-2">
-            <div class="mx-auto container px-2 sm:px-4">
+    <div class="sticky top-0 z-20 bg-white transition-all duration-300 ease-in-out border-b border-custom-teal-100">
+        <div class="bg-custom-teal-100 p-2.5 sm:py-2 sm:px-8 min-h-16 hidden sm:block">
+            <div class="container-fluid">
                 <div class="flex items-center justify-between">
-                    <a href="/webinar" class="theme-btn orange-btn">Watch the Webinar</a>
-                    <a href="https://invest.cancervax.com/" target="_blank" class="theme-btn orange-btn">Invest in CancerVax</a>
+                    <a href="/webinar" class="theme-btn orange-btn tracking-normal">Watch the Webinar</a>
+                    <a href="https://invest.cancervax.com/" target="_blank" class="theme-btn orange-btn tracking-normal">Invest in CancerVax</a>
                     <div class="hidden md:block space-x-3">
                         <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer" class="text-white text-xl"><i class="fab fa-facebook-square"></i></a>
                         <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer" class="text-white text-xl"><i class="fab fa-instagram"></i></a>
@@ -127,48 +127,10 @@
             </div>
         </div>
 
-        
-    </div>
-
-
-    <div class="sticky top-0 z-20 bg-white transition-all duration-300 ease-in-out header-top">
-        <div class="bg-black sm:px-5">
-            <div class="mx-auto max-w-[1320px] 3xl:max-w-screen-2xl px-2 sm:px-4">
-                <div class="relative py-2 flex justify-between items-center gap-1.5 sm:block">
-                    <div class="sm:absolute left-0 top-1/2 sm:-translate-y-1/2">
-                        <a href="https://www.youtube.com/watch?v=-pkox2gPbiQ" target="_blank"
-                            class="p-2.5 rounded-lg text-sm sm:text-base text-center font-semibold break-words bg-custom-green-500 text-black hover:text-black inline-block">
-                            Watch <br class="md:hidden" /> the webinar
-                        </a>
-                    </div>
-                    <div class="flex items-center justify-center gap-3">
-                        <div class="flex items-center justify-between md:justify-center gap-3 w-full">
-
-                            <p class="text-sm [max-380px]:text-base sm:text-lg md:text-lg lg:text-xl xl:text-3xl font-normal break-words text-white">Now Publicly Available <br class="md:hidden" /> - Stock Symbol: NEWH</p>
-                            <a href="/investor"
-                                class="p-2.5 rounded-lg text-sm  sm:text-base font-semibold break-words bg-custom-orange-100 text-white hover:text-white">
-                                Learn more
-                            </a>
-                        </div>
-                    </div>
-                    <div class="absolute right-0 top-1/2 -translate-y-1/2 gap-4 hidden lg:flex">
-                        <a href="https://www.facebook.com/NewHydrogen/" target="_blank"
-                            class="text-white text-xl">
-                            <i class="fab fa-facebook-square"></i>
-                        </a>
-                        <a href="https://www.instagram.com/newhydrogen/" target="_blank"
-                            class="text-white text-xl"><i class="fab fa-instagram"></i></a>
-                        <a href="https://www.youtube.com/@NewHydrogenEnergy" target="_blank"
-                            class="text-white text-xl"><i class="fab fa-youtube"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <nav class="sm:py-4 bg-white ">
-            <div class="mx-auto max-w-[1320px] 3xl:max-w-screen-2xl px-2 sm:px-4">
+        <nav class="sm:py-4 bg-white px-2.5 sm:px-8">
+            <div class="container-fluid">
                 <div class="relative flex h-16 justify-between">
-                    <div class="absolute inset-y-0 right-0 flex items-center min-[900px]:hidden">
+                    <div class="absolute inset-y-0 right-0 flex items-center lg:hidden">
 
                         <!-- Mobile menu button -->
                         <button type="button"
@@ -176,42 +138,40 @@
                             aria-controls="mobile-menu" aria-expanded="false">
                             <span class="absolute -inset-0.5"></span>
                             <span class="sr-only">Open main menu</span>
-                            <svg width="25" height="18" viewBox="0 0 25 18" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <path d="M1 1H23.9921" stroke="#091113" stroke-width="2" stroke-linecap="round"></path>
-                                <path d="M1 8.5H23.9921" stroke="#091113" stroke-width="2" stroke-linecap="round">
-                                </path>
-                                <path d="M7.70602 16.5H23.9921" stroke="#091113" stroke-width="2"
-                                    stroke-linecap="round"></path>
+
+
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+                                <path stroke="rgba(94, 176, 181, 1)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22" />
                             </svg>
+
 
                     </div>
                     <div class="flex flex-1 items-center justify-start md:items-stretch md:justify-between">
                         <div class="flex shrink-0 items-center">
-                            <a href="/">
-                                <img class="w-auto inline-flex" src="<?php echo  $full_url; ?>/assets/images/logo-dark.svg" alt="Newhydrogen">
+                            <a href="/" class="max-w-48 xl:max-w-72">
+                                <img class="w-auto inline-flex" src="<?php echo  $full_url; ?>/assets/images/light-logo.png" alt="Cancervax">
                             </a>
 
                         </div>
                         <?php
                         $links = [
-                            "market" => "Market",
-                            "technology" => "Technology",
                             "team" => "Team",
-                            "application" => "Applications",
+                            "technology" => "Technology",
+                            "progress" => "Progress",
+                            "immunotherapy" => "Immunotherapy",
+                            "market" => "Market",
                             "newsroom" => "Newsroom",
                             "videos" => "Videos",
-                            "investor" => "Investors",
-                            "about" => "About",
+                            "investors" => "Investors",
                             "contact" => "Contact"
                         ];
 
-                        $baseUrl = (strpos($_SERVER['HTTP_HOST'], 'localhost') !== false) ? "/newhydrogen" : "";
+                        $baseUrl = (strpos($_SERVER['HTTP_HOST'], 'localhost') !== false) ? "/cancervax" : "";
                         ?>
                         <div
-                            class="hidden sm:ml-6 min-[900px]:flex lg:space-x-2 xl:space-x-3 lg:gap-0 gap-2.5 [&>a]:inline-flex [&>a]:items-center [&>a]:border [&>a]:border-transparent [&>a]:text-sm [&>a]:font-normal [&>a]:leading-none [&>a]:text-black [&>a]:lg:px-2 [&>a]:xl:px-4 [&>a]:py-2 [&>a]:rounded-full">
+                            class="hidden sm:ml-6 lg:flex lg:gap-0 gap-2.5 [&>a]:inline-flex [&>a]:items-center [&>a]:border [&>a]:border-transparent [&>a]:text-[15px] [&>a]:font-medium [&>a]:leading-none [&>a]:text-black [&>a]:lg:px-2 [&>a]:xl:px-4 [&>a]:py-2 [&>a]:rounded-full">
                             <?php foreach ($links as $slug => $name): ?>
-                                <a href="<?= $baseUrl ?>/<?= $slug ?>"><?= $name ?></a>
+                                <a href="<?= $baseUrl ?>/<?= $slug ?>" class="hover:text-custom-teal-200 last:pr-0"><?= $name ?></a>
                             <?php endforeach; ?>
                         </div>
 
@@ -220,7 +180,7 @@
             </div>
 
             <!-- Mobile menu, show/hide based on menu state. -->
-            <div class="min-[900px]:hidden overflow-hidden absolute w-full bg-white z-10 max-h-0 transition-all duration-300 ease-in-out"
+            <div class="lg:hidden overflow-hidden absolute left-0 w-full bg-white z-10 max-h-0 transition-all duration-300 ease-in-out"
                 id="mobile-menu">
                 <div class="space-y-1">
                     <div

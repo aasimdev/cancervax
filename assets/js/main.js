@@ -32,6 +32,38 @@ $(document).ready(function () {
             ]
         });
     }
+    $('.team-target').on('click', function (e) {
+      e.preventDefault();
+  
+      var title = $(this).closest('.team-item').find('h5').html();
+      var description = $(this).closest('.team-item').find('.team-description').html();
+      
+      $('#team-popup .team-popup-title').html(title);
+      $('#team-popup .team-popup-body').html(description);
+      
+      $.magnificPopup.open({
+          items: {
+              src: '#team-popup'
+          },
+          type: 'inline',
+          mainClass: 'mfp-fade',
+          removalDelay: 160,
+          preloader: false,
+          fixedContentPos: true,
+          callbacks: {
+              open: function() {
+                  $('#team-popup .team-popup-title').html(title);
+                  $('#team-popup .team-popup-body').html(description);
+              },
+              close: function() {
+                  $('#team-popup .team-popup-title').html('');
+                  $('#team-popup .team-popup-body').html('');
+              }
+          }
+      });
+  });
+  
+   
 });
 
 
@@ -110,6 +142,7 @@ $(window).scroll(function () {
     closeBtnInside: true,
     removalDelay: 300,
     mainClass: 'mfp-fade',
+    closeOnBgClick: true,
     callbacks: {
       open: function() {
         jQuery('body').addClass('noscroll');
@@ -119,3 +152,35 @@ $(window).scroll(function () {
       }
     }
   });
+
+  $('.ceochats-carousel').slick({
+    slidesToShow: 2.4,
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 0,
+    speed: 9000,
+    cssEase: 'linear',
+    pauseOnHover: true,
+    arrows: false,
+    dots: false,
+    responsive: [
+        {
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 2,
+            }
+        },
+        {
+            breakpoint: 600,
+            settings: {
+                slidesToShow: 1.5,
+            }
+        },
+        {
+            breakpoint: 480,
+            settings: {
+                slidesToShow: 1,
+            }
+        }
+    ]
+});
