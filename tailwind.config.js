@@ -52,6 +52,7 @@ module.exports = {
         'banner-mobile': 'url(../images/home-banner-mobile.jpg)',
         'team-first': 'url(../images/team-first-bg.png)',
         'team-bg': 'url(../images/newhero.jpg)',
+        'progress-bg': 'url(../images/pipeline-bg.jpg)',
 
         'breaking-new-bg': 'url(../images/breaking-news-bg.png)',
         'arrow': 'url(../images/arrow.png)',
