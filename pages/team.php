@@ -8,7 +8,7 @@
 
 <section class="bg-team-first bg-white bg-no-repeat bg-center bg-cover py-20 sm:py-40">
     <div class="container">
-        <h2 class="text-center text-4xl sm:text-[54px] text-custom-teal-300 font-medium">We have assembled a world-class team of
+        <h2 class="text-center leading-none text-4xl sm:text-[54px] text-custom-teal-300 font-medium">We have assembled a world-class team of
             experienced cancer scientists and advisors to help
             develop our revolutionary cancer technology.</h2>
     </div>

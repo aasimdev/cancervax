@@ -21,7 +21,7 @@ $pathParts = explode('/', $path);
 $page = $pathParts[0] ?? '';
 
 // Define valid static pages
-$validPages = ['home', 'team', 'prep', 'progress', 'immunotherapy'];
+$validPages = ['home', 'team', 'prep', 'progress', 'immunotherapy', 'market'];
 
 // Dynamic video categories
 $videoCategories = ['news-commentary', 'ceo-podcast', 'short-videos'];

@@ -18,15 +18,15 @@
   
   h1,
   h2 {
-      @apply text-[85px] leading-none text-white;
+      @apply text-[50px] md:text-[85px] leading-none text-black;
   }
   
   h3 {
-      @apply text-6xl leading-none text-white;
+      @apply text-6xl leading-none text-black;
   }
   
   h4 {
-      @apply text-3xl leading-none text-white;
+      @apply text-3xl leading-none text-black;
   }
   
   
@@ -35,7 +35,7 @@
   }
   
   p {
-      @apply text-2xl leading-[31px] text-white text-left font-normal ;
+      @apply text-xl md:text-2xl leading-[31px] text-black text-left font-normal tracking-[0.78px];
   }
   
   a {
@@ -45,27 +45,7 @@
   a:hover {
     @apply text-black;
   }
-  .theme-list {
-    li {
-        color: #ABABAB;
-        font-size: 16px;
-        line-height: 1.7em;
-        position: relative;
-
-        padding-left: 18px;
-
-        &::before {
-            content: '';
-            width: 5px;
-            height: 5px;
-            position: absolute;
-            background: #ABABAB;
-            border-radius: 50%;
-            left: 0;
-            top: 10px;
-        }
-    }
-}
+  
 
   .theme-list li {
     @apply relative pl-[18px] text-base text-left text-[#ABABAB] leading-relaxed font-normal before:bg-[#ABABAB] before:size-[5px] rounded-full before:absolute before:left-0 before:top-2.5;
@@ -73,6 +53,10 @@
 
   .theme-list.blue-list li {
     @apply before:bg-bluelist;
+  }
+
+  .theme-check-list li{
+    @apply text-black text-base leading-relaxed relative pl-[30px] before:content-['\f00c'] before:text-custom-teal-200 before:absolute before:inset-0 before:size-4 before:font-awesome before:leading-[1.7em] before:font-[900]; 
   }
 
   .no-li-icon {

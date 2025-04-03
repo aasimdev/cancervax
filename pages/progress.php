@@ -1,7 +1,7 @@
 
-<section class="pt-40 pb-32 bg-center bg-cover text-center relative bg-progress-bg bg-black bg-opacity-50 after:content-[''] after:absolute after:inset-0 after:bg-black after:bg-opacity-50">
+<section class="pt-32 pb-20 md:pt-16 md:pb-32 bg-center bg-cover text-center relative bg-progress-bg bg-black bg-opacity-50 after:content-[''] after:absolute after:inset-0 after:bg-black after:bg-opacity-50">
     <div class="container">
-        <h1 class="relative z-10">Progress</h1>
+        <h1 class="relative z-10 text-white font-medium">Progress</h1>
     </div>
 </section>
 
@@ -32,7 +32,7 @@
 "></a>
         </div>
 
-        <ul class="theme-list mt-12 [&_li]:text-lg [&_li]:text-black">
+        <ul class="theme-list mt-12 [&_li]:text-xl md:[&_li]:text-lg [&_li]:text-black">
             <li>Filed two patent applications </li>
             <li> Designed Smart mRNAs for detecting breast cancer, pancreatic cancer, acute myeloid leukemia, lung cancer, and Ewing sarcoma​</li>
             <li> Lab tests to validate and optimize Smart mRNAs in real cancer cells lines (H2 2024)​</li>

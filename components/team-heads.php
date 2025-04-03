@@ -14,7 +14,7 @@
                         </a>
                     </div>
 
-                    <h5 class="text-sm mb-1 cursor-pointer text-black underline leading-tight team-target">
+                    <h5 class="text-sm font-medium mb-1 cursor-pointer text-black underline leading-tight team-target">
                         George Katibah, <span>PhD</span>
                     </h5>
                     <p class="text-black text-[15px] font-medium underline text-center cursor-pointer team-target">
@@ -41,7 +41,7 @@
                             <img src="<?php echo  $full_url; ?>assets/images/adam-grant.png" class="w-[307px] h-[325px] rounded-lg object-cover" style="object-position: 100% 0;" alt="john">
                         </a>
                     </div>
-                    <h5 class="text-sm mb-1 cursor-pointer text-black underline leading-tight team-target">
+                    <h5 class="text-sm font-medium mb-1 cursor-pointer text-black underline leading-tight team-target">
                         Adam Grant, <span>PhD</span>
                     </h5>
                     <p class="text-black text-[15px] font-medium underline text-center cursor-pointer team-target">
@@ -67,7 +67,7 @@
                             <img src="<?php echo  $full_url; ?>assets/images/sumant-ramachandra.png" class="w-[307px] h-[325px] rounded-lg object-cover" style="object-position: 100% 0;" alt="john">
                         </a>
                     </div>
-                    <h5 class="text-sm mb-1 cursor-pointer text-black underline leading-tight team-target">
+                    <h5 class="text-sm font-medium mb-1 cursor-pointer text-black underline leading-tight team-target">
                         Sumant Ramachandra, <span>MD, PhD, MBA</span>
 
                     </h5>
@@ -96,7 +96,7 @@
                             <img src="<?php echo  $full_url; ?>assets/images/amit-indap.png" class="w-[307px] h-[325px] rounded-lg object-cover" style="object-position: 100% 0;" alt="john">
                         </a>
                     </div>
-                    <h5 class="text-sm mb-1 cursor-pointer text-black underline leading-tight team-target">
+                    <h5 class="text-sm font-medium mb-1 cursor-pointer text-black underline leading-tight team-target">
                         Amit Indap, <span>PhD</span>
                     </h5>
                     <p class="text-black text-[15px] font-medium underline text-center cursor-pointer team-target">
@@ -124,7 +124,7 @@
                             <img src="<?php echo  $full_url; ?>assets/images/lakey.png" class="w-[307px] h-[325px] rounded-lg object-cover" style="object-position: 100% 0;" alt="john">
                         </a>
                     </div>
-                    <h5 class="text-sm mb-1 cursor-pointer text-black underline leading-tight team-target">
+                    <h5 class="text-sm font-medium mb-1 cursor-pointer text-black underline leading-tight team-target">
                         Jonathan Lakey, <span>PhD</span>
                     </h5>
                     <p class="text-black text-[15px] font-medium underline text-center cursor-pointer team-target">
@@ -157,7 +157,7 @@
                             <img src="<?php echo  $full_url; ?>assets/images/matthew-spear.png" class="w-[307px] h-[325px] rounded-lg object-cover" style="object-position: 100% 0;" alt="john">
                         </a>
                     </div>
-                    <h5 class="text-sm mb-1 cursor-pointer text-black underline leading-tight team-target">
+                    <h5 class="text-sm font-medium mb-1 cursor-pointer text-black underline leading-tight team-target">
                         Matthew Spear, <span>MD</span>
                     </h5>
                     <p class="text-black text-[15px] font-medium underline text-center cursor-pointer team-target">
@@ -186,7 +186,7 @@
                             <img src="<?php echo  $full_url; ?>assets/images/steven-warner.png" class="w-[307px] h-[325px] rounded-lg object-cover" style="object-position: 100% 0;" alt="john">
                         </a>
                     </div>
-                    <h5 class="text-sm mb-1 cursor-pointer text-black underline leading-tight team-target">
+                    <h5 class="text-sm font-medium mb-1 cursor-pointer text-black underline leading-tight team-target">
                         Steven Warner, <span>PhD</span>
                     </h5>
                     <p class="text-black text-[15px] font-medium underline text-center cursor-pointer team-target">

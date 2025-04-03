@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       fontFamily: {
         manrope: ['Manrope', 'sans-serif'],
+        awesome: ["'Font Awesome 5 Free'"],
       },
       colors: {
         custom: {
@@ -17,6 +18,7 @@ module.exports = {
           'orange-100': "#f2a743",
           'gray-100': "#f5f5f3",
           'gray-200': "#f1f1f1",
+          'gray-300':"#dbdbdb",
           'dark-100': "#070707",
           'green-100': "#18555a",
 
@@ -25,7 +27,6 @@ module.exports = {
           'green-400': "#0be02e",
           'green-500': "#4fe653",
           'green-600': "#56b947",
-          'gray-300':"#b5b4b4",
           'gray-dark-100': "#304151",
           'gray-dark-200': "#384B5E",
           'purple-light-100': "#75638E",
@@ -53,6 +54,10 @@ module.exports = {
         'team-first': 'url(../images/team-first-bg.png)',
         'team-bg': 'url(../images/newhero.jpg)',
         'progress-bg': 'url(../images/pipeline-bg.jpg)',
+        'immunotherapy-bg': 'url(../images/immunotherapy-bg.jpg)',
+        'immunotherapy-cta': 'url(../images/imm-cta.jpg)',
+        'market-bg': 'url(../images/market-banner.jpg)',
+        'market-cta': 'url(../images/market-cta.jpg)',
 
         'breaking-new-bg': 'url(../images/breaking-news-bg.png)',
         'arrow': 'url(../images/arrow.png)',

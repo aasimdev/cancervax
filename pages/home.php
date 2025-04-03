@@ -72,7 +72,7 @@
                             <span>Watch video</span>
                         </a>
                     </div>
-                    <div class="space-y-4 [&>p]:text-black [&>p]:text-xl [&>p]:leading-normal [&>p]:max-w-[630px] [&>p]:font-normal">
+                    <div class="space-y-4 [&>p]:tracking-normal [&>p]:text-xl [&>p]:leading-normal [&>p]:max-w-[630px] [&>p]:font-normal">
                         <p>
 
                             <strong> CancerVax is a pre-clinical biotech company</strong> developing a novel Universal Cancer Treatment Platform that will be customizable as an injection, to treat many types of cancer.
@@ -125,7 +125,7 @@
 
 <section class="bg-team-first bg-white bg-no-repeat bg-center bg-cover py-20 sm:py-40">
     <div class="container">
-        <h2 class="text-center text-4xl sm:text-[54px] text-custom-teal-300 font-medium">We have assembled a world-class team of
+        <h2 class="text-center text-4xl leading-none sm:text-[54px] text-custom-teal-300 font-medium">We have assembled a world-class team of
             experienced cancer scientists and advisors to help
             develop our revolutionary cancer technology.</h2>
     </div>
@@ -191,13 +191,13 @@
     <div class="container">
         <div class="bg-custom-teal-100 rounded-md p-8 sm:p-10">
             <div class="mb-5">
-                <h3 class="text-[38px] font-medium break-words mb-0 text-center max-w-[740px] mx-auto line-height-[1.36em]">Massive Market Opportunity</h3>
+                <h3 class="text-white text-[38px] font-medium break-words mb-0 text-center max-w-[740px] mx-auto line-height-[1.36em]">Massive Market Opportunity</h3>
             </div>
             <div class="market-opp">
                 <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 items-center pt-4 md:pt-12">
                     <div class="lg:col-span-8">
-                        <h4 class="mb-4 leading-snug text-[26px] sm:text-[30px]">How big is the biotechnology market?</h4>
-                        <p class="text-[18px] leading-snug">According to Precedence Research, the global biotechnology market is projected to grow from $1.3 trillion in 2023 to <span>$3.2 trillion by 2030</span>.
+                        <h4 class="mb-4 leading-snug text-[26px] sm:text-[30px] text-white">How big is the biotechnology market?</h4>
+                        <p class="text-[18px] leading-snug text-white">According to Precedence Research, the global biotechnology market is projected to grow from $1.3 trillion in 2023 to <span>$3.2 trillion by 2030</span>.
                         </p>
                     </div>
                     <div class="lg:col-span-4 text-center">
@@ -210,8 +210,8 @@
                 </div>
                 <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 items-center pt-4 md:pt-6">
                     <div class="lg:col-span-8">
-                        <h4 class="mb-4 leading-snug text-[26px] sm:text-[30px]">How big is the cancer drug development market?</h4>
-                        <p class="text-[18px] leading-snug">According to Fortune Business Insights, the global oncology drugs market is projected to grow from $205 billion in 2023 to <span>$484 billion by 2030</span>.
+                        <h4 class="mb-4 leading-snug text-[26px] sm:text-[30px] text-white">How big is the cancer drug development market?</h4>
+                        <p class="text-[18px] leading-snug text-white">According to Fortune Business Insights, the global oncology drugs market is projected to grow from $205 billion in 2023 to <span>$484 billion by 2030</span>.
                         </p>
                     </div>
                     <div class="lg:col-span-4 text-center">
