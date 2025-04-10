@@ -151,6 +151,28 @@ $(function () {
         fixedContentPos: true,
 
     });
+    
+    // Vimeo Popup
+    $('.popup-vimeo').magnificPopup({
+        type: 'iframe',
+        iframe: {
+            markup: '<div class="mfp-iframe-scaler">' +
+                '<div class="mfp-close"></div>' +
+                '<iframe class="mfp-iframe" frameborder="0" allow="autoplay"></iframe>' +
+                '</div>',
+            patterns: {
+                vimeo: {
+                    index: 'vimeo.com/',
+                    id: '/',
+                    src: 'https://player.vimeo.com/video/%id%?autoplay=1'
+                }
+            }
+        },
+        mainClass: 'mfp-fade',
+        removalDelay: 160,
+        preloader: false,
+        fixedContentPos: true,
+    });
 
     $("#subscriber-form").validate({
         rules: {

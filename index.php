@@ -44,7 +44,7 @@ include('header.php'); ?>
                     <div class="banner-thumbnail">
                         <img src="./assets/img/home-video-thumbnail.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail.jpg'); ?>" alt="thumbnail">
                     </div>
-                    <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="theme-btn text-uppercase popup-youtube">
+                    <a href="https://vimeo.com/1074002405" class="theme-btn text-uppercase popup-vimeo">
                         <i class="far fa-play-circle"></i>
                         <span>Watch video</span>
                     </a>
@@ -81,7 +81,7 @@ include('header.php'); ?>
                         <div class="banner-thumbnail">
                             <img src="./assets/img/home-video-thumbnail.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail.jpg'); ?>" alt="thumbnail">
                         </div>
-                        <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="theme-btn text-uppercase popup-youtube">
+                        <a href="https://vimeo.com/1074002405" class="theme-btn text-uppercase popup-vimeo">
                             <i class="far fa-play-circle"></i>
                             <span>Watch video</span>
                         </a>
@@ -90,9 +90,9 @@ include('header.php'); ?>
                     Revolutionary Cancer Treatment</h2>
                     <div class="banner-video banner-video-top d-lg-none">
                         <div class="banner-thumbnail">
-                            <img src="//img.youtube.com/vi/FPUKs3cjQ8A/maxresdefault.jpg" alt="thumbnail">
+                            <img src="https://vumbnail.com/1074009289.png" alt="thumbnail">
                         </div>
-                        <a href="http://www.youtube.com/watch?v=FPUKs3cjQ8A" class="theme-btn text-uppercase popup-youtube">
+                        <a href="https://vimeo.com/1074009289" class="theme-btn text-uppercase popup-vimeo">
                             <i class="far fa-play-circle"></i>
                             <span>Watch video</span>
                         </a>
@@ -117,7 +117,7 @@ include('header.php'); ?>
                         <div class="banner-thumbnail">
                             <img src="./assets/img/home-video-thumbnail.jpg?v=<?php echo filemtime('./assets/img/home-video-thumbnail.jpg'); ?>" alt="thumbnail">
                         </div>
-                        <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="theme-btn text-uppercase popup-youtube">
+                        <a href="https://vimeo.com/1074002405" class="theme-btn text-uppercase popup-vimeo">
                             <i class="far fa-play-circle"></i>
                             <span>Watch video</span>
                         </a>
@@ -126,9 +126,9 @@ include('header.php'); ?>
                     Revolutionary Cancer Treatment</h2>
                     <div class="banner-video banner-video-top d-none d-lg-block">
                         <div class="banner-thumbnail">
-                            <img src="//img.youtube.com/vi/FPUKs3cjQ8A/maxresdefault.jpg" alt="thumbnail">
+                            <img src="https://vumbnail.com/1074009289.png" alt="thumbnail">
                         </div>
-                        <a href="http://www.youtube.com/watch?v=FPUKs3cjQ8A" class="theme-btn text-uppercase popup-youtube">
+                        <a href="https://vimeo.com/1074009289" class="theme-btn text-uppercase popup-vimeo">
                             <i class="far fa-play-circle"></i>
                             <span>Watch video</span>
                         </a>
