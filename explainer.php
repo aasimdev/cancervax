@@ -12,7 +12,7 @@ include('header.php');
     <div class="podcast-detail-wrap">
         <h1>Short Explainer Video</h1>
          <div class="podcast-video">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/PXBNJe3nHp0?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe title="vimeo-player" class='w-full aspect-video' src="https://player.vimeo.com/video/1074002405" frameborder="0" allowfullscreen></iframe>
         </div> 
     </div>
 </div>
