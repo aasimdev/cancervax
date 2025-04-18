@@ -17,7 +17,7 @@ include('investor-header.php'); ?>
                         <p id="isPasted"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286058" target="_blank" rel="noopener noreferrer">https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286058</a></p>
                         <p>A recent study by the Women’s Health Initiative (WHI) reveals some of the troubling side effects of cancer treatment in women.</p>
                         <p>“The harsh reality is <strong><span>current cancer treatments are invasive</span></strong> and often leave patients with painful and lingering issues,” states Byron Elton, CancerVax CMO and cancer survivor.</p>
-                        <p>The CancerVax approach to cancer treatment is <strong><span>revolutionary by using the body's own immune system to fight cancer, also know as cancer immunotherapy.</span></strong></p>
+                        <p>The CancerVax approach to cancer treatment is <strong><span>revolutionary by using the body's own immune system to treat cancer, also know as cancer immunotherapy.</span></strong></p>
                         <p>Immunotherapy presents the potential to kill only cancer cells during treatment, removing the harmful side effects patients currently experience.</p>
                         <p>“Our work will revolutionize the cancer treatment landscape as we bring hope to millions of patients around the world and future generations.” Byron emphasizes.</p>
                         <p class="text-center">We invite you to <strong><span>help us in the fight against cancer</span></strong> by investing in CancerVax.&nbsp;</p>

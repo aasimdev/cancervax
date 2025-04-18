@@ -15,7 +15,7 @@ include('investor-header.php'); ?>
                     </div>
                     <div class="inPost-description">
                         <p><br></p>
-                        <p id="isPasted">The biotech industry isn’t for the faint of heart. &nbsp;And that’s why Ryan Davies jumped at the chance to lead <strong><span>CancerVax, a high-stakes, pre-clinical biotech company working with UCLA to develop immunotherapy cancer treatments&nbsp;</span></strong>that will use the body’s immune system to fight cancer. &nbsp;</p>
+                        <p id="isPasted">The biotech industry isn’t for the faint of heart. &nbsp;And that’s why Ryan Davies jumped at the chance to lead <strong><span>CancerVax, a high-stakes, pre-clinical biotech company working with UCLA to develop immunotherapy cancer treatments&nbsp;</span></strong>that will use the body’s immune system to treat cancer. &nbsp;</p>
                         <p><br></p>
                         <p><strong><span>CancerVax’s mission is to develop a breakthrough universal cancer treatment.&nbsp;</span></strong></p>
                         <p><br></p>

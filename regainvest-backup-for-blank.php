@@ -10,7 +10,7 @@ include "header.php";
         <!-- Section 1 -->
         <div class="heroSection" id="overview">
             <div class="container">
-                <h1>Invest in a Better Way to Fight Cancer </h1>
+                <h1>Invest in a Better Way to Treat Cancer </h1>
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="heroSection-content">
@@ -35,7 +35,7 @@ include "header.php";
                                 <ul>
                                     <li>10 million people died last year because the body does not easily recognize and kill cancer cells.</li>
                                     <li>However, the body is very good at killing diseases that it recognizes, such as measles.</li>
-                                    <li>Our unique technology disguises cancer cells to look like measles and “tricks” the body into killing them.</li>
+                                    <li>Our unique technology disguises cancer cells to look like measles and "tricks" the body into killing them.</li>
                                 </ul>
                             </div>
                         </div>
@@ -106,7 +106,7 @@ include "header.php";
                             <p> Our innovative approach <strong>DETECTS, MARKS, and KILLS</strong> only cancer cells. By making cancer cells “look” like well immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill cancer cells. </p>
 
 
-                            <p> We look forward to the day when treating cancer will be as simple as getting a shot – a better way to fight cancer.
+                            <p> We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer.
                             </p>
 
                         </div>
@@ -138,7 +138,7 @@ include "header.php";
                                     </div>
                                     <div class="wrapInvestZero">
                                         <div class="reasonNumber">5</div>
-                                        <p>CancerVax is creating a better way to fight cancer.</p>
+                                        <p>CancerVax is creating a better way to treat cancer.</p>
                                     </div>
                                 </div>
 
@@ -406,7 +406,7 @@ include "header.php";
 
                         <!-- 7th Section -->
                         <div class="problemSection">
-                            <h3>A Better Way to Fight Cancer
+                            <h3>A Better Way to Treat Cancer
                                 - Our Universal Cancer Treatment Platform
 
                             </h3>
@@ -462,7 +462,7 @@ include "header.php";
 
                                     <p>From discovery, to optimization, to pre-clinical trials, and additional future phases (phase 1 clinical trials, phase 2 clinical trials, phase 3 clinical trials), every step is a value inflection point that CancerVax believes could increase the company’s value and bring it one step closer to curing cancer.</p>
 
-                                    <p>Join CancerVax and invest in our breakthrough technology to help fight cancer!
+                                    <p>Join CancerVax and invest in our breakthrough technology to help treat cancer!
                                     </p>
 
                                 </div>
@@ -481,7 +481,7 @@ include "header.php";
                         <div class="priceDescription">
 
                             <h4> Join Us to Help Beat Cancer
-                                 </h4>
+                                 </h4>
 
                             <p>Cancer immunotherapy is the next generation weapon in the fight against cancer. It uses the body’s own immune system to target and kill cancer cells. 
 
@@ -489,7 +489,7 @@ include "header.php";
                             <p>Pharmaceutical research is booming from the effects of the COVID-19 pandemic, where the medical community learned how to use mRNA to recognize and fight specific disease states.
                             </p>
 
-                            <p>CancerVax is using a “Smart mRNA” concept to create a novel cancer immunotherapy treatment that uses a patient’s immune system to detect, mark, and kill cancer -- a better way to fight cancer.
+                            <p>CancerVax is using a "Smart mRNA" concept to create a novel cancer immunotherapy treatment that uses a patient's immune system to detect, mark, and kill cancer -- a better way to treat cancer.
                             </p>
 
                             <a href="https://cancervax.directinvest.io/purchase/65664bc380017111b27593bf/" target="_blank" rel="noopener noreferrer">

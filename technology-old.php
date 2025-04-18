@@ -15,14 +15,14 @@ include('header.php'); ?>
             ​​</p>
 
 
-        <p>Our innovative approach <strong>DETECTS, MARKS, and KILLS</strong> only cancer cells. By making cancer cells “look” like well-immunized diseases such as measles or chickenpox, we intend to harness the body’s natural immunity to easily kill cancer cells. For example, anyone who has had measles or been vaccinated for measles has lifetime immunity to the disease.
+        <p>Our innovative approach <strong>DETECTS, MARKS, and KILLS</strong> only cancer cells. By making cancer cells "look" like well-immunized diseases such as measles or chickenpox, we intend to harness the body's natural immunity to easily kill cancer cells. For example, anyone who has had measles or been vaccinated for measles has lifetime immunity to the disease.
 
             ​</p>
         <p>Our form of treatment is known as <strong>cancer immunotherapy or therapeutic cancer vaccines</strong>.​</p>
         <p>Cancer immunotherapy is the latest weapon in the war against cancer, with a forecasted market size of $231 billion by 2031 (Statista). It is less toxic than chemotherapy and radiation, and less radical than surgery.
 
             ​</p>
-        <p>Our novel approach is fundamentally different from other treatments, and we believe this is a “Better Way to Fight Cancer.”
+        <p>Our novel approach is fundamentally different from other treatments, and we believe this is a "Better Way to Treat Cancer."
 
             ​</p>
 
@@ -31,13 +31,13 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <h3>The Problem​</h3>
                 <ul class="theme-list mb-4">
-                    <li>The body’s immune system is very good at killing foreign pathogens, such as the measles virus. But it’s not very good at killing cancer cells because cancer cells were originally normal cells and not foreign pathogens. This is why cancer grows undetected and is so hard to treat.</li>
+                    <li>The body's immune system is very good at killing foreign pathogens, such as the measles virus. But it's not very good at killing cancer cells because cancer cells were originally normal cells and not foreign pathogens. This is why cancer grows undetected and is so hard to treat.</li>
                 </ul>
 
                 <h3>The Solution​</h3>
                 <ul class="theme-list mb-4">
                     <li>We are developing a novel technology that will precisely detect cancer cells
-                        and force them to produce special proteins to “look” like common diseases
+                        and force them to produce special proteins to "look" like common diseases
                         for which a strong immunity already exists – such as measles or chickenpox.
                         Then, the immune system will automatically destroy these disguised cancer
                         cells as if they were known foreign pathogens. </li>

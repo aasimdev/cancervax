@@ -20,7 +20,7 @@ include('investor-header.php'); ?>
                         <p>Byron Elton, CMO of CancerVax, was able to <strong><span>connect with participants who shared their cancer stories.</span></strong></p>
                         <p>As he shared the CancerVax mission with everyone the support was beyond words.</p>
                         <p>People asked how they could <strong><span>get involved and join the fight.</span></strong></p>
-                        <p><strong><span>CancerVax is revolutionizing cancer treatment&nbsp;</span></strong>using the body's immune system to fight cancer.</p>
+                        <p><strong><span>CancerVax is revolutionizing cancer treatment&nbsp;</span></strong>using the body's immune system to treat cancer.</p>
                         <p>“Our work will revolutionize the cancer treatment landscape as we bring hope to millions of patients around the world and future generations.” Byron emphasizes.&nbsp;</p>
                         <p style="text-align: center;"><strong><span>We invite you to help us in the fight against cancer by investing in CancerVax.</span></strong>
                     </div>

@@ -16,7 +16,7 @@ include('investor-header.php'); ?>
                     <div class="inPost-description">
                         <p>Take advantage of our amazing investor perks. <strong><span>The more you invest, the larger discount you get in the form of bonus shares!</span></strong></p>
                         <p><strong><span>Up to 30% bonus</span></strong> CancerVax shares are available.</p>
-                        <p>CancerVax is revolutionizing cancer treatment using the body's immune system to fight cancer.</p>
+                        <p>CancerVax is revolutionizing cancer treatment using the body's immune system to treat cancer.</p>
                         <p>Earn valuable bonus shares with as little as a $500 investment by being a StartEngine Owner’s Bonus member, which gives you <strong><span>10% bonus shares.</span></strong></p>
                         <p>Then, invest more and get even more bonus shares.&nbsp;</p>
                         <p><strong><span>Amount-Based Bonus Shares:</span></strong></p>

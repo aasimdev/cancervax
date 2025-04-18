@@ -13,7 +13,7 @@ include('investor-header.php'); ?>
                     <div class="inPost-description mt-5">
                         <p id="isPasted" style="text-align: center;"><span style="font-size: 48px;"><strong>3 Weeks Left to Invest in CancerVax</strong></span></p>
                         <p style="text-align: center;"><strong><span style="font-size: 30px;">A Better Way to Treat Cancer by&nbsp;</span></strong></p>
-                        <p style="text-align: center;"><strong><span style="font-size: 30px;">Using the Body’s Immune System to Fight Cancer</span></strong></p>
+                        <p style="text-align: center;"><strong><span style="font-size: 30px;">Using the Body's Immune System to Treat Cancer</span></strong></p>
                         <p><br></p>
                         <p>Hello Supporters,</p>
                         <p>We thank you for your interest and investment in our offering at StartEngine.</p>

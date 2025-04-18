@@ -12,7 +12,7 @@ include('header.php'); ?>
 
         <h3>Recent in-vitro lab results confirm that the Company’s proprietary Smart mRNA can be used as a potential on/off switch for selectively detecting cancer cells
         </h3>
-        <p>Lehi, Utah – February 25, 2025 – CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, today announced the successful functional validation of its innovative Smart mRNA (messenger RNA) technology in lab tests.   </p>
+        <p>Lehi, Utah – February 25, 2025 – CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to treat cancer, today announced the successful functional validation of its innovative Smart mRNA (messenger RNA) technology in lab tests.   </p>
 
         <p>The Company’s novel approach detects and universally marks cancer cells as common diseases such as measles. This tricks the natural immune system into mounting a strong immune response and kills cancer cells as if they were measles. The CancerVax technology uses a precision 2-step cancer detection mechanism in a highly functionalized nanoparticle.   </p>
 

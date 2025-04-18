@@ -12,7 +12,7 @@ include('header.php'); ?>
 
 <section class="immAbout">
     <div class="container">
-        <h2>Using the Body’s Immune System to Fight Cancer</h2>
+        <h2>Using the Body's Immune System to Treat Cancer</h2>
         <p>Cancer generally refers to a collection of diseases where cells in the body divide uncontrollably and spread into surrounding tissues, causing internal damage and often death.</p>
     </div>
 </section>
@@ -47,7 +47,7 @@ include('header.php'); ?>
             In recent years, advances in science and biotechnology have proven that the body’s own immune system is quite effective at targeting and killing abnormal cells, germs and viruses, and has been doing it since the beginning of time. The main problem is that cancer grows at a much faster rate than the body’s normal immune response rate.
         </p>
         <p>
-            Much like vaccines that train the body to recognize and destroy other diseases, cancer vaccines can train the body to target and destroy specific cancer cells. Cancer vaccines are also known as vaccine therapy or immunotherapy. They are different from vaccines that prevent disease, as they are designed to fight cancer that already exists in the body.
+            Much like vaccines that train the body to recognize and destroy other diseases, cancer vaccines can train the body to target and destroy specific cancer cells. Cancer vaccines are also known as vaccine therapy or immunotherapy. They are different from vaccines that prevent disease, as they are designed to treat cancer that already exists in the body.
         </p>
     </div>
 </section>
@@ -115,7 +115,7 @@ include('header.php'); ?>
                 <div class="col-lg-7">
                     <div class="immtypes__content">
                         <h5>T-cell Transfer Therapy (CAR-T)</h5>
-                        <p>This is a personalized treatment that boosts the natural ability of the body’s immune T-cells to fight cancer. In this treatment, immune cells are taken from the tumor. Those that are most active against the cancer are selected or genetically modified in the lab to better attack your cancer cells, grown in large batches, and put back into the body through an injection.</p>
+                        <p>This is a personalized treatment that boosts the natural ability of the body's immune T-cells to treat cancer. In this treatment, immune cells are taken from the tumor. Those that are most active against the cancer are selected or genetically modified in the lab to better attack your cancer cells, grown in large batches, and put back into the body through an injection.</p>
                     </div>
                 </div>
                 <div class="col-lg-5">

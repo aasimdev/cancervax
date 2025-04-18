@@ -14,7 +14,7 @@ include "header.php";
 <a href="https://invest.cancervax.com/" target="_blank" class="theme-btn orange-btn">Invest in CancerVax</a>
     </div>
 
-        <p>CancerVax, Inc. is a pre-clinical biotechnology company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells look like well-immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to fight cancer. ​​</p>
+        <p>CancerVax, Inc. is a pre-clinical biotechnology company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells look like well-immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. ​​</p>
 
         <h3>Stock Transfer Agent​</h3>
         <p>Colonial Stock Transfer Company, Inc. <br>

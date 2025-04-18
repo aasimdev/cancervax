@@ -28,7 +28,7 @@ include('investor-header.php'); ?>
                                 <li style="font-size: 18px;">Tier 5 | Invest $100,000+ and receive 20% bonus shares.</li>
                             </ul>
                             <p><span style="font-size: 18px;">10% StartEngine Owners' Bonus + Amount-Based Bonus Shares = Up to 30% Bonus Shares.</span></p>
-                            <p><span style="font-size: 18px;"><strong>CancerVax is revolutionizing cancer treatment using the body's immune system to fight cancer.</strong></span></p>
+                            <p><span style="font-size: 18px;"><strong>CancerVax is revolutionizing cancer treatment using the body's immune system to treat cancer.</strong></span></p>
                             <p><span style="font-size: 18px;">Each week our research teams make progress in their mission.</span></p>
                             <p><span style="font-size: 18px;"><strong>We invite you to join us and earn some BONUS SHARES.</strong></span></p>
                             <p style="text-align: center;"><span style="font-size: 24px;"><strong><span style="color: rgb(0, 0, 0);">CLOSING SOON!</span></strong></span></p>

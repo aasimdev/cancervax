@@ -250,7 +250,7 @@ include('header.php'); ?>
                     first investment round at StartEngine. With this money, we continue to make fundamental
                     progress in developing a Universal
                     Cancer Vaccine Platform that uses the body’s immune
-                    system to fight cancer. We believe this is a better way to treat cancer.</p>
+                    system to treat cancer. We believe this is a better way to treat cancer.</p>
                 <p>Please be informed that
                     we
                     have recently moved

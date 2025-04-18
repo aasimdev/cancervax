@@ -11,7 +11,7 @@ include('header.php'); ?>
         </div>
 
         <h3>Dr. Sumant Ramachandra to advise the Company about the development of its revolutionary cancer treatment </h3>
-        <p>Lehi, UT, February 27, 2025 (GLOBE NEWSWIRE) -- CancerVax, Inc., the developer of a revolutionary universal cancer treatment platform that will use the body’s immune system to fight cancer, announced today that Sumant Ramachandra, MD, PhD, MBA and founder of SR Global Health, LLC, a healthcare advisory firm, will serve as the Company’s new Chief Scientific Advisor.    </p>
+        <p>Lehi, UT, February 27, 2025 (GLOBE NEWSWIRE) -- CancerVax, Inc., the developer of a revolutionary universal cancer treatment platform that will use the body's immune system to treat cancer, announced today that Sumant Ramachandra, MD, PhD, MBA and founder of SR Global Health, LLC, a healthcare advisory firm, will serve as the Company's new Chief Scientific Advisor.    </p>
 
         <p>"Adding Dr. Ramachandra to our team to serve as Chief Scientific Advisor is a huge vote of confidence for our Company and our novel approach to treating cancer,” said Byron Elton, CancerVax CEO. “Dr. Ramachandra’s proven track record as a scientist, clinician, business leader and biotech CEO will provide invaluable guidance to our team during this critical preclinical stage of development of our lead program.”   </p>
 

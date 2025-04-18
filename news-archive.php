@@ -20,7 +20,7 @@ include('header.php'); ?>
                     <a href="top-biotech-exec-joins-cancervax-as-chief-scientific-advisor.php"></a>
                     <span>February 27, 2025 </span>
                     <h3>Top Biotech Exec Joins CancerVax as Chief Scientific Advisor</h3>
-                    <p>CancerVax, Inc., the developer of a revolutionary universal cancer treatment platform that will use the body’s immune system to fight cancer, announced today that Sumant Ramachandra, MD, PhD, MBA and founder of SR Global Health, LLC, a healthcare advisory firm, will serve as the Company’s new Chief Scientific Advisor</p>
+                    <p>CancerVax, Inc., the developer of a revolutionary universal cancer treatment platform that will use the body’s immune system to treat cancer, announced today that Sumant Ramachandra, MD, PhD, MBA and founder of SR Global Health, LLC, a healthcare advisory firm, will serve as the Company’s new Chief Scientific Advisor</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -28,7 +28,7 @@ include('header.php'); ?>
                     <a href="cancervax-announces-successful-tests-of-its-smart-mrna-technology.php"></a>
                     <span>February 25, 2025</span>
                     <h3>CancerVax Announces Successful Tests of its Smart mRNA Technology</h3>
-                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, today announced the successful functional validation of its innovative Smart mRNA (messenger RNA) technology in lab tests</p>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to treat cancer, today announced the successful functional validation of its innovative Smart mRNA (messenger RNA) technology in lab tests</p>
                 </div>
             </div>
         <div class="col-lg-6">
@@ -36,7 +36,7 @@ include('header.php'); ?>
                     <a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php"></a>
                     <span>December 11, 2024  </span>
                     <h3>CancerVax Targets Hard to Treat Pancreatic Cancer</h3>
-                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, announced today that the Company has selected Pancreatic Ductal Adenocarcinoma (PDAC) as one of its first targets for preclinical development</p>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to treat cancer, announced today that the Company has selected Pancreatic Ductal Adenocarcinoma (PDAC) as one of its first targets for preclinical development</p>
                 </div>
             </div>
         <div class="col-lg-6">
@@ -44,7 +44,7 @@ include('header.php'); ?>
                     <a href="dr-george-katibah-to-serve-as-the-company-chief-scientific-officer.php"></a>
                     <span> November 19, 2024 </span>
                     <h3>Dr. George Katibah to serve as the Company’s Chief Scientific Officer</h3>
-                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, announced today that Dr. George Katibah will serve as the company’s Chief Scientific Officer</p>
+                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to treat cancer, announced today that Dr. George Katibah will serve as the company’s Chief Scientific Officer</p>
                 </div>
             </div>
         <div class="col-lg-6">
@@ -52,7 +52,7 @@ include('header.php'); ?>
                     <a href="cancervax-taps-flashpoint-therapeutics-nanotechnology-platform-to-drive-universal-cancer-treatment.php"></a>
                     <span> August 29, 2024</span>
                     <h3>Cancervax Taps Flashpoint Therapeutics’ Nanotechnology Platform to Drive Universal Cancer Treatment  </h3>
-                    <p> Cancervax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has entered into a research agreement with Flashpoint Therapeutics to perform research on its newly patent-pending Universal Cancer Treatment platform </p>
+                    <p> Cancervax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to treat cancer, today announced that the Company has entered into a research agreement with Flashpoint Therapeutics to perform research on its newly patent-pending Universal Cancer Treatment platform </p>
                 </div>
             </div>
         <div class="col-lg-6">
@@ -60,7 +60,7 @@ include('header.php'); ?>
                     <a href="cancervax-files-new-patent-for-its-novel-universal-cancer-treatment-platform.php"></a>
                     <span> August 27, 2024</span>
                     <h3>Cancervax Files New Patent for Its Novel Universal Cancer Treatment Platform </h3>
-                    <p> Cancervax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has recently filed a new patent application which includes a Smart mRNA Technology. mRNA, short for messenger RNA, is the underlying technology that made the COVID-19 vaccine so effective and inexpensive </p>
+                    <p> Cancervax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to treat cancer, today announced that the Company has recently filed a new patent application which includes a Smart mRNA Technology. mRNA, short for messenger RNA, is the underlying technology that made the COVID-19 vaccine so effective and inexpensive </p>
                 </div>
             </div>
         <div class="col-lg-6">
@@ -68,7 +68,7 @@ include('header.php'); ?>
                     <a href="cancervax-adds-key-members-to-its-research-team.php"></a>
                     <span> August 1, 2024</span>
                     <h3>Cancervax Adds Key Members to Its Research Team </h3>
-                    <p> Cancervax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that the Company has added two key members to its cancer research team. Dr. Jonathan Lakey will serve as Chief Scientific Advisor and Dr. Adam Grant will serve as Principal Scientist </p>
+                    <p> Cancervax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to treat cancer, today announced that the Company has added two key members to its cancer research team. Dr. Jonathan Lakey will serve as Chief Scientific Advisor and Dr. Adam Grant will serve as Principal Scientist </p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -76,7 +76,7 @@ include('header.php'); ?>
                     <a href="cancervax-successfully-uses-nobel-prize-chemistry-to-achieve-universal-cancer-vaccine-targeting-milestone.php"></a>
                     <span> May 21, 2024</span>
                     <h3>Cancervax Successfully Uses Nobel Prize Chemistry to Achieve Universal Cancer Treatment Targeting Milestone </h3>
-                    <p> Cancervax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has achieved a critical milestone by creating a process to add any antibody to lipid nanoparticles (LNP) using “click chemistry”, for targeting cancer cells </p>
+                    <p> Cancervax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to treat cancer, today announced that its UCLA research team has achieved a critical milestone by creating a process to add any antibody to lipid nanoparticles (LNP) using “click chemistry”, for targeting cancer cells </p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -84,7 +84,7 @@ include('header.php'); ?>
                     <a href="cancervax-announces-promising-new-drug-to-treat-a-deadly-children-cancer.php"></a>
                     <span> April 16, 2024 </span>
                     <h3>Cancervax Announces Promising New Drug to Treat a Deadly Children’s Cancer </h3>
-                    <p> Cancervax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that its UCLA research team has created a promising new drug candidate for treating recurrent Ewing sarcoma, a deadly children’s cancer </p>
+                    <p> Cancervax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to treat cancer, today announced that its UCLA research team has created a promising new drug candidate for treating recurrent Ewing sarcoma, a deadly children’s cancer </p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -92,7 +92,7 @@ include('header.php'); ?>
                     <a href="cancervax-launches-5-million-funding-round.php"></a>
                     <span> April 3, 2024 </span>
                     <h3>Cancervax Launches $5 Million Funding Round </h3>
-                    <p> Cancervax, Inc., developer of a breakthrough Universal Cancer Treatment that will use the body’s immune system to fight cancer, today announced that its Reg A+ offering has been qualified by the SEC allowing the Company to formally launch a funding round of up to $5 million. Proceeds from the SEC qualified Reg A+ offering will be used by the Company to continue work on its breakthrough cancer treatments </p>
+                    <p> Cancervax, Inc., developer of a breakthrough Universal Cancer Treatment that will use the body’s immune system to treat cancer, today announced that its Reg A+ offering has been qualified by the SEC allowing the Company to formally launch a funding round of up to $5 million. Proceeds from the SEC qualified Reg A+ offering will be used by the Company to continue work on its breakthrough cancer treatments </p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -100,7 +100,7 @@ include('header.php'); ?>
                     <a href="cancervax-ceo-ryan-davies-discusses-cancer-drug-development-with-dr-ezra-cohen.php"></a>
                     <span>November 2, 2023 </span>
                     <h3>Cancervax CEO Ryan Davies Discusses Cancer Drug Development with Dr. Ezra Cohen</h3>
-                    <p> Cancervax, Inc., developer of a breakthrough universal cancer treatment that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, and Tempus Labs Chief Medical Officer for Oncology Dr. Ezra Cohen, discussed his time at Tempus Labs, Moores Cancer Center and University of Chicago</p>
+                    <p> Cancervax, Inc., developer of a breakthrough universal cancer treatment that uses the body’s immune system to treat cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, and Tempus Labs Chief Medical Officer for Oncology Dr. Ezra Cohen, discussed his time at Tempus Labs, Moores Cancer Center and University of Chicago</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -108,7 +108,7 @@ include('header.php'); ?>
                     <a href="ucart-announcement.php"></a>
                     <span>September 12, 2023 </span>
                     <h3>Cancervax Expands Development Pipeline to Include a Universal CAR-T Cell Platform</h3>
-                    <p> Cancervax, Inc., a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer, today announced an expansion of its development pipeline to include a Universal CAR-T Cell Platform that can dramatically lower the cost of CAR-T cell cancer therapies</p>
+                    <p> Cancervax, Inc., a pre-clinical biotechnology company working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to treat cancer, today announced an expansion of its development pipeline to include a Universal CAR-T Cell Platform that can dramatically lower the cost of CAR-T cell cancer therapies</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -116,7 +116,7 @@ include('header.php'); ?>
                     <a href="cancervax-ceo-ryan-davies-discussed-cancer-immunotherapy-with-ucla-physician-scientist.php"></a>
                     <span>August 24, 2023 </span>
                     <h3>Cancervax CEO Ryan Davies Discussed Cancer Immunotherapy with UCLA Physician-Scientist</h3>
-                    <p>Cancervax, Inc., developer of a breakthrough universal cancer treatment that uses the body’s immune system to fight cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, spoke with and UCLA cancer physician and researcher, Dr. Steven Jonas, about his journey to becoming both a practicing cancer doctor and active cancer researcher</p>
+                    <p>Cancervax, Inc., developer of a breakthrough universal cancer treatment that uses the body’s immune system to treat cancer, today announced that in a recent Company podcast its CEO, Ryan Davies, spoke with and UCLA cancer physician and researcher, Dr. Steven Jonas, about his journey to becoming both a practicing cancer doctor and active cancer researcher</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -156,7 +156,7 @@ include('header.php'); ?>
                     <a href="cancerax-reports-positive-progress-on-kids-cancer-immunotherapy-treatment.php"></a>
                     <span>June 12, 2023</span>
                     <h3>Cancervax Reports Positive Progress on Kids Cancer Immunotherapy Treatment </h3>
-                    <p>LEHI, Utah, June 12, 2023 (GLOBE NEWSWIRE) -- Cancervax, Inc., developer of a breakthrough universal cancer treatment that uses the body’s immune system to fight cancer, today announced</p>
+                    <p>LEHI, Utah, June 12, 2023 (GLOBE NEWSWIRE) -- Cancervax, Inc., developer of a breakthrough universal cancer treatment that uses the body’s immune system to treat cancer, today announced</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -164,7 +164,7 @@ include('header.php'); ?>
                     <a href="biotech-entrepreneur-and-venture-capitalist-dinesh-patel-discusses-therapeutics-and-medical-devices-with-cancervax-ceo-ryan-davies.php"></a>
                     <span>May 17, 2023</span>
                     <h3>Biotech Entrepreneur and Venture Capitalist Dinesh Patel Discusses Therapeutics and Medical Devices with Cancervax CEO Ryan Davies</h3>
-                    <p>Lehi, UT – May 17, 2023 – Cancervax, developer of a breakthrough universal cancer treatment that will use the body’s immune system to fight cancer, today reported that the Company’s CEO, Ryan Davies</p>
+                    <p>Lehi, UT – May 17, 2023 – Cancervax, developer of a breakthrough universal cancer treatment that will use the body’s immune system to treat cancer, today reported that the Company’s CEO, Ryan Davies</p>
 
                 </div>
             </div>
@@ -286,7 +286,7 @@ include('header.php'); ?>
                     <a href="cancervax-closes-series-a-funding-round.php"> </a>
                     <span>March 30, 2021</span>
                     <h3>Cancervax Closes Series A Funding Round</h3>
-                    <p>SANTA BARBARA, CA – March 30, 2021 – Cancervax, Inc., a developer of immunotherapy cancer treatments that use the body’s immune system to fight cancer, today announced it has closed its $2 million series A funding round.</p>
+                    <p>SANTA BARBARA, CA – March 30, 2021 – Cancervax, Inc., a developer of immunotherapy cancer treatments that use the body’s immune system to treat cancer, today announced it has closed its $2 million series A funding round.</p>
 
                 </div>
             </div>
