@@ -118,10 +118,10 @@
                     <a href="/webinar" class="theme-btn orange-btn tracking-normal">Watch the Webinar</a>
                     <a href="https://invest.cancervax.com/" target="_blank" class="theme-btn orange-btn !text-[15px] tracking-normal">Invest in CancerVax</a>
                     <div class="hidden md:block space-x-3">
-                        <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer" class="text-white text-xl"><i class="fab fa-facebook-square"></i></a>
-                        <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer" class="text-white text-xl"><i class="fab fa-instagram"></i></a>
-                        <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer" class="text-white text-xl"><i class="fab fa-linkedin"></i></a>
-                        <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer" class="text-white text-xl"><i class="fab fa-youtube"></i></a>
+                        <a href="https://www.facebook.com/people/Cancervax/100090179828482/" target="_blank" rel="noopener noreferrer" class="text-white text-xl hover:text-white"><i class="fab fa-facebook-square"></i></a>
+                        <a href="https://www.instagram.com/cancervaxbiotech/" target="_blank" rel="noopener noreferrer" class="text-white text-xl hover:text-white"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/in/cancervax/" target="_blank" rel="noopener noreferrer" class="text-white text-xl hover:text-white"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://www.youtube.com/@cancervax" target="_blank" rel="noopener noreferrer" class="text-white text-xl hover:text-white"><i class="fab fa-youtube"></i></a>
                     </div>
                 </div>
             </div>
@@ -160,7 +160,7 @@
                             "progress" => "Progress",
                             "immunotherapy" => "Immunotherapy",
                             "market" => "Market",
-                            "newsroom" => "Newsroom",
+                            "news" => "Newsroom",
                             "videos" => "Videos",
                             "invest" => "Investors",
                             "contact" => "Contact"
