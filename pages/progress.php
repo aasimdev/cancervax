@@ -1,5 +1,5 @@
 
-<section class="pt-32 pb-20 md:pt-16 md:pb-32 bg-center bg-cover text-center relative bg-progress-bg bg-black bg-opacity-50 after:content-[''] after:absolute after:inset-0 after:bg-black after:bg-opacity-50">
+<section class="pt-32 pb-20 md:py-24 bg-center bg-cover text-center relative bg-progress-bg bg-black bg-opacity-50 after:content-[''] after:absolute after:inset-0 after:bg-black after:bg-opacity-50">
     <div class="container">
         <h1 class="relative z-10 text-white font-medium">Progress</h1>
     </div>

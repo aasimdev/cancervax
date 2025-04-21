@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "build:css": "npx tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/style.css --watch"
+    "build:css": "npx tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/style.css --watch",
+    "postinstall": "chmod +x node_modules/.bin/*"
   },
   "dependencies": {
     "autoprefixer": "^10.4.21",

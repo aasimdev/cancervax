@@ -1,4 +1,4 @@
-<section class="pt-32 pb-20 md:pt-16 md:pb-32 bg-center bg-cover text-center relative bg-market-bg bg-black bg-opacity-50">
+<section class="pt-32 pb-20 md:py-24 bg-center bg-cover text-center relative bg-market-bg bg-black bg-opacity-50">
     <div class="container">
     <h1 class="relative z-10 text-white font-medium">Market</h1>
     </div>

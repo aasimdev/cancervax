@@ -1,4 +1,4 @@
-<section class="bg-immunotherapy-bg pt-32 pb-20 md:pt-16 md:pb-32 bg-center bg-cover text-center relative">
+<section class="bg-immunotherapy-bg pt-32 pb-20 md:py-24 bg-center bg-cover text-center relative">
     <div class="container">
         <h1 class="text-custom-gray-300 font-medium">Immunotherapy</h1>
     </div>

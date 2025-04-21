@@ -1,3145 +1,2346 @@
 <?php
 $videos = [
     [
-        'title' => "March 24, 2025 - NewHydrogen News Commentary",
-        'videoID' => "vp3ms2zcxgg",
+        'title' => "January 13, 2025 - CancerVax News Commentary",
+        'videoID' => "7sbql1UU0yc",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "march-24-2025-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "january-13-2025-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "March 17, 2025 - NewHydrogen News Commentary",
-        'videoID' => "SD1U0OwAwnY",
+        'title' => "January 6, 2025 - CancerVax News Commentary",
+        'videoID' => "6ludtKb2fy4",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "march-17-2025-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "january-6-2025-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "March 10, 2025 - NewHydrogen News Commentary",
-        'videoID' => "ZHBMg8S53jk",
+        'title' => "December 12, 2024 - CancerVax News Commentary",
+        'videoID' => "z58uLAsp5sw",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "march-10-2025-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "december-12-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "March 3, 2025 - NewHydrogen News Commentary",
-        'videoID' => "Yhxtt06nE2w",
+        'title' => "December 2, 2024 - CancerVax News Commentary",
+        'videoID' => "T-NPVYvc1R4",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "march-3-2025-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "december-2-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "January 27, 2025 - NewHydrogen News Commentary",
-        'videoID' => "aIvKiVVhM7U",
+        'title' => "November 18, 2024 - CancerVax News Commentary",
+        'videoID' => "acOdK4jBTGE",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "january-27-2025-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "november-18-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "January 13, 2025 - NewHydrogen News Commentary",
-        'videoID' => "AiIP1hI2l3Y",
+        'title' => "October 24, 2024 - CancerVax News Commentary",
+        'videoID' => "jVf2ysToCfQ",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "january-13-2025-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "october-24-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "January 6, 2025 - NewHydrogen News Commentary",
-        'videoID' => "L35fxMOxhXA",
+        'title' => "September 30, 2024 - CancerVax News Commentary",
+        'videoID' => "6WyjwuLcVqw",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "january-6-2025-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "september-30-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "January 2, 2025 - NewHydrogen News Commentary",
-        'videoID' => "cNAVkNJ9PLo",
+        'title' => "September 16, 2024 - CancerVax News Commentary",
+        'videoID' => "P6i4UHCgrfM",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "january-2-2025-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "september-16-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "December 23, 2024 - NewHydrogen News Commentary",
-        'videoID' => "MAlF2MGhBvc",
+        'title' => "August 19, 2024 - CancerVax News Commentary",
+        'videoID' => "t38nUQeA450",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "december-23-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "august-19-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "December 16, 2024 - NewHydrogen News Commentary",
-        'videoID' => "v-SNPLyY7vk",
+        'title' => "August 12, 2024 - CancerVax News Commentary",
+        'videoID' => "TDwpk9sNep4",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "december-16-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "august-12-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "December 9, 2024 - NewHydrogen News Commentary",
-        'videoID' => "QBbOfKz3N7w",
+        'title' => "August 5, 2024 - CancerVax News Commentary",
+        'videoID' => "ZTNYYHrffTg",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "december-9-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "august-5-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "December 2, 2024 - NewHydrogen News Commentary",
-        'videoID' => "--Uojbew6tQ",
+        'title' => "July 22, 2024 - CancerVax News Commentary",
+        'videoID' => "0L3KOd8Wd7Q",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "december-2-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "july-22-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "November 25, 2024 - NewHydrogen News Commentary",
-        'videoID' => "j509LtVB5IE",
+        'title' => "July 15, 2024 - CancerVax News Commentary",
+        'videoID' => "zzXmMuTzu4g",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "november-11-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "july-15-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "November 11, 2024 - NewHydrogen News Commentary",
-        'videoID' => "G-ZocH644zM",
+        'title' => "June 24, 2024 - CancerVax News Commentary",
+        'videoID' => "wOm6GCd6i2k",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "november-11-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "june-24-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "November 4, 2024 - NewHydrogen News Commentary",
-        'videoID' => "1KbhQiy_Oag",
+        'title' => "June 17, 2024 - CancerVax News Commentary",
+        'videoID' => "ozneTgauntQ",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "november-4-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "june-17-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "October 28, 2024 - NewHydrogen News Commentary",
-        'videoID' => "S80GvowhC8Y",
+        'title' => "June 3, 2024 - CancerVax News Commentary",
+        'videoID' => "D_f7fD3jvCg",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "october-28-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "june-3-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "October 21, 2024 - NewHydrogen News Commentary",
-        'videoID' => "05SoWHsQOOA",
+        'title' => "May 27, 2024 - CancerVax News Commentary",
+        'videoID' => "pTRORP3qtbM",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "october-21-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "may-27-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "October 14, 2024 - NewHydrogen News Commentary",
-        'videoID' => "mwNV8R9Q9RI",
+        'title' => "May 20, 2024 - CancerVax News Commentary",
+        'videoID' => "ytTgBgz661s",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "october-14-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "may-20-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "October 7, 2024 - NewHydrogen News Commentary",
-        'videoID' => "hZEzcS4NfcM",
+        'title' => "May 13, 2024 - CancerVax News Commentary",
+        'videoID' => "MiSo6MhG2Ts",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "october-7-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "may-13-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "September 30, 2024 - NewHydrogen News Commentary",
-        'videoID' => "fCXgp9IOZ4E",
+        'title' => "May 6, 2024 - CancerVax News Commentary",
+        'videoID' => "Mqr0z5YamWE",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "september-30-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "may-6-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "September 23, 2024 - NewHydrogen News Commentary",
-        'videoID' => "UibtGWE_kb8",
+        'title' => "April 29, 2024 - CancerVax News Commentary",
+        'videoID' => "6ty8uCpRE8w",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "september-23-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "april-29-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "September 16, 2024 - NewHydrogen News Commentary",
-        'videoID' => "mlV42qZbOuQ",
+        'title' => "April 22, 2024 - CancerVax News Commentary",
+        'videoID' => "v_D_GpohyuY",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "september-16-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "april-22-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "September 9, 2024 - NewHydrogen News Commentary",
-        'videoID' => "Zcap35Gtdxk",
+        'title' => "April 15, 2024 - CancerVax News Commentary",
+        'videoID' => "cX6axn7KvbE",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "september-9-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "april-15-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "September 2, 2024 - NewHydrogen News Commentary",
-        'videoID' => "7CNpbmPgfqg",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "september-2-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "August 26, 2024 - NewHydrogen News Commentary",
-        'videoID' => "6i3nHNWPbXw",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "august-26-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "August 19, 2024 - NewHydrogen News Commentary",
-        'videoID' => "3lLr-c_HARM",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "august-19-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "August 12, 2024 - NewHydrogen News Commentary",
-        'videoID' => "gtlODKdqYqA",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "august-12-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "August 5, 2024 - NewHydrogen News Commentary",
-        'videoID' => "192lA4RO5XI",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "august-5-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "Olivera Kesler - Professor at University of Toronto",
-        'videoID' => "aitD-owQtJY",
-        'date' => "March 17, 2025",
-        'category' => "ceo-podcast",
-        'slug' => "olivera-kesler-professor-at-university-of-toronto",
-        "display" => true
-    ],
-    [
-        'title' => "Claudio A. Canizares, PhD - University of Waterloo",
-        'videoID' => "CsqqfH-OpO4",
-        'date' => "January 19, 2025",
-        'category' => "ceo-podcast",
-        'slug' => "claudio-a-canizares-phd-university-of-waterloo",
-        "display" => false
-    ],
-    [
-        'title' => "Dr. Daniel Kammen - Professor, University of California, Berkeley",
-        'videoID' => "oQ58KSoXw_c",
-        'date' => "January 12, 2025",
-        'category' => "ceo-podcast",
-        'slug' => "dr-daniel-kammen-professor-university-of-california-berkeley",
-        "display" => false
-    ],
-    [
-        'title' => "Michael Shafer - President, Board of Directors at Warm Heart Worldwide, Inc.",
-        'videoID' => "hFpDnhwQ8lg",
-        'date' => "January 7, 2025",
-        'category' => "ceo-podcast",
-        'slug' => "michael-shafer-president-boar-of-directors-at-warm-heart-worldwide-inc",
-        "display" => true
-    ],
-    [
-        'title' => "Vladimir Dvorkin - University of Michigan",
-        'videoID' => "sRo0eiPf3-c",
-        'date' => "December 18, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "vladimir-dvorkin-university-of-michigan",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Christopher Niezrecki - University of Massachusetts Lowell",
-        'videoID' => "eW7Da8LT1z0",
-        'date' => "December 3, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-christopher-niezrecki-university-of-massachusetts-lowell",
-        "display" => true
-    ],
-    [
-        'title' => " Dr. Kaushik Rajashekara - University of Houston",
-        'videoID' => "_EURlwFIYQA",
-        'date' => "November 19, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-kaushik-rajashekara-university-of-houston",
-        "display" => true
-    ],
-    [
-        'title' => "Jackson Ewing, PhD - Duke University",
-        'videoID' => "KxsFlAaOreM",
-        'date' => "November 5, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "jackson-ewing-phd-duke-university",
-        "display" => true
-    ],
-    [
-        'title' => "Professor Christopher P. Cadou, Ph.D. - University of Maryland",
-        'videoID' => "jKvUwfnWe8s",
-        'date' => "October 22, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "professor-hristopher-p-cadou-phd-university-of-maryland",
-        "display" => true
-    ], 
-    [
-        'title' => "Alexander Dowling - Associate Professor- Notre Dame",
-        'videoID' => "V2DR9daV1oA",
-        'date' => "October 8, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "alexander-dowling-associate-professor-notre-dame",
-        "display" => true
-    ],
-    [
-        'title' => "Professor William Scheideler - Dartmouth College",
-        'videoID' => "NdFlZwYGp64",
-        'date' => "September 24, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "professor-william-scheideler-dartmouth-college",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Walter Van Schalkwijk",
-        'videoID' => "D3O2groa2Q8",
-        'date' => "September 10, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-walter-van-schalkwijk",
-        "display" => true
-    ],
-    [
-        'title' => "Bentzion Levinson - Founder & CEO at Heven Drones",
-        'videoID' => "vlEElKc9IiA",
-        'date' => "August 27, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "bentzion-levinson-founder-and-ceo-at-heven-drones",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Haotian Wang - Rice University",
-        'videoID' => "fscydFwhFVo",
-        'date' => "August 13, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-haotian-wang-rice-university",
-        "display" => true
-    ],
-    [
-        'title' => "July 29, 2024 - NewHydrogen News Commentary",
-        'videoID' => "WQdvFZw9ktg",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "july-29-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "July 22, 2024 - NewHydrogen News Commentary",
-        'videoID' => "OcCtqu5cYE8",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "july-22-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "July 12, 2024 - NewHydrogen News Commentary",
-        'videoID' => "-2lJgCGWlsk",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "july-12-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "July 1, 2024 - NewHydrogen News Commentary",
-        'videoID' => "Zroq5Hoayt0",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "july-1-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "June 24, 2024 - NewHydrogen News Commentary",
-        'videoID' => "g7LJglH4j4I",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "june-24-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "June 17, 2024 - NewHydrogen News Commentary",
-        'videoID' => "GANEKUVmqT0",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "june-17-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "June 10, 2024 - NewHydrogen News Commentary",
-        'videoID' => "Gti-6Yql5io",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "june-10-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "June 3, 2024 - NewHydrogen News Commentary",
-        'videoID' => "C5B0qMD-A_E",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "june-3-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "May 27, 2024 - NewHydrogen News Commentary",
-        'videoID' => "ZBPUK_QZ438",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "may-27-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "May 20, 2024 - NewHydrogen News Commentary",
-        'videoID' => "nWVz1EMXYc8",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "may-20-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "May 13, 2024 - NewHydrogen News Commentary",
-        'videoID' => "JU_yrs-43fk",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "may-13-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "May 6, 2024 - NewHydrogen News Commentary",
-        'videoID' => "2tlLLy8MdtM",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "may-6-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "April 29, 2024 - NewHydrogen News Commentary",
-        'videoID' => "mZzjk3J8rXo",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "april-29-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "April 22, 2024 - NewHydrogen News Commentary",
-        'videoID' => "Bn8xxkibMwE",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "april-22-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "April 15, 2024 - NewHydrogen News Commentary",
-        'videoID' => "SG3nnye_QxU",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "april-15-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "April 8, 2024 - NewHydrogen News Commentary",
-        'videoID' => "Ne_t2l_ueVU",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "april-8-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Carol Parish - University of Richmond",
-        'videoID' => "vJGsTR3A-so",
-        'date' => "July 30, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-carol-parish-university-of-richmond",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Krish Jayachandran - Florida International University",
-        'videoID' => "4_gQjfXu_zA",
-        'date' => "July 15, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-krish-jayachandran-florida-international-university",
-        "display" => true
-    ],
-    [
-        'title' => "David Pruner - Texas Entrepreneurial Exchange for Energy",
-        'videoID' => "VSBqbBDOtxY",
-        'date' => "July 2, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "david-pruner-texas-entrepreneurial-exchange-for-energy",
-        "display" => true
-    ],
-    [
-        'title' => "Gordon Rausser - University of California, Berkeley",
-        'videoID' => "7mYoVqVm2Jk",
-        'date' => "June 18, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "gordon-rausser-university-of-california-berkeley",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Sanjeev Mukerjee - Northeastern University",
-        'videoID' => "muY0KNMRMXU",
-        'date' => "June 5, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-sanjeev-mukerjee-northeastern-university",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Jing Gu - San Diego State University",
-        'videoID' => "OBq2MwGHSgs",
-        'date' => "May 21, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-jing-su-san-diego-state-university",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Kurt Kornbluth - UC Davis",
-        'videoID' => "rK2JgNjbrko",
-        'date' => "May 7, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-kurt-kornbluth-uc-davis",
-        "display" => true
-    ],
-    [
-        'title' => "David Blekhman - Cal State University Los Angeles",
-        'videoID' => "Un8JqMgDeU8",
-        'date' => "May 3, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "david-blekhman-cal-state-university-los-angeles",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Paul Palies - University of Tennessee",
-        'videoID' => "CxtbfsU0r24",
-        'date' => "April 9, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-paul-palies-university-of-tennessee",
-        "display" => true
-    ],
-    [
-        'title' => "April 2, 2024 - NewHydrogen News Commentary",
-        'videoID' => "8EGpATpAI3s",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "april-2-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "March 24, 2024 - NewHydrogen News Commentary",
-        'videoID' => "uSJnGlaJggE",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "march-24-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "March 18, 2024 - NewHydrogen News Commentary",
-        'videoID' => "Yhxtt06nE2w",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "march-18-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Tim Lieuwen - Georgia Tech University",
-        'videoID' => "-7xYcbD69YI",
-        'date' => "March 26, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-tim-lieuwen-georgia-tech-university",
-        "display" => true
-    ],
-  
-
-   
-    
-    [
-        'title' => "Andrew Thomas - Cleveland State University",
-        'videoID' => "IrSEdtDAgsM",
+        'title' => "CancerVax News Commentary",
+        'videoID' => "wuGFRaoGPSo",
         'date' => "February 27, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "andrew-thomas-cleveland-state-university",
-        "display" => true
-    ],
-    [
-        'title' => "March 3, 2024 - NewHydrogen News Commentary",
-        'videoID' => "Yhxtt06nE2w",
-        'date' => "",
         'category' => "news-commentary",
-        'slug' => "march-3-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "February 29, 2024 - NewHydrogen News Commentary",
-        'videoID' => "z-D5CmNn6Cs",
-        'date' => "",
+        'title' => "CancerVax News",
+        'videoID' => "guuT0fk6wOQ",
+        'date' => "February 18, 2024",
         'category' => "news-commentary",
-        'slug' => "february-29-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "cancervax-news",
+        'scope' => "public"
     ],
     [
-        'title' => "February 19, 2024 - NewHydrogen News Commentary",
-        'videoID' => "-7uPwMRO9Zs",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "february-19-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "NewHydrogen News",
-        'videoID' => "i_MH3Z02LzE",
+        'title' => "Rob Etherington - CEO/President at Clene Nanomedicine",
+        'videoID' => "a7ycw2A94uI",
         'date' => "February 12, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "rob-etherington-president-at-clene-nanomedicine",
+        'scope' => "private"
+    ],
+    [
+        'title' => "Ken Horton - Patent Lawyer - Intellectual Property Law",
+        'videoID' => "qH0mzQEm7aM",
+        'date' => "February 22, 2024 ",
+        'category' => "ceo-podcast",
+        'slug' => "ken-horton-patent-lawyer-intellectual-property-law",
+        'scope' => "private"
+    ],
+    [
+        'title' => "Ann Romney Discusses Immunotherapy with CancerVax CEO",
+        'videoID' => "E8PLvkVjYtY",
+        'date' => "November 12, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "ann-romney-discusses-immunotherapy-with-cancervax-ceo",
+        'scope' => "private"
+    ],
+    [
+        'title' => "Ezra Cohen Tempus Labs",
+        'videoID' => "Ez4gXwP56Xo",
+        'date' => "November 2, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "ezra-cohen-tempus-labs",
+        'scope' => "public"
+    ],
+    [
+        'title' => "CancerVax CEO Discusses Expanded Pipeline at UCLA",
+        'videoID' => "RJYGOJSKKLk",
+        'date' => "October 2, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "cancervax-ceo-discusses-expanded-pipeline-at-ucla",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Steven Jonas - UCLA",
+        'videoID' => "LTzE5Y78RrU",
+        'date' => "August 14, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "steven-jonas-ucla",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Lara Sullivan - Pyxis Oncology",
+        'videoID' => "nb4DZ-G49c8",
+        'date' => "June 28, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "lara-sullivan-pyxis-oncology",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Michael Smith - KalVista Pharmaceuticals",
+        'videoID' => "c123rkMsmVQ",
+        'date' => "June 16, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "michael-smith-kalvista-pharmaceuticals",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Raymond Vennare - Predictive Oncology Inc.",
+        'videoID' => "JHsQN8AMBbw",
+        'date' => "May 24, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "raymond-vennare-predictive-oncology-inc",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Dr. Dinesh Patel - Xenocor, Inc.",
+        'videoID' => "twJxMzdSS4A",
+        'date' => "May 17, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "dr-dinesh-patel-xenocor-inc",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Stephen Diamond - LEXEO Therapeutics",
+        'videoID' => "W6FG-viYbKM",
+        'date' => "April 20, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "stephen-diamond-lexeo-therapeutics",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Dr. Satiro De Oliveira - UCLA",
+        'videoID' => "QAFbMKCJcgk",
+        'date' => "April 12, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "dr-satiro-de-oliveira-ucla",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Ryan looper - Curza",
+        'videoID' => "5LRM7n5IleQ",
+        'date' => "March 23, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "ryan-looper-curza",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Jonathan Lakey - XOStem, Inc",
+        'videoID' => "kS54nCFPPVM",
+        'date' => "March 21, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "jonathan-lakey-xostem-inc",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Dr. David Bearss - Halia Therapeutics",
+        'videoID' => "kTZYBVC_Gig",
+        'date' => "March 19, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "dr-david-bearss-halia-therapeutics",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Todd Kinard - Curza",
+        'videoID' => "OYoOgSZ8HK4",
+        'date' => "March 15, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "todd-kinard-curza",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Partnered with Jonsson Comprehensive Cancer Center",
+        'videoID' => "JbE5nKVJAMo",
+        'date' => "March 15, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "partnered-with-jonsson-comprehensive-cancer-center",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Seeking Immunotherapy Solutions that Prevent Cancer",
+        'videoID' => "rMhbq_yeWEg",
+        'date' => "March 15, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "seeking-immunotherapy-solutions-that-prevent-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Unlike Any Other Industry CancerVax CEO Ryan Davies talks Biotech",
+        'videoID' => "1tqn7-LXYfY",
+        'date' => "March 15, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "unlike-any-other-industry-cancervax-ceo-ryan-davies-talks-biotech",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Biomedical Research without Traditional Overhead Costs at CancerVA",
+        'videoID' => "O7-OAT0ejxE",
+        'date' => "March 15, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "biomedical-research-without-traditional-overhead-costs-at-cancerva",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Bridgette Wilson Sampras",
+        'videoID' => "mXQBBs36mUQ",
+        'date' => "November 4, 2023",
         'category' => "news-commentary",
-        'slug' => "newhydrogen-news",
-        "display" => true
+        'slug' => "bridgette-wilson-sampras",
+        'scope' => "public"
     ],
     [
-        'title' => "Safeguards for Electrolyzers & Reconsidering Electric Vehicles",
-        'videoID' => "MRbz_ZYPCXY",
-        'date' => "February 1, 2024",
+        'title' => "Zoleka Mandela",
+        'videoID' => "vQKXp2rZN8Y",
+        'date' => "September 30, 2023",
         'category' => "news-commentary",
-        'slug' => "safeguards-for-electrolyzers-&-reconsidering-electric-vehicles",
-        "display" => true
+        'slug' => "zoleka-mandela",
+        'scope' => "public"
     ],
     [
-        'title' => "Dr. Kevin Huang - University of South Carolina",
-        'videoID' => "dYo4duianfg",
-        'date' => "February 13, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-kevin-huang-university-of-south-carolina",
-        "display" => true
+        'title' => "Breakthroughs in Cancer Treatment and Research",
+        'videoID' => "ISxuj7njZRg",
+        'date' => "September 20, 2023",
+        'category' => "news-commentary",
+        'slug' => "breakthroughs-in-cancer-treatment-and-research",
+        'scope' => "public"
     ],
-
     [
-        'title' => "Dr. Jeffrey Reed - UC Irvine",
-        'videoID' => "JcE8xrs2njk",
-        'date' => "January 30, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-jeffrey-reed-uc-irvine",
-        "display" => true
-    ],
-
-    [
-        'title' => "Dr. Ben Emerson Georgia Tech",
-        'videoID' => "SK6lcbTVM3g",
-        'date' => "January 16, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-ben-emerson-georgia-tech",
-        "display" => true
+        'title' => "The Financial Burden",
+        'videoID' => "JUp6iwaYiyY",
+        'date' => "September 16, 2023",
+        'category' => "news-commentary",
+        'slug' => "the-financial-burden",
+        'scope' => "public"
     ],
 
     [
-        'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
-        'videoID' => "PL-JaIzTV0U",
-        'date' => "January 2, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-faisal-alamgir-georgia-institute-of-technology",
-        "display" => true
+        'title' => "A Monumental Meeting at UCLA",
+        'videoID' => "jB-J8DP7oDQ",
+        'date' => "September 16, 2023",
+        'category' => "news-commentary",
+        'slug' => "a-monumental-meeting-at-ucla",
+        'scope' => "public"
     ],
     [
-        'title' => "Dr. William Eckenhoff - Rhodes College",
-        'videoID' => "6S06yhKlDjc",
-        'date' => "December 16, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-william-eckenhoff-rhodes-college",
-        "display" => false
+        'title' => "Fighting Cancer with Microsoft AI",
+        'videoID' => "6VT9poigwYA",
+        'date' => "September 13, 2023",
+        'category' => "news-commentary",
+        'slug' => "fighting-cancer-with-microsoft-ai",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Early Onset Cancer",
+        'videoID' => "oueUZrh_3-Y",
+        'date' => "September 11, 2023",
+        'category' => "news-commentary",
+        'slug' => "early-onset-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Jimmy Buffett",
+        'videoID' => "ICJmkBLkPQk",
+        'date' => "September 11, 2023",
+        'category' => "news-commentary",
+        'slug' => "jimmy-buffett",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Brian Sevy - Cancer Research",
+        'videoID' => "Fe8Y2KOdUug",
+        'date' => "August 25, 2023",
+        'category' => "news-commentary",
+        'slug' => "brian-sevy-cancer-research",
+        'scope' => "public"
+    ],
+    // [
+    //     'title' => "Nobel Prize goes to scientists behind mRNA Covid vaccines",
+    //     'videoID' => "UHdlK8SnWQ4",
+    //     'date' => "October 3, 2023",
+    //     'category' => "news-commentary",
+    //     'scope' => "public"
+    // ],
+    [
+        'title' => "National Cancer Plan",
+        'videoID' => "T7vHpIKySWk",
+        'date' => "August 13, 2023",
+        'category' => "news-commentary",
+        'slug' => "national-cancer-plan",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Onset Colon Cancer",
+        'videoID' => "vNserFeYYh4",
+        'date' => "August 9, 2023",
+        'category' => "news-commentary",
+        'slug' => "onset-colon-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Paul Reubens",
+        'videoID' => "5gR8ssdsRgE",
+        'date' => "August 3, 2023",
+        'category' => "news-commentary",
+        'slug' => "paul-reubens",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Research Turning Point",
+        'videoID' => "2jmJ2r0GKc0",
+        'date' => "June 28, 2023",
+        'category' => "news-commentary",
+        'slug' => "research-turning-point",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Mammograms",
+        'videoID' => "FoiGO6QzS-U",
+        'date' => "May 26, 2023",
+        'category' => "news-commentary",
+        'slug' => "mammograms",
+        'scope' => "public"
+    ],
+    [
+        'title' => "mRNA Vaccine",
+        'videoID' => "fcAUnmxnmK4",
+        'date' => "May 24, 2023",
+        'category' => "news-commentary",
+        'slug' => "mrna-vaccine",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Paul Chretien - Colorectal Cancer",
+        'videoID' => "0Bga027vcFc",
+        'date' => "August 15, 2023",
+        'category' => "cancer-survivor-stories",
+        'slug' => "paul-chretien-colorectal-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Andrew Van Noy - Retinoblastoma",
+        'videoID' => "y9gaBzk8c5g",
+        'date' => "July 25, 2023",
+        'category' => "cancer-survivor-stories",
+        'slug' => "andrew-van-noy-retinoblastoma",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Juli Mathews - Leukemia",
+        'videoID' => "bYhTlLSvwvU",
+        'date' => "July 24, 2023",
+        'category' => "cancer-survivor-stories",
+        'slug' => "juli-mathews-leukemia",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Rod Davies - Prostate Cancer",
+        'videoID' => "PrKWO9o6IFE",
+        'date' => "July 13, 2023",
+        'category' => "cancer-survivor-stories",
+        'slug' => "rod-davies-prostate-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Chris Westerkamp - Pancreatic Cancer",
+        'videoID' => "cVNEyN2pIUI",
+        'date' => "May 27, 2023",
+        'category' => "cancer-survivor-stories",
+        'slug' => "chris-esterkamp-pancreatic-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Jeff Lipschitz - Prostate Cancer",
+        'videoID' => "eWtiq6e0YO0",
+        'date' => "May 27, 2023",
+        'category' => "cancer-survivor-stories",
+        'slug' => "jeff-lipschitz-prostate-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Don Elm - Stomach Cancer and Colon Cancer",
+        'videoID' => "n39f-EMmaWw",
+        'date' => "Mar 24, 2023",
+        'category' => "cancer-survivor-stories",
+        'slug' => "don-elm-stomach-cance-and-colon-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Byron Elton - Prostate Cancer",
+        'videoID' => "kLHL6Sw-QDI",
+        'date' => "Mar 24, 2023",
+        'category' => "cancer-survivor-stories",
+        'slug' => "byron-elton-prostate-cancer",
+        'scope' => "public"
     ],
     // new
     [
-        'title' => "American Airlines is pioneering sustainable aviation.",
-        'videoID' => "ySo0tR3Q-x4",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "american-airlines-is-pioneering-sustainable-aviation",
-        "display" => true
-    ],
-    [
-        'title' => "The entire world is competing to be the leader in hydrogen power!",
-        'videoID' => "YtZC7cSPGtc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-entire-world-is-competing-to-be-the-leader-in-hydrogen-power",
-        "display" => true
-    ],
-    [
-        'title' => "The global race isn't just about technology.",
-        'videoID' => "L_7eQEN7YZA",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-global-race-isnt-just-about-technology",
-        "display" => true
-    ],
-    [
-        'title' => "Your favorite and the biggest car brands are looking into turning their vehicles to hydrogen-powered",
-        'videoID' => "i1XM1zr5h0g",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "your-favorite-and-the-biggest-car-brands-are-looking-into-turning-their-vehicles-to-hydrogen-powered",
-        "display" => true
-    ],
-    [
-        'title' => "Kawasaki showed the world its first public demo of a hydrogen-powered motorcycle in Japan.",
-        'videoID' => "jxSY109rhGA",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "kawasaki-showed-the-world-its-first-public-demo-of-a-hydrogen-powered-motorcycle-in-japan",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen could power nearly a quarter of the world's energy needs by 2050!",
-        'videoID' => "2kfcfZufU2U",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-could-power-nearly-a-quarter-of-the-worlds-energy-needs-by-2050",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen is poised to revolutionize the energy landscape",
-        'videoID' => "xW53R33hlEs",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-is-poised-to-revolutionize-the-energy-landscape",
-        "display" => true
-    ],
-    [
-        'title' => "The potential benefits of a hydrogen-powered future far outweigh the current obstacles!",
-        'videoID' => "rbbdpQmas4w",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-potential-benefits-of-a-hydrogen-powered-future-far-outweigh-the-current-obstacles",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen energy is poised to transform our world!",
-        'videoID' => "QPBlyDk4SjY",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-energy-is-poised-to-transform-our-world",
-        "display" => true
-    ],
-    [
-        'title' => "The future of high-powered engines is with hydrogen!",
-        'videoID' => "7th1qxhwvl4",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-future-of-high-powered-engines-is-with-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "Production costs to get green hydrogen are a huge problem",
-        'videoID' => "XWFEkn9WG8U",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "production-costs-to-get-green-hydrogen-are-a-huge-problem",
-        "display" => true
-    ],
-    [
-        'title' => "An energy crisis is developing and we need solutions fast!",
-        'videoID' => "6uO-bfCTO7Q",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "an-energy-crisis-is-developing-and-we-need-solutions-fast",
-        "display" => true
-    ],
-    [
-        'title' => "NewHydrogen is developing innovative hydrogen technologies for a sustainable future.",
-        'videoID' => "LO75YGnw5rU",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "newhydrogen-is-developing-innovative-hydrogen-technologies-for-a-sustainable-future",
-        "display" => true
-    ],
-    [
-        'title' => "A Swiss hydrogen-powered train just set a Guinness World Record!",
-        'videoID' => "LizSV3fTy58",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "a-swiss-hydrogen-powered-train-just-set-a-guinness-world-record",
-        "display" => true
-    ],
-    [
-        'title' => "Ferrari is leaving gas and going hydrogen!",
-        'videoID' => "-3Vkq3miWEo",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "ferrari-is-leaving-gas-and-going-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "Check out this futuristic city in Japan!",
-        'videoID' => "TZi9R2WLchI",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "check-out-this-futuristic-city-in-japan",
-        "display" => true
-    ],
-    [
-        'title' => "This could transform sustainable farming practices globally.",
-        'videoID' => "GUqkTM420aU",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "this-could-transform-sustainable-farming-practices-globally",
-        "display" => true
-    ],
-    [
-        'title' => "PepsiCo's pilot program using green hydrogen-based fertilizers to produce potatoes in Spain!",
-        'videoID' => "d0os_ss0cl8",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "pepsico-pilot-program-using-green-hydrogen-based-fertilizers-to-produce-potatoes-in-spain",
-        "display" => true
-    ],
-    [
-        'title' => "It's Time to Ditch Dirty Fuels.",
-        'videoID' => "6Xi6eHBYTeg",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "its-time-to-ditch-dirty-fuels",
-        "display" => true
-    ],
-    [
-        'title' => "Imagine Cities Powered by Clean Hydrogen",
-        'videoID' => "IUfhAstWq_c",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "imagine-cities-powered-by-clean-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "Go further. Go Green",
-        'videoID' => "n-RpVbYOrFY",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "go-further-go-green",
-        "display" => true
-    ],
-    [
-        'title' => "We are near the future and there won't be any turning back!",
-        'videoID' => "AbzXyyE8iJU",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "we-are-near-the-future-and-there-wont-be-any-turning-back",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen is key.",
-        'videoID' => "sUCHgap3XOA",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-is-key",
-        "display" => true
-    ],
-    [
-        'title' => "The average distance a gas vehicle can travel is 413 miles! Hydrogen fuel cells 4X that!",
-        'videoID' => "lHMuQDouSxY",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-average-distance-a-gas-vehicle-can-travel-is-413-miles-hydrogen-fuel-cells-4x-that",
-        "display" => true
-    ],
-    [
-        'title' => "EVs vs FCVs",
-        'videoID' => "3FfNOxZZWvQ",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "evs-vs-fcvs",
-        "display" => true
-    ],
-    [
-        'title' => "Hitachi's $1.5 billion investment aims to boost global transformer production by 2027!",
-        'videoID' => "mUikPxT07lI",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hitachis-$1-5-billion-investment-aims-to-boost-global-transformer-production-by-2027",
-        "display" => true
-    ],
-    [
-        'title' => "The World's Cheapest Green Hydrogen",
-        'videoID' => "K6pDmAyn1Tg",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-worlds-cheapest-green-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "Even festivals are starting to rely on hydrogen for a trusted source of continuous energy!",
-        'videoID' => "qiPNrax99VM",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "even-festivals-are-starting-to-rely-on-hydrogen-for-a-trusted-source-of-continuous-energy",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen is already setting world records and it's just the beginning!",
-        'videoID' => "ZvLPEpjeLV4",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-is-already-setting-world-records-and-its-just-the-beginning",
-        "display" => true
-    ],
-    [
-        'title' => "Fossil fuels are on the way out and hydrogen is on its way in!",
-        'videoID' => "Y00hlLFNRZg",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "fossil-fuels-are-on-the-way-out-and-hydrogen-is-on-its-way-in",
-        "display" => true
-    ],
-    [
-        'title' => "We are here to make the cheapest green hydrogen!",
-        'videoID' => "VMmkJ7lPtfI",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "we-are-here-to-make-the-cheapest-green-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "Ford is patenting their own fuel! Woahhhh!",
-        'videoID' => "vRadAkFEZ7g",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "ford-is-patenting-their-own-fuel-woahhhh",
-        "display" => true
-    ],
-    [
-        'title' => "ThermoLoop is designed to produce affordable, clean, green hydrogen, the key to powering the future",
-        'videoID' => "ySV_5im52dY",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "thermoloop-is-designed-to-produce-affordable-clean-green-hydrogen-the-key-to-powering-the-future",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen will power your favorite festivals!",
-        'videoID' => "Wetow5f_fb0",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "Hydrogenwill-power-your-favorite-festivals",
-        "display" => true
-    ],
-    [
-        'title' => "A lot is changing with the use of green hydrogen!",
-        'videoID' => "4g9zekUR6Gk",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "a-lot-is-changing-with-the-use-of-green-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "Safety around hydrogen has been a major concern but now, Ford claims to have made hydrogen safer!",
-        'videoID' => "NUlpSLWDsgM",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "safety-around-hydrogen-has-been-a-major-concern-but-now-ford-claims-to-have-made-hydrogen-safer",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen is on track to take over the racing world!",
-        'videoID' => "mVFgoFpsuaY",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-is-on-track-to-take-over-the-racing-world",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen-Powered Cars Are The Future!",
-        'videoID' => "fw-Bt9WMObA",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-powered-cars-are-the-future",
-        "display" => true
-    ],
-    [
-        'title' => "The hydrogen element is all around the world and so are business opportunities!",
-        'videoID' => "mVFgoFpsuaY",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-hydrogen-element-is-all-around-the-world-and-so-are-business-opportunities",
-        "display" => true
-    ],
-    [
-        'title' => "Terrence, we have what you need!",
-        'videoID' => "M-30KiYx5HQ",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "terrencewe-have-what-you-need",
-        "display" => true
-    ],
-    [
-        'title' => "The hydrogen market",
-        'videoID' => "um017RohoQM",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-hydrogen-market",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen is fueling the world's largest sports event! Find out how!",
-        'videoID' => "7Ba8B6rYf3o",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-is-fueling-the-worlds-largest-sports-event-find-out-how",
-        "display" => true
-    ],
-    [
-        'title' => "Goldman Sachs sees green hydrogen as a future $12 trillion market",
-        'videoID' => "dFQ8LUh4yUQ",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "goldman-sachs-sees-green-hydrogen-as-a-future-$12-trillion-market",
-        "display" => true
-    ],
-    [
-        'title' => "No more choo choo trains!",
-        'videoID' => "rf71FwvKBC8",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "no-more-choo-choo-trains",
-        "display" => true
-    ],
-    [
-        'title' => "No way cows are getting replaced by hydrogen?!",
-        'videoID' => "wyC0C0DXptE",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "no-way-cows-are-getting-replaced-by-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "The Green Rush on Hydrogen is just as exciting as the past Gold Rush!",
-        'videoID' => "fsCwfWn-OvU",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-green-rush-on-hydrogen-is-just-as-exciting-as-the-past-gold-rush",
-        "display" => true
-    ],
-    [
-        'title' => "The world is in need of change.",
-        'videoID' => "hZ2rw6vScg0",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-world-is-in-need-of-change",
-        "display" => true
-    ], 
-    [
-        'title' => "We Are Developing The World's Cheapest Green Hydrogen with ThermoLoop!",
-        'videoID' => "hZ2rw6vScg0",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "we-are-developing-the-worlds-cheapest-green-hydrogen-with-thermoloop",
-        "display" => true
-    ], 
-    [
-        'title' => "The race is on! Join the Molecular Gold Rush!",
-        'videoID' => "fsCwfWn-OvU",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-race-is-on-join-the-molecular-gold-rush",
-        "display" => true
-    ],   
-    [
-        'title' => "Batteries need to be replaced or boosted in power!",
-        'videoID' => "Hs-RI8Mr2sI",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "batteries-need-to-be-replaced-or-boosted-in-power",
-        "display" => true
-    ],   
-    [
-        'title' => "Global Demand",
-        'videoID' => "gNT8HkZCn_A",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "global-demand",
-        "display" => true
-    ],   
-    [
-        'title' => "Crucial element needed for large-scale industrial production",
-        'videoID' => "8Y0gBkJr7Lg",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "crucial-element-needed-for-large-scale-industrial-production",
-        "display" => true
-    ],
-    [
-        'title' => "GOLD RUSH",
-        'videoID' => "wLxhwaohZ50",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "gold-rush",
-        "display" => true
-    ],
-    [
-        'title' => "Check out Bill Gates' $1,000,000,000 Yacht powered by hydrogen!",
-        'videoID' => "lNiA57V5e18",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "check-out-bill-Gates-1000000000-yacht-powered-by-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "Energy is on the verge of going GREEN",
-        'videoID' => "i-pD-nSthFc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "energy-is-on-the-verge-of-going-green",
-        "display" => true
-    ],
-    [
-        'title' => "Green Hydrogen: Cost is the Hurdle",
-        'videoID' => "b2NCzUccEnE",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "green-hydrogen-cost-is-the-hurdle",
-        "display" => true
-    ],
-    [
-        'title' => "Did you know a NYC bathhouse is using the heat from Bitcoin mining to warm its pools?",
-        'videoID' => "Pg6CTTNM6vU",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "did-you-know-a-nyc-bathhouse-is-using-the-heat-from-bitcoin-mining-to-warm-its-pools",
-        "display" => true
-    ],
-    [
-        'title' => "Green Hydrogen: The Future of Energy is Here!",
-        'videoID' => "HwwdXiGg1cg",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "green-Hydrogen-the-future-of-energy-is-here",
-        "display" => true
-    ],
-    [
-        'title' => "Bill Gates Sets Sail for Sustainability: The World's First Hydrogen Superyacht.",
-        'videoID' => "ro_CdtBvQCI",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "bill-gates-sets-sail-for-Sustainability-the-Worlds-first-hydrogen-superyacht",
-        "display" => true
-    ],
-    [
-        'title' => "The United Nations and Paris have a common goal in mind",
-        'videoID' => "7odbLGzaZY8",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "he-united-nations-and-paris-have-a-common-goal-in-mind",
-        "display" => true
-    ],
-    [
-        'title' => "Green Hydrogen Stuck on Price?",
-        'videoID' => "7FXffyMw2yA",
-        'date' => "",
-        'category' => "green-hydrogen-stuck-on-price",
-        'slug' => "crypto-ai",
-        "display" => true
-    ],
-    [
-        'title' => "Airbus Takes Flight on Hydrogen!",
-        'videoID' => "0ZVGVNR3G-8",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "Airbus Takes Flight on Hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "Green Ammonia: The Fuel of the Future?",
-        'videoID' => "PhR1tfFnjQw",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "green-ammonia-the-fuel-of-the-future",
-        "display" => true
-    ],
-    [
-        'title' => "Visit our website to find out how we plan to create the world's cheapest green hydrogen!",
-        'videoID' => "-6gjWp2xdwc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "visit-our-website-to-find-out-how-we-plan-to-create-the-worlds-cheapest-green-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen is gearing up for the seas and entering the shipping industry!",
-        'videoID' => "EVkEBvwLG_E",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-is-gearing-up-for-the-seas-and-entering-the-shipping-industry",
-        "display" => true
-    ],
-    [
-        'title' => "The possibilities and opportunities that can be created by hydrogen are endless",
-        'videoID' => "cKtPGfjjkos",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-possibilities-and-opportunities-that-can-be-created-by-hydrogen-are-endless",
-        "display" => true
-    ],
-    [
-        'title' => "Back to the future we go!",
-        'videoID' => "RJygArStnlw",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "back-to-the-future-we-go",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen is being used for many reasons in many sectors and even the Olympics!",
-        'videoID' => "udrIphaLHsc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-is-being-used-for-many-reasons-in-many-sectors-and-even-the-olympics",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen is around for the taking!",
-        'videoID' => "sLOCT57NFvs",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-is-around-for-the-taking",
-        "display" => true
-    ],
-    [
-        'title' => "If Ferrari is turning to hydrogen?",
-        'videoID' => "KQGNM_EGnms",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "if-ferrari-is-turning-to-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen is being explored at Duke University as a potential device lifespan extender!",
-        'videoID' => "EqXWTdxI65M",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-is-being-explored-at-duke-university-as-a-potential-device-lifespan-extender",
-        "display" => true
-    ],
-    [
-        'title' => "Japan is on track to creating the first ever town completely powered by hydrogen fuel cells!",
-        'videoID' => "Sjhe8B_SQMw",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "japan-is-on-track-to-creating-the-first-ever-town-completely-powered-by-hydrogen-fuel-cells",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen will cut the cost of electricity",
-        'videoID' => "rZlidrdf8Xg",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-will-cut-the-cost-of-electricity",
-        "display" => true
-    ],
-    [
-        'title' => "Big pharma companies use hydrogen to create the medicine, vitamins and minerals that we need?",
-        'videoID' => "E_meDz6jHog",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "big-pharma-companies-use-hydrogen-to-create-the-medicine-vitamins-and-minerals-that-we-need",
-        "display" => true
-    ],
-    [
-        'title' => "The big players are coming to play!",
-        'videoID' => "y8DWm-pc7ZA",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-big-players-are-coming-to-play",
-        "display" => true
-    ],
-    [
-        'title' => "There is an essential understanding needed to produce green hydrogen",
-        'videoID' => "SW4RdQeCZcU",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "there-is-an-essential-understanding-needed-to-produce-green-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "The hydrogen industry will be one of those new waves that world is going to run with and support.",
-        'videoID' => "Sq2znI_821w",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-hydrogen-industry-will-be-one-of-those-new-waves-that-world-is-going-to-run-with-and-support",
-        "display" => true
-    ],
-    [
-        'title' => "Crypto + A I",
-        'videoID' => "GtmpIocrmgk",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "crypto-ai",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen is even in the market of human consumption!",
-        'videoID' => "aNbYKLLv6vc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-is-even-in-the-market-of-human-consumption",
-        "display" => true
-    ],
-    [
-        'title' => "There's hydrogen food too? Yes!",
-        'videoID' => "2ZJMEzXthgY",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "theres-hydrogen-food-too-yes",
-        "display" => true
-    ],
-    [
-        'title' => "Green hydrogen: dream or reality?",
-        'videoID' => "DEbiQQVs4uA",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "green-hydrogen-dream-or-reality",
-        "display" => true
-    ],
-    [
-        'title' => "Toyota Headquarters",
-        'videoID' => "cQonJta_4e8",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "toyota-headquarters",
-        "display" => true
-    ],
-    [
-        'title' => "Move over, oil, there's a new sheriff in town!",
-        'videoID' => "z8sD22ycvV8",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "move-over-oil-theres-a-new-sheriff-in-town",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen has the power to transform our world, but at what cost?",
-        'videoID' => "Q5DX9HtKus8",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-has-the-power-to-transform-our-world-but-at-what-cost",
-        "display" => true
-    ],
-    [
-        'title' => "Breaking barriers in hydrogen production!",
-        'videoID' => "YtTTXE_0TN8",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "breaking-barriers-in-hydrogen-production",
-        "display" => true
-    ],
-    [
-        'title' => "Green Hydrogen Hurdles Cost, Infrastructure",
-        'videoID' => "lFohy2ODbSI",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "green-hydrogen-hurdles-cost-infrastructure",
-        "display" => true
-    ],
-    [
-        'title' => "Pharma x Hydrogen",
-        'videoID' => "DdoIv9frwBA",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "pharma-x-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "Torghatten Nord just ordered the world's biggest hydrogen ferries",
-        'videoID' => "uDEwC_tiA3A",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "torghatten-Nord-just-ordered-the-worlds-biggest-hydrogen-ferries",
-        "display" => true
-    ],
-    [
-        'title' => "Trending now! The hottest hydrogen buzz this week? EchoGo Hydrogen Water.",
-        'videoID' => "PdG_IHPxni4",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "trending-now-the-hottest-hydrogen-buzz-this-week-echogo-hydrogen-water",
-        "display" => true
-    ],
-    [
-        'title' => "Green hydrogen is fueling a food revolution!",
-        'videoID' => "1v3pEE2w1dc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "green-hydrogen-is-fueling-a-food-revolution",
-        "display" => true
-    ],
-    [
-        'title' => "Nanoscale movies",
-        'videoID' => "ZGrhFT6i4mE",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "nanoscale-movies",
-        "display" => true
-    ],
-    [
-        'title' => "Mega Green Hydrogen Project $690 Million Investment",
-        'videoID' => "4URq2_NSHS8",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "mega-green-hydrogen-project-690-million-investment",
-        "display" => true
-    ],
-    [
-        'title' => "Ships Get a Power Surge Hydrogen Takes Charge",
-        'videoID' => "14uSFiJp2Ps",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "ships-get-a-power-surge-hydrogen-takes-charge",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen's the future, but making it clean is expensive.",
-        'videoID' => "EQIISUedDOc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogens-the-future-but-making-it-clean-is-expensive",
-        "display" => true
-    ],
-    [
-        'title' => "iSpace",
-        'videoID' => "WRkPMc_LG5Y",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "ispace",
-        "display" => true
-    ],
-    [
-        'title' => "Did you know Japan is a clean energy powerhouse?",
-        'videoID' => "ss1BYn2dc0g",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "did-you-know-japan-is-a-clean-energy-powerhouse",
-        "display" => true
-    ],
-    [
-        'title' => "Pivotal Moment",
-        'videoID' => "C2t2TG06Q4w",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "pivotal-moment",
-        "display" => true
-    ],
-    [
-        'title' => "The future is here!",
-        'videoID' => "C2t2TG06Q4w",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-future-is-here",
-        "display" => true
-    ],
-    [
-        'title' => "Shifting Gears Ferrari Eyes Hydrogen as the Future of High Performance",
-        'videoID' => "GBuZ4mdW-5k",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "shifting-gears-ferrari-eyes-hydrogen-as-the-future-of-high-performance",
-        "display" => true
-    ],
-    [
-        'title' => "Green Hydrogen: The Missing Piece for a $12 Trillion Clean Energy Future",
-        'videoID' => "7vdF-t3OfXM",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "green-hydrogen-the-missing-piece-for-a-12-trillion-clean-energy-future",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen Train Breaks Record",
-        'videoID' => "SMuikpMfsnI",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-train-breaks-record",
-        "display" => true
-    ],
-    [
-        'title' => "Fueling a Greener Future_ Can Hydrogen Power the Next Generation of Airplanes",
-        'videoID' => "mpLTJ3EgnrQ",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "fueling-a-greener-future-can-hydrogen-power-the-next-generation-of-airplanes",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen is promising for the economy and the environment",
-        'videoID' => "LP5tqpIUwac",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-is-promising-for-the-economy-and-the-environment",
-        "display" => true
-    ],
-    [
-        'title' => "The time is now and the wave is getting bigger and bigger!",
-        'videoID' => "SMuikpMfsnI",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-time-is-now-and-the-wave-is-getting-bigger-and-bigger",
-        "display" => true
-    ],
-    [
-        'title' => "The LARGEST Wave of Capital Spending!",
-        'videoID' => "JkI0-GhvYsM",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-largest-wave-of-capital-spending",
-        "display" => true
-    ],
-    [
-        'title' => "Baltimore Bridge Collapse: A Wake-Up Call for Clean Energy Independence",
-        'videoID' => "Si4IHNEU6fw",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "baltimore-bridge-collapse-a-wake-Up-call-for-clean-energy-independence",
-        "display" => true
-    ],
-    [
-        'title' => "Beyond Electrolyzers: NewHydrogen's ThermoLoop Reimagines Green Hydrogen Production",
-        'videoID' => "hF73FfIfyIw",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "beyond-electrolyzers-newhydrogens-thermoloop-reimagines-green-hydrogen-production",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen Gold Rush Is Geologic Extraction a Feasible Dream",
-        'videoID' => "k0_1mFxYhUc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-gold-rush-is-geologic-extraction-a-feasible-dream",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen in the Olympics",
-        'videoID' => "7TohwCwcqEc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-in-the-olympics",
-        "display" => true
-    ],
-    [
-        'title' => "Embracing Tomorrow: UAE's Hydrogen Revolution",
-        'videoID' => "DOF-av7qT28",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "embracing-tomorrow-uaes-hydrogen-revolution",
-        "display" => true
-    ],
-    [
-        'title' => "Breaking Barriers NewHydrogen's ThermoLoop Aims to Slash Green Hydrogen Costs",
-        'videoID' => "EHfVEDQA-c4",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "breaking-barriers-newhydrogens-thermoLoop-aims-to-slash-green-hydrogen-costs",
-        "display" => true
-    ],
-    [
-        'title' => "Beyond Fuel Exploring Hydrogen's Multifaceted Potential",
-        'videoID' => "YmhdlQ-8xfk",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "beyond-fuel-exploring-hydrogens-multifaceted-potential",
-        "display" => true
-    ],
-    [
-        'title' => "India's Power Challenge. Can NewHydrogen's Innovation Provide a Sustainable Answer?",
-        'videoID' => "bpgVnO9y7-k",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "indias-power-challenge-can-newhydrogens-innovation-provide-a-sustainable-answer",
-        "display" => true
-    ],
-    [
-        'title' => "Oktoberfest is an experience millions love to have!",
-        'videoID' => "qPt2SXsokoI",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "oktoberfest-is-an-experience-millions-love-to-have",
-        "display" => true
-    ],
-    [
-        'title' => "One of the most historical and beautiful places in the world...",
-        'videoID' => "478X3-fNmmU",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "one-of-the-most-historical-and-beautiful-places-in-the-world",
-        "display" => true
-    ],
-    [
-        'title' => "Serbia deserves clean air!",
-        'videoID' => "2LOVQjn2Pq0",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "serbia-deserves-clean-air",
-        "display" => true
-    ],
-    [
-        'title' => "Serbia's atmosphere needs a cleanse!",
-        'videoID' => "oK70oY8saqo",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "serbias-atmosphere-needs-a-cleanse",
-        "display" => true
-    ],
-    [
-        'title' => "Turkey's future is clean and bright! NewHydrogen offers a sustainable energy solution.",
-        'videoID' => "ac6Vq6ADuzc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "turkeys-future-is-clean-and-bright-newhydrogen-offers-a-sustainable-energy-solution",
-        "display" => true
-    ],
-    [
-        'title' => "Sweden is already embracing hydrogen homes, could yours be next?",
-        'videoID' => "cOIQGAXFgkk",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "sweden-is-already-embracing-hydrogen-homes-could-yours-be-next",
-        "display" => true
-    ],
-    [
-        'title' => "Powering the Future: Why We Need Sustainable Energy Solutions Now",
-        'videoID' => "fdTBDtilP-w",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "powering-the-future-why-we-need-sustainable-energy-solutions-now",
-        "display" => true
-    ],
-    [
-        'title' => "The Future is Green: NewHydrogen's ThermoLoop Makes Clean Energy Affordable.",
-        'videoID' => "M7Ws2mxWSeA",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-future-is-green-newhydrogens-thermoLoop-makes-clean-energy-affordable",
-        "display" => true
-    ],
-    [
-        'title' => "We are developing a Breakthrough Technology to Produce the World’s Cheapest Green Hydrogen.",
-        'videoID' => "W_c13p2sAAc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "we-are-developing-a-breakthrough-technology-to-produce-the-worlds-cheapest-green-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "Green is the New Gold : Why Hydrogen is the Key to a Sustainable Future",
-        'videoID' => "W_c13p2sAAc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "green-is-the-new-gold-why-hydrogen-is-the-key-to-a-sustainable-future",
-        "display" => true
-    ],
-    [
-        'title' => "The future of clean energy is here!",
-        'videoID' => "MYa5GCYHvW0",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-future-of-clean-energy-is-here",
-        "display" => true
-    ],
-    [
-        'title' => "That's where NewHydrogen comes into play!",
-        'videoID' => "bgFe7SLaPq8",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "thats-where-newhydrogen-comes-into-play",
-        "display" => true
-    ],
-    [
-        'title' => "The future of clean energy is scalable!",
-        'videoID' => "IjueJw4OLNs",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-future-of-clean-energy-is-scalable",
-        "display" => true
-    ],
-    [
-        'title' => "A.I. Demands Tons Of Energy!",
-        'videoID' => "e3WMsm1ESGQ",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "ai-demands-tons-of-energy",
-        "display" => true
-    ],
-    [
-        'title' => "This technology is not only a game changer; it is a life changer!",
-        'videoID' => "PcPX-r3Yxuw",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "this-technology-is-not-only-a-game-changer-it-is-a-life-changer",
-        "display" => true
-    ],
-    [
-        'title' => "This opportunity is unbelievable and needs a pioneer!",
-        'videoID' => "M1UjF21_V4o",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "this-opportunity-is-unbelievable-and-needs-a-pioneer",
-        "display" => true
-    ],
-    [
-        'title' => "We are creating ThermoLoop to develop the World's Cheapest Green Hydrogen on The Planet!",
-        'videoID' => "8JpB2X4H8UQ",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "we-are-creating-thermoLoop-to-develop-the-worlds-cheapest-green-hydrogen-on-the-planet",
-        "display" => true
-    ],
-    [
-        'title' => "Maritime is serious about the hydrogen movement!",
-        'videoID' => "WDGC8FmllOw",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "maritime-is-serious-about-the-hydrogen-movement",
-        "display" => true
-    ],
-    [
-        'title' => "Japan is creating hydrogen-powered homes!",
-        'videoID' => "hO9P-OW1TI",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "japan-is-creating-hydrogen-powered-homes",
-        "display" => true
-    ],
-    [
-        'title' => "The time to pay attention to what's going on in the hydrogen industry is now!",
-        'videoID' => "DZy52qIWo5E",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-time-to-pay-attention-to-whats-going-on-in-the-hydrogen-industry-is-now",
-        "display" => true
-    ],
-    [
-        'title' => "FCVs: Driving towards a cleaner future with zero emissions and longer distances",
-        'videoID' => "271Zg1ShgWk",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "fcvs-driving-towards-a-cleaner-future-with-zero-emissions-and-longer-distances",
-        "display" => true
-    ],
-    [
-        'title' => "Advancing Clean Energy!",
-        'videoID' => "Q55xljnbzl4",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "advancing-clean-energy",
-        "display" => true
-    ],
-    [
-        'title' => "Powering Resilience!",
-        'videoID' => "4EhYnf_SPgY",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "powering-resilience",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen Hype is Real",
-        'videoID' => "GxDgynOJzTs",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-hype-is-real",
-        "display" => true
-    ],
-    [
-        'title' => "Trust, you want to check us out.",
-        'videoID' => "r9eqY5ye5tY",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "trust-you-want-to-check-us-out",
-        "display" => true
-    ],
-    [
-        'title' => "Times are changing and trust, you want to stay up-to-date.",
-        'videoID' => "rQVghpuxXpQ",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "times-are-changing-and-trust-you-want-to-stay-up-to-date",
-        "display" => true
-    ],
-    [
-        'title' => "Electrolyzers' need for steady power from renewables is vital.",
-        'videoID' => "8ZWU7G6zzdA",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "electrolyzers-need-for-steady-power-from-renewables-is-vital",
-        "display" => true
-    ],
-    [
-        'title' => "Our Thermoloop can change the world and save you lots of money!",
-        'videoID' => "xJbWtWXONLc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "our-thermoloop-can-change-the-world-and-save-you-lots-of-money",
-        "display" => true
-    ],
-    [
-        'title' => "1807 Innovation",
-        'videoID' => "MTa7SkIctFo",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "1807-innovation",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen has so many uses!",
-        'videoID' => "GbDPQjerx-g",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-has-so-many-uses",
-        "display" => true
-    ],
-    [
-        'title' => "The time to pay attention to hydrogen is NOW!",
-        'videoID' => "aBNDKOJ6_K4",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-time-to-pay-attention-to-hydrogen-is-now",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen is the future and always has been.",
-        'videoID' => "Gqk7_K3DMXk",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-is-the-future-and-always-has-been",
-        "display" => true
-    ],
-    [
-        'title' => "Japan Is Committed To Green Hydrogen",
-        'videoID' => "oHCqcejI6wM",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "japan-is-committed-to-green-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "Metallica Supports Hydrogen",
-        'videoID' => "K82wTuIzjw8",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "metallica-supports-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "California's hydrogen highway",
-        'videoID' => "m4dVcpUqe34",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "californias-hydrogen-highway",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen buses equals cleaner, greener urban travel with lower costs and zero emissions!",
-        'videoID' => "bMR4ZOLX9nA",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-buses-equals-cleaner-greener-urban-travel-with-lower-costs-and-zero-emissions",
-        "display" => true
-    ],
-    [
-        'title' => "What do you think about this jet?",
-        'videoID' => "DAy0FP81TpY",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "what-do-you-think-about-this-jet",
-        "display" => true
-    ],
-    [
-        'title' => "Sailing towards a cleaner future with zero emissions and stable fuel costs",
-        'videoID' => "oU1VMhIdyA0",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "sailing-towards-a-cleaner-future-with-zero-emissions-and-stable-fuel-costs",
-        "display" => true
-    ],
-    [
-        'title' => "A 12 Trillion Dollar Market!",
-        'videoID' => "tAY1mIsg4fU",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "a-12-trillion-dollar-market",
-        "display" => true
-    ],
-    [
-        'title' => "Auto giants rethink EV strategy amid battery challenges and slowing demand",
-        'videoID' => "drn2ELAh2G0",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "auto-giants-rethink-ev-strategy-amid-battery-challenges-and-slowing-demand",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen is creating a plane that doesn't need a runway",
-        'videoID' => "9SF9CvXcOX0",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-is-creating-a-plane-that-doesnt-need-a-runway",
-        "display" => true
-    ],
-    [
-        'title' => "Unlocking the future of clean energy with precision!",
-        'videoID' => "PA9b1AcC3Pc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "unlocking-the-future-of-clean-energy-with-precision",
-        "display" => true
-    ],
-    [
-        'title' => "Big news circulating in the hydrogen industry",
-        'videoID' => "8wnMNsNWLM4",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "big-news-circulating-in-the-hydrogen-industry",
-        "display" => true
-    ],
-    [
-        'title' => "NewHydrogen is poised to deliver on its promise of being the producer of the cheapest green hydrogen",
-        'videoID' => "5TjriNCSIkM",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "newhydrogen-is-poised-to-deliver-on-its-promise-of-being-the-producer-of-the-cheapest-green-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "Do You Know What HYDROGEN Is?",
-        'videoID' => "FlkKIEov30U",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "do-you-know-what-hydrogen-is",
-        "display" => true
-    ],
-    [
-        'title' => "Industries require high energy density and continuous power supply",
-        'videoID' => "FfsuKp3zWJQ",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "industries-require-high-energy-density-and-continuous-power-supply",
-        "display" => true
-    ],
-    [
-        'title' => "Thermoloop is the potential key to shaping the future global energy landscape.",
-        'videoID' => "Hczi5Q_7iMY",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "thermoloop-is-the-potential-key-to-shaping-the-future-global-energy-landscape",
-        "display" => true
-    ],
-    [
-        'title' => "New Hydrogen's commitment to developing the world's cheapest green hydrogen",
-        'videoID' => "O2cVWa5E4cY",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "new-hydrogens-commitment-to-developing-the-worlds-cheapest-green-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "$12 Trillion! Not often do you see a number like this with an opportunity to have a piece of it!",
-        'videoID' => "IKNslHSSiQs",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "12-trillion-not-often-do-you-see-a-number-like-this-with-an-opportunity-to-have-a-piece-of-it",
-        "display" => true
-    ],
-    [
-        'title' => "$7 Billion invested lets you know this is legit!",
-        'videoID' => "-YBtSd1rNqQ",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "7-billion-invested-lets-you-know-this-is-legit",
-        "display" => true
-    ],
-    [
-        'title' => "Did you know $7 billion has been invested for hydrogen advancements all around the US?",
-        'videoID' => "FgRKmHqfzjM",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "did-you-know-7-billion-has-been-invested-for-hydrogen-advancements-all-around-the-us",
-        "display" => true
-    ],
-    [
-        'title' => "Our Thermoloop technology",
-        'videoID' => "Hczi5Q_7iMY",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "our-thermoloop-technology",
-        "display" => true
-    ],
-    [
-        'title' => "NewHydrogen's ThermoLoop Technology",
-        'videoID' => "cg8wMjs6cwo",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "newhydrogens-thermoloop-technology",
-        "display" => true
-    ],
-    [
-        'title' => "We are the future of hydrogen production.",
-        'videoID' => "NKyCbBojDgE",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "we-are-the-future-of-hydrogen-production",
-        "display" => true
-    ],
-    [
-        'title' => "If you love the planet, please share!",
-        'videoID' => "_bEP2-5z20k",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen can reshape many industries for the better.",
-        'videoID' => "UjAHbikLlIQ",
+        'title' => "Alarming rise in early onset cancer cases demands urgent attention!",
+        'videoID' => "wcr2M7T79l4",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-can-reshape-many-industries-for-the-better",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "alarming-rise-in-early-onset-cancer-cases-demands-urgent-attention",
         "display" => true
     ],
     [
-        'title' => "Did you know lowering hydrogen cost can lower the cost of producing essentials like food?",
-        'videoID' => "LI3bNGW6GWE",
+        'title' => "CancerVAX is leading the charge in developing a groundbreaking universal cancer treatment.",
+        'videoID' => "Kk4IDipssRQ",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "did-you-know-lowering-hydrogen-cost-can-lower-the-cost-of-producing-essentials-like-food",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "cancervax-is-leading-the-charge-in-developing-a-groundbreaking-universal-cancer-treatment",
         "display" => true
     ],
     [
-        'title' => "High Yields, Low Prices",
-        'videoID' => "DfTlSCJh8jo",
+        'title' => "UCLA Recognized as Top Medical Research Institution!",
+        'videoID' => "QvgjPlHwix8",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "high-yields-low-prices",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "ucla-recognized-as-top-medical-research-institution",
         "display" => true
     ],
     [
-        'title' => "Sky high or long-haul....",
-        'videoID' => "M-1kux_WZxg",
+        'title' => "Artificial intelligence is transforming the way cancer patients navigate their journey.",
+        'videoID' => "0UFeuKwfwxE",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "sky-high-or-long-haul",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "artificial-intelligence-is-transforming-the-way-cancer-patients-navigate-their-journey",
         "display" => true
     ],
     [
-        'title' => "Travel with peace of mind (and wallet) ✈️",
-        'videoID' => "5Thjkn9XfpM",
+        'title' => "The future of cancer treatment is bright, driven by innovation and growing investment",
+        'videoID' => "IRWq4kMfzBk",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "travel-with-peace-of-mind",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "the-future-of-cancer-treatment-is-bright-driven-by-innovation-and-growing-investment",
         "display" => true
     ],
     [
-        'title' => "Rooted in Science 🌱",
-        'videoID' => "MwngX7Uul3A",
+        'title' => "A universal cancer treatment holds the potential to significantly advance cancer care",
+        'videoID' => "JnjFNzGaDJU",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "rooted-in-science",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "a-universal-cancer-treatment-holds-the-potential-to-significantly-advance-cancer-care",
         "display" => true
     ],
     [
-        'title' => "The Season of Sustainability",
-        'videoID' => "bavuhT3JpTA",
+        'title' => "The journey to conquer cancer is long, but every step forward is a beacon of hope.",
+        'videoID' => "tg8NxaDAaVw",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-season-of-sustainability",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "the-journey-to-conquer-cancer-is-long-but-every-step-forward-is-a-beacon-of-hope",
         "display" => true
     ],
     [
-        'title' => "Driving progress forward, faster than ever before! 🚗",
-        'videoID' => "0_-146E7bfw",
+        'title' => "CancerVAX is at the forefront of developing a universal cancer treatment in collaboration with UCLA.",
+        'videoID' => "kWhwUN2356s",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "driving-progress-forward-faster-than-ever-before",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "cancervax-is-at-the-forefront-of-developing-a-universal-cancer-treatment-in-collaboration-with-ucla",
         "display" => true
     ],
     [
-        'title' => "In for the Long-Haul 🚛",
-        'videoID' => "kMmRRc2eOn4",
+        'title' => "A universal cancer vaccine is not just a dream; it's a promise we're working tirelessly to fulfill",
+        'videoID' => "57Q4I7vwSAs",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "in-for-the-long-haul",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "a-universal-cancer-vaccine-is-not-just-a-dream-its-a-promise-we-working-tirelessly-to-fulfill",
         "display" => true
     ],
     [
-        'title' => "First Place in Power 🥇",
-        'videoID' => "Ea4DMnJ5y0o",
+        'title' => "Every step towards a universal cancer vaccine brings us closer to a world without this disease.",
+        'videoID' => "efsWpootp2g",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "first-place-in-power",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "every-step-towards-a-universal-cancer-vaccine-brings-us-closer-to-a-world-without-this-disease",
         "display" => true
     ],
     [
-        'title' => "We're Going the Distance",
-        'videoID' => "L_b_Uz49xE0",
+        'title' => "Shortage of Cancer Drugs Creates Challenges for Treatment",
+        'videoID' => "dtVhqIqiypg",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "we-are-going-the-distance",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "shortage-of-cancer-drugs-creates-challenges-for-treatment",
         "display" => true
     ],
     [
-        'title' => "Doing more, for less!",
-        'videoID' => "sikp8AyYzkY",
+        'title' => "Fight for the Future: Funding & Research Advancements Bring Hope for Childhood Cancers",
+        'videoID' => "eBzABy41o18",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "doing-more-for-less",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "fight-for-the-future-funding-research-advancements-bring-hope-for-childhood-cancers",
         "display" => true
     ],
     [
-        'title' => "The Green Light on Renewable Energy!",
-        'videoID' => "7dpkuZmNAD0",
+        'title' => "Hope on the Horizon: CancerVax Develops Promising Universal Cancer Treatment",
+        'videoID' => "nzF_C7lMvzk",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-green-light-on-renewable-energy",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "hope-on-the-horizon-cancervax-develops-promising-universal-cancer-treatment",
         "display" => true
     ],
     [
-        'title' => "Solutions for the Long-haul!",
-        'videoID' => "l54vFjz7GS8",
+        'title' => "Biotechnology in oncology",
+        'videoID' => "0Gd8mmrkB1s",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "solutions-for-the-long-haul",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "biotechnology-in-oncology",
         "display" => true
     ],
     [
-        'title' => "Going into the science....",
-        'videoID' => "x8vyQVKuUcI",
+        'title' => "Biotechnology vs. Radiation",
+        'videoID' => "3FTkHLiN6ns",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "going-into-the-science",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "biotechnology-vs-radiation",
         "display" => true
     ],
     [
-        'title' => "What is your story?",
-        'videoID' => "nlyfGlfpjkU",
+        'title' => "Biotechnology in oncology.",
+        'videoID' => "x2QLVy0Ia3o",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "what-is-your-story",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "biotechnology-in-oncology",
         "display" => true
     ],
     [
-        'title' => "This is what you waited for!",
-        'videoID' => "GNjen89LYR8",
+        'title' => "We are gearing up for a leap",
+        'videoID' => "o_jqz_3seF8",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "this-is-what-you-waited-for",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "we-are-gearing-up-for-a-leap",
         "display" => true
     ],
     [
-        'title' => "Clean, green hydrogen is no longer just a vision of the future- it's becoming tangible, today.",
-        'videoID' => "Xd7JUQhqGOY",
+        'title' => "Stuart Scott: A voice of sports with a heart of courage.",
+        'videoID' => "TROtlmNE9sk",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "clean-green-hydrogen-is-no-longer-just-a-vision-of-the-future-it's-becoming-tangible-today",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "stuart-scott-a-voice-of-sports-with-a-heart-of-courage",
         "display" => true
     ],
     [
-        'title' => "Taking science out of the beakers",
-        'videoID' => "VTDk_hDC8cc",
+        'title' => "A heart of a champion in the battle against cancer",
+        'videoID' => "JO9tpnza6O0",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "taking-science-out-of-the-beakers",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "a-heart-of-a-champion-in-the-battle-against-cancer",
         "display" => true
     ],
     [
-        'title' => "Breaking Barriers for Cost-Effective Renewable Energy!",
-        'videoID' => "wx8fqmZ1UFA",
+        'title' => "Biotechnology will be the leader in advancing medicine",
+        'videoID' => "9g4dP6oSki4",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "breaking-barriers-for-cost-effective-renewable-energy",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "biotechnology-will-be-the-leader-in-advancing-medicine",
         "display" => true
     ],
     [
-        'title' => "To find out how you can be a part of the renewable revolution",
-        'videoID' => "LZIdfHQ-v6o",
+        'title' => "Immunotherapy is a natural defense system that will always protect the body if treated correctly!",
+        'videoID' => "zRGGXilqV3w",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "to-find-out-how-you-can-be-a-part-of-the-renewable-revolution",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "immunotherapy-is-a-natural-defense-system-that-will-always-protect-the-body-if-treated-correctly",
         "display" => true
     ],
     [
-        'title' => "The spark of progress toward a healthier energy-ecosystem is here!",
-        'videoID' => "WxYz-_LracA",
+        'title' => "Biotech is the future of medicine and we are leaders of the sector.",
+        'videoID' => "2OBgpjM-NjU",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-spark-of-progress-toward-a-healthier-energy-ecosystem-is-here",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "biotech-is-the-future-of-medicine-and-we-are-leaders-of-the-sector",
         "display" => true
     ],
     [
-        'title' => "The Faster Way to Take Flight",
-        'videoID' => "L1N2yju7LFE",
+        'title' => "Tell our CMO, Byron, Happy Birthday in the comments!",
+        'videoID' => "8wbePFi3g0w",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-faster-way-to-take-flight",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "tell-our-cmo-byron-happy-birthday-in-the-comments",
         "display" => true
     ],
     [
-        'title' => "From the Ocean to the Stars!",
-        'videoID' => "wqZz8Cc6r-g",
+        'title' => "Let's create a Better Way To Treat Cancer for the ladies.",
+        'videoID' => "HjmRWx63SHs",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "from-the-ocean-to-the-stars",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "lets-create-a-better-way-to-treat-cancer-for-the-ladies",
         "display" => true
     ],
     [
-        'title' => "What is the most versatile element?",
-        'videoID' => "00A36FrtBJo",
+        'title' => "Science and Art Intertwine",
+        'videoID' => "agNveiHM8qU",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "what-is-the-most-versatile-element",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "science-and-art-intertwine",
         "display" => true
     ],
     [
-        'title' => "The foundation of the future",
-        'videoID' => "mV7PrOnSpFM",
+        'title' => "Another way to treat cancer has been necessary and wanted for a long time.",
+        'videoID' => "2fVaHvXdC9Q",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-foundation-of-the-future",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "another-way-to-treat-cancer-has-been-necessary-and-wanted-for-a-long-time",
         "display" => true
     ],
     [
-        'title' => "With only steam as an emission",
-        'videoID' => "f1fkDcuUaAE",
+        'title' => "Meet Byron Elton, President and CEO of CancerVax",
+        'videoID' => "5g8yAG8ZnN4",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "with-only-steam-as-an-emission",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "meet-byron-elton-president-and-ceo-of-cancervax",
         "display" => true
     ],
     [
-        'title' => "The future of renewable energy is coming. Will you be a part of it?",
-        'videoID' => "jN6HWj3HDgg",
+        'title' => "Old cancer treatments are very harmful and sometimes can cause more damage than help.",
+        'videoID' => "h22JBcfSZtc",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-future-of-renewable-energy-is-coming-Will-you-be-a-part-of-it",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "old-cancer-treatments-are-very-harmful-and-sometimes-can-cause-more-damage-than-help",
         "display" => true
     ],
     [
-        'title' => "More than just the fuel of the future",
-        'videoID' => "YyHxSZEUe9U",
+        'title' => "As the population grows, so does the number of cancer cases",
+        'videoID' => "kvN-AoMYaKE",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "more-than-just-the-fuel-of-the-future",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "as-the-population-grows-so-does-the-number-of-cancer-cases",
         "display" => true
     ],
     [
-        'title' => "clean, green hydrogen has the potential to power the world well beyond just electricity.",
-        'videoID' => "S4V_ngRY5Oo",
+        'title' => "Join us as we unlock the immune system's power to fight cancer",
+        'videoID' => "FD9zg3SoeSw",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "clean-green-hydrogen-has-the-potential-to-power-the-world-well-beyond-just-electricity",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "join-us-as-we-unlock-the-immune-systems-power-to-fight-cancer",
         "display" => true
     ],
     [
-        'title' => "As carbon-reducing policies take hold worldwide",
-        'videoID' => "I5VcyEtreC0",
+        'title' => "CancerVax's Quest for Breakthroughs in Cancer Treatment",
+        'videoID' => "sHSxuQmKHNg",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "as-carbon-reducing-policies-take-hold-worldwide",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "cancervaxs-quest-for-breakthroughs-in-cancer-treatment",
         "display" => true
     ],
     [
-        'title' => "The rainbow of possibilities for the world's most abundant element cannot be overstated.",
-        'videoID' => "3FIVoLs2eIg",
+        'title' => "When new knowledge is discovered, new advancements are pushed forward",
+        'videoID' => "Dy2qWmqYQUU",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-rainbow-of-possibilities-for-the-world-most-abundant-element-cannot-be-overstated",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "when-new-knowledge-is-discovered-new-advancements-are-pushed-forward",
         "display" => true
     ],
     [
-        'title' => "This is the Future of Long-Distance Travel",
-        'videoID' => "832z-7VmcmY",
+        'title' => "CancerVax is here to create a Better Way To Treat Cancer",
+        'videoID' => "bs1avzWERFM",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "this-is-the-future-of-long-distance-travel",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "cancervax-is-here-to-create-a-better-way-to-treat-cancer",
         "display" => true
     ],
     [
-        'title' => "Take a guess as to when the first zero-emission vehicle was created",
-        'videoID' => "LTub7TEH2Pg",
+        'title' => "Every minute 70 people die from cancer",
+        'videoID' => "REkZn04FP3M",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "take-a-guess-as-to-when-the-first-zero-emission-vehicle-was-created",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "every-minute-70-people-die-from-cancer",
         "display" => true
     ],
     [
-        'title' => "What to do with wastewater?",
-        'videoID' => "MuPu0A8nMIA",
+        'title' => "Major advancements are happening right now in the cancer treatment industry.",
+        'videoID' => "JL63jQXPZDQ",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "what-to-do-with-wastewater",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "major-advancements-are-happening-right-now-in-the-cancer-treatment-industry",
         "display" => true
     ],
     [
-        'title' => "Why Toyota won't give up on hydrogen fuel cells",
-        'videoID' => "9aYbq2aEelI",
+        'title' => "How extinction creates strain in research",
+        'videoID' => "DEpMSnHoqeM",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "why-toyota-wont-give-up-on-hydrogen-fuel-cells",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "how-extinction-creates-strain-in-research",
         "display" => true
     ],
     [
-        'title' => "A closer look at energy on a global scale",
-        'videoID' => "o615-PeLET0",
+        'title' => "What nature gives us",
+        'videoID' => "yV4Swf6AZus",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "a-closer-look-at-energy-on-a-global-scale",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "what-nature-gives-us",
         "display" => true
     ],
     [
-        'title' => "The greatest tool for decarbonization is coming now!",
-        'videoID' => "ZwL3phtN4hA",
+        'title' => "Empowerment begins with understanding.",
+        'videoID' => "3FcduzxgEOw",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-greatest-tool-for-decarbonization-is-coming-now",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "empowerment-begins-with-understanding",
         "display" => true
     ],
     [
-        'title' => "Taller than the Statue of Liberty!",
-        'videoID' => "u4W1WBqlWDM",
+        'title' => "Every breath matters, and so does understanding",
+        'videoID' => "WSXxo4XTYMU",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "taller-than-the-statue-of-liberty",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "every-breath-matters-and-so-does-understanding",
         "display" => true
     ],
     [
-        'title' => "The Expert Opinion on Hydrogen Combustion",
-        'videoID' => "9CqiCLyVhy8",
+        'title' => "Prostate cancer is a silent killer in men.",
+        'videoID' => "XEaAS8Wjtek",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-expert-opinion-on-hydrogen-combustion",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "prostate-cancer-is-a-silent-killer-in-men",
         "display" => true
     ],
     [
-        'title' => "The Power Possible in a Bottle of Water",
-        'videoID' => "vYpU8y3xkxA",
+        'title' => "Do you know what pancreatic cancer is?",
+        'videoID' => "8MYaRjhcsqY",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-power-possible-in-a-bottle-of-water",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "do-you-know-what-pancreatic-cancer-is",
         "display" => true
     ],
     [
-        'title' => "The future of cars is coming: this is what's driving it!",
-        'videoID' => "S3U4Gt0jwRs",
+        'title' => "Let's protect the children and ultimately protect the planet's future.",
+        'videoID' => "r93su5Ibc4w",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-future-of-cars-is-coming-this-is-what-driving-it",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "lets-protect-the-children-and-ultimately-protect-the-planets-future",
         "display" => true
     ],
     [
-        'title' => "What is ammonia actually used for? Hint- it's a lot!",
-        'videoID' => "P93p9YkQ_-E",
+        'title' => "Cancer is a disease we all wish to never have",
+        'videoID' => "Ax_ZLmdHC5M",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "what-is-ammonia-actually-used-for",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "cancer-is-a-disease-we-all-wish-to-never-have",
         "display" => true
     ],
     [
-        'title' => "What can you do with $12 TRILLION in pennies?",
-        'videoID' => "F6Seknou9Vs",
+        'title' => "Small Gestures Can Create Powerful Effects",
+        'videoID' => "Sk8jYTdKZDE",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "what-can-you-do-with-12-trillion-in-pennies",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "small-gestures-can-create-powerful-effects",
         "display" => true
     ],
     [
-        'title' => "Did you know we've had zero-emission vehicles since the 90's?",
-        'videoID' => "zv-GNaBJvUg",
+        'title' => "Here's What Biotechnology Is",
+        'videoID' => "v2Z4Gvz2CFA",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "did-you-know-we-had-zero-emission-vehicles-since-the-90",
+        'category' => "short-videos",
+        'scope' => "public",
+        'slug' => "heres-what-biotechnology-is",
         "display" => true
     ],
     [
-        'title' => "It’s time to stop focusing on yesterday’s technology and start innovating for tomorrow.",
-        'videoID' => "KZQoy1kXV3M",
+        'title' => "Work Toward Your Healthy Tomorrow",
+        'slug' => "work-toward-your-healthy-tomorrow",
+        'videoID' => "IUQwQI6-QOU",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "it-time-to-stop-focusing-on-yesterday-technology-and-start-innovating-for-tomorrow.",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The future of hydrogen energy",
-        'videoID' => "IdlMTjZ3vmA",
+        'title' => "Help Them Celebrate More Birthdays",
+        'slug' => "help-them-celebrate-more-birthdays",
+        'videoID' => "JHciO9uVFds",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-future-of-hydrogen-energy",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Do Californians know the value of a water bottle? (Quizshow!)",
-        'videoID' => "6cyPXzLF6II",
+        'title' => "Get Tested For Early Detection",
+        'slug' => "get-tested-for-early-detection",
+        'videoID' => "Mo10gLT8i4I",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "do-californians-know-the-value-of-a-water-bottle",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Power Created From Water",
-        'videoID' => "m9s7RGcfXOk",
+        'title' => "Saving Lives, Saving Childhoods",
+        'slug' => "saving-lives-saving-childhoods",
+        'videoID' => "7QD-SWfN8CE",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "power-created-from-water",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Cleaner, cheaper, and more effective - green hydrogen",
-        'videoID' => "JQ4y6KRBvno",
+        'title' => "Winning the War",
+        'slug' => "winning-the-ar",
+        'videoID' => "90zLFQOMcpg",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "cleaner-cheaper-and-more-effective-green-hydrogen",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "NewHydrogen is powering ahead on the path to clean energy!",
-        'videoID' => "dYvbVp47OSY",
+        'title' => "Changing the face of medicine forever....",
+        'slug' => "changing-the-face-of-medicine-forever",
+        'videoID' => "wQQ4aV8d1r8",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "newHydrogen-is-powering-ahead-on-the-path-to-clean-energy",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The Insane Power of Pure Water (700 Miles per Gallon)",
-        'videoID' => "gxhoaLxN77Y",
+        'title' => "Hope for the future....",
+        'slug' => "hope-for-the-future",
+        'videoID' => "K6X6Rg2PGts",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-insane-power-of-pure-water",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Making Your Toyota Run on Tap Water!",
-        'videoID' => "q7jE9hOZYvU",
+        'title' => "A New Wave of Biotechnology is Here!",
+        'slug' => "a-new-wave-of-biotechnology-is-here",
+        'videoID' => "gdX7L4WQTpc",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "making-your-toyota-run-on-tap-water",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The Math Behind a Stanley-Cup Powered Toyota",
-        'videoID' => "rG_C3QFiLk8",
+        'title' => "The Future of Biotechnology....",
+        'slug' => "the-future-of-biotechnology",
+        'videoID' => "JckuM1PKp74",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-math-behind-a-stanley-cup-powered-toyota",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Energy is the Foundation of Everything!",
-        'videoID' => "48wothuH5Ks",
+        'title' => "Turn on the light!",
+        'slug' => "turn-on-the-light",
+        'videoID' => "k-iACEu49ko",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "energy-is-the-foundation-of-everything",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Hydroelectric isn't the only way to harness the power of our water sources!",
-        'videoID' => "d-gWDbEiytE",
+        'title' => "The Catalyst for Change is Coming...",
+        'slug' => "the-catalyst-for-change-is-coming",
+        'videoID' => "C7oS1XNwLdc",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "hydroelectric-isnt-the-only-way-to-harness-the-power-of-our-wwater-sources",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The smallest element has the biggest impact on our world!",
-        'videoID' => "2J-LcmkRAlM",
+        'title' => "Progress is Limitless",
+        'slug' => "progress-is-limitless",
+        'videoID' => "VcYO6LYegro",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-smallest-element-has-the-biggest-impact-on-our-world",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Hydrogen forms the basis of most fertilizers.",
-        'videoID' => "xkmweO-K2YE",
+        'title' => "Better Biotech for a Safer Future",
+        'slug' => "better-biotech-for-a-safer-future",
+        'videoID' => "NGK7vCVfh7U",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-forms-the-basis-of-most-fertilizers",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Big News for Disney World- Moana's Journey of Water's Celebration of Science!",
-        'videoID' => "mFOOLtsYA7M",
+        'title' => "One Discovery at a Time",
+        'slug' => "one-discovery-at-a-time",
+        'videoID' => "T2zUGibKEVg",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "big-news-for-disney-world-moana-journey-of-water-celebration-of-science",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "How Hydrogen is Changing Electrical Grids For Good",
-        'videoID' => "GNkolN9ZjW8",
+        'title' => "A universal treatment takes universal effort!",
+        'slug' => "a-universal-treatment-takes-universal-effort",
+        'videoID' => "fzg0mJSum4c",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "how-hydrogen-is-changing-electrical-grids-for-good",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The Problems with Diesel Power - An Inside Look",
-        'videoID' => "k5fLXrVqcJc",
+        'title' => "Unraveling the Mysteries!",
+        'slug' => "unraveling-the-mysteries",
+        'videoID' => "lHiXiD8Nbt4",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-problems-with-diesel-power-an-inside-look",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "With Green Hydrogen: Slow to Invest is Quick to Regret!",
-        'videoID' => "L-OEsvNiBYA",
+        'title' => "Transforming the Surface of Biotechnology",
+        'slug' => "transforming-the-surface-of-biotechnology",
+        'videoID' => "a6aNVIYk_iI",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "with-green-hydrogen-slow-to-invest-is-quick-to-regret",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "How Hydrogen is Revolutionizing the Transportation Industry",
-        'videoID' => "PVi70lFkaTk",
+        'title' => "Investing in the Future Means Investing In the Now",
+        'slug' => "investing-in-the-future-means-investing-In-the-now",
+        'videoID' => "2e_Ikln3JLU",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "how-hydrogen-is-revolutionizing-the-transportation-industry",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "California Invested $106M into Better Fuel Sources",
-        'videoID' => "09ux-nmmKRg",
+        'title' => "The future of health is being created today!",
+        'slug' => "the-future-of-health-is-being-created-today",
+        'videoID' => "zznjDppaV6c",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "california-invested-106m-into-better-fuel-sources",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The Staggering Impact of Maritime Shipping on the Environment!",
-        'videoID' => "euKREzOmBZ4",
+        'title' => "An act of kindness can change everything...",
+        'slug' => "an-act-of-kindness-can-change-everything...",
+        'videoID' => "l_d7hTW80IM",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-staggering-impact-of-maritime-shipping-on-the-environment",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "How to Make Renewable Energy in Bad Weather",
-        'videoID' => "mePTGm3NqM0",
+        'title' => "Turning on the Beacon",
+        'slug' => "turning-on-the-beacon",
+        'videoID' => "rGG2t6lTP18",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "how-to-make-renewable-energy-in-bad-weather",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The Energy of The Future: Hydrogen Power Explained",
-        'videoID' => "_p0AtMQZAXA",
+        'title' => "Shaping the future of children's cancer research",
+        'slug' => "shaping-the-future-of-children-cancer-research",
+        'videoID' => "MXArxSyGTlA",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-energy-of-the-future-hydrogen-power-explained",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Sending a Toyota Mirai Around the World 24x",
-        'videoID' => "NVe9bhO3sCg",
+        'title' => "242,000 Cases of Breast Cancer are Diagnosed Each Year",
+        'slug' => "242,000-cases-of-breast-cancer-are-diagnosed-each-year",
+        'videoID' => "JuVU-8HrVwE",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "sending-a-toyota-mirai-around-the-world-24x",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "First Place in the Race Towards Renewable Energy",
-        'videoID' => "q56-8IFRX8M",
+        'title' => "Creating a better future for those who matter most....",
+        'slug' => "creating-a-better-future-for-those-who-matter-most",
+        'videoID' => "1tKG4Es0kq0",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "first-place-in-the-race-towards-renewable-energy",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Stanford's Innovative Approach to the Hydrogen Economy!",
-        'videoID' => "G5Ncugka_cE",
+        'title' => "Pushing boundaries of early detection and treatment",
+        'slug' => "pushing-boundaries-of-early-detection-and-treatment",
+        'videoID' => "7XagWMbr2es",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "stanford-innovative-approach-to-the-hydrogen-economy",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Transportation at it's fastest and most efficient.",
-        'videoID' => "CWrDfhkoBIk",
+        'title' => "CancerVax is paving the way for better safer, more effective cancer treatments.",
+        'slug' => "cancervax-is-paving-the-way-for-better-safer-more-effective-cancer-treatments.",
+        'videoID' => "58aPMoSKjWQ",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "transportation-at-its-fastest-and-most-efficient",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The technology that powers tomorrow is being made today at NewHydrogen.",
-        'videoID' => "u9jnJ_3ARSQ",
+        'title' => "CancerVax is creating better ways to identify, diagnose, and treat cancer one day at a time.",
+        'slug' => "cancervax-is-creating-better-ways-to-identify-diagnose-and-treat-cancer-one-day-at-a-time",
+        'videoID' => "YLZQqWgqmXU",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-technology-that-powers-tomorrow-is-being-made-today-at-newhydrogen",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The Skittles Approach to Carbon Neutrality!",
-        'videoID' => "ICEjaymJVOo",
+        'title' => "The story of cancer is still unfolding...",
+        'slug' => "the-story-of-cancer-is-still-unfolding",
+        'videoID' => "Ym8TWv8uQys",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-skittles-approach-to-carbon-neutrality",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The Rainbow of Hydrogen Production!",
-        'videoID' => "BtNGUh9rLHk",
+        'title' => "The most prevalent form of cancer affecting men in the United States",
+        'slug' => "the-most-prevalent-form-of-cancer-affecting-men-in-the-united-states",
+        'videoID' => "e59jUy3Fu8k",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-rainbow-of-hydrogen-production",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "How can we make grocery shopping accessible again?",
-        'videoID' => "bHOkhCQqXS4",
+        'title' => "CancerVax has already made incredible strides in the development of biotechnology",
+        'slug' => "cancervax-has-already-made-incredible-strides-in-the-development-of-biotechnology",
+        'videoID' => "X2I-te-DhgY",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "how-can-we-make-grocery-shopping-accessible-again",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "What the public thinks about grocery prices!",
-        'videoID' => "oahj2M-GITE",
+        'title' => "The Future of Vaccines",
+        'slug' => "the-future-of-vaccines",
+        'videoID' => "fhhUSbuLEAM",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "what-the-public-thinks-about-grocery-prices",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Watering Down Your Power Bill!",
-        'videoID' => "zNYXBBkPwW0",
+        'title' => "The real reason better treatments matter.",
+        'slug' => "the-real-reason-better-treatments-matter",
+        'videoID' => "O-zTRaJEnZM",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "watering-down-your-power-bill",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "How Hydrogen Can Replace Carbon Dioxide.",
-        'videoID' => "24OOLtsGbQI",
+        'title' => "The Trillion-Dollar Revolution",
+        'slug' => "the-trillion-dollar-revolution",
+        'videoID' => "NrATsUEGnSU",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "how-hydrogen-can-replace-carbon-dioxide",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "V1 WITH MUSIC Pumpkin Patch 1",
-        'videoID' => "a6sVB7eOXMs",
+        'title' => "What it takes to bring cancer treatment to millions",
+        'slug' => "what-it-takes-to-bring-cancer-treatment-to-millions",
+        'videoID' => "JFmI46CN7Fk",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "v1-with-music-pumpkin-patch-1",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "How is cheap hydrogen helping your local farmer's market?",
-        'videoID' => "kmBsIlRz230",
+        'title' => "Making Cancer Treatment Accessible to Everyone",
+        'slug' => "making-cancer-treatment-accessible-to-everyone",
+        'videoID' => "O0dnLqAusJU",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "how-is-cheap-hydrogen-helping-your-local-farmer-market",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "How Thermoloop is Changing the Renewable Game!",
-        'videoID' => "5BEf0J9Y-yY",
+        'title' => "CancerVax is creating cancer treatments that are accessible, affordable, and effective.",
+        'slug' => "cancervax-is-creating-cancer-treatments-that-are-accessible-affordable-and-effective",
+        'videoID' => "BPjTUao0TNc",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "how-thermoloop-is-changing-the-renewable-game",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The Green-Hydrogen Economy is Ready to Go!",
-        'videoID' => "Fak2jxnpR9Q",
+        'title' => "How big is the cancer drug development market?",
+        'slug' => "how-big-is-the-cancer-drug-development-market",
+        'videoID' => "PHjS2iBvGEY",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-green-hydrogen-economy-is-ready-to-go",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "How are Hydrogen Fertilizers Changing Agriculture?",
-        'videoID' => "4XJb_jRRiO8",
+        'title' => "As Simple as a Flu Shot",
+        'slug' => "as-simple-as-a-flu-shot",
+        'videoID' => "-_zX2jhR9gM",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "how-are-hydrogen-fertilizers-changing-agriculture",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Let's Start a Discussion about Green Hydrogen. We'll Go First!",
-        'videoID' => "GCFQE-mtew8",
+        'title' => "What is CancerVax, and why do we matter?",
+        'slug' => "what-is-cancervax-and-why-do-we-matter",
+        'videoID' => "wwWstzEu0Hs",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "let-start-a-discussion-about-green-hydrogen-we-will-go-first",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Never Wasting a Watt!",
-        'videoID' => "yUBt3113jr4",
+        'title' => "Cancer treatments should only affect cancer cells",
+        'slug' => "cancer-treatments-should-only-affect-cancer-cells",
+        'videoID' => "QZFBJS7qrJs",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "never-wasting-a-watt",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Hydrogen Powered Aircrafts are Coming Soon!",
-        'videoID' => "JaKH85UcxXc",
+        'title' => "More effective, more efficient, and more affordable",
+        'slug' => "more-effective-more-efficient-and-more-affordable",
+        'videoID' => "grrRnc774ek",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-powered-aircrafts-are-coming-soon",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "How is Hydrogen Critical to American Agriculture?",
-        'videoID' => "81UDvF72fYo",
+        'title' => "How is MRNA changing how we view cancer treatment?",
+        'slug' => "how-is-mrna-changing-how-we-view-cancer-treatment",
+        'videoID' => "2PDM9tUeM6g",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "how-is-hydrogen-critical-to-american-agriculture",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "How Hydrogen Helps Our Farmers Every Day",
-        'videoID' => "6F-m-N6cuQs",
+        'title' => "Harnessing the power of the body's own immune system",
+        'slug' => "harnessing-the-power-of-the-body-own-immune-system",
+        'videoID' => "4C_YiqSQH7c",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "how-hydrogen-helps-our-farmers-every-day",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Hydrogen Revolution: Paving the Way to Sustainable Industries",
-        'videoID' => "5lQWmZI0Gt8",
+        'title' => "What is immunotherapy, and why does it matter?",
+        'slug' => "what-is-immunotherapy-and-why-does-it-matter",
+        'videoID' => "sAW-qLua3jw",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-revolution-paving-the-way-to-sustainable-industries",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The #1 Element",
-        'videoID' => "HoAKGK6C9ZQ",
+        'title' => "None of this would be possible without their hard work and dedication.",
+        'slug' => "none-of-this-would-be-possible-without-their-hard-work-and-dedication",
+        'videoID' => "8ijpYDW8f6w",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-1-element",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Something to think about this summer.",
-        'videoID' => "Z8Xg2LfuETk",
+        'title' => "Cancer affects all of us, which is why the search for a cure is worth it.",
+        'slug' => "cancer-affects-all-of-us-which-is-why-the-search-for-a-cure-is-worth-it",
+        'videoID' => "eHwpsca0RTU",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "something-to-think-about-this-summer",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Big Power in a Small Package!",
-        'videoID' => "cd-RQ27GvTA",
+        'title' => "This cancer primarily attacks children and young adults aging from 10-20 years old.",
+        'slug' => "this-cancer-primarily-attacks-children-and-young-adults-aging-from-10-20-years-old",
+        'videoID' => "RUf6CF7pBXs",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "big-power-in-a-small-package",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The Fast and the Futuristic",
-        'videoID' => "Rp7ViESbRxs",
+        'title' => "Tragic News for the Tennis Community",
+        'slug' => "tragi-news-for-the-tennis-community",
+        'videoID' => "lbKb7PQnH3Q",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-fast-and-the-futuristic",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Energy without the climate cost.",
-        'videoID' => "Qdnri3_Xm2k",
+        'title' => "Stories of Strength from the Sampras Family",
+        'slug' => "stories-of-strength-from-the-sampras-family",
+        'videoID' => "YuE6S5I5vLw",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "energy-without-the-climate-cost",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "With zero emissions and far better utilization, the future is green, not grey.",
-        'videoID' => "_1pUYS6LBLg",
+        'title' => "Better Treatments are Needed Today",
+        'slug' => "better-treatments-are-needed-today",
+        'videoID' => "FAk2lplxfbY",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "with-zero-emissions-and-far-better-utilization-the-future-is-green-not-grey",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Hydrogen production is the bedrock of many industries, but it has been costly in the past.",
-        'videoID' => "vhFcUfVXcHM",
+        'title' => "Breast Cancer Numbers Most Slow Down",
+        'slug' => "breast-cancer-numbers-most-slow-down",
+        'videoID' => "sosCLpjXoL4",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-production-is-the-bedrock-of-many-industries-but-it-has-been-costly-in-the-past",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The Hydrogen Revolution",
-        'videoID' => "v_OYIwdw3Mw",
+        'title' => "Ovarian Cancer Is Relentless",
+        'slug' => "ovarian-cancer-is-relentless",
+        'videoID' => "2c_97RoKpv4",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-hydrogen-revolution",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Clean energy benefits everyone, both on the ground and in the air.",
-        'videoID' => "Gy7oKQgZ9K4",
+        'title' => "70 People Per Minute Die from Cancer",
+        'slug' => "70-people-per-minute-die-from-ancer",
+        'videoID' => "5IqNr90LWE8",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "clean-energy-benefits-everyone-both-on-the-ground-and-in-the-air",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The Hydrogen Rainbow",
-        'videoID' => "keWqCbP4V50",
+        'title' => "How many people die from cancer every minute?",
+        'slug' => "how-many-people-die-from-cancer-every-minute",
+        'videoID' => "pSft1HfClck",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-hydrogen-rainbow",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Progress will not stop for anybody; neither will we.",
-        'videoID' => "ZpQkip0-_Xo",
+        'title' => "What You Can Do this Breast Cancer Awareness Month",
+        'slug' => "what-you-can-do-this-breast-cancer-awareness-month",
+        'videoID' => "uBfGqlm0QAw",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "progress-will-not-stop-for-anybody-neither-will-we",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Green hydrogen has 60 countries' worth of support of a hydrogen-powered world.",
-        'videoID' => "yp_1Y2IhYag",
+        'title' => "Making the Case for Breast Cancer Awareness",
+        'slug' => "making-the-case-for-breast-cancer-awareness",
+        'videoID' => "lBCWGFPaRZs",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "green-hydrogen-has-60-countries-worth-of-support-of-a-hydrogen-powered-world",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Hydrogen is the foundation of most industries today.",
-        'videoID' => "E16fxm0fzHU",
+        'title' => "While you were watching this video, 40 people died of cancer…",
+        'slug' => "while-you-were-watching-this-video-40-people-died-of-cance",
+        'videoID' => "LOaLjtaypJw",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-is-the-foundation-of-most-industries-today",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Excitement for the Hydrogen Revolution is growing- as it should!",
-        'videoID' => "miUsogZ4B4s",
+        'title' => "What the Noble Prize Means for the Future of Vaccines.",
+        'slug' => "what-the-noble-prize-means-for-the-future-of-vaccines",
+        'videoID' => "uuhwpOnFMzc",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "excitement-for-the-hydrogen-revolution-is-growing-as-it-should",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Our mission is to provide the world with THE CHEAPEST HYDROGEN.",
-        'videoID' => "3VNfr-e2TjA",
+        'title' => "Bring Biotechnology to the Battle Against Cancer!",
+        'slug' => "bring-biotechnology-to-the-battle-against-cancer",
+        'videoID' => "ph1BcIq-2rs",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "our-mission-is-to-provide-the-world-with-the-cheapest-hydrogen",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The time for energy equity is now.",
-        'videoID' => "-jWwEtNvSfk",
+        'title' => "Cancer Treatment's Prime Time",
+        'slug' => "cancer-treatment-prime-time",
+        'videoID' => "fgYtAK7DjXc",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-time-for-energy-equity-is-now",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "Our planet is begging us to stop producing and releasing fossil fuels into the atmosphere.",
-        'videoID' => "T4LY5CSpwgE",
+        'title' => "What Nature Gives Us",
+        'slug' => "what-nature-gives-us",
+        'videoID' => "HpdTxIysqxI",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "our-planet-is-begging-us-to-stop-producing-and-releasing-fossil-fuels-into-the-atmosphere",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "We are on a mission to provide the world's cheapest green hydrogen.",
-        'videoID' => "FVnrYO_lVwI",
+        'title' => "Mother Nature Produces & We Create Natural Products",
+        'slug' => "mother-nature-produces-we-create-natural-products",
+        'videoID' => "hK6WIJ8ms_g",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "we-are-on-a-mission-to-provide-the-world-cheapest-green-hydrogen",
-        "display" => true
+        'category' => "short-videos",
+        'scope' => "public"
     ],
     [
-        'title' => "The best way to go about changing the world is to make it a better and safer place to live!",
-        'videoID' => "43rbZ319DH4",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-best-way-to-go-about-changing-the-world-is-to-make-it-a-better-and-safer-place-to-live",
-        "display" => true
+        'title' => "The Problem With Antibiotic Drug Research",
+        'slug' => "the-problem-with-antibiotic-drug-research",
+        'videoID' => "HZnxUe6R9ho",
+        'date' => "Mar 31, 2023",
+        'category' => "short-videos",
+        'scope' => "public"
     ],
-
-
-    [
-        'title' => "Valerie Thomas Georgia Tech",
-        'videoID' => "DcKvQOTSxYs",
-        'date' => "December 19, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "valerie-thomas-georgia-tech",
-        "display" => true
-    ],
     [
-        'title' => "Dr. Mohamed F Sanad Noufal Hampton University",
-        'videoID' => "at3pL6ooXCo",
-        'date' => "November 21, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-mohamed-f-sanad-noufal-hampton-university",
-        "display" => true
+        'title' => "Bridging The Gap Between Teaching And Biotech",
+        'slug' => "bridging-the-gap-between-teaching-and-biotech",
+        'videoID' => "pfq5iEefouI",
+        'date' => "Mar 30, 2023",
+        'category' => "short-videos",
+        'scope' => "public"
     ],
 
     [
-        'title' => "Alan Lloyd",
-        'videoID' => "eNg6arNE7S0",
-        'date' => "November 7, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "alan-lloyd",
-        "display" => true
+        'title' => "Biotech and Teaching… Is It Possible?",
+        'slug' => "biotech-and-teaching-is-it-possible",
+        'videoID' => "5Lr2hv11at0",
+        'date' => "Mar 29, 2023",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Educators Save Lives",
+        'slug' => "educators-save-lives",
+        'videoID' => "B_J6M7drtrs",
+        'date' => "Mar 28, 2023",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Future Is Now!",
+        'slug' => "the-future-is-now",
+        'videoID' => "93YdwJ2rUng",
+        'date' => "Mar 27, 2023",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "What An Award-Winning Researcher Looks Like",
+        'slug' => "what-an-award-winning-researcher-looks-like",
+        'videoID' => "OEUmfuO1M8k",
+        'date' => "Mar 26, 2023",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Preserved and isolated cells saved the lives of children",
+        'slug' => "preserved-and-isolated-cells-saved-the-lives-of-children",
+        'videoID' => "8vJdFMREpJY",
+        'date' => "",
+        'category' => "short-videos",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Why I Love Biotech",
+        'videoID' => "kVn3bhtOHRM",
+        'date' => "Mar 25, 2023",
+        'category' => "short-videos",
+        'slug' => "why-i-love-biotech",
+        'scope' => "public"
+    ],
+    [
+        'title' => "A Scientist With A Story",
+        'videoID' => "bqEgCPLqTzo",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "a-scientist-with-a-story",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Different Background… Right Mindset",
+        'videoID' => "BPMqWUNl0ZI",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "different-background-right-mindset",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Chemistry Only Gets You So Far",
+        'videoID' => "RlXBMp37-Vk",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "chemistry-only-gets-you-so-far",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Bio + Chem?",
+        'videoID' => "15APbZyEzy8",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "bio-chem",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Search For A Cure",
+        'videoID' => "eu46jtJYK8g",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "the-search-for-a-cure",
+        'scope' => "public"
+    ],
+    [
+        'title' => "What Is Immunotherapy?",
+        'videoID' => "MhilyQwmP6Q",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "what-is-immunotherapy",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Why I Fight Cancer",
+        'videoID' => "lmYcxP3spEY",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "why-i-fight-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Partnering With A Top 10 School?",
+        'videoID' => "ZYNnC8FM-uA",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "partnering-with-a-top-10-school",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Cancer affects us all.",
+        'videoID' => "vxkY0GRxNK4",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "cancer-affects-us-all",
+        'scope' => "public"
+    ],
+    [
+        'title' => "We Don’t Believe In “Good Enough”",
+        'videoID' => "JMmOu4ljz8Q",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "we-dont-believe-in-good-enough",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Future Of Cancer Treatment",
+        'videoID' => "n8eY2R_xuzA",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "the-future-of-cancer-treatment",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Courage To Fight Cancer",
+        'videoID' => "5STH8BooEPk",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "courage-to-fight-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Sometimes the biggest triumphs come from the tiniest moments.",
+        'videoID' => "mr1eVGH9oCc",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "sometimes-the-biggest-triumphs-come-from-the-tiniest-moments",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Fight Against Cancer Unites Us All",
+        'videoID' => "70r9ytEAUdY",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "the-fight-against-cancer-unites-us-all",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Hope Is Stronger Than Cancer",
+        'videoID' => "lnK0azkr5ro",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "hope-is-stronger-than-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Don’t Be Afraid To Push Limits",
+        'videoID' => "5U2chmydmbA",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "dont-be-afraid-to-push-limits",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Innovation opens the door to new treatments",
+        'videoID' => "PTO1rslJ344",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "innovation-opens-the-door-to-new-treatments",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Our Determination Is Stronger Than Cancer",
+        'videoID' => "yFQavS3KhAQ",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "our-determination-is-stronger-than-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Immunotherapy Is The Future Of Cancer Treatment",
+        'videoID' => "IxiV1gCNePI",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "immunotherapy-is-the-future-of-cancer-treatment",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Be Completely Free",
+        'videoID' => "LljbYo15v-g",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "be-completely-free",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Creating a Future That is Completely Free 🇺🇸",
+        'videoID' => "Oi0wr7pB7Xc",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "creating-a-future-that-is-completely-free",
+        'scope' => "public"
+    ],
+    [
+        'title' => "“An ounce of prevention is worth a pound of cure.” —Benjamin Franklin",
+        'videoID' => "h_xCvT8_iRU",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "an-ounce-of-prevention-is-worth-a-pound-of-cure-benjamin-franklin",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Did you know this about cancer?",
+        'videoID' => "j6Q343iF93A",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "did-you-know-this-about-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Defy expectations by defying cancer.",
+        'videoID' => "gn0v3nk0n2o",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "defy-expectations-by-defying-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Ideas are like seeds—they need time to grow.",
+        'videoID' => "-L1nPAU1_lk",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "ideas-are-like-seeds-they-need-time-to-grow",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Cancer Affects Us All",
+        'videoID' => "3J5wrw2bFuQ",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "cancer-affects-us-all",
+        'scope' => "public"
+    ],
+    [
+        'title' => "We Are Just Getting Started!",
+        'videoID' => "Y1s3ehrewtQ",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "we-are-just-getting-started",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Science Is Art",
+        'videoID' => "SBZzk5WvlmA",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "science-is-art",
+        'scope' => "public"
     ],
 
 
 
 
+
+
+
+
+
+
+
     [
-        'title' => "The Rise of Hydrogen in Heavy Transportation",
-        'videoID' => "K9io-BTYPII",
-        'date' => "December 12, 2023",
-        'category' => "news-commentary",
-        'slug' => "the-rise-of-hydrogen-in-heavy-transportation",
-        "display" => true
+        'title' => "Tanner",
+        'videoID' => "1AJgWMvVbFQ",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "tanner",
+        'scope' => "public"
     ],
     [
-        'title' => "Dr. Pradeep Haldar University of South Florida",
-        'videoID' => "YpCaGT-V1FA",
-        'date' => "December 5, 2023",
-        'category' => "news-commentary",
-        'slug' => "dr-pradeep-haldar-university-of-south-florida",
-        "display" => true
+        'title' => "The Cancer Treatment of the Future",
+        'videoID' => "zSKKQfXCeuE",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "the-cancer-treatment-of-the-future",
+        'scope' => "public"
     ],
     [
-        'title' => "Hydrogen Reservoir Discovered!",
-        'videoID' => "HY9f8esnfio",
-        'date' => "November 4, 2023",
-        'category' => "news-commentary",
-        'slug' => "hydrogen-reservoir-discovered",
-        "display" => true
+        'title' => "Fight Back Against Cancer",
+        'videoID' => "RJBOt4T8dig",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "fight-back-against-cancer",
+        'scope' => "public"
     ],
     [
-        'title' => "H2 Hubs",
-        'videoID' => "FDhJP4pHRkQ",
-        'date' => "October 16, 2023",
-        'category' => "news-commentary",
-        'slug' => "h2-hubs",
-        "display" => true
+        'title' => "Why Cancer Research Matters",
+        'videoID' => "l_uohxSUT2I",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "why-cancer-research-matters",
+        'scope' => "public"
     ],
     [
-        'title' => "Extreme H",
-        'videoID' => "cXDNWoi8yqc",
-        'date' => "October 13, 2023",
-        'category' => "news-commentary",
-        'slug' => "extreme-h",
-        "display" => true
+        'title' => "Cancer Treatment Without Surgery?",
+        'videoID' => "v5gdFoWOLYE",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "cancer-treatment-without-surgery",
+        'scope' => "public"
     ],
     [
-        'title' => "Killing the Colors of Hydrogen",
-        'videoID' => "b_C140ZgMM4",
-        'date' => "October 10, 2023",
-        'category' => "news-commentary",
-        'slug' => "killing-the-colors-of-hydrogen",
-        "display" => true
+        'title' => "Protect Yourself Against Cancer This Summer!",
+        'videoID' => "hFTEQMQl2Ok",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "protect-yourself-against-cancer-this-summer",
+        'scope' => "public"
     ],
     [
-        'title' => "Dr. Chengzhang Wan - UCLA",
-        'videoID' => "ugybxCsUKa8",
-        'date' => "October 24, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-chengzhang-wan-ucla",
-        "display" => true
+        'title' => "The key is within all of us.",
+        'videoID' => "CYTV-v0iYcY",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "the-key-is-within-all-of-us",
+        'scope' => "public"
     ],
     [
-        'title' => "Johannes Schwank - University of Michigan",
-        'videoID' => "ywfKFPCIdHk",
-        'date' => "October 9, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "johannes-schwank-university-of-michigan",
-        "display" => true
+        'title' => "A universal cancer treatment means universal hope.",
+        'videoID' => "YCcs-YpnCF0",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "a-universal-cancer-treatment-means-universal-hope",
+        'scope' => "public"
+    ],
+    [
+        'title' => "It’s time to use different tactics.",
+        'videoID' => "nFZNWoMY3F4",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "its-time-to-use-different-tactics",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Cancer treatments should only affect cancer cells.",
+        'videoID' => "l0V0iGyaqMo",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "cancer-treatments-should-only-affect-cancer-cells",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Boldly go where no treatments have gone before.",
+        'videoID' => "5fl7mSlZE-8",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "boldly-go-where-no-treatments-have-gone-before",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Even in the darkest hours, it's important to stay strong.",
+        'videoID' => "-DJiPph3p8w",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "even-in-the-darkest-hours-its-important-to-stay-strong",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Immunotherapy is the future of cancer treatment",
+        'videoID' => "7mQS1bQNriE",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "immunotherapy-is-the-future-of-cancer-treatment",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Cancer research is the catalyst for change.",
+        'videoID' => "RqnEnMjDS8Y",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "cancer-research-is-the-catalyst-for-change",
+        'scope' => "public"
+    ],
+    [
+        'title' => "We are extremely motivated and driven to create a better cancer treatment",
+        'videoID' => "KvelJ7dPQ2s",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "we-are-extremely-motivated-and-driven-to-create-a-better-cancer-treatment",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The world needs better cancer treatments.",
+        'videoID' => "DbzkZGydm6I",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "the-world-needs-better-cancer-treatments",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Together we can change the face of cancer.",
+        'videoID' => "RX_l8NnY7Oo",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "together-we-can-change-the-face-of-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "It doesn’t matter how big you are. Sometimes the smallest teams yield the biggest results.
+        ",
+        'videoID' => "m40G2E8Ipn4",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "it-does-not-matter-how-big-you-are-sometimes-the-smallest-teams-yield-the-biggest-results",
+        'scope' => "public"
     ],
 
 
     [
-        'title' => "Eugene Holubnyak - Hydrogen Energy Research Center",
-        'videoID' => "luvHuNAWr7U",
-        'date' => "September 26, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "eugene-holubnyak-hydrogen-energy-research-center",
-        "display" => true
+        'title' => "Cancer can take our loved ones in whatever time frame it chooses",
+        'videoID' => "es_CiMuQxww",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "cancer-can-take-our-loved-ones-in-whatever-time-frame-it-chooses",
+        'scope' => "public"
     ],
     [
-        'title' => "Investor Confidence Builds for Green Hydrogen",
-        'videoID' => "nrWm-W2JBLc",
-        'date' => "September 18, 2023",
-        'category' => "news-commentary",
-        'slug' => "investor-confidence-builds-for-green-hydrogen",
-        "display" => true
+        'title' => "These global efforts will make a global change!",
+        'videoID' => "2xWjfMN6EUE",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "these-global-efforts-will-make-a-global-change",
+        'scope' => "public"
+    ],
+    [
+        'title' => "It’s hard to watch those you know and love go through cancer.",
+        'videoID' => "gTjs7lfAhbQ",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "its-hard-to-watch-those-you-know-and-love-go-through-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Patients should be able to focus on battling cancer, and cancer alone.",
+        'videoID' => "HBu8WUrTZuE",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "patients-should-be-able-to-focus-on-battling-cancer-and-cancer-alone",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Protect your health one checkup at a time.",
+        'videoID' => "So8faP3Xhik",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "protect-your-health-one-checkup-at-a-time",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Our universal cancer treatment is being tailored to precisely detect and attack any cancer cells.",
+        'videoID' => "icNsXLsdScc",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "our-universal-cancer-treatment-is-being-tailored-to-precisely-detect-and-attack-any-cancer-cells",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Immunotherapy is on the upswing.",
+        'videoID' => "smPLl0kYvI4",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "immunotherapy-is-on-the-upswing",
+        'scope' => "public"
+    ],
+    [
+        'title' => "We are developing a universal cancer treatment",
+        'videoID' => "shDTb6Ip7NA",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "we-are-developing-a-universal-cancer-treatment",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Changing The Game",
+        'videoID' => "DaWdS2B-R2A",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "changing-the-game",
+        'scope' => "public"
+    ],
+    [
+        'title' => "In a healthy body, cells grow, divide, and eventually die in a controlled manner.",
+        'videoID' => "0-bugvaMkks",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "in-a-healthy-body-cells-grow-divide-and-eventually-die-in-a-controlled-manner",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Cancer Rates are Rising in Children",
+        'videoID' => "L7FtrtmyR4k",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "cancer-rates-are-rising-in-children",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Cancer Rates are Rising. How We Can Stop It:",
+        'videoID' => "vJISkAnYahE",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "cancer-rates-are-rising-how-we-can-stop-it",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Cancer Diagnoses for Those Under 50 Have Increased 80%",
+        'videoID' => "CObd2zYm3S0",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "cancer-diagnoses-for-those-under-50-have-increased-80-percent",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Cancer is Creating Debilitating Debt—Here is How We Help",
+        'videoID' => "WUXUiMYlBwY",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "cancer-is-creating-debilitating-debt-here-is-how-we-help",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Pioneering Progress in the Fight Against Cancer",
+        'videoID' => "Fv-oXqflA6I",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "pioneering-progress-in-the-fight-against-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Positive News in the Fight Against Cancer!",
+        'videoID' => "4BbjU8TLXIk",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "positive-news-in-the-fight-against-cancer",
+        'scope' => "public"
     ],
 
     [
-        'title' => "Naomi Boness - Stanford",
-        'videoID' => "i7GYiQmcg3Y",
-        'date' => "September 2, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "naomi-boness-stanford",
-        "display" => true
+        'title' => "What is CancerVax's Mission?",
+        'videoID' => "wIUDlfLljtg",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "what-is-cancervax-mission",
+        'scope' => "public"
     ],
     [
-        'title' => "The pioneers of green hydrogen power!",
-        'videoID' => "1zw_BE6G_rw",
+        'title' => "The Rapid Refining of CAR-T Cancer Treatments",
+        'videoID' => "iI8qDi4Nrbw",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-pioneers-of-green-hydrogen-power",
-        "display" => true
+        'category' => "short-videos",
+        'slug' => "the-rapid-refining-of-cart-cancer-treatments",
+        'scope' => "public"
     ],
     [
-        'title' => "We will provide the cleanest, cheapest hydrogen in the near future so that you can live sustainably!",
-        'videoID' => "gjT91nqbPWI",
+        'title' => "Investing in the Future of Cancer Treatment",
+        'videoID' => "e-_oURbDXGg",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "we-will-provide-the-cleanest-cheapest-hydrogen-in-the-near-future-so-that-you-can-live-sustainably",
-        "display" => true
+        'category' => "short-videos",
+        'slug' => "investing-in-the-future-of-cancer-treatment",
+        'scope' => "public"
     ],
     [
-        'title' => "Hydrogen is everywhere, both outside of our planet and inside of it.",
-        'videoID' => "MilhwOj5Ess",
+        'title' => "Our Unmatched Team at UCLA",
+        'videoID' => "R4RmSunyE9o",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-is-everywhere-both-outside-of-our-planet-and-inside-of-it",
-        "display" => true
+        'category' => "short-videos",
+        'slug' => "our-unmatched-team-at-ucla",
+        'scope' => "public"
     ],
     [
-        'title' => "The time for green hydrogen is now!",
-        'videoID' => "nCC1XaFCf_U",
+        'title' => "Research is going incredibly well with our partners at UCLA.",
+        'videoID' => "ClN4VOWK2TE",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "the-time-for-green-hydrogen-is-now",
-        "display" => true
+        'category' => "short-videos",
+        'slug' => "research-is-going-incredibly-well-with-our-partners-at-ucla",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Greatest Game-Changer in Cancer Treatment",
+        'videoID' => "W_G2o5uaMLQ",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "the-greatest-game-changer-in-cancer-treatment",
+        'scope' => "public"
+    ],
+    [
+        'title' => "In Tribute to Zoleka Mandela",
+        'videoID' => "7HOMn0T4wbc",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "in-tribute-to-zoleka-mandela",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Incredible News in the Battle Against Children's Cancer!",
+        'videoID' => "u6jfAKZixZo",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "incredible-news-in-the-battle-against-children-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Today's technology forms the basis of tomorrow's treatments.",
+        'videoID' => "UG2m7Qk3qIY",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "today-technology-forms-the-basis-of-tomorrow-treatments",
+        'scope' => "public"
+    ],
+    [
+        'title' => "A universal treatment takes universal support.",
+        'videoID' => "guuDtcctbqo",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "a-universal-treatment-takes-universal-support",
+        'scope' => "public"
+    ],
+    [
+        'title' => "It's through your support that we are finding such success!",
+        'videoID' => "AJtUhEpTY4w",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "it-through-your-support-that-we-are-finding-such-success",
+        'scope' => "public"
+    ],
+    [
+        'title' => "CancerVax is at the forefront of progress towards better, safer cancer treatment!",
+        'videoID' => "sIWib7gr4Uw",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "cancervax-is-at-the-forefront-of-progress-towards-better-safer-cancer-treatment!",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Humanity's most important fight is being waged against the most devastating disease.",
+        'videoID' => "83nCGJB4YRQ",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "humanity-most-important-fight-is-being-waged-against-the-most-devastating-disease",
+        'scope' => "public"
+    ],
+    [
+        'title' => "CancerVax is at the forefront of the fight against cancer, and making incredible progress every day!",
+        'videoID' => "YA14B0E3n30",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "cancervax-is-at-the-forefront-of-the-fight-against-cancer-and-making-incredible-progress-every-day",
+        'scope' => "public"
+    ],
+    [
+        'title' => "We have the hope that a groundbreaking difference can be made.",
+        'videoID' => "dgkZbANffww",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "we-have-the-hope-that-a-groundbreaking-difference-can-be-made",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Progress is exponential. Little wins today create massive victories tomorrow.",
+        'videoID' => "Dvapc6iUKOU",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "progress-is-exponential-little-wins-today-create-massive-victories-tomorrow",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The most important battle is happening in our labs.",
+        'videoID' => "NxTHYMdzAtk",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "the-most-important-battle-is-happening-in-our-labs",
+        'scope' => "public"
+    ],
+    [
+        'title' => "CancerVax is pioneering the biotechnology that will empower safer, more effective cancer treatments.",
+        'videoID' => "-hChbsUq0Io",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "cancervax-is-pioneering-the-biotechnology-that-will-empower-safer-more-effective-cancer-treatments",
+        'scope' => "public"
+    ],
+    [
+        'title' => "CancerVax is pushing progress toward better cancer treatment for everyone!",
+        'videoID' => "Bq2KHeCYSH4",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "cancervax-is-pushing-progress-toward-better-cancer-treatment-for-everyone",
+        'scope' => "public"
+    ],
+    [
+        'title' => "My Story Behind My Dedication to Fighting Cancer",
+        'videoID' => "NWqTUUZ4Y1I",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "my-story-behind-my-dedication-to-fighting-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Science Behind Cancer The Body War Against Itself",
+        'videoID' => "xwFziaOWajo",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "the-science-behind-cancer-the-body-war-against-itself",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Real Reason We Fight Cancer...",
+        'videoID' => "RgZ4cs-Plb8",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "the-real-reason-we-fight-cancer",
+        'scope' => "public"
+    ],
+    [
+        'title' => "This is What We Are: Better, Bolder Cancer Treatment",
+        'videoID' => "pLTiUjPn71w",
+        'date' => "",
+        'category' => "short-videos",
+        'slug' => "this-is-what-we-are-better-bolder-cancer-treatment",
+        'scope' => "public"
     ],
 
     [
-        'title' => "Summer 2023 has been the hottest ever recorded!",
-        'videoID' => "287dPw97T-w",
+        'title' => "The Science of Training Your Body to Fight Cancer!",
+        'videoID' => "uAjxM2B2aCY",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "summer-2023-has-been-the-hottest-ever-recorded",
-        "display" => true
+        'category' => "short-videos",
+        'slug' => "the-science-of-training-your-body-to-fight-cancer",
+        'scope' => "public"
     ],
+
     [
-        'title' => "Soon enough, we will be providing the world's cheapest hydrogen!",
-        'videoID' => "9HweYPtjE_Y",
+        'title' => "The Incredible Progress in Children's Cancer Treatment",
+        'videoID' => "BLsRycAjoz4",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "soon-enough-we-will-be-providing-the-world-cheapest-hydrogen",
-        "display" => true
+        'category' => "short-videos",
+        'slug' => "the-incredible-progress-in-children-cancer-treatment",
+        'scope' => "public"
     ],
+
     [
-        'title' => "Technologies that were once impossible are now in reach",
-        'videoID' => "v4w_NqwFjqQ",
+        'title' => "Almost everybody has a cancer story....",
+        'videoID' => "q0myRKeoF7M",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "technologies-that-were-once-impossible-are-now-in-reach",
-        "display" => true
+        'category' => "short-videos",
+        'slug' => "almost-everybody-has-a-cancer-story",
+        'scope' => "public"
     ],
+
     [
-        'title' => "Why California is So Pro Electric Vehicles",
-        'videoID' => "TdAA4y--eeA",
+        'title' => "How many people die of cancer every minute?",
+        'videoID' => "gmTkr1g5EBA",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "why-california-is-so-pro-electric-vehicles",
-        "display" => true
+        'category' => "short-videos",
+        'slug' => "how-many-people-die-of-cancer-every-minute",
+        'scope' => "public"
     ],
+
     [
-        'title' => "Warm Thanksgiving wishes, from NewHydrogen.",
-        'videoID' => "7yerul-11l0",
+        'title' => "The future of cancer treatment is being decided now.",
+        'videoID' => "kPJMBWf2f2E",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "warm-thanksgiving-wishes-from-newhydrogen",
-        "display" => true
+        'category' => "short-videos",
+        'slug' => "the-future-of-cancer-treatment-is-being-decided-now",
+        'scope' => "public"
     ],
+
+
     [
-        'title' => "Down the drain it goes...",
-        'videoID' => "_WFS59Xx2Uo",
+        'title' => "Corporate Core Values In The Health Industry Patients Over Ego",
+        'videoID' => "wRinx1QfLYc",
         'date' => "",
-        'category' => "short-video",
-        'slug' => "down-the-drain-it-goes",
-        "display" => true
+        'category' => "short-videos",
+        'slug' => "corporate-core-values-in-the-health-industry-patients-over-ego",
+        'scope' => "public"
+    ],
+
+    [
+        'title' => "A Battle Worth Fighting",
+        'videoID' => "ML7gnhf0AOA",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "a-battle-worth-fighting",
+        'scope' => "public"
+    ],
+
+    [
+        'title' => "The Future of Cancer Treatment",
+        'videoID' => "c-x5_LmYacY",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "the-future-of-cancer-treatment",
+        'scope' => "public"
+    ],
+
+    [
+        'title' => "Life Saving Research For CancerDiabetes?",
+        'videoID' => "8vJdFMREpJY",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "life-saving-research-for-cancer-diabetes",
+        'scope' => "public"
+    ],
+
+    [
+        'title' => "How Extinction Creates Strain In Research",
+        'videoID' => "hK6WIJ8ms_g",
+        'date' => "Mar 24, 2023",
+        'category' => "short-videos",
+        'slug' => "how-extinction-creates-strain-in-research",
+        'scope' => "public"
+    ],
+
+    // [
+    //     'title' => "What Happened To The Valley",
+    //     'videoID' => "RiqKi6SvRbA",
+    //     'date' => "Mar 24, 2023",
+    //     'category' => "short-videos",
+    //     'slug' => "what-happened-to-the-valley",
+    //     'scope' => "public"
+    // ],
+    [
+        'title' => "This Is How Molecules Are Created?",
+        'videoID' => "J5YuBIVkqZc",
+        'date' => "Apr 2, 2023",
+        'category' => "short-videos",
+        'slug' => "this-is-how-molecules-are-created",
+        'scope' => "public"
     ],
     [
-        'title' => "We're saying cheers to the newest technological innovations!",
-        'videoID' => "SNljgvaLLhc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "we-are-saying-cheers-to-the-newest-technological-innovations",
-        "display" => true
+        'title' => "This is the power of passion",
+        'videoID' => "OpFf8lEBs7Q",
+        'date' => "Apr 3, 2023",
+        'category' => "short-videos",
+        'slug' => "this-is-the-power-of-passion",
+        'scope' => "public"
     ],
     [
-        'title' => "This renewable energy source is becoming more and more popular, year after year.",
-        'videoID' => "Q-zmtIhCtlk",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "this-renewable-energy-source-is-becoming-more-and-more-popular-year-after-year",
-        "display" => true
+        'title' => "Research is only for the patient",
+        'videoID' => "1y9am8qEJSI",
+        'date' => "Apr 4, 2023",
+        'category' => "short-videos",
+        'slug' => "research-is-only-for-the-patient",
+        'scope' => "public"
     ],
-    [
-        'title' => "Yes, solar and wind provide energy, but not as efficiently as hydrogen!",
-        'videoID' => "mXT2Dy3b6Ck",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "yes-solar-and-wind-provide-energy-but-not-as-efficiently-as-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "Cheap green hydrogen is the energy of the future!",
-        'videoID' => "ycMHaVr90kI",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "cheap-green-hydrogen-is-the-energy-of-the-future",
-        "display" => true
-    ],
-    [
-        'title' => "Let’s not wait ten years for green hydrogen to be affordable.",
-        'videoID' => "BqWTYxX3Vnw",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "lets-not-wait-ten-years-for-green-hydrogen-to-be-affordable",
-        "display" => true
-    ],
-    [
-        'title' => "A Catalyst for Decarbonization In An All-Electric World",
-        'videoID' => "0z8ZyOKYzMU",
-        'date' => "August 4, 2023",
-        'category' => "news-commentary",
-        'slug' => "a-catalyst-for-decarbonization-in-an-all-electric-world",
-        "display" => true
-    ],
-    [
-        'title' => "Impacts of green Hydrogen",
-        'videoID' => "DZswRQKwR4A",
-        'date' => "June 24, 2023",
-        'category' => "news-commentary",
-        'slug' => "impacts-of-green-hydrogen",
-        "display" => true
-    ],
-    [
-        'title' => "Ivor John",
-        'videoID' => "eGWvZwTK9i4",
-        'date' => "July 18, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "ivor-john",
-        "display" => true
-    ],
+
+
+
 ];
-
 
 return $videos;

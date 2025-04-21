@@ -16,6 +16,7 @@ module.exports = {
           'teal-200': "#2abac2",
           'teal-300': "#2a5c6e",
           'teal-400': "#78c7c9",
+          'teal-500': "#43becf",
           'orange-100': "#f2a743",
           'orange-200': "#ff7229",
           'gray-100': "#f5f5f3",
@@ -66,6 +67,7 @@ module.exports = {
         'cancer-treatment': 'url(../images/cancer-treatment.png)',
         'problem-bg': 'url(../images/problem.png)',
         'cold-tumor-bg': 'url(../images/cold-tumor-bg.png)',
+        'video-bg': 'url(../images/ceo-chats-bg.jpg)',
 
         'breaking-new-bg': 'url(../images/breaking-news-bg.png)',
         'arrow': 'url(../images/arrow.png)',

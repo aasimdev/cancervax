@@ -1,54 +1,45 @@
 <?php
 $videos = [
     [
-        'title' => "January 27, 2025 - NewHydrogen News Commentary",
-        'videoID' => "aIvKiVVhM7U",
+        'title' => "January 6, 2025 - CancerVax News Commentary",
+        'videoID' => "6ludtKb2fy4",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "january-27-2025-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "january-6-2025-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "April 8, 2024 - NewHydrogen News Commentary",
-        'videoID' => "Ne_t2l_ueVU",
+        'title' => "December 12, 2024 - CancerVax News Commentary",
+        'videoID' => "z58uLAsp5sw",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "april-8-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "december-12-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "Dr. Paul Palies - University of Tennessee",
-        'videoID' => "CxtbfsU0r24",
-        'date' => "April 9, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-paul-palies-university-of-tennessee",
-        "display" => true
-    ],
-    [
-        'title' => "March 3, 2024 - NewHydrogen News Commentary",
-        'videoID' => "Yhxtt06nE2w",
-        'date' => "March 3, 2024",
+        'title' => "December 2, 2024 - CancerVax News Commentary",
+        'videoID' => "T-NPVYvc1R4",
+        'date' => "",
         'category' => "news-commentary",
-        'slug' => "march-3-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "december-2-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "February 29, 2024 - NewHydrogen News Commentary",
-        'videoID' => "z-D5CmNn6Cs",
-        'date' => "February 29, 2024",
+        'title' => "November 18, 2024 - CancerVax News Commentary",
+        'videoID' => "acOdK4jBTGE",
+        'date' => "",
         'category' => "news-commentary",
-        'slug' => "february-29-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "november-18-2024-cancervax-news-commentary",
+        'scope' => "public"
     ],
     [
-        'title' => "February 19, 2024 - NewHydrogen News Commentary",
-        'videoID' => "-7uPwMRO9Zs",
-        'date' => "February 19, 2024",
+        'title' => "October 24, 2024 - CancerVax News Commentary",
+        'videoID' => "jVf2ysToCfQ",
+        'date' => "",
         'category' => "news-commentary",
-        'slug' => "february-19-2024-newhydrogen-news-commentary",
-        "display" => true
+        'slug' => "october-24-2024-cancervax-news-commentary",
+        'scope' => "public"
     ]
 ];
-
 
 return $videos;
