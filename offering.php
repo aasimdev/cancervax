@@ -12,7 +12,7 @@ include "header.php";
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="heroSection-content">
-                        <h2> Using the Body’s Immune System to Fight Cancer</h2>
+                        <h2> Using the Body's Immune System to Treat Cancer</h2>
                         <div class="video-section first-mobile text-center">
                             <a href="https://www.youtube.com/watch?v=QNFte4x413Y" target="_blank">
                                 <img src="assets/img/offer-hero-img.png" alt="hero" class="img-fluid">
@@ -297,7 +297,7 @@ include "header.php";
                         <p>The global biotechnology market is projected to grow from $1.3 trillion in 2023 to $3.2 trillion by 2030. (5)</p>
                     </div>
                     <div class="col-12 mt-5">
-                        <p>CancerVax is working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body’s immune system to fight cancer. The company also has exclusive rights to license new intellectual property that may be developed by UCLA under research programs, which offers other potential revenue streams.</p>
+                        <p>CancerVax is working with UCLA to develop breakthrough immunotherapy cancer treatments that use the body's immune system to treat cancer. The company also has exclusive rights to license new intellectual property that may be developed by UCLA under research programs, which offers other potential revenue streams.</p>
                     </div>
 
                 </div>

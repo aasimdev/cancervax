@@ -37,7 +37,7 @@ include('header.php'); ?>
 
                     </p>
 
-                    <p>Our novel approach is a fundamentally different way of thinking about fighting cancer. After countless lives have been lost to cancer, <strong>tricking the immune system may be just what the doctors needed</strong>.</p>
+                    <p>Our novel approach is a fundamentally different way of thinking about treating cancer. After countless lives have been lost to cancer, <strong>tricking the immune system may be just what the doctors needed</strong>.</p>
                 </div>
             </div>
         </div>
@@ -53,7 +53,7 @@ include('header.php'); ?>
                     <ul>
                         <li>The body’s immune system is very good at killing foreign pathogens, such as the measles virus. Unfortunately, it’s not very good at killing cancer cells, because cancer cells were originally healthy cells. This is why cancer grows undetected by the immune system and is so hard to treat.</li>
                         <li>
-                            Other cutting-edge immunotherapies such as personalized cancer vaccines try to teach immune cells, resulting in short lived, weak or patient-specific immune response.  
+                            Other cutting-edge immunotherapies such as personalized cancer vaccines try to teach immune cells, resulting in short lived, weak or patient-specific immune response.   
                         </li>
                     </ul>
                 </div>
@@ -180,9 +180,9 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-lg-8">
                 <div class=" cold-tumors-content">
-                    <h5>Turning “Cold Tumors” into “Hot Tumors”</h5>
-                    <p>One of the biggest challenges in immunotherapy, or using the body’s immune system to fight cancer, is that many tumors are considered “cold” tumors. A cold tumor is one that doesn't trigger an immune response. Cold tumors are often surrounded by cells that suppress the immune response, making them resistant to immunotherapy. Typical examples of cold tumors are pancreatic cancer, prostate cancer, glioblastoma, and many breast cancers. </p>
-                    <p>Checkpoint inhibitors such as Keytruda<sup>TM</sup>, the blockbuster drug from Merck<sup>TM</sup>, can sometimes “heat up” a tumor by blocking the mechanism that cancers use to evade the immune system (PD-1/PD-L1). But oftentimes, they cannot turn a cold tumor into a hot tumor so that it responds well to immunotherapy.</p>
+                    <h5>Turning "Cold Tumors" into "Hot Tumors"</h5>
+                    <p>One of the biggest challenges in immunotherapy, or using the body's immune system to treat cancer, is that many tumors are considered "cold" tumors. A cold tumor is one that doesn't trigger an immune response. Cold tumors are often surrounded by cells that suppress the immune response, making them resistant to immunotherapy. Typical examples of cold tumors are pancreatic cancer, prostate cancer, glioblastoma, and many breast cancers. </p>
+                    <p>Checkpoint inhibitors such as Keytruda<sup>TM</sup>, the blockbuster drug from Merck<sup>TM</sup>, can sometimes "heat up" a tumor by blocking the mechanism that cancers use to evade the immune system (PD-1/PD-L1). But oftentimes, they cannot turn a cold tumor into a hot tumor so that it responds well to immunotherapy.</p>
                     <p>We believe that by going inside the cancer cell with our nanoparticle, confirming that it is a cancer cell with our Smart mRNA, then disguising the cell as measles, we can turn a cold tumor into a hot tumor because the body has a very strong immune response to measles. </p>
                     <p>Other immunotherapies have had very limited success trying to teach the immune system how to recognize cancer cells from the outside. Instead, we modify cancer cells from the inside and trick the body into seeing something it recognizes well. </p>
 

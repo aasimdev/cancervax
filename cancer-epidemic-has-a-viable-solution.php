@@ -20,7 +20,7 @@ include('investor-header.php'); ?>
                         <p>As Ryan, CEO of CancerVax has stated, <strong><span>“Cancer is among the leading causes of death worldwide.”</span></strong></p>
                         <p>Recent trends suggest that worldwide by 2040, the number of <strong><span>new cancer cases per year is expected to rise to 29.5 million.</span></strong></p>
                         <p>This presents a unique challenge and opportunity.</p>
-                        <p>CancerVax is revolutionizing cancer treatment using the body's immune system to fight cancer.</p>
+                        <p>CancerVax is revolutionizing cancer treatment using the body's immune system to treat cancer.</p>
                         <p>According to Bloomberg Business, the cancer immunotherapy <strong><span>market is expected to grow to $196 billion by 2030.&nbsp;</span></strong></p>
                         <p class="text-center">We invite you to <strong><span>help us in the fight against cancer</span></strong> by investing in CancerVax.&nbsp;</p>
                     </div>

@@ -11,7 +11,7 @@ include('header.php'); ?>
         </div>
 
         <h3>Research Agreement Leverages Structural Nanomedicine to Develop Cancervax’s Advanced Cancer Therapies</h3>
-        <p>Santa Barbara, CA, August 29, 2024 (GLOBE NEWSWIRE) -- Cancervax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, today announced that the Company has entered into a research agreement with Flashpoint Therapeutics to perform research on its newly patent-pending Universal Cancer Treatment platform. </p>
+        <p>Santa Barbara, CA, August 29, 2024 (GLOBE NEWSWIRE) -- Cancervax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to treat cancer, today announced that the Company has entered into a research agreement with Flashpoint Therapeutics to perform research on its newly patent-pending Universal Cancer Treatment platform. </p>
 
         <p>"We are very excited about this opportunity to work with the world-class research team at Flashpoint Therapeutics,” said Byron Elton, Cancervax CEO. “Flashpoint’s researchers and its proprietary technology will help us continue to develop our Universal Cancer Treatment platform.” </p>
 

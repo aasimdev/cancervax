@@ -20,7 +20,7 @@ include('header.php'); ?>
                 <div class="col-lg-7">
                     <div class="banner-text">
                         <h1>Developing a Breakthrough Universal Cancer Treatment</h1>
-                        <p>Using the body’s immune system to fight cancer</p>
+                        <p>Using the body’s immune system to treat cancer</p>
 
                         <div class="banner-video">
                             <div class="banner-thumbnail">
@@ -85,7 +85,7 @@ include('header.php'); ?>
             <h3>
                 <span>Pre-clinical.</span> We’re developing cutting edge immunotherapy cancer treatments that use
                 the body’s
-                immune system to fight cancer.
+                immune system to treat cancer.
             </h3>
         </div>
     </div>

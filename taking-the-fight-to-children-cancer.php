@@ -19,7 +19,7 @@ include('investor-header.php'); ?>
                         <p><strong><span>CancerVax, with the research team at UCLA</span></strong>, is actively working on the fight against Ewing sarcoma</p>
                         <p>Recently, the UCLA team <strong><span>successfully developed 7 antibody candidates</span></strong> in their vital research into Ewing sarcoma.</p>
                         <p>This is exciting and important because current therapies for Ewing sarcoma have reached a plateau over the last several decades, and there is an urgent need for improved outcomes.</p>
-                        <p>CancerVax is revolutionizing cancer treatment using the body's immune system to fight cancer.</p>
+                        <p>CancerVax is revolutionizing cancer treatment using the body's immune system to treat cancer.</p>
                         <p><br></p>
                         <p class="text-center">We invite you to <strong><span>help us in the fight against cancer</span></strong> by investing in CancerVax.</p>
                     </div>

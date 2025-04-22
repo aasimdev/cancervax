@@ -20,7 +20,7 @@ include('header.php'); ?>
                     <a href="top-biotech-exec-joins-cancervax-as-chief-scientific-advisor.php"></a>
                     <span>February 27, 2025 </span>
                     <h3>Top Biotech Exec Joins CancerVax as Chief Scientific Advisor</h3>
-                    <p>CancerVax, Inc., the developer of a revolutionary universal cancer treatment platform that will use the body’s immune system to fight cancer, announced today that Sumant Ramachandra, MD, PhD, MBA and founder of SR Global Health, LLC, a healthcare advisory firm, will serve as the Company’s new Chief Scientific Advisor</p>
+                    <p>CancerVax, Inc., the developer of a revolutionary universal cancer treatment platform that will use the body’s immune system to treat cancer, announced today that Sumant Ramachandra, MD, PhD, MBA and founder of SR Global Health, LLC, a healthcare advisory firm, will serve as the Company’s new Chief Scientific Advisor</p>
                 </div>
             </div>
         <div class="col-lg-6">
@@ -28,7 +28,7 @@ include('header.php'); ?>
                     <a href="cancervax-announces-successful-tests-of-its-smart-mrna-technology.php"></a>
                     <span>February 25, 2025</span>
                     <h3>CancerVax Announces Successful Tests of its Smart mRNA Technology</h3>
-                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, today announced the successful functional validation of its innovative Smart mRNA (messenger RNA) technology in lab tests</p>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to treat cancer, today announced the successful functional validation of its innovative Smart mRNA (messenger RNA) technology in lab tests</p>
                 </div>
             </div>
        
@@ -37,7 +37,7 @@ include('header.php'); ?>
                     <a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php"></a>
                     <span>December 11, 2024 </span>
                     <h3>CancerVax Targets Hard to Treat Pancreatic Cancer</h3>
-                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, announced today that the Company has selected Pancreatic Ductal Adenocarcinoma (PDAC) as one of its first targets for preclinical development</p>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to treat cancer, announced today that the Company has selected Pancreatic Ductal Adenocarcinoma (PDAC) as one of its first targets for preclinical development</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -45,7 +45,7 @@ include('header.php'); ?>
                     <a href="dr-george-katibah-to-serve-as-the-company-chief-scientific-officer.php"></a>
                     <span> November 19, 2024 </span>
                     <h3>Dr. George Katibah to serve as the Company’s Chief Scientific Officer</h3>
-                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, announced today that Dr. George Katibah will serve as the company’s Chief Scientific Officer</p>
+                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to treat cancer, announced today that Dr. George Katibah will serve as the company’s Chief Scientific Officer</p>
                 </div>
             </div>
         </div>

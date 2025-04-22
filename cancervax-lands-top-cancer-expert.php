@@ -11,7 +11,7 @@ include('header.php'); ?>
         </div>
 
         <h3>Research Agreement Leverages Structural Nanomedicine to Develop Cancervax’s Advanced Cancer Therapies</h3>
-        <p>Lehi, UT, November 19, 2024 (GLOBE NEWSWIRE) -- CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, announced today that Dr. George Katibah will serve as the company’s Chief Scientific Officer.    </p>
+        <p>Lehi, UT, November 19, 2024 (GLOBE NEWSWIRE) -- CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to treat cancer, announced today that Dr. George Katibah will serve as the company’s Chief Scientific Officer.    </p>
 
         <p>"We couldn’t be more thrilled to welcome Dr. George Katibah to our team as our CSO,” said Byron Elton, CEO of CancerVax. “George originally served as an advisor, and we quickly realized how valuable he could be in leading the development of our novel cancer treatment technology. George’s immediate focus will be on our pre-clinal development efforts, and he will help get us through animal studies and beyond. We look forward to his leadership.”  </p>
 

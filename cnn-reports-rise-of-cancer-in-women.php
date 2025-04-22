@@ -22,7 +22,7 @@ include('investor-header.php'); ?>
                         <p>These increases are not confined to the US, studies say. A review of cancer registry records in 44 countries, published last year, found that th<span style="font-size: 14px;">e i</span><span style="font-size: 14px;">ncidence of early-onset cancers is&nbsp;</span><strong><span>rising rapidly for 14 types of cancer,</span></strong> many of which affect the digestive system.</p>
                         <p>These findings are consistent with other reports that suggest that worldwide by 2040, the number of new <strong><span>cancer cases per year is expected to rise to 29.5 million.</span></strong></p>
                         <p>This presents a <strong><span>unique challenge and opportunity.</span></strong></p>
-                        <p><strong><span>CancerVax is revolutionizing cancer treatment</span></strong> using the body's immune system to fight cancer.</p>
+                        <p><strong><span>CancerVax is revolutionizing cancer treatment</span></strong> using the body's immune system to treat cancer.</p>
                         <p>According to Bloomberg Business, the <strong><span>cancer immunotherapy market is expected to grow to $196 billion by 2030.&nbsp;</span></strong></p>
                         <p>&nbsp;We invite you to<span><strong>&nbsp;help us in the fight against cancer</strong></span> by investing in CancerVax.</p>
                     </div>

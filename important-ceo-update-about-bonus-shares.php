@@ -15,7 +15,7 @@ include('investor-header.php'); ?>
                         <p>With up to 30% bonus CancerVax shares available, <strong><span>the more an investor commits, the larger discount awarded in the form of bonus shares!</span></strong></p>
                         <p>“Our investors are family to us and we want them to earn bonus shares which is why we have made it straightforward and easy,” Ryan stated.</p>
                         <p>&nbsp;“We created 5 tiers that allow each investor to pick a level that works for them,” Ryan explained, “and earn valuable bonus shares with as little as a $500 investment by being a StartEngine Owner’s Bonus member, which awards <strong><span>10% bonus shares.”</span></strong></p>
-                        <p>CancerVax is revolutionizing cancer treatment using the body's immune system to fight cancer.</p>
+                        <p>CancerVax is revolutionizing cancer treatment using the body's immune system to treat cancer.</p>
                         <p><strong><span>Amount-Based Bonus Shares:</span></strong></p>
                         <ul>
                             <li>Tier 1 | Invest $5,000+ and receive <span><strong>5% bonus shares.</strong></span></li>

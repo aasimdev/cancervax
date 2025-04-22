@@ -57,7 +57,7 @@ include('header.php'); ?>
                     <a href="biotech-entrepreneur-and-venture-capitalist-dinesh-patel-discusses-therapeutics-and-medical-devices-with-cancervax-ceo-ryan-davies.php"></a>
                     <span>May 17, 2023</span>
                     <h3>Biotech Entrepreneur and Venture Capitalist Dinesh Patel Discusses Therapeutics and Medical Devices with CancerVax CEO Ryan Davies</h3>
-                    <p>Lehi, UT – May 17, 2023 – CancerVax, developer of a breakthrough Universal Cancer Treatment that will use the body’s immune system to fight cancer, today reported that the Company’s CEO, Ryan Davies</p>
+                    <p>Lehi, UT – May 17, 2023 – CancerVax, developer of a breakthrough Universal Cancer Treatment that will use the body’s immune system to treat cancer, today reported that the Company’s CEO, Ryan Davies</p>
 
                 </div>
             </div>
@@ -179,7 +179,7 @@ include('header.php'); ?>
                     <a href="cancervax-closes-series-a-funding-round.php"> </a>
                     <span>March 30, 2021</span>
                     <h3>CancerVax Closes Series A Funding Round</h3>
-                    <p>SANTA BARBARA, CA – March 30, 2021 – CancerVax, Inc., a developer of immunotherapy cancer treatments that use the body’s immune system to fight cancer, today announced it has closed its $2 million series A funding round.</p>
+                    <p>SANTA BARBARA, CA – March 30, 2021 – CancerVax, Inc., a developer of immunotherapy cancer treatments that use the body’s immune system to treat cancer, today announced it has closed its $2 million series A funding round.</p>
 
                 </div>
             </div>

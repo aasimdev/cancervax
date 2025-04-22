@@ -35,7 +35,7 @@ include('header.php'); ?>
                 Tier 5 | Invest $100,000+ and receive <span>20% bonus shares</span>.
             </p>
             <p> 10% StartEngine Owners' Bonus + Amount-Based Bonus Shares = <span>Up to 30% Bonus Shares</span>.</p>
-            <p> CancerVax is revolutionizing cancer treatment using the body's immune system to fight cancer.</p>
+            <p> CancerVax is revolutionizing cancer treatment using the body's immune system to treat cancer.</p>
             <p> Each week our research teams make progress in their mission.</p>
             <p> We invite you to join us and earn some <span>BONUS SHARES</span>.</p>
             <p> Help us in the fight against cancer by investing in CancerVax.</p>

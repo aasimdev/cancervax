@@ -35,7 +35,7 @@ include('header.php'); ?>
             <div class="col-xl-7">
                 <div class="mcontent-text">
                     <p>
-                        Cancer immunotherapy, also known as cancer treatment vaccine, has emerged as a very promising next-generation treatment. Immunotherapy utilizes the body’s own immune system to fight cancer, usually with milder side effects and more targeted than chemotherapy. 
+                        Cancer immunotherapy, also known as cancer treatment vaccine, has emerged as a very promising next-generation treatment. Immunotherapy utilizes the body's own immune system to treat cancer, this usually has milder side effects and is more targeted than chemotherapy. 
                        </p>
                     <h5>The rapid growth of the immunotherapy market can be attributed to three primary factors:</h5>
                     <ul class="theme-check-list">
@@ -49,7 +49,7 @@ include('header.php'); ?>
   <br><br>
         <div class="mcontent-ct">
             <p>
-                The two biggest immunotherapy drugs – Keytruda from Merck (NYSE: MRK) and Opdivo from Bristol-Myers Squibb (NYSE: BMY) – started out as niche products for incurable lung cancer and gradually expanded into blockbuster drugs with multiple cancer indications. Their robust sales are strong testaments to the science and market potential of immunotherapy – using the body’s immune system to fight cancer.
+                The two biggest immunotherapy drugs – Keytruda from Merck (NYSE: MRK) and Opdivo from Bristol-Myers Squibb (NYSE: BMY) – started out as niche products for incurable lung cancer and gradually expanded into blockbuster drugs with multiple cancer indications. Their robust sales are strong testaments to the science and market potential of immunotherapy – using the body's immune system to treat cancer.
             </p>
             <p>
                 While there is no single magic “cure-all” cancer vaccine, disease-specific immunotherapy has proven to be effective in improving patient quality of life and survival rates. This translates into a large and growing market with many winning opportunities for biotech companies and many drug options for patients.

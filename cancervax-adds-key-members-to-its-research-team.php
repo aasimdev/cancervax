@@ -11,7 +11,7 @@ include('header.php'); ?>
         </div>
     
         <h3>Dr. Jonathan Lakey will serve as Chief Scientific Advisor and Dr. Adam Grant will serve as Principal Scientist   </h3>
-        <p>Santa Barbara, CA, August 1, 2024 (GLOBE NEWSWIRE) -- Cancervax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to fight cancer, today announced that the Company has added two key members to its cancer research team. Dr. Jonathan Lakey will serve as Chief Scientific Advisor and Dr. Adam Grant will serve as Principal Scientist.   </p>
+        <p>Santa Barbara, CA, August 1, 2024 (GLOBE NEWSWIRE) -- Cancervax, Inc., the developer of breakthrough cancer drugs that will use the body’s immune system to treat cancer, today announced that the Company has added two key members to its cancer research team. Dr. Jonathan Lakey will serve as Chief Scientific Advisor and Dr. Adam Grant will serve as Principal Scientist.   </p>
 
         <p>"We are thrilled to announce the addition of these two distinguished scientists to the Cancervax team,” said Byron Elton, Cancervax CEO.     </p>
         <p>“Jonathan Lakey, PhD, steps into the role of Chief Scientific Advisor. Dr. Lakey brings extensive experience in biomedical engineering and experimental surgery, with a notable focus on diabetes and stem cell research. His leadership and scientific acumen will be instrumental as we advance our mission to develop revolutionary cancer treatments.”     </p>
