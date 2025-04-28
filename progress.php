@@ -59,7 +59,7 @@ include('header.php'); ?>
                     <p>Smart mRNA turned <strong class="text-decoration-underline">ON</strong> in <br> cancer cells only
                     </p>
                     <div class="dev-milestone-img">
-                    <img src="./assets/img/fluorescene-microscopy.png" alt="fluorescene-microscopy">
+                    <img src="./assets/img/fluorescene-microscopy.png?v=<?php echo filemtime('./assets/img/fluorescene-microscopy.png'); ?>" alt="fluorescene-microscopy">
                     </div>
                     <div class="text-center mt-5">
                     <a href="/webinar" class="theme-btn">View Webinar</a>
@@ -68,7 +68,7 @@ include('header.php'); ?>
                 <div class="col-lg-5">
                     <p>Smart mRNA turned <strong class="text-decoration-underline">OFF</strong> <br> in healthy cell line (HEK293)</p>
                     <div class="dev-milestone-img">
-                    <img src="./assets/img/gfp-smart-mrnas-cropped.png" alt="fluorescene-microscopy">
+                    <img src="./assets/img/gfp-smart-mrnas-cropped.png?v=<?php echo filemtime('./assets/img/gfp-smart-mrnas-cropped.png'); ?>" alt="fluorescene-microscopy">
                     </div>
                     <div class="text-center mt-5">
                     <a href="https://cancervax.com/cancervax-announces-successful-tests-of-its-smart-mrna-technology.php" class="theme-btn">View Press Release</a>
