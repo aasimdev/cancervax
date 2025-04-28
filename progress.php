@@ -41,7 +41,6 @@ include('header.php'); ?>
             <li>Filed multiple patent applications </li>
             <li> Designed several Smart mRNAs for targeting multiple cancer types​</li>
             <li> Lab tests successfully validated Smart mRNAs worked in actual cancer cells (Q1 2025)</li>
-            <li> Design and optimize fully functional CancerVax nanoparticle for pancreatic cancer (Q2 2025)</li>
             <li> Complete full nanoparticle for pancreatic cancer (Q3 2025)</li>
             <li> Complete animal studies to determine toxicity and efficacy of pancreatic cancer treatment  (Q1 2026)</li>
         </ul>
