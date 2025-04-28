@@ -38,15 +38,47 @@ include('header.php'); ?>
         </div>
 
         <ul class="theme-list mt-5 ">
-            <li>Filed two patent applications </li>
-            <li> Designed Smart mRNAs for detecting breast cancer, pancreatic cancer, acute myeloid leukemia, lung cancer, and Ewing sarcoma​</li>
-            <li> Lab tests to validate and optimize Smart mRNAs in real cancer cells lines (H2 2024)​</li>
-            <li> Design and optimize fully functional CancerVax nanoparticles (H1 2025)</li>
+            <li>Filed multiple patent applications </li>
+            <li> Designed several Smart mRNAs for targeting multiple cancer types​</li>
+            <li> Lab tests successfully validated Smart mRNAs worked in actual cancer cells (Q1 2025)</li>
+            <li> Design and optimize fully functional CancerVax nanoparticle for pancreatic cancer (Q2 2025)</li>
+            <li> Complete full nanoparticle for pancreatic cancer (Q3 2025)</li>
+            <li> Complete animal studies to determine toxicity and efficacy of pancreatic cancer treatment  (Q1 2026)</li>
         </ul>
     </div>
 </section>
 
-
+<section class="dev-milestones">
+    <div class="container">
+        <div class="dev-milestones-head">
+            <h2>Major Development Milestones</h2>
+        </div>
+        <div class="dev-milestones-body">
+            <h5>February 25, 2025 – Smart mRNA Works!</h5>
+            <div class="row">
+                <div class="col-lg-7">
+                    <p>Smart mRNA turned <strong class="text-decoration-underline">ON</strong> in <br> cancer cells only
+                    </p>
+                    <div class="dev-milestone-img">
+                    <img src="./assets/img/fluorescene-microscopy.png" alt="fluorescene-microscopy">
+                    </div>
+                    <div class="text-center mt-5">
+                    <a href="/webinar" class="theme-btn">View Webinar</a>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <p>Smart mRNA turned <strong class="text-decoration-underline">OFF</strong> <br> in healthy cell line (HEK293)</p>
+                    <div class="dev-milestone-img">
+                    <img src="./assets/img/gfp-smart-mrnas-cropped.png" alt="fluorescene-microscopy">
+                    </div>
+                    <div class="text-center mt-5">
+                    <a href="https://cancervax.com/cancervax-announces-successful-tests-of-its-smart-mrna-technology.php" class="theme-btn">View Press Release</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 
