@@ -559,6 +559,15 @@ margin-bottom: 30px;
     .solution-step h6{
         padding-left: 0;
     }
+    .dev-milestones{
+        .row{
+           & > div{
+            &:not(:first-child){
+                margin-top: 52px;
+            }
+           }
+        }
+    }
 }
 
 @media (max-width: 767px) {
@@ -759,6 +768,9 @@ margin-bottom: 30px;
             }
             .techBanner .techBanner-text h1 {
                 font-size: 64px;
+            }
+            .dev-milestone-img{
+                height: auto;
             }
 }
 
