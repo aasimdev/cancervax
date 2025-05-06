@@ -19,7 +19,7 @@ include('../header.php'); ?>
                     <div class="video-section">
                         <h3 class="banner-video-head">Short Explainer Video</h3>
                         <div class="banner-video-top m-0 position-relative">
-                            <a href="https://www.youtube.com/watch?v=PXBNJe3nHp0" class="popup-youtube">
+                        <a href="https://vimeo.com/1074002405" class="popup-vimeo">
                                 <img src="https://i.ytimg.com/vi/PXBNJe3nHp0/maxresdefault.jpg" alt="hero" class="img-fluid">
                                 <i class="far fa-play-circle"></i>
                             </a>

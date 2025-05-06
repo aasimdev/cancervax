@@ -7,10 +7,7 @@ include('header.php'); ?>
 <section class="webinar">
     <div class="container">
         <div class="ratio" style="--bs-aspect-ratio: 50%;">
-            <iframe class='w-full aspect-video' src="https://www.youtube.com/embed/FPUKs3cjQ8A"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen=""></iframe>
+                <iframe title="vimeo-player" class='w-full aspect-video' src="https://player.vimeo.com/video/1074009289" frameborder="0" allowfullscreen></iframe>
         </div>
         <div class="invest-head mt-5">
     <h1>Invest in a Revolutionary Way <br class="d-none d-md-block"> to Treat Cancer</h1>
