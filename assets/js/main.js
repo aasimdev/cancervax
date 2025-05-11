@@ -27,7 +27,7 @@ $(function () {
 
  
   const iframe = document.getElementById('explainer-video');
-  const btn = document.getElementById('play-vimeo-btn');
+  const btn = document.getElementById('vimeo-custom-btn');
 
   function isIOS() {
     return /iPad|iPhone|iPod/.test(navigator.userAgent);
@@ -36,7 +36,7 @@ $(function () {
   btn.addEventListener('click', () => {
     btn.style.display = 'none';
 
-    const videoId = '1074002405';
+    const videoId = iframe.getAttribute('data-video-id');
     const newSrc = `https://player.vimeo.com/video/${videoId}?controls=1&muted=1&playsinline=1`;
 
     // Replace iframe to update controls (Vimeo does not support changing controls dynamically)
