@@ -1,4 +1,31 @@
 $(function () {
+
+    if ($(".vimeo-custom-btn").length) {
+        const playButton = $(".vimeo-custom-btn");
+        const iframe = document.getElementById("explainer-video");
+      
+        function updateVimeoSrc(src, params) {
+          const url = new URL(src);
+          for (const key in params) {
+            url.searchParams.set(key, params[key]);
+          }
+          return url.toString();
+        }
+      
+        playButton.on("click", function () {
+          const newSrc = updateVimeoSrc(iframe.src, {
+            controls: "1",
+            autoplay: "1",
+            muted: "0"
+          });
+      
+          iframe.src = newSrc; // Reload with new params
+          playButton.hide();   // Hide custom play button
+        });
+      }
+      
+      
+
     $(window).scroll(function () {
         if ($(window).scrollTop() >= 50) {
             $('.header-top').addClass('fixed');
