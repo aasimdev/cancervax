@@ -2,27 +2,36 @@ $(function () {
 
     if ($(".vimeo-custom-btn").length) {
         const playButton = $(".vimeo-custom-btn");
-        const iframe = document.getElementById("explainer-video");
-      
-        function updateVimeoSrc(src, params) {
-          const url = new URL(src);
-          for (const key in params) {
-            url.searchParams.set(key, params[key]);
-          }
-          return url.toString();
+        const iframe = $("#explainer-video")[0];
+        const player = new Vimeo.Player(iframe);
+    
+        function isIPhone() {
+            return /iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
         }
-      
+    
         playButton.on("click", function () {
-          const newSrc = updateVimeoSrc(iframe.src, {
-            controls: "1",
-            autoplay: "1",
-            muted: "0"
-          });
-      
-          iframe.src = newSrc; // Reload with new params
-          playButton.hide();   // Hide custom play button
+            playButton.hide();
+    
+            // For iPhone: make sure muted is true before play
+            if (isIPhone()) {
+                player.setMuted(true).then(() => {
+                    player.play().then(() => {
+                        // unmute after short delay if needed
+                        setTimeout(() => {
+                            player.setVolume(1);
+                            player.setMuted(false);
+                        }, 500);
+                    });
+                });
+            } else {
+                // For desktop/other devices
+                player.setMuted(false);
+                player.setVolume(1);
+                player.play();
+            }
         });
-      }
+    }
+    
       
       
 
