@@ -12,25 +12,25 @@ $(function () {
         playButton.on("click", function () {
             playButton.hide();
     
-            // For iPhone: make sure muted is true before play
             if (isIPhone()) {
+                // Required on iOS: must play muted first
                 player.setMuted(true).then(() => {
                     player.play().then(() => {
-                        // unmute after short delay if needed
+                        // Optional: unmute after short time
                         setTimeout(() => {
                             player.setVolume(1);
                             player.setMuted(false);
-                        }, 500);
+                        }, 800);
                     });
                 });
             } else {
-                // For desktop/other devices
                 player.setMuted(false);
                 player.setVolume(1);
                 player.play();
             }
         });
     }
+    
     
       
       
