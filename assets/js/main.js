@@ -1,35 +1,27 @@
 $(function () {
 
-    if ($(".vimeo-custom-btn").length) {
-        const playButton = $(".vimeo-custom-btn");
-        const iframe = $("#explainer-video")[0];
-        const player = new Vimeo.Player(iframe);
-    
-        function isIPhone() {
-            return /iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
-        }
-    
-        playButton.on("click", function () {
-            playButton.hide();
-    
-            if (isIPhone()) {
-                // Required on iOS: must play muted first
-                player.setMuted(true).then(() => {
-                    player.play().then(() => {
-                        // Optional: unmute after short time
-                        setTimeout(() => {
-                            player.setVolume(1);
-                            player.setMuted(false);
-                        }, 800);
-                    });
-                });
-            } else {
-                player.setMuted(false);
-                player.setVolume(1);
-                player.play();
-            }
-        });
+
+  const iframe = document.getElementById('explainer-video');
+  const player = new Vimeo.Player(iframe);
+  const btn = document.getElementById('play-vimeo-btn');
+
+  function isIOS() {
+    return /iPad|iPhone|iPod/.test(navigator.userAgent);
+  }
+
+  btn.addEventListener('click', () => {
+    btn.style.display = 'none';
+
+    if (isIOS()) {
+      player.setMuted(true).then(() => {
+        return player.play();
+      });
+    } else {
+      player.setMuted(false);
+      player.setVolume(1);
+      player.play();
     }
+  });
     
     
       

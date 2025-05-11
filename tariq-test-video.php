@@ -14,7 +14,7 @@ include('header.php');
          <div class="podcast-video" style="position: relative;">
          <iframe 
   id="explainer-video"
-  src="https://player.vimeo.com/video/1074002405?controls=0&muted=1"
+  src="https://player.vimeo.com/video/1074002405?background=0&autoplay=0&muted=1&playsinline=1"
   frameborder="0"
   allow="autoplay; fullscreen; picture-in-picture"
   allowfullscreen
@@ -22,7 +22,8 @@ include('header.php');
   class="w-full aspect-video">
 </iframe>
 
-<button class="vimeo-custom-btn">Play Video</button>
+<button id="play-vimeo-btn">▶ Play Video</button>
+
 
 
 
