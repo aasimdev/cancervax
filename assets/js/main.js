@@ -1,8 +1,32 @@
 $(function () {
 
 
+//   const iframe = document.getElementById('explainer-video');
+//   const player = new Vimeo.Player(iframe);
+//   const btn = document.getElementById('play-vimeo-btn');
+
+//   function isIOS() {
+//     return /iPad|iPhone|iPod/.test(navigator.userAgent);
+//   }
+
+//   btn.addEventListener('click', () => {
+//     btn.style.display = 'none';
+
+//     if (isIOS()) {
+//       player.setMuted(true).then(() => {
+//         return player.play();
+//       });
+//     } else {
+//       player.setMuted(false);
+//       player.setVolume(1);
+//       player.play();
+//     }
+//   });
+    
+
+
+ 
   const iframe = document.getElementById('explainer-video');
-  const player = new Vimeo.Player(iframe);
   const btn = document.getElementById('play-vimeo-btn');
 
   function isIOS() {
@@ -11,6 +35,16 @@ $(function () {
 
   btn.addEventListener('click', () => {
     btn.style.display = 'none';
+
+    const videoId = '1074002405';
+    const newSrc = `https://player.vimeo.com/video/${videoId}?controls=1&muted=1&playsinline=1`;
+
+    // Replace iframe to update controls (Vimeo does not support changing controls dynamically)
+    const newIframe = iframe.cloneNode();
+    newIframe.src = newSrc;
+    iframe.replaceWith(newIframe);
+
+    const player = new Vimeo.Player(newIframe);
 
     if (isIOS()) {
       player.setMuted(true).then(() => {
@@ -22,7 +56,7 @@ $(function () {
       player.play();
     }
   });
-    
+
     
       
       
