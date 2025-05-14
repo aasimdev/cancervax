@@ -58,7 +58,7 @@ CacheControl::preventCaching();
     <link rel="stylesheet" href="<?php echo  $full_url; ?>assets/css/slick.min.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="<?php echo  $full_url; ?>assets/css/slick-theme.min.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="<?php echo  $full_url; ?>assets/css/style.min.css?v=<?php echo time(); ?>">
-
+    <script src="https://player.vimeo.com/api/player.js"></script>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-7D9TX20JND"></script>
     <script>
