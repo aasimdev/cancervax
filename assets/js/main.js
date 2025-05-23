@@ -152,6 +152,27 @@ $(function () {
         fixedContentPos: true,
 
     });
+     $('.popup-specific-youtube').magnificPopup({
+        type: 'iframe',
+        iframe: {
+            markup: '<div class="mfp-iframe-scaler">' +
+                '<div class="mfp-close"></div>' +
+                '<iframe class="mfp-iframe" frameborder="0" allow="autoplay"></iframe>' +
+                '</div>',
+            patterns: {
+                youtube: {
+                    index: 'youtube.com/',
+                    id: 'v=',
+                    src: 'https://www.youtube.com/embed/%id%?autoplay=1&start=1203'
+                }
+            }
+        },
+        mainClass: 'mfp-fade',
+        removalDelay: 160,
+        preloader: false,
+        fixedContentPos: true,
+
+    });
     
     // Vimeo Popup
     $('.popup-vimeo').magnificPopup({
@@ -237,6 +258,38 @@ $(function () {
         var video_thumbnail = $('<img src="//img.youtube.com/vi/' + videoID + '/maxresdefault.jpg" class="object-fit-contain" alt="Cancervax">');
         $(this).find('.getThumbnail').siblings('.cchat-thumbnail').html(video_thumbnail);
     });
+
+
+    function isIOS() {
+        return /iPad|iPhone|iPod/.test(navigator.userAgent);
+      }
+    
+      document.querySelectorAll('.vimeo-custom-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          btn.style.display = 'none';
+    
+          // Get sibling iframe (previousElementSibling or use parent)
+          const wrapper = btn.closest('.video-wrapper');
+          const iframe = wrapper.querySelector('iframe');
+          const videoId = iframe.dataset.videoId;
+    
+          const newSrc = `https://player.vimeo.com/video/${videoId}?controls=1&muted=1&playsinline=1`;
+          const newIframe = iframe.cloneNode();
+          newIframe.src = newSrc;
+    
+          iframe.replaceWith(newIframe);
+    
+          const player = new Vimeo.Player(newIframe);
+    
+          if (isIOS()) {
+            player.setMuted(true).then(() => player.play());
+          } else {
+            player.setMuted(false);
+            player.setVolume(1);
+            player.play();
+          }
+        });
+      });
 
 })
 
