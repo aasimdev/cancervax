@@ -9,10 +9,26 @@ include "header.php";
     <div class="container">
 
     <div class="invest-head">
-    <h1>You can now invest in CancerVax <br class="d-none d-md-block"> and join our fight to cure cancer!</h1>
+            <h1>You can now invest in CancerVax <br class="d-none d-md-block"> and join our fight to cure cancer!</h1>
+            <div class="invest-iframe-video video-wrapper">
+                <iframe
+                    data-video-id="1086201571"
+                    src="https://player.vimeo.com/video/1086201571?controls=0&muted=1&playsinline=1"
+                    frameborder="0"
+                    allow="autoplay; fullscreen; picture-in-picture"
+                    allowfullscreen
+                    playsinline>
+                </iframe>
+                <button type="button" class="vimeo-custom-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 56 56" fill="none">
+                        <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8"></circle>
+                        <path d="M39.1753 28.1126L21.5537 38.2864L21.5537 17.9387L39.1753 28.1126Z" fill="black"></path>
+                    </svg>
+                </button>
+            </div>
 
-<a href="https://invest.cancervax.com/" target="_blank" class="theme-btn orange-btn">Invest in CancerVax</a>
-    </div>
+            <a href="https://www.startengine.com/offering/cancervax" target="_blank" class="theme-btn orange-btn">Invest in CancerVax</a>
+        </div>
 
         <p>CancerVax, Inc. is a pre-clinical biotechnology company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells look like well-immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. ​​</p>
 

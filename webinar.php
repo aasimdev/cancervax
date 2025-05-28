@@ -12,7 +12,7 @@ include('header.php'); ?>
         <div class="invest-head mt-5">
     <h1>Invest in a Revolutionary Way <br class="d-none d-md-block"> to Treat Cancer</h1>
 
-<a href="https://invest.cancervax.com/" target="_blank" class="theme-btn orange-btn">Invest in CancerVax</a>
+    <a href="https://www.startengine.com/offering/cancervax" target="_blank" class="theme-btn orange-btn">Invest in CancerVax</a>
     </div>
     </div>
 
