@@ -4159,3 +4159,18 @@ li {
         }
     }
 }
+.dev-white-bg{
+    background-color: #fff;
+    padding: 32px;
+    .theme-list{
+        li{
+            color: #000;
+            &:not(:first-child){
+                margin-top: 24px;
+            }
+            &:before{
+                background-color: #000;
+            }
+        }
+    }
+}

@@ -38,11 +38,12 @@ include('header.php'); ?>
         </div>
 
         <ul class="theme-list mt-5 ">
-            <li>Filed multiple patent applications </li>
+            <li>Filed multiple patent applications
+            </li>
             <li> Designed several Smart mRNAs for targeting multiple cancer types​</li>
-            <li> Lab tests successfully validated Smart mRNAs worked in actual cancer cells (Q1 2025)</li>
-            <li> Complete full nanoparticle for pancreatic cancer (Q3 2025)</li>
-            <li> Complete animal studies to determine toxicity and efficacy of pancreatic cancer treatment  (Q1 2026)</li>
+            <li>Lab tests successfully validated Smart mRNAs worked in actual cancer cells (Q1 2025)</li>
+            <li> Complete therapeutic nanoparticles for above cancer indications (Q3 2025)</li>
+            <li> Complete animal studies to determine toxicity and efficacy of above cancer treatments (Q1 2026)</li>
         </ul>
     </div>
 </section>
@@ -59,19 +60,19 @@ include('header.php'); ?>
                     <p>Smart mRNA turned <strong class="text-decoration-underline">ON</strong> in <br> cancer cells only
                     </p>
                     <div class="dev-milestone-img">
-                    <img src="./assets/img/fluorescene-microscopy.png?v=<?php echo filemtime('./assets/img/fluorescene-microscopy.png'); ?>" alt="fluorescene-microscopy">
+                        <img src="./assets/img/fluorescene-microscopy.png?v=<?php echo filemtime('./assets/img/fluorescene-microscopy.png'); ?>" alt="fluorescene-microscopy">
                     </div>
                     <div class="text-center mt-5">
-                    <a href="/webinar" class="theme-btn">View Webinar</a>
+                        <a href="/webinar" class="theme-btn">View Webinar</a>
                     </div>
                 </div>
                 <div class="col-lg-5">
                     <p>Smart mRNA turned <strong class="text-decoration-underline">OFF</strong> <br> in healthy cell line (HEK293)</p>
                     <div class="dev-milestone-img">
-                    <img src="./assets/img/gfp-smart-mrnas-cropped.png?v=<?php echo filemtime('./assets/img/gfp-smart-mrnas-cropped.png'); ?>" alt="fluorescene-microscopy">
+                        <img src="./assets/img/gfp-smart-mrnas-cropped.png?v=<?php echo filemtime('./assets/img/gfp-smart-mrnas-cropped.png'); ?>" alt="fluorescene-microscopy">
                     </div>
                     <div class="text-center mt-5">
-                    <a href="https://cancervax.com/cancervax-announces-successful-tests-of-its-smart-mrna-technology.php" class="theme-btn">View Press Release</a>
+                        <a href="https://cancervax.com/cancervax-announces-successful-tests-of-its-smart-mrna-technology.php" class="theme-btn">View Press Release</a>
                     </div>
                 </div>
             </div>
@@ -79,7 +80,47 @@ include('header.php'); ?>
     </div>
 </section>
 
+<section class="dev-milestones">
+    <div class="container">
+        <div class="dev-milestones-body" style="background-color: #caedfc;">
+            <h5>May 31, 2025 – Successfully Made Cell Targeting Nanoparticle!</h5>
+            <div class="dev-white-bg">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="lipid-nanoparticle">
+                            <img src="./assets/img/lipid-nanoparticle.png?v=<?php echo filemtime('./assets/img/lipid-nanoparticle.png'); ?>" alt="lipid-nanoparticle">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <ul class="theme-list">
+                            <li>Independent analysis confirmed efficient and successful attachment of Marker1 onto lipid nanoparticles
+                            </li>
+                            <li>Marker1 is a molecule that will seek out  specific proteins on cancer cell surface and deliver our Smart mRNA payload
+                            </li>
+                            <li>Next step, we will put Smart mRNAs inside the nanoparticles to make  complete cancer targeting and killing nanoparticles. </li>
+                        </ul>
+                    </div>
+                </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                      
+                        <div class="text-center mt-5">
+                            <a href="/webinar" class="theme-btn">View Webinar</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                       
+                        <div class="text-center mt-5">
+                            <a href="https://cancervax.com/cancervax-announces-successful-tests-of-its-smart-mrna-technology.php" class="theme-btn">View Press Release</a>
+                        </div>
+                    </div>
+                </div>
+           
 
+        </div>
+    </div>
+</section>
 
 
 
