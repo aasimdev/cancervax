@@ -49,10 +49,10 @@ include('header.php'); ?>
             </div>
         <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="dr-george-katibah-to-serve-as-the-company-chief-scientific-officer.php"></a>
+                    <a href="cancervax-lands-top-cancer-expert.php"></a>
                     <span> November 19, 2024 </span>
-                    <h3>Dr. George Katibah to serve as the Company’s Chief Scientific Officer</h3>
-                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to treat cancer, announced today that Dr. George Katibah will serve as the company’s Chief Scientific Officer</p>
+                    <h3>CancerVax Lands Top Cancer Expert</h3>
+                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, announced today that Dr. George Katibah will serve as the company’s Chief Scientific Officer</p>
                 </div>
             </div>
         <div class="col-lg-6">
