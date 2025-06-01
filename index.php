@@ -495,7 +495,7 @@ include('header.php'); ?>
             </div>
             <div class="col-lg-6">
                 <div class="news-item">
-                    <a href="cancervax-lands-top-cancer-expert.php"></a>
+                    <a href="cancervax-lands-top-cancer-expert-2.php"></a>
                     <span> November 19, 2024 </span>
                     <h3>CancerVax Lands Top Cancer Expert</h3>
                     <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, announced today that Dr. George Katibah will serve as the company’s Chief Scientific Officer</p>
