@@ -42,8 +42,8 @@ include('header.php'); ?>
             </li>
             <li> Designed several Smart mRNAs for targeting multiple cancer types​</li>
             <li>Lab tests successfully validated Smart mRNAs worked in actual cancer cells (Q1 2025)</li>
-            <li> Complete therapeutic nanoparticles for above cancer indications (Q3 2025)</li>
-            <li> Complete animal studies to determine toxicity and efficacy of above cancer treatments (Q1 2026)</li>
+            <li> Complete therapeutic nanoparticles for the above cancer indications (Q3 2025)</li>
+            <li> Complete animal studies to determine toxicity and efficacy of the above cancer treatments (Q1 2026)</li>
         </ul>
     </div>
 </section>
@@ -82,9 +82,9 @@ include('header.php'); ?>
 
 <section class="dev-milestones">
     <div class="container">
-        <div class="dev-milestones-body" style="background-color: #caedfc;">
+        <div class="dev-milestones-body">
             <h5>May 31, 2025 – Successfully Made Cell Targeting Nanoparticle!</h5>
-            <div class="dev-white-bg">
+            <div class="dev-white-bg lipid-nanoparticle-wrap">
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="lipid-nanoparticle">

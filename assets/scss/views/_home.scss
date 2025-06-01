@@ -4174,3 +4174,16 @@ li {
         }
     }
 }
+.lipid-nanoparticle-wrap{
+    .theme-list{
+        padding-top: 18px;
+        li{
+            font-size: 24px;
+            &:before{
+                width: 10px;
+                height: 10px;
+                top: 15px;
+            }
+        }
+    }
+}
