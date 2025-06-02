@@ -304,7 +304,7 @@ $(function () {
           btn.style.display = 'none';
           
           // Update iframe src to include controls
-          const newSrc = `https://player.vimeo.com/video/${videoId}?controls=1&muted=1&playsinline=1`;
+          const newSrc = `https://player.vimeo.com/video/${videoId}?controls=1&muted=0&playsinline=1`;
           iframe.src = newSrc;
           
         } else {
