@@ -4137,21 +4137,15 @@ li {
     z-index: 0;
     iframe{
         width: 100%;
-        aspect-ratio: 16/9;
+        height: 560px;
         position: relative;
-        @supports not (aspect-ratio: 16 / 9) {
-            &::before {
-              float: left;
-              padding-top: 56.25%;
-              content: "";
-            }
+        @media (max-width: 768px) {
+            height: 300px;
+        }
+        @media (max-width: 480px) {
+            height: 200px;
+        }
         
-            &::after {
-              display: block;
-              content: "";
-              clear: both;
-            }
-          }
     }
     .vimeo-custom-btn{
         cursor: pointer;
