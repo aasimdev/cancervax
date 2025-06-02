@@ -264,31 +264,57 @@ $(function () {
         return /iPad|iPhone|iPod/.test(navigator.userAgent);
       }
     
+      function isMobile() {
+        return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+      }
+    
+      // Function to handle video button click/touch
+      function handleVideoButtonClick(btn) {
+        btn.style.display = 'none';
+
+        // Get sibling iframe (previousElementSibling or use parent)
+        const wrapper = btn.closest('.video-wrapper');
+        const iframe = wrapper.querySelector('iframe');
+        const videoId = iframe.dataset.videoId;
+
+        const newSrc = `https://player.vimeo.com/video/${videoId}?controls=1&muted=1&playsinline=1`;
+        const newIframe = iframe.cloneNode();
+        newIframe.src = newSrc;
+
+        iframe.replaceWith(newIframe);
+
+        const player = new Vimeo.Player(newIframe);
+
+        if (isIOS()) {
+          player.setMuted(true).then(() => player.play());
+        } else {
+          player.setMuted(false);
+          player.setVolume(1);
+          player.play();
+        }
+      }
+    
       document.querySelectorAll('.vimeo-custom-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
+        const wrapper = btn.closest('.video-wrapper');
+        const iframe = wrapper.querySelector('iframe');
+        const videoId = iframe.dataset.videoId;
+        
+        if (isMobile()) {
+          // On mobile: hide custom button and enable native controls
           btn.style.display = 'none';
-    
-          // Get sibling iframe (previousElementSibling or use parent)
-          const wrapper = btn.closest('.video-wrapper');
-          const iframe = wrapper.querySelector('iframe');
-          const videoId = iframe.dataset.videoId;
-    
+          
+          // Update iframe src to include controls
           const newSrc = `https://player.vimeo.com/video/${videoId}?controls=1&muted=1&playsinline=1`;
-          const newIframe = iframe.cloneNode();
-          newIframe.src = newSrc;
-    
-          iframe.replaceWith(newIframe);
-    
-          const player = new Vimeo.Player(newIframe);
-    
-          if (isIOS()) {
-            player.setMuted(true).then(() => player.play());
-          } else {
-            player.setMuted(false);
-            player.setVolume(1);
-            player.play();
-          }
-        });
+          iframe.src = newSrc;
+          
+        } else {
+          // On desktop: keep custom button and add click handler
+          btn.addEventListener('click', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            handleVideoButtonClick(btn);
+          });
+        }
       });
 
 })
