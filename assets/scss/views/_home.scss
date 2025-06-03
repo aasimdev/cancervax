@@ -4137,8 +4137,14 @@ li {
     z-index: 0;
     iframe{
         width: 100%;
-        aspect-ratio: 16/9;
+        height: 560px;
         position: relative;
+        @media (max-width: 768px) {
+            height: 300px;
+        }
+        @media (max-width: 480px) {
+            height: 200px;
+        }
     }
     .vimeo-custom-btn{
         cursor: pointer;
@@ -4156,6 +4162,9 @@ li {
         svg{
             width: 100px;
             height: 100px;
+        }
+        @media (max-width: 768px) {
+            display: none !important; // Hide completely on mobile to use native controls
         }
     }
 }

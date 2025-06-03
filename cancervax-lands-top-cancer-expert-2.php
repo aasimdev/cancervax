@@ -1,5 +1,5 @@
 <?php
-$GLOBALS['title'] = "Dr. George Katibah to serve as the Company’s Chief Scientific Officer - CancerVax";
+$GLOBALS['title'] = "CancerVax Lands Top Cancer Expert - CancerVax";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 include('header.php'); ?>
@@ -7,7 +7,7 @@ include('header.php'); ?>
 <section class="news-detail">
     <div class="container">
         <div class="post-title">
-            <h1>Dr. George Katibah to serve as the Company’s Chief Scientific Officer </h1>
+            <h1>CancerVax Lands Top Cancer Expert </h1>
         </div>
 
         <h3>Research Agreement Leverages Structural Nanomedicine to Develop Cancervax’s Advanced Cancer Therapies</h3>
