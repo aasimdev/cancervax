@@ -101,7 +101,7 @@ include('header.php'); ?>
                     <div class="col-lg-6">
                        
                         <div class="text-center mt-5">
-                            <a href="https://cancervax.com/cancervax-announces-successful-tests-of-its-smart-mrna-technology.php" class="theme-btn">View Press Release</a>
+                            <a href="#" class="theme-btn">View Press Release</a>
                         </div>
                     </div>
                 </div>
