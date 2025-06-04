@@ -86,13 +86,12 @@ include('header.php'); ?>
                             <span>Watch video</span>
                         </a>
                     </div>
-                    <h2 class="banner-video-head d-lg-none">Webinar: Exciting Update on <br> our
-                    Revolutionary Cancer Treatment</h2>
+                    <h2 class="banner-video-head d-lg-none">CancerVax Scientists Featured on <br> Cytiva’s “Discovery Matters” Podcast</h2>
                     <div class="banner-video banner-video-top d-lg-none">
                         <div class="banner-thumbnail">
-                            <img src="https://vumbnail.com/1074009289.png" alt="thumbnail">
+                            <img src="//img.youtube.com/vi/Pmg9profy2g/maxresdefault.jpg" alt="thumbnail">
                         </div>
-                        <a href="https://vimeo.com/1074009289" class="theme-btn text-uppercase popup-vimeo">
+                        <a href="https://www.youtube.com/watch?v=Pmg9profy2g" class="theme-btn text-uppercase specific-time  popup-specific-youtube">
                             <i class="far fa-play-circle"></i>
                             <span>Watch video</span>
                         </a>
@@ -134,12 +133,21 @@ include('header.php'); ?>
                         </a>
                     </div>
 
-
-                    <div class="banner-announcement">
+                    <h2 class="banner-video-head d-none d-lg-block">CancerVax Scientists Featured on <br> Cytiva’s “Discovery Matters” Podcast</h2>
+                    <div class="banner-video banner-video-top d-none d-lg-block">
+                        <div class="banner-thumbnail">
+                            <img src="//img.youtube.com/vi/Pmg9profy2g/maxresdefault.jpg" alt="thumbnail">
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=Pmg9profy2g" class="theme-btn text-uppercase specific-time  popup-specific-youtube">
+                            <i class="far fa-play-circle"></i>
+                            <span>Watch video</span>
+                        </a>
+                    </div>
+                    <!-- <div class="banner-announcement">
                         <h4>Breaking News</h4>
                         <p>CancerVax Announces Successful Tests of its Smart mRNA Technology</p>
                         <a href="cancervax-announces-successful-tests-of-its-smart-mrna-technology.php" class="theme-btn">Learn More</a>
-                    </div>
+                    </div> -->
 
 
                 </div>
