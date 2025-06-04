@@ -17,6 +17,14 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="cancervax-scientists-featured-on-cytiva-discovery-matters-podcast-discussing-universal-cancer-vaccine-platform.php"></a>
+                    <span>June 3, 2025 </span>
+                    <h3>CancerVax Scientists Featured on Cytiva’s “Discovery Matters” Podcast Discussing Universal Cancer Vaccine Platform</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, today announced that two of its lead scientists, Dr. George Katibah and Dr. Adam Grant, were recently featured on Cytiva’s influential podcast series, Discovery Matters. The episode highlights CancerVax’s revolutionary approach to immunotherapy and its mission to create a therapy that can universally target and destroy cancer cells</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
                     <a href="top-biotech-exec-joins-cancervax-as-chief-scientific-advisor.php"></a>
                     <span>February 27, 2025 </span>
                     <h3>Top Biotech Exec Joins CancerVax as Chief Scientific Advisor</h3>
@@ -38,14 +46,6 @@ include('header.php'); ?>
                     <span>December 11, 2024 </span>
                     <h3>CancerVax Targets Hard to Treat Pancreatic Cancer</h3>
                     <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to treat cancer, announced today that the Company has selected Pancreatic Ductal Adenocarcinoma (PDAC) as one of its first targets for preclinical development</p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="dr-george-katibah-to-serve-as-the-company-chief-scientific-officer.php"></a>
-                    <span> November 19, 2024 </span>
-                    <h3>Dr. George Katibah to serve as the Company’s Chief Scientific Officer</h3>
-                    <p> CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to treat cancer, announced today that Dr. George Katibah will serve as the company’s Chief Scientific Officer</p>
                 </div>
             </div>
         </div>
