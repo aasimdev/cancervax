@@ -15,25 +15,14 @@ include('header.php'); ?>
         <div class="graph-wrap">
             <img src="./assets/img/graph.png" class="d-none d-md-block" alt="graph">
             <img src="./assets/img/graph-mobile.png" class="d-md-none" alt="graph">
-            <a href="#children-cancer" style="     display: inline-block;
-    position: absolute;
-    left: 0;
-    top: 25%;
-    width: 24%;
-    height: 18.5%;"></a>
-            <a href="#ucvp" style="     display: inline-block;
-    position: absolute;
-    left: 0;
-    top: 44%;
-    width: 24%;
-    height: 26%;"></a>
-            <a href="#uctcp" style="
+          
+            <a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php" style="
     display: inline-block;
     position: absolute;
-    left: 0;
-    top: 70%;
+       left: 2%;
+    top: 68%;
     width: 24%;
-    height: 26%;
+    height: 10%;
 "></a>
         </div>
 
@@ -72,7 +61,7 @@ include('header.php'); ?>
                         <img src="./assets/img/gfp-smart-mrnas-cropped.png?v=<?php echo filemtime('./assets/img/gfp-smart-mrnas-cropped.png'); ?>" alt="fluorescene-microscopy">
                     </div>
                     <div class="text-center mt-5">
-                        <a href="https://cancervax.com/cancervax-announces-successful-tests-of-its-smart-mrna-technology.php" class="theme-btn">View Press Release</a>
+                        <a href="cancervax-announces-successful-tests-of-itssmart-mrna-technology.php" class="theme-btn">View Press Release</a>
                     </div>
                 </div>
             </div>
