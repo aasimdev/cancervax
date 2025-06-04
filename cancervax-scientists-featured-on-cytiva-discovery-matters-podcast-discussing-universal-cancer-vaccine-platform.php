@@ -10,7 +10,7 @@ include('header.php'); ?>
         </div>
 
         <h3>Dr. George Katibah and Dr. Adam Grant describe the features and progress of the Company’s revolutionary technology</h3>
-        <p>Lehi, Utah – May __, 2025 – CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, today announced that two of its lead scientists, Dr. George Katibah and Dr. Adam Grant, were recently featured on Cytiva’s influential podcast series, Discovery Matters. The episode highlights CancerVax’s revolutionary approach to immunotherapy and its mission to create a therapy that can universally target and destroy cancer cells. </p>
+        <p>Lehi, Utah – June 3, 2025 – CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, today announced that two of its lead scientists, Dr. George Katibah and Dr. Adam Grant, were recently featured on Cytiva’s influential podcast series, Discovery Matters. The episode highlights CancerVax’s revolutionary approach to immunotherapy and its mission to create a therapy that can universally target and destroy cancer cells. </p>
 
         <p>In the episode titled: “104. Vaccines: Inverse v traditional”, host Dodi Axelson explores how CancerVax’s technology is designed to “disguise” cancer cells as common pathogens, such as measles, enabling the body’s immune system to recognize and eliminate them effectively. Dr. Katibah and Dr. Grant explain how their universal cancer treatment  platform operates through a highly targeted two-step process that detects and marks cancer cells while sparing healthy tissue. </p>
 
