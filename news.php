@@ -15,6 +15,14 @@ include('header.php'); ?>
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
+        <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancerVax-achieves-major-milestone-with-successful-creation-of-cell-targeting-nanoparticle.php"></a>
+                    <span>June 5, 2025 </span>
+                    <h3>CancerVax Achieves Major Milestone with Successful Creation of Cell Targeting Nanoparticle</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform designed to use the body’s immune system to treat cancer, today announced the successful creation of its nanoparticle that can target specific cells that are potentially cancerous</p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-scientists-featured-on-cytiva-discovery-matters-podcast-discussing-universal-cancer-vaccine-platform.php"></a>
@@ -40,14 +48,7 @@ include('header.php'); ?>
                 </div>
             </div>
 
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php"></a>
-                    <span>December 11, 2024 </span>
-                    <h3>CancerVax Targets Hard to Treat Pancreatic Cancer</h3>
-                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to treat cancer, announced today that the Company has selected Pancreatic Ductal Adenocarcinoma (PDAC) as one of its first targets for preclinical development</p>
-                </div>
-            </div>
+          
         </div>
         <div class="news-see-archive">
             <a href="/news-archive">See All</a>

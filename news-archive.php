@@ -17,6 +17,14 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="cancerVax-achieves-major-milestone-with-successful-creation-of-cell-targeting-nanoparticle.php"></a>
+                    <span>June 5, 2025 </span>
+                    <h3>CancerVax Achieves Major Milestone with Successful Creation of Cell Targeting Nanoparticle</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform designed to use the body’s immune system to treat cancer, today announced the successful creation of its nanoparticle that can target specific cells that are potentially cancerous</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancervax-scientists-featured-on-cytiva-discovery-matters-podcast-discussing-universal-cancer-vaccine-platform.php"></a>
                     <span>June 3, 2025 </span>
                     <h3>CancerVax Scientists Featured on Cytiva’s “Discovery Matters” Podcast Discussing Universal Cancer Vaccine Platform</h3>
