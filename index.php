@@ -86,9 +86,9 @@ include('header.php'); ?>
                             <span>Watch video</span>
                         </a>
                     </div>
-                    <h2 class="banner-video-head d-none d-lg-block">Webinar: Exciting Update on <br> our
+                    <h2 class="banner-video-head d-lg-none">Webinar: Exciting Update on <br> our
                     Revolutionary Cancer Treatment</h2>
-                    <div class="banner-video banner-video-top d-none d-lg-block">
+                    <div class="banner-video banner-video-top d-lg-none">
                         <div class="banner-thumbnail">
                             <img src="https://vumbnail.com/1074009289.png" alt="thumbnail">
                         </div>
