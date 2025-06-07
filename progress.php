@@ -24,6 +24,14 @@ include('header.php'); ?>
     width: 24%;
     height: 10%;
 "></a>
+<a href="cancervax-targets-liver-cancers-to-further-showcase-flexibility-of-its-universal-platform.php" style="
+    display: inline-block;
+    position: absolute;
+       left: 2%;
+    top: 82.3%;
+    width: 24%;
+    height: 10%;
+"></a>
         </div>
 
         <ul class="theme-list mt-5 ">
