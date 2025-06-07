@@ -17,6 +17,14 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="cancervax-targets-liver-cancers-to-further-showcase-flexibility-of-its-universal-platform.php"></a>
+                    <span>June 9, 2025 </span>
+                    <h3>CancerVax Targets Liver Cancers to Further Showcase Flexibility of Its Universal Platform</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform designed to use the body’s immune system to treat cancer, today announced that it will expand its preclinical program to include liver cancers, specifically rare stem cell-like forms of hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (ICC). Patients with these stem cell-like tumors have a significantly worse survival than patients with more traditional liver tumors</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancerVax-achieves-major-milestone-with-successful-creation-of-cell-targeting-nanoparticle.php"></a>
                     <span>June 5, 2025 </span>
                     <h3>CancerVax Achieves Major Milestone with Successful Creation of Cell Targeting Nanoparticle</h3>
@@ -39,23 +47,7 @@ include('header.php'); ?>
                     <p>CancerVax, Inc., the developer of a revolutionary universal cancer treatment platform that will use the body’s immune system to treat cancer, announced today that Sumant Ramachandra, MD, PhD, MBA and founder of SR Global Health, LLC, a healthcare advisory firm, will serve as the Company’s new Chief Scientific Advisor</p>
                 </div>
             </div>
-        <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-announces-successful-tests-of-its-smart-mrna-technology.php"></a>
-                    <span>February 25, 2025</span>
-                    <h3>CancerVax Announces Successful Tests of its Smart mRNA Technology</h3>
-                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to treat cancer, today announced the successful functional validation of its innovative Smart mRNA (messenger RNA) technology in lab tests</p>
-                </div>
-            </div>
        
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php"></a>
-                    <span>December 11, 2024 </span>
-                    <h3>CancerVax Targets Hard to Treat Pancreatic Cancer</h3>
-                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to treat cancer, announced today that the Company has selected Pancreatic Ductal Adenocarcinoma (PDAC) as one of its first targets for preclinical development</p>
-                </div>
-            </div>
         </div>
         <div class="news-see-archive">
             <a href="/news-archive">See All</a>
