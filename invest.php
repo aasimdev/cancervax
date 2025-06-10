@@ -26,7 +26,14 @@ include "header.php";
                 </button>
             </div>
 
-            <a href="https://www.startengine.com/offering/cancervax" target="_blank" class="theme-btn orange-btn">Invest in CancerVax</a>
+            <div class="invest-btn-bottom">
+                <p>Read to Invest? Click Below:</p>
+            <a href="https://www.startengine.com/offering/cancervax" target="_blank" class="theme-btn orange-btn text-uppercase">Invest in CancerVax!</a>
+            </div>
+            <div class="invest-btn-bottom">
+                <p>Get Your Investment Question Answered</p>
+            <a href="https://invest.cancervax.com/investmentcall" target="_blank" class="theme-btn orange-btn text-uppercase">Schedule a Call Now</a>
+            </div>
         </div>
 
         <p>CancerVax, Inc. is a pre-clinical biotechnology company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells look like well-immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. ​​</p>

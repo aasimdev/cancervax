@@ -87,6 +87,9 @@ include('header.php'); ?>
                         <div class="lipid-nanoparticle">
                             <img src="./assets/img/lipid-nanoparticle.png?v=<?php echo filemtime('./assets/img/lipid-nanoparticle.png'); ?>" alt="lipid-nanoparticle">
                         </div>
+                        <div class="text-center mt-5 d-lg-none">
+                            <a href="/webinar-may-31-2025" class="theme-btn">View Webinar</a>
+                        </div>
                     </div>
                     <div class="col-lg-6">
                         <ul class="theme-list">
@@ -96,10 +99,13 @@ include('header.php'); ?>
                             </li>
                             <li>Next step, we will put Smart mRNAs inside the nanoparticles to make  complete cancer targeting and killing nanoparticles. </li>
                         </ul>
+                        <div class="text-center mt-5 d-lg-none">
+                            <a href="cancerVax-achieves-major-milestone-with-successful-creation-of-cell-targeting-nanoparticle.php" class="theme-btn">View Press Release</a>
+                        </div>
                     </div>
                 </div>
                 </div>
-                <div class="row">
+                <div class="row d-none d-lg-flex">
                     <div class="col-lg-6">
                       
                         <div class="text-center mt-5">
@@ -109,7 +115,7 @@ include('header.php'); ?>
                     <div class="col-lg-6">
                        
                         <div class="text-center mt-5">
-                            <a href="#" class="theme-btn">View Press Release</a>
+                            <a href="cancerVax-achieves-major-milestone-with-successful-creation-of-cell-targeting-nanoparticle.php" class="theme-btn">View Press Release</a>
                         </div>
                     </div>
                 </div>

@@ -4197,3 +4197,17 @@ li {
         }
     }
 }
+
+.invest-btn-bottom{
+    margin-top: 20px;
+    .theme-btn.orange-btn{
+        margin-top: 0;
+    }
+    p{
+        text-align: center;
+        margin-bottom: 8px;
+    }
+    & + .invest-btn-bottom{
+        margin-top: 32px;
+    }
+}
