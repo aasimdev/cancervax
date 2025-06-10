@@ -60,7 +60,7 @@ include('header.php'); ?>
                         <img src="./assets/img/fluorescene-microscopy.png?v=<?php echo filemtime('./assets/img/fluorescene-microscopy.png'); ?>" alt="fluorescene-microscopy">
                     </div>
                     <div class="text-center mt-5">
-                        <a href="/webinar" class="theme-btn">View Webinar</a>
+                        <a href="/webinar-feb-25-2025" class="theme-btn">View Webinar</a>
                     </div>
                 </div>
                 <div class="col-lg-5">
@@ -69,7 +69,7 @@ include('header.php'); ?>
                         <img src="./assets/img/gfp-smart-mrnas-cropped.png?v=<?php echo filemtime('./assets/img/gfp-smart-mrnas-cropped.png'); ?>" alt="fluorescene-microscopy">
                     </div>
                     <div class="text-center mt-5">
-                        <a href="cancervax-announces-successful-tests-of-itssmart-mrna-technology.php" class="theme-btn">View Press Release</a>
+                        <a href="cancervax-announces-successful-tests-of-its-smart-mrna-technology.php" class="theme-btn">View Press Release</a>
                     </div>
                 </div>
             </div>
@@ -103,7 +103,7 @@ include('header.php'); ?>
                     <div class="col-lg-6">
                       
                         <div class="text-center mt-5">
-                            <a href="/webinar" class="theme-btn">View Webinar</a>
+                            <a href="/webinar-may-31-2025" class="theme-btn">View Webinar</a>
                         </div>
                     </div>
                     <div class="col-lg-6">
