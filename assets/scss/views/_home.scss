@@ -4168,3 +4168,46 @@ li {
         }
     }
 }
+
+.dev-white-bg{
+    background-color: #fff;
+    padding: 32px;
+    .theme-list{
+        li{
+            color: #000;
+            &:not(:first-child){
+                margin-top: 24px;
+            }
+            &:before{
+                background-color: #000;
+            }
+        }
+    }
+}
+.lipid-nanoparticle-wrap{
+    .theme-list{
+        padding-top: 18px;
+        li{
+            font-size: 24px;
+            &:before{
+                width: 10px;
+                height: 10px;
+                top: 15px;
+            }
+        }
+    }
+}
+
+.invest-btn-bottom{
+    margin-top: 20px;
+    .theme-btn.orange-btn{
+        margin-top: 0;
+    }
+    p{
+        text-align: center;
+        margin-bottom: 8px;
+    }
+    & + .invest-btn-bottom{
+        margin-top: 32px;
+    }
+}
