@@ -59,20 +59,28 @@ include('header.php'); ?>
                     <div class="dev-milestone-img">
                         <img src="./assets/img/fluorescene-microscopy.png?v=<?php echo filemtime('./assets/img/fluorescene-microscopy.png'); ?>" alt="fluorescene-microscopy">
                     </div>
-                    <div class="text-center mt-5">
-                        <a href="/webinar-feb-25-2025" class="theme-btn">View Webinar</a>
-                    </div>
                 </div>
                 <div class="col-lg-5">
                     <p>Smart mRNA turned <strong class="text-decoration-underline">OFF</strong> <br> in healthy cell line (HEK293)</p>
                     <div class="dev-milestone-img">
                         <img src="./assets/img/gfp-smart-mrnas-cropped.png?v=<?php echo filemtime('./assets/img/gfp-smart-mrnas-cropped.png'); ?>" alt="fluorescene-microscopy">
                     </div>
-                    <div class="text-center mt-5">
-                        <a href="cancervax-announces-successful-tests-of-its-smart-mrna-technology.php" class="theme-btn">View Press Release</a>
-                    </div>
+                    
                 </div>
             </div>
+            <div class="row">
+                    <div class="col-lg-7">
+                      
+                        <div class="text-center mt-5">
+                        <a href="/webinar-feb-25-2025" class="theme-btn">View Webinar</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-5">
+                        <div class="text-center mt-lg-5">
+                        <a href="cancervax-announces-successful-tests-of-its-smart-mrna-technology.php" class="theme-btn">View Press Release</a>
+                        </div>
+                    </div>
+                </div>
         </div>
     </div>
 </section>
@@ -87,9 +95,6 @@ include('header.php'); ?>
                         <div class="lipid-nanoparticle">
                             <img src="./assets/img/lipid-nanoparticle.png?v=<?php echo filemtime('./assets/img/lipid-nanoparticle.png'); ?>" alt="lipid-nanoparticle">
                         </div>
-                        <div class="text-center mt-5 d-lg-none">
-                            <a href="/webinar-may-31-2025" class="theme-btn">View Webinar</a>
-                        </div>
                     </div>
                     <div class="col-lg-6">
                         <ul class="theme-list">
@@ -99,13 +104,11 @@ include('header.php'); ?>
                             </li>
                             <li>Next step, we will put Smart mRNAs inside the nanoparticles to make  complete cancer targeting and killing nanoparticles. </li>
                         </ul>
-                        <div class="text-center mt-5 d-lg-none">
-                            <a href="cancerVax-achieves-major-milestone-with-successful-creation-of-cell-targeting-nanoparticle.php" class="theme-btn">View Press Release</a>
-                        </div>
+                       
                     </div>
                 </div>
                 </div>
-                <div class="row d-none d-lg-flex">
+                <div class="row">
                     <div class="col-lg-6">
                       
                         <div class="text-center mt-5">
@@ -113,8 +116,7 @@ include('header.php'); ?>
                         </div>
                     </div>
                     <div class="col-lg-6">
-                       
-                        <div class="text-center mt-5">
+                        <div class="text-center mt-lg-5">
                             <a href="cancerVax-achieves-major-milestone-with-successful-creation-of-cell-targeting-nanoparticle.php" class="theme-btn">View Press Release</a>
                         </div>
                     </div>
