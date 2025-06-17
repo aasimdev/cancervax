@@ -17,6 +17,14 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="cancervax-nanoparticle-successfully-targets-cancer-cells-while-sparing-non-cancerous-cells.php"></a>
+                    <span>June 19, 2025 </span>
+                    <h3>CancerVax Nanoparticle Successfully Targets Cancer Cells While Sparing Non-cancerous Cells</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform designed to use the body’s immune system to treat cancer, today announced that its ligand conjugated lipid nanoparticle (“LNP”) successfully targeted cancer cells and avoided non-cancerous cells</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancervax-targets-liver-cancers-to-further-showcase-flexibility-of-its-universal-platform.php"></a>
                     <span>June 9, 2025 </span>
                     <h3>CancerVax Targets Liver Cancers to Further Showcase Flexibility of Its Universal Platform</h3>
@@ -37,14 +45,6 @@ include('header.php'); ?>
                     <span>June 3, 2025 </span>
                     <h3>CancerVax Scientists Featured on Cytiva’s “Discovery Matters” Podcast Discussing Universal Cancer Vaccine Platform</h3>
                     <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, today announced that two of its lead scientists, Dr. George Katibah and Dr. Adam Grant, were recently featured on Cytiva’s influential podcast series, Discovery Matters. The episode highlights CancerVax’s revolutionary approach to immunotherapy and its mission to create a therapy that can universally target and destroy cancer cells</p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="top-biotech-exec-joins-cancervax-as-chief-scientific-advisor.php"></a>
-                    <span>February 27, 2025 </span>
-                    <h3>Top Biotech Exec Joins CancerVax as Chief Scientific Advisor</h3>
-                    <p>CancerVax, Inc., the developer of a revolutionary universal cancer treatment platform that will use the body’s immune system to treat cancer, announced today that Sumant Ramachandra, MD, PhD, MBA and founder of SR Global Health, LLC, a healthcare advisory firm, will serve as the Company’s new Chief Scientific Advisor</p>
                 </div>
             </div>
            
