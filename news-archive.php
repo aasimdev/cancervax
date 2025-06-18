@@ -17,6 +17,14 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="cancervax-nanoparticle-successfully-targets-cancer-cells-while-sparing-non-cancerous-cells.php"></a>
+                    <span>June 19, 2025 </span>
+                    <h3>CancerVax Nanoparticle Successfully Targets Cancer Cells While Sparing Non-cancerous Cells</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform designed to use the body’s immune system to treat cancer, today announced that its ligand conjugated lipid nanoparticle (“LNP”) successfully targeted cancer cells and avoided non-cancerous cells</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancervax-targets-liver-cancers-to-further-showcase-flexibility-of-its-universal-platform.php"></a>
                     <span>June 9, 2025 </span>
                     <h3>CancerVax Targets Liver Cancers to Further Showcase Flexibility of Its Universal Platform</h3>
