@@ -19,7 +19,7 @@ include('../header.php'); ?>
                     <div class="video-section">
                         <h3 class="banner-video-head">Short Explainer Video</h3>
                         <div class="banner-video-top m-0 position-relative">
-                        <a href="https://vimeo.com/1074002405" class="popup-vimeo">
+                            <a href="https://vimeo.com/1074002405" class="popup-vimeo">
                                 <img src="https://i.ytimg.com/vi/PXBNJe3nHp0/maxresdefault.jpg" alt="hero" class="img-fluid">
                                 <i class="far fa-play-circle"></i>
                             </a>
@@ -62,9 +62,54 @@ include('../header.php'); ?>
                     </a>
                 </div>
             </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="vCatBox">
+                    <a href="#webinars">
+                        <div class="vCatBox-thumb">
+                            <img src="../assets/img/webinars.png" alt="video">
+                        </div>
+                        <span>Webinars
+                        </span>
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
 </div>
+
+<section class="nCommentary" id="webinars">
+    <div class="container">
+        <div class="nCommentary-heading">
+            <h3>Webinars</h3>
+        </div>
+        <div class="row">
+    
+            <div class="col-xl-6 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a href="/webinar-feb-25-2025"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay h-auto">
+                            <img src="https://vumbnail.com/1074009289.png" alt="Thumbnail">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 col-lg-4 col-md-6">
+                <div class="cchat">
+                    <div class="cchat-box mb-4">
+                        <a href="/webinar-may-31-2025"></a>
+                        <div class="cchat-thumbnail thumbnail-overlay h-auto">
+                            <img src="https://vumbnail.com/1088764643/6170b7e696.png" alt="Thumbnail">
+                        </div>
+                        <i class="far fa-play-circle"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
 
 <section class="nCommentary" id="news-commentary">
     <div class="container">
@@ -161,7 +206,7 @@ include('../header.php'); ?>
 
 <section class="nCommentary" id="short-videos">
     <div class="container">
-    <div class="nCommentary-heading">
+        <div class="nCommentary-heading">
             <h3>Short Videos</h3>
             <a href="https://www.youtube.com/@CancerVAX/shorts" target="_blank">See All</a>
         </div>
