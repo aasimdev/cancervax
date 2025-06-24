@@ -39,7 +39,7 @@ include('header.php'); ?>
                     <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform designed to use the body’s immune system to treat cancer, today announced the successful creation of its nanoparticle that can target specific cells that are potentially cancerous</p>
                 </div>
             </div>
-        <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-scientists-featured-on-cytiva-discovery-matters-podcast-discussing-universal-cancer-vaccine-platform.php"></a>
                     <span>June 3, 2025 </span>
@@ -47,7 +47,7 @@ include('header.php'); ?>
                     <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, today announced that two of its lead scientists, Dr. George Katibah and Dr. Adam Grant, were recently featured on Cytiva’s influential podcast series, Discovery Matters. The episode highlights CancerVax’s revolutionary approach to immunotherapy and its mission to create a therapy that can universally target and destroy cancer cells</p>
                 </div>
             </div>
-       
+           
         </div>
         <div class="news-see-archive">
             <a href="/news-archive">See All</a>

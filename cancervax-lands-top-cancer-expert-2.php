@@ -7,11 +7,13 @@ include('header.php'); ?>
 <section class="news-detail">
     <div class="container">
         <div class="post-title">
-            <h1>CancerVax Lands Top Cancer Expert </h1>
+            <h1>CancerVax Lands Top Cancer Expert</h1>
         </div>
 
-        <h3>Lehi, Utah, Nov. 19, 2024 (GLOBE NEWSWIRE) -- Dr. George Katibah to serve as the Company’s Chief Scientific Officer</h3>
-        <p>Lehi, UT, November 19, 2024 (GLOBE NEWSWIRE) -- CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, announced today that Dr. George Katibah will serve as the company’s Chief Scientific Officer. </p>
+        <h3> Lehi, Utah, Nov. 19, 2024 (GLOBE NEWSWIRE) -- Dr. George Katibah to serve as the Company’s Chief Scientific Officer
+
+</h3>
+        <p>Lehi, UT, November 19, 2024 (GLOBE NEWSWIRE) -- CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that will use the body’s immune system to fight cancer, announced today that Dr. George Katibah will serve as the company’s Chief Scientific Officer.  </p>
 
         <p>"We couldn’t be more thrilled to welcome Dr. George Katibah to our team as our CSO,” said Byron Elton, CEO of CancerVax. “George originally served as an advisor, and we quickly realized how valuable he could be in leading the development of our novel cancer treatment technology. George’s immediate focus will be on our pre-clinal development efforts, and he will help get us through animal studies and beyond. We look forward to his leadership.”</p>
 
@@ -24,7 +26,7 @@ include('header.php'); ?>
 
         <h3>About Cancervax</h3>
 
-        <p>CancerVax, Inc. is a pre-clinical biotechnology company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells “look” like well immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We have also created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. To learn more, please visit  <a href="www.cancervax.com" target="_blank" rel="noopener noreferrer">www.cancervax.com</a> </p>
+        <p>CancerVax, Inc. is a pre-clinical biotechnology company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells “look” like well immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We have also created our first cancer drug candidate – a single-disease specific immunotherapy targeting Ewing sarcoma, a rare but deadly bone and soft tissue cancer primarily affecting children and young adults. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer. To learn more, please visit <a href="www.cancervax.com" target="_blank" rel="noopener noreferrer">www.cancervax.com</a> </p>
 
         <h3>Forward-Looking Statements </h3>
 

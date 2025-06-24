@@ -277,7 +277,8 @@ $(function () {
         const iframe = wrapper.querySelector('iframe');
         const videoId = iframe.dataset.videoId;
 
-        const newSrc = `https://player.vimeo.com/video/${videoId}?controls=1&muted=1&playsinline=1`;
+        const connector = videoId.includes('?') ? '&' : '?';
+        const newSrc = `https://player.vimeo.com/video/${videoId}${connector}controls=1&muted=1&playsinline=1`;
         const newIframe = iframe.cloneNode();
         newIframe.src = newSrc;
 
