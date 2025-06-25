@@ -16,7 +16,7 @@ include('header.php'); ?>
             <img src="./assets/img/graph.png" class="d-none d-md-block" alt="graph">
             <img src="./assets/img/graph-mobile.png" class="d-md-none" alt="graph">
           
-            <a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php" style="
+            <a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php" class="d-none d-md-block" style="
     display: inline-block;
     position: absolute;
        left: 2%;
@@ -24,13 +24,31 @@ include('header.php'); ?>
     width: 24%;
     height: 10%;
 "></a>
-<a href="cancervax-targets-liver-cancers-to-further-showcase-flexibility-of-its-universal-platform.php" style="
+<a href="cancervax-targets-liver-cancers-to-further-showcase-flexibility-of-its-universal-platform.php" class="d-none d-md-block" style="
     display: inline-block;
     position: absolute;
        left: 2%;
     top: 82.3%;
     width: 24%;
     height: 10%;
+"></a>
+
+<!-- mobile -->
+<a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php" class="d-md-none" style="
+       display: inline-block;
+    position: absolute;
+    left: 31%;
+    top: 21.3%;
+    width: 18%;
+    height: 6%;
+"></a>
+<a href="cancervax-targets-liver-cancers-to-further-showcase-flexibility-of-its-universal-platform.php" class="d-md-none" style="
+    display: inline-block;
+    position: absolute;
+       left: 52.4%;
+   top: 21.3%;
+    width: 18%;
+    height: 6%;
 "></a>
         </div>
 
