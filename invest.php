@@ -48,6 +48,8 @@ include "header.php";
             <a href="www.colonialstock.com" target="_blank" rel="noopener noreferrer">www.colonialstock.com</a>
         </p>
 
+        <p class="mt-4">This Reg CF offering is made available through StartEngine Primary, LLC, member FINRA/SIPC. This investment is speculative, illiquid, and involves a high degree of risk, including the loss of your entire investment.</p>
+
 
     </div>
 </section>
