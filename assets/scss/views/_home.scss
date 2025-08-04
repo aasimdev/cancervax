@@ -4212,3 +4212,26 @@ li {
         margin-top: 32px;
     }
 }
+.t-cell-stimulatory-text{
+    max-width: 320px;
+    margin: 56px auto 0;
+    p{
+        font-size: 16px;
+        letter-spacing: 0;
+        font-weight: 600;
+        text-align: left;
+        margin-bottom: 0;
+    }
+    ul{
+        li{
+            display: flex;
+            span{
+                font-size: 14px;
+                &:first-child{
+                    min-width: 50px;
+                    display: inline-block;
+                }
+            }
+        }
+    }
+}

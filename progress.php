@@ -145,6 +145,62 @@ include('header.php'); ?>
     </div>
 </section>
 
+<section class="dev-milestones">
+    <div class="container">
+        <div class="dev-milestones-body">
+            <h5>August 5, 2025 – Successfully Disguised Cancer Cells and Tricked
+            Immune Cells into Attacking Them</h5>
+            <div class="dev-white-bg lipid-nanoparticle-wrap">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="lipid-nanoparticle d-flex flex-column justify-content-between">
+                            <img src="./assets/img/t-cells-stimulatory.png?v=<?php echo filemtime('./assets/img/t-cells-stimulatory.png'); ?>" alt="lipid-nanoparticle">
+                            <div class="t-cell-stimulatory-text">
+                                <p>
+                                Statistical Difference Between Conditions: 
+                            
+                                </p>
+                                <ul>
+                                    <li><span>ns</span><span>p>0.05 (not significant)</span></li>
+                                    <li><span>*</span><span>p<=0.05</span></li>
+                                    <li><span>**</span><span>p<=0.01</span></li>
+                                    <li><span>***</span><span>p<=0.001</span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <ul class="theme-list">
+                            <li>Non-immunogenic mRNA was used as a Negative Control to confirm little to no T-cell activation by cancer cells alone.
+                            </li>
+                            <li>Known immunogenic peptides were used as a Positive Control to confirm the expected level of T-cell activation.
+                            </li>
+                            <li>CancerVax mRNAs disguised cancer cells as measles and Sars-CoV-2, which activated T-cells to similar levels as the Positive Control. </li>
+                            <li><strong>The CancerVax trick worked, and worked very well!</strong></li>
+                        </ul>
+                       
+                    </div>
+                </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                      
+                        <div class="text-center mt-5">
+                            <a href="#" class="theme-btn">Update Video</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="text-center mt-lg-5">
+                            <a href="#" class="theme-btn">Press Release</a>
+                        </div>
+                    </div>
+                </div>
+           
+
+        </div>
+    </div>
+</section>
+
 
 
 <?php
