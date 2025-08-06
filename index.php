@@ -86,12 +86,6 @@ include('header.php'); ?>
                             <span>Watch video</span>
                         </a>
                     </div>
-                    <div class="banner-news d-lg-none">
-                        <h2 class="banner-news-head">Breaking News</h2>
-                        <div class="banner-news-thumbnail">
-                            <a href="https://cancervax.com/cancervax-successfully-disguises-cancer-cells-and-tricks-immune-cells-into-attacking-them.php"><img src="./assets/img/Rectangle1.png" alt="news-thumbnail"></a>
-                        </div>
-                    </div>
                     <h2 class="banner-video-head d-lg-none">Why Invest in CancerVax?</h2>
                     <div class="banner-video banner-video-top d-lg-none">
                         <div class="banner-thumbnail">
@@ -136,12 +130,6 @@ include('header.php'); ?>
                             <i class="far fa-play-circle"></i>
                             <span>Watch video</span>
                         </a>
-                    </div>
-                    <div class="banner-news d-none d-lg-flex">
-                        <h2 class="banner-news-head">Breaking News</h2>
-                        <div class="banner-news-thumbnail">
-                            <a href="https://cancervax.com/cancervax-successfully-disguises-cancer-cells-and-tricks-immune-cells-into-attacking-them.php"><img src="./assets/img/Rectangle1.png" alt="news-thumbnail"></a>
-                        </div>
                     </div>
                     <h2 class="banner-video-head d-none d-lg-block">Why Invest in CancerVax?</h2>
                     <div class="banner-video banner-video-top d-none d-lg-block">
