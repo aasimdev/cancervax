@@ -92,7 +92,7 @@ include('header.php'); ?>
                             <a href="https://cancervax.com/cancervax-successfully-disguises-cancer-cells-and-tricks-immune-cells-into-attacking-them.php"><img src="./assets/img/Rectangle1.png" alt="news-thumbnail"></a>
                         </div>
                     </div>
-                    <!-- <h2 class="banner-video-head d-lg-none">Why Invest in CancerVax?</h2>
+                    <h2 class="banner-video-head d-lg-none">Why Invest in CancerVax?</h2>
                     <div class="banner-video banner-video-top d-lg-none">
                         <div class="banner-thumbnail">
                             <img src="https://vumbnail.com/1086201571.png" alt="thumbnail">
@@ -102,7 +102,7 @@ include('header.php'); ?>
                             <span>Watch video</span>
                         </a>
                     </div>
-                    <h2 class="banner-video-head d-lg-none">CancerVax Scientists Featured on <br> Cytiva’s “Discovery Matters” Podcast</h2>
+                    <!-- <h2 class="banner-video-head d-lg-none">CancerVax Scientists Featured on <br> Cytiva’s “Discovery Matters” Podcast</h2>
                     <div class="banner-video banner-video-top d-lg-none">
                         <div class="banner-thumbnail">
                             <img src="//img.youtube.com/vi/Pmg9profy2g/maxresdefault.jpg" alt="thumbnail">
@@ -153,7 +153,7 @@ include('header.php'); ?>
                             <span>Watch video</span>
                         </a>
                     </div>
-                    <h2 class="banner-video-head d-none d-lg-block">CancerVax Scientists Featured on <br> Cytiva’s “Discovery Matters” Podcast</h2>
+                    <!-- <h2 class="banner-video-head d-none d-lg-block">CancerVax Scientists Featured on <br> Cytiva’s “Discovery Matters” Podcast</h2>
                     <div class="banner-video banner-video-top d-none d-lg-block">
                         <div class="banner-thumbnail">
                             <img src="//img.youtube.com/vi/Pmg9profy2g/maxresdefault.jpg" alt="thumbnail">
@@ -162,7 +162,7 @@ include('header.php'); ?>
                             <i class="far fa-play-circle"></i>
                             <span>Watch video</span>
                         </a>
-                    </div>
+                    </div> -->
 
                     <!-- <div class="banner-announcement">
                         <h4>Breaking News</h4>
