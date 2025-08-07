@@ -185,13 +185,13 @@ include('header.php'); ?>
                 <div class="row">
                     <div class="col-lg-6">
                       
-                        <div class="text-center mt-5">
+                        <!-- <div class="text-center mt-5">
                             <a href="#" class="theme-btn">Update Video</a>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="col-lg-6">
                         <div class="text-center mt-lg-5">
-                            <a href="#" class="theme-btn">Press Release</a>
+                            <a href="https://staging.cancervax.com/cancervax-successfully-disguises-cancer-cells-and-tricks-immune-cells-into-attacking-them.php" class="theme-btn">Press Release</a>
                         </div>
                     </div>
                 </div>
