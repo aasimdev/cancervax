@@ -4165,11 +4165,11 @@ label.error {
   .theme-list {
     padding-top: 18px;
     li {
-      font-size: 24px;
+      font-size: 20px;
       &:before {
         width: 10px;
         height: 10px;
-        top: 15px;
+        top: 11px;
       }
     }
   }
@@ -4187,4 +4187,27 @@ label.error {
   & + .invest-btn-bottom {
     margin-top: 32px;
   }
+}
+.t-cell-stimulatory-text{
+    max-width: 320px;
+    margin: 56px auto 0;
+    p{
+        font-size: 16px;
+        letter-spacing: 0;
+        font-weight: 600;
+        text-align: left;
+        margin-bottom: 0;
+    }
+    ul{
+        li{
+            display: flex;
+            span{
+                font-size: 14px;
+                &:first-child{
+                    min-width: 50px;
+                    display: inline-block;
+                }
+            }
+        }
+    }
 }
