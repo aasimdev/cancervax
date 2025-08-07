@@ -86,6 +86,12 @@ include('header.php'); ?>
                             <span>Watch video</span>
                         </a>
                     </div>
+                    <div class="banner-news d-lg-none">
+                        <h2 class="banner-news-head">Breaking News</h2>
+                        <div class="banner-news-thumbnail">
+                            <a href="https://cancervax.com/cancervax-successfully-disguises-cancer-cells-and-tricks-immune-cells-into-attacking-them.php"><img src="./assets/img/Rectangle1.png" alt="news-thumbnail"></a>
+                        </div>
+                    </div>
                     <h2 class="banner-video-head d-lg-none">Why Invest in CancerVax?</h2>
                     <div class="banner-video banner-video-top d-lg-none">
                         <div class="banner-thumbnail">
@@ -96,7 +102,7 @@ include('header.php'); ?>
                             <span>Watch video</span>
                         </a>
                     </div>
-                    <h2 class="banner-video-head d-lg-none">CancerVax Scientists Featured on <br> Cytiva’s “Discovery Matters” Podcast</h2>
+                    <!-- <h2 class="banner-video-head d-lg-none">CancerVax Scientists Featured on <br> Cytiva’s “Discovery Matters” Podcast</h2>
                     <div class="banner-video banner-video-top d-lg-none">
                         <div class="banner-thumbnail">
                             <img src="//img.youtube.com/vi/Pmg9profy2g/maxresdefault.jpg" alt="thumbnail">
@@ -105,7 +111,7 @@ include('header.php'); ?>
                             <i class="far fa-play-circle"></i>
                             <span>Watch video</span>
                         </a>
-                    </div>
+                    </div> -->
                     <div class="banner-text">
                         <p>
 
@@ -131,6 +137,12 @@ include('header.php'); ?>
                             <span>Watch video</span>
                         </a>
                     </div>
+                    <div class="banner-news d-none d-lg-flex">
+                        <h2 class="banner-news-head">Breaking News</h2>
+                        <div class="banner-news-thumbnail">
+                            <a href="https://cancervax.com/cancervax-successfully-disguises-cancer-cells-and-tricks-immune-cells-into-attacking-them.php"><img src="./assets/img/Rectangle1.png" alt="news-thumbnail"></a>
+                        </div>
+                    </div>
                     <h2 class="banner-video-head d-none d-lg-block">Why Invest in CancerVax?</h2>
                     <div class="banner-video banner-video-top d-none d-lg-block">
                         <div class="banner-thumbnail">
@@ -141,7 +153,7 @@ include('header.php'); ?>
                             <span>Watch video</span>
                         </a>
                     </div>
-                    <h2 class="banner-video-head d-none d-lg-block">CancerVax Scientists Featured on <br> Cytiva’s “Discovery Matters” Podcast</h2>
+                    <!-- <h2 class="banner-video-head d-none d-lg-block">CancerVax Scientists Featured on <br> Cytiva’s “Discovery Matters” Podcast</h2>
                     <div class="banner-video banner-video-top d-none d-lg-block">
                         <div class="banner-thumbnail">
                             <img src="//img.youtube.com/vi/Pmg9profy2g/maxresdefault.jpg" alt="thumbnail">
@@ -150,7 +162,7 @@ include('header.php'); ?>
                             <i class="far fa-play-circle"></i>
                             <span>Watch video</span>
                         </a>
-                    </div>
+                    </div> -->
 
                     <!-- <div class="banner-announcement">
                         <h4>Breaking News</h4>
@@ -468,6 +480,14 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="cancervax-successfully-disguises-cancer-cells-and-tricks-immune-cells-into-attacking-them.php"></a>
+                    <span>August 5, 2025 </span>
+                    <h3>CancerVax Successfully Disguises Cancer Cells and Tricks Immune Cells into Attacking Them</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform designed to use the body’s immune system to treat cancer, today announced that it has proven a major foundational hypothesis</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancervax-nanoparticle-successfully-targets-cancer-cells-while-sparing-non-cancerous-cells.php"></a>
                     <span>June 19, 2025 </span>
                     <h3>CancerVax Nanoparticle Successfully Targets Cancer Cells While Sparing Non-cancerous Cells</h3>
@@ -488,14 +508,6 @@ include('header.php'); ?>
                     <span>June 5, 2025 </span>
                     <h3>CancerVax Achieves Major Milestone with Successful Creation of Cell Targeting Nanoparticle</h3>
                     <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform designed to use the body’s immune system to treat cancer, today announced the successful creation of its nanoparticle that can target specific cells that are potentially cancerous</p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-scientists-featured-on-cytiva-discovery-matters-podcast-discussing-universal-cancer-vaccine-platform.php"></a>
-                    <span>June 3, 2025 </span>
-                    <h3>CancerVax Scientists Featured on Cytiva’s “Discovery Matters” Podcast Discussing Universal Cancer Vaccine Platform</h3>
-                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform that will use the body’s immune system to fight cancer, today announced that two of its lead scientists, Dr. George Katibah and Dr. Adam Grant, were recently featured on Cytiva’s influential podcast series, Discovery Matters. The episode highlights CancerVax’s revolutionary approach to immunotherapy and its mission to create a therapy that can universally target and destroy cancer cells</p>
                 </div>
             </div>
 

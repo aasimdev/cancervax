@@ -31,6 +31,8 @@
                                 <li>Formerly Senior Scientist and Head of Biochemistry at Aduro Biotech</li>
                                 <li>Received his B.S. in Plant Sciences from the University of California, Santa Cruz</li>
                                 <li>Received his PhD in Molecular and Cell Biology from the University of California, Berkeley</li>
+                                <li>A Co-inventor of the Company's Universal
+                                Cancer Treatment platform</li>
                             </ul>
                         </div>
                     </div>
@@ -59,6 +61,8 @@
                                 <li>Invented a gene-signature approach to select treatment for breast cancer</li>
                                 <li>Received his B.S in Bioinformatics from Brigham Young University</li>
                                 <li>Received his PhD in Cancer Biology with an emphasis in Bioinformatics from the University of Arizona</li>
+                                <li>A Co-inventor of the Company's Universal
+                                Cancer Treatment platform</li>
                             </ul>
                         </div>
                     </div>
