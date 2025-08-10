@@ -90,12 +90,12 @@ include('header.php'); ?>
                     <div class="col-lg-7">
                       
                         <div class="text-center mt-5">
-                        <a href="/webinar-feb-25-2025" class="theme-btn">View Webinar</a>
+                        <a href="/webinar-feb-25-2025" class="theme-btn">Update Video</a>
                         </div>
                     </div>
                     <div class="col-lg-5">
                         <div class="text-center mt-lg-5">
-                        <a href="cancervax-announces-successful-tests-of-its-smart-mrna-technology.php" class="theme-btn">View Press Release</a>
+                        <a href="cancervax-announces-successful-tests-of-its-smart-mrna-technology.php" class="theme-btn">Press Release</a>
                         </div>
                     </div>
                 </div>
@@ -130,12 +130,12 @@ include('header.php'); ?>
                     <div class="col-lg-6">
                       
                         <div class="text-center mt-5">
-                            <a href="/webinar-may-31-2025" class="theme-btn">View Webinar</a>
+                            <a href="/webinar-may-31-2025" class="theme-btn">Update Video</a>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="text-center mt-lg-5">
-                            <a href="cancerVax-achieves-major-milestone-with-successful-creation-of-cell-targeting-nanoparticle.php" class="theme-btn">View Press Release</a>
+                            <a href="cancerVax-achieves-major-milestone-with-successful-creation-of-cell-targeting-nanoparticle.php" class="theme-btn">Press Release</a>
                         </div>
                     </div>
                 </div>
