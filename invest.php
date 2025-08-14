@@ -28,7 +28,10 @@ include "header.php";
 
             <div class="invest-btn-bottom">
                 <p>Read to Invest? Click Below:</p>
-            <a href="https://www.startengine.com/offering/cancervax" target="_blank" class="theme-btn orange-btn text-uppercase">Invest in CancerVax!</a>
+                <div class="d-flex justify-content-center gap-5">
+                <a href="https://invest.cancervax.com/" target="_blank" class="theme-btn orange-btn text-uppercase">Accredited <br> Investors</a>
+                <a href="https://www.startengine.com/offering/cancervax" target="_blank" class="theme-btn orange-btn text-uppercase">Non-Accredited <br> Investors</a>
+                </div>
             </div>
             <div class="invest-btn-bottom">
                 <p>Get Your Investment Question Answered</p>
