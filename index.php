@@ -146,13 +146,13 @@ include('header.php'); ?>
                             <span>Watch video</span>
                         </a>
                     </div>
-                    <div class="banner-news d-none d-lg-flex">
+                    <div class="banner-news d-none d-lg-flex mx-auto">
                         <h2 class="banner-news-head">Breaking News</h2>
                         <div class="banner-news-thumbnail">
                             <a href="https://cancervax.com/cancervax-successfully-disguises-cancer-cells-and-tricks-immune-cells-into-attacking-them.php"><img src="./assets/img/Rectangle1.png" alt="news-thumbnail"></a>
                         </div>
                     </div>
-                    <h2 class="banner-news-head text-capitalize fs-4 d-none d-lg-block">Scientific Team Discusses the Breakthrough</h2>
+                    <h2 class="banner-news-head text-capitalize fs-4 d-none d-lg-block mx-auto">Scientific Team Discusses the Breakthrough</h2>
                     <!-- <div class="banner-video banner-video-top d-none d-lg-block">
                         <div class="banner-thumbnail">
                             <img src="https://vumbnail.com/1086201571.png" alt="thumbnail">
@@ -162,7 +162,7 @@ include('header.php'); ?>
                             <span>Watch video</span>
                         </a>
                     </div> -->
-                    <div class="banner-video banner-video-top d-none d-lg-block">
+                    <div class="banner-video banner-video-top d-none d-lg-block mx-auto">
                         <div class="banner-thumbnail">
                             <img src="//img.youtube.com/vi/EyANY8BXCX4/maxresdefault.jpg" alt="thumbnail">
                         </div>
