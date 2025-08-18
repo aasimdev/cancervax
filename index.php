@@ -92,8 +92,17 @@ include('header.php'); ?>
                             <a href="https://cancervax.com/cancervax-successfully-disguises-cancer-cells-and-tricks-immune-cells-into-attacking-them.php"><img src="./assets/img/Rectangle1.png" alt="news-thumbnail"></a>
                         </div>
                     </div>
-                    <h2 class="banner-video-head d-lg-none">Why Invest in CancerVax?</h2>
+                    <h2 class="banner-news-head text-capitalize fs-4 d-lg-none">Scientific Team Discusses the Breakthrough</h2>
                     <div class="banner-video banner-video-top d-lg-none">
+                        <div class="banner-thumbnail">
+                            <img src="//img.youtube.com/vi/EyANY8BXCX4/maxresdefault.jpg" alt="thumbnail">
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=EyANY8BXCX4" class="theme-btn text-uppercase popup-youtube">
+                            <i class="far fa-play-circle"></i>
+                            <span>Watch video</span>
+                        </a>
+                    </div>
+                    <!-- <div class="banner-video banner-video-top d-lg-none">
                         <div class="banner-thumbnail">
                             <img src="https://vumbnail.com/1086201571.png" alt="thumbnail">
                         </div>
@@ -101,7 +110,7 @@ include('header.php'); ?>
                             <i class="far fa-play-circle"></i>
                             <span>Watch video</span>
                         </a>
-                    </div>
+                    </div> -->
                     <!-- <h2 class="banner-video-head d-lg-none">CancerVax Scientists Featured on <br> Cytiva’s “Discovery Matters” Podcast</h2>
                     <div class="banner-video banner-video-top d-lg-none">
                         <div class="banner-thumbnail">
@@ -143,12 +152,21 @@ include('header.php'); ?>
                             <a href="https://cancervax.com/cancervax-successfully-disguises-cancer-cells-and-tricks-immune-cells-into-attacking-them.php"><img src="./assets/img/Rectangle1.png" alt="news-thumbnail"></a>
                         </div>
                     </div>
-                    <h2 class="banner-video-head d-none d-lg-block">Why Invest in CancerVax?</h2>
-                    <div class="banner-video banner-video-top d-none d-lg-block">
+                    <h2 class="banner-news-head text-capitalize fs-4 d-none d-lg-block">Scientific Team Discusses the Breakthrough</h2>
+                    <!-- <div class="banner-video banner-video-top d-none d-lg-block">
                         <div class="banner-thumbnail">
                             <img src="https://vumbnail.com/1086201571.png" alt="thumbnail">
                         </div>
                         <a href="/invest" class="theme-btn text-uppercase">
+                            <i class="far fa-play-circle"></i>
+                            <span>Watch video</span>
+                        </a>
+                    </div> -->
+                    <div class="banner-video banner-video-top d-none d-lg-block">
+                        <div class="banner-thumbnail">
+                            <img src="//img.youtube.com/vi/EyANY8BXCX4/maxresdefault.jpg" alt="thumbnail">
+                        </div>
+                        <a href="https://www.youtube.com/watch?v=EyANY8BXCX4" class="theme-btn text-uppercase popup-youtube">
                             <i class="far fa-play-circle"></i>
                             <span>Watch video</span>
                         </a>
