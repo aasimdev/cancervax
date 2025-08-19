@@ -498,6 +498,14 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="scientists-discuss-the-recent-cancervax-breakthrough.php"></a>
+                    <span>August 19, 2025 </span>
+                    <h3>Scientists Discuss the Recent CancerVax Breakthrough</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform designed to use the body’s immune system to treat cancer, today announced the release of a video presentation featuring its scientific team discussing the recent breakthrough</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancervax-successfully-disguises-cancer-cells-and-tricks-immune-cells-into-attacking-them.php"></a>
                     <span>August 5, 2025 </span>
                     <h3>CancerVax Successfully Disguises Cancer Cells and Tricks Immune Cells into Attacking Them</h3>
@@ -518,14 +526,6 @@ include('header.php'); ?>
                     <span>June 9, 2025 </span>
                     <h3>CancerVax Targets Liver Cancers to Further Showcase Flexibility of Its Universal Platform</h3>
                     <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform designed to use the body’s immune system to treat cancer, today announced that it will expand its preclinical program to include liver cancers, specifically rare stem cell-like forms of hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (ICC). Patients with these stem cell-like tumors have a significantly worse survival than patients with more traditional liver tumors</p>
-                </div>
-            </div>
-        <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancerVax-achieves-major-milestone-with-successful-creation-of-cell-targeting-nanoparticle.php"></a>
-                    <span>June 5, 2025 </span>
-                    <h3>CancerVax Achieves Major Milestone with Successful Creation of Cell Targeting Nanoparticle</h3>
-                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment (UCT) platform designed to use the body’s immune system to treat cancer, today announced the successful creation of its nanoparticle that can target specific cells that are potentially cancerous</p>
                 </div>
             </div>
 
