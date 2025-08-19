@@ -184,6 +184,9 @@ include('header.php'); ?>
                 </div>
                 <div class="row">
                     <div class="col-lg-6">
+                    <div class="text-center mt-5">
+                            <a href="/update-video-august-5-2025" class="theme-btn">Update Video</a>
+                        </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="text-center mt-lg-5">
