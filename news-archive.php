@@ -17,6 +17,14 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="scientists-discuss-the-recent-cancervax-breakthrough.php"></a>
+                    <span>August 19, 2025 </span>
+                    <h3>Scientists Discuss the Recent CancerVax Breakthrough</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform designed to use the body’s immune system to treat cancer, today announced the release of a video presentation featuring its scientific team discussing the recent breakthrough</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
                     <a href="cancervax-successfully-disguises-cancer-cells-and-tricks-immune-cells-into-attacking-them.php"></a>
                     <span>August 5, 2025 </span>
                     <h3>CancerVax Successfully Disguises Cancer Cells and Tricks Immune Cells into Attacking Them</h3>
