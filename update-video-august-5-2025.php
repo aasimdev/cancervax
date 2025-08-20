@@ -7,6 +7,9 @@ include "header.php";
 
 <section class="news-detail" style="padding-bottom: 100px;">
     <div class="container">
+    <div class="post-title text-center">
+        <h1 class="newtitle">August 5, 2025 – Successfully Disguised Cancer Cells <br class="d-none d-lg-block"> and Tricked Immune Cells into Attacking Them</h1>
+        </div>
             <div class="invest-iframe-video video-wrapper">
                 <iframe
                     data-video-id="1110085683?h=9986ef9a2a&"

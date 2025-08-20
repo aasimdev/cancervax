@@ -7,6 +7,11 @@ include "header.php";
 
 <section class="news-detail" style="padding-bottom: 100px;">
     <div class="container">
+    <div class="post-title text-center">
+        <h1 class="newtitle">May 31, 2025 – Successfully Made Cell Targeting Nanoparticle!</h1>
+        </div>
+
+        
             <div class="invest-iframe-video video-wrapper">
                 <iframe
                     data-video-id="1088764643?h=6170b7e696&"

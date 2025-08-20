@@ -7,6 +7,9 @@ include "header.php";
 
 <section class="news-detail" style="padding-bottom: 100px;">
     <div class="container">
+    <div class="post-title text-center">
+        <h1 class="newtitle">February 25, 2025 – Smart mRNA Works!</h1>
+        </div>
             <div class="invest-iframe-video video-wrapper">
                 <iframe
                     data-video-id="1074009289"
