@@ -8,12 +8,12 @@ include "header.php";
 <section class="news-detail" style="padding-bottom: 100px;">
     <div class="container">
     <div class="post-title text-center">
-        <h1 class="newtitle">February 25, 2025 – Smart mRNA Works!</h1>
+        <h1 class="newtitle">August 5, 2025 – Successfully Disguised Cancer Cells <br class="d-none d-lg-block"> and Tricked Immune Cells into Attacking Them</h1>
         </div>
             <div class="invest-iframe-video video-wrapper">
                 <iframe
-                    data-video-id="1074009289"
-                    src="https://player.vimeo.com/video/1074009289?controls=0&muted=1&playsinline=1"
+                    data-video-id="1110085683?h=9986ef9a2a&"
+                    src="https://player.vimeo.com/video/1110085683?h=9986ef9a2a&controls=0&muted=1&playsinline=1"
                     frameborder="0"
                     allow="autoplay; fullscreen; picture-in-picture"
                     allowfullscreen
