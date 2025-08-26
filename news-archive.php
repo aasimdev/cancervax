@@ -15,6 +15,14 @@ include('header.php'); ?>
     <div class="container">
         <h4>Press Releases</h4>
         <div class="row">
+        <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancervax-achieves-major-milestones-and-files-foundational-patent-application.php"></a>
+                    <span>August 26, 2025 </span>
+                    <h3>CancerVax Achieves Major Milestones and Files Foundational Patent Application</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that uses the body’s immune system to treat cancer, today announced that it recently filed a foundational PCT patent application to protect its novel innovations</p>
+                </div>
+            </div>
             <div class="col-lg-6">
                 <div class="news-item">
                     <a href="scientists-discuss-the-recent-cancervax-breakthrough.php"></a>
