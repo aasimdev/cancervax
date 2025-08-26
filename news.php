@@ -17,6 +17,14 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-lg-6">
                 <div class="news-item">
+                    <a href="cancervax-achieves-major-milestones-and-files-foundational-patent-application.php"></a>
+                    <span>August 26, 2025 </span>
+                    <h3>CancerVax Achieves Major Milestones and Files Foundational Patent Application</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that uses the body’s immune system to treat cancer, today announced that it recently filed a foundational PCT patent application to protect its novel innovations</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
                     <a href="scientists-discuss-the-recent-cancervax-breakthrough.php"></a>
                     <span>August 19, 2025 </span>
                     <h3>Scientists Discuss the Recent CancerVax Breakthrough</h3>
@@ -37,14 +45,6 @@ include('header.php'); ?>
                     <span>June 19, 2025 </span>
                     <h3>CancerVax Nanoparticle Successfully Targets Cancer Cells While Sparing Non-cancerous Cells</h3>
                     <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform designed to use the body’s immune system to treat cancer, today announced that its ligand conjugated lipid nanoparticle (“LNP”) successfully targeted cancer cells and avoided non-cancerous cells</p>
-                </div>
-            </div>
-        <div class="col-lg-6">
-                <div class="news-item">
-                    <a href="cancervax-targets-liver-cancers-to-further-showcase-flexibility-of-its-universal-platform.php"></a>
-                    <span>June 9, 2025 </span>
-                    <h3>CancerVax Targets Liver Cancers to Further Showcase Flexibility of Its Universal Platform</h3>
-                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform designed to use the body’s immune system to treat cancer, today announced that it will expand its preclinical program to include liver cancers, specifically rare stem cell-like forms of hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (ICC). Patients with these stem cell-like tumors have a significantly worse survival than patients with more traditional liver tumors</p>
                 </div>
             </div>
            
