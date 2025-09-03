@@ -10,7 +10,7 @@ include('header.php'); ?>
         </div>
 
         <h3>Dr. Gordon Ringold to advise on various strategies related to the development of the Company’s novel cancer treatment platform</h3>
-        <p>Lehi, Utah, September 3, 2025 – CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that uses the body’s immune system to treat cancer, today announced that Gordon Ringold, PhD has joined the Company and will serve as Strategic Advisor. </p>
+        <p>Lehi, Utah, September 3, 2025 – CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that uses the body’s immune system to treat cancer, today announced that Gordon Ringold, PhD, has joined the Company and will serve as Strategic Advisor. </p>
 
         <p>CancerVax was founded on the idea that disguising cancer cells to resemble foreign pathogens, such as the measles virus, could effectively “trick” the immune system into recognizing and aggressively attacking them. Recently, the Company announced that it has proven this is possible with in-vitro lab experiments – a major milestone.   </p>
 

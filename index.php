@@ -501,7 +501,7 @@ include('header.php'); ?>
                     <a href="legendary-scientist-and-biotech-veteran-joins-cancervax-as-strategic-advisor.php"></a>
                     <span>September 3, 2025 </span>
                     <h3>Legendary Scientist and Biotech Veteran Joins CancerVax as Strategic Advisor</h3>
-                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that uses the body’s immune system to treat cancer, today announced that Gordon Ringold, PhD has joined the Company and will serve as Strategic Advisor</p>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that uses the body’s immune system to treat cancer, today announced that Gordon Ringold, PhD, has joined the Company and will serve as Strategic Advisor</p>
                 </div>
             </div>
         <div class="col-lg-6">
