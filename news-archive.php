@@ -18,6 +18,14 @@ include('header.php'); ?>
         <div class="col-lg-6">
                 <div class="news-item">
                     <a href="cancervax-achieves-major-milestones-and-files-foundational-patent-application.php"></a>
+                    <span>September 3, 2025 </span>
+                    <h3>Legendary Scientist and Biotech Veteran Joins CancerVax as Strategic Advisor</h3>
+                    <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that uses the body’s immune system to treat cancer, today announced that Gordon Ringold, PhD has joined the Company and will serve as Strategic Advisor</p>
+                </div>
+            </div>
+        <div class="col-lg-6">
+                <div class="news-item">
+                    <a href="cancervax-achieves-major-milestones-and-files-foundational-patent-application.php"></a>
                     <span>August 26, 2025 </span>
                     <h3>CancerVax Achieves Major Milestones and Files Foundational Patent Application</h3>
                     <p>CancerVax, Inc., the developer of a breakthrough universal cancer treatment platform that uses the body’s immune system to treat cancer, today announced that it recently filed a foundational PCT patent application to protect its novel innovations</p>
