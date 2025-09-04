@@ -6,11 +6,11 @@
 
         <div class="team-wrapper">
             <div class="row justify-content-center">
-                <div class="col-md-6 col-xl-4">
+                <div class="col-md-6 col-xl-3">
                     <div class="team-box">
                         <div class="team-box-img">
                             <a href="#">
-                                <img src="./assets/img/george.png" class="object-fit-cover unsized-team" style="object-position: 100% 0;" alt="john">
+                                <img src="./assets/img/george.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
                             </a>
                         </div>
                         <h5>
@@ -37,7 +37,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-xl-4">
+                <div class="col-md-6 col-xl-3">
                     <div class="team-box">
                         <div class="team-box-img">
                             <a href="#">
@@ -67,7 +67,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-xl-4">
+                <div class="col-md-6 col-xl-3">
                     <div class="team-box">
                         <div class="team-box-img">
                             <a href="#">
@@ -94,41 +94,36 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-md-6 col-xl-3">
+                    <div class="team-box">
+                        <div class="team-box-img">
+                            <a href="#">
+                                <img src="./assets/img/gordon-ringold.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
+                            </a>
+                        </div>
+                        <h5>
+                        Gordon Ringold, 
+                        <span>PhD</span>
+
+                        </h5>
+                        <p>
+                        Strategic Advisor
+                        </p>
+
+
+                        <div class="team-description">
+                            <img src="./assets/img/gordon-ringold.png" alt="Team Image" class="team-head">
+                            <p class="py-2">Dr. Gordon Ringold is currently CEO of Quadriga BioSciences, a clinical phase cancer biotech company developing a novel L-type Amino Acid Transporter 1 (LAT1) for delivering chemotherapeutic agents across the blood brain barrier and into rapidly growing cancer cells. He is also the Founder and Executive Chairman of Maxymune, a biopharma company developing differentiated treatments to transform the lives of those affected by serious immunological diseases. He is currently on the board of directors of Okava Pharmaceuticals. From 1997 to 2015, he served in various capacities as Co-Founder and/or CEO of Maxygen, SurroMed, Alexza, and Alavita. From 1991 to 2000, Dr. Ringold was CEO and Scientific Director of Affymax Research Institute (acquired by Glaxo in 1995) where he managed the development of novel technologies to accelerate the pace of drug discovery; prior to that he was VP and Director of the Institute for Cancer and Developmental Biology at Syntex Corporation (1986-1991).
+                            </p>
+                            <p class="py-2">Dr. Ringold received his Ph.D. in the laboratory of Dr. Harold Varmus (University of California, San Francisco), before joining the Stanford University School of Medicine, Department of Pharmacology (1978-1987). While on the Stanford faculty he invented technologies for manufacturing of recombinant proteins in mammalian cells, now widely used for production of dozens of therapeutic products and received the John J. Abel Award as the best Pharmacologist in the US under the age of 35. Dr. Ringold is an alumnus of Crown College, University of California, Santa Cruz, 1972.</p>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="team-wrapper">
             <div class="row my-4 justify-content-center">
-                <div class="col-md-6 col-xl-4">
-                    <div class="team-box">
-                        <div class="team-box-img">
-                            <a href="#">
-                                <img src="./assets/img/amit-indap.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
-                            </a>
-                        </div>
-                        <h5>
-                            Amit Indap, <span>PhD</span>
-                        </h5>
-                        <p>
-                            Scientific Advisor
-                        </p>
-                        <div class="team-description">
-                        <img src="./assets/img/amit-indap.png" alt="Team Image" class="team-head">
-                            <ul class="theme-list pb-4 px-4">
-                                <li>
-                                    Expert in immuno-oncology involving mRNA vaccine development for cancer and COVID, CDx development using comprehensive genomic profiling of tumors, ctDNA analysis of clinical samples, NGS based antibody discovery, and single cell RNAseq analysis</li>
-                                <li>Formerly Principal Scientist at Pfizer</li>
-                                <li>Formerly Scientist at Good Start Genetics</li>
-                                <li>Formerly Research Scientist at Human Longevity, Inc.</li>
-                                <li>Formerly Bioinformatics Scientist at Illumina</li>
-                                <li>Formerly Senior Manager of Bioinformatics at Xencor</li>
-                                <li>Received his B.S. in Molecular and Cellular Biology and minor in Computer Science From University of Arizona</li>
-                                <li>Received his M.S. degree in bioinformatics from Medical College of Wisconsin</li>
-                                <li>Received his PhD in Biology from Boston College</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-xl-4">
+               
+                <div class="col-md-6 col-xl-3">
                     <div class="team-box">
                         <div class="team-box-img">
                             <a href="#">
@@ -160,10 +155,38 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-md-6 col-xl-3">
+                    <div class="team-box">
+                        <div class="team-box-img">
+                            <a href="#">
+                                <img src="./assets/img/steven-warner.png" class="object-fit-cover" style="    object-position: bottom;" alt="john">
+                            </a>
+                        </div>
+                        <h5>
+                            Steven Warner, <span>PhD</span>
+                        </h5>
+                        <p>
+                            Scientific Advisor
+                        </p>
+                        <div class="team-description">
+                        <img src="./assets/img/steven-warner.png" alt="Team Image" class="team-head">
+                            <ul class="theme-list pb-4 px-4">
+                                <li>Specializes in small molecule drug discovery, new screening platforms in drug discovery, and translational research focusing on cancer therapeutics</li>
+                                <li>He is an expert in the discovery of novel cancer agents and has played integral roles in moving multiple compounds into clinical trials.</li>
+                                <li>Currently Senior VP and Head of US Research at Sumitomo Pharma America</li>
+                                <li>Formerly Manager of Discovery Biology at SuperGen</li>
+                                <li>Formerly Senior Manager of Drug Discovery at Huntsman Cancer Institute</li>
+                                <li>Formerly VP of Drug Discovery at Tolero Pharmaceuticals</li>
+                                <li>Received his B.S. in Biology from Brigham Young University</li>
+                                <li>Received his PhD in Pharmaceutical Sciences from the University of Arizona</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="row my-4 justify-content-center">
 
-                <div class="col-md-6 col-xl-4">
+                <div class="col-md-6 col-xl-3">
                     <div class="team-box">
                         <div class="team-box-img">
                             <a href="#">
@@ -195,30 +218,34 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-xl-4">
+              
+
+                <div class="col-md-6 col-xl-3">
                     <div class="team-box">
                         <div class="team-box-img">
                             <a href="#">
-                                <img src="./assets/img/steven-warner.png" class="object-fit-cover" style="    object-position: bottom;" alt="john">
+                                <img src="./assets/img/amit-indap.png" class="object-fit-cover" style="object-position: 100% 0;" alt="john">
                             </a>
                         </div>
                         <h5>
-                            Steven Warner, <span>PhD</span>
+                            Amit Indap, <span>PhD</span>
                         </h5>
                         <p>
                             Scientific Advisor
                         </p>
                         <div class="team-description">
-                        <img src="./assets/img/steven-warner.png" alt="Team Image" class="team-head">
+                        <img src="./assets/img/amit-indap.png" alt="Team Image" class="team-head">
                             <ul class="theme-list pb-4 px-4">
-                                <li>Specializes in small molecule drug discovery, new screening platforms in drug discovery, and translational research focusing on cancer therapeutics</li>
-                                <li>He is an expert in the discovery of novel cancer agents and has played integral roles in moving multiple compounds into clinical trials.</li>
-                                <li>Currently Senior VP and Head of US Research at Sumitomo Pharma America</li>
-                                <li>Formerly Manager of Discovery Biology at SuperGen</li>
-                                <li>Formerly Senior Manager of Drug Discovery at Huntsman Cancer Institute</li>
-                                <li>Formerly VP of Drug Discovery at Tolero Pharmaceuticals</li>
-                                <li>Received his B.S. in Biology from Brigham Young University</li>
-                                <li>Received his PhD in Pharmaceutical Sciences from the University of Arizona</li>
+                                <li>
+                                    Expert in immuno-oncology involving mRNA vaccine development for cancer and COVID, CDx development using comprehensive genomic profiling of tumors, ctDNA analysis of clinical samples, NGS based antibody discovery, and single cell RNAseq analysis</li>
+                                <li>Formerly Principal Scientist at Pfizer</li>
+                                <li>Formerly Scientist at Good Start Genetics</li>
+                                <li>Formerly Research Scientist at Human Longevity, Inc.</li>
+                                <li>Formerly Bioinformatics Scientist at Illumina</li>
+                                <li>Formerly Senior Manager of Bioinformatics at Xencor</li>
+                                <li>Received his B.S. in Molecular and Cellular Biology and minor in Computer Science From University of Arizona</li>
+                                <li>Received his M.S. degree in bioinformatics from Medical College of Wisconsin</li>
+                                <li>Received his PhD in Biology from Boston College</li>
                             </ul>
                         </div>
                     </div>
