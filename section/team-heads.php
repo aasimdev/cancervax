@@ -53,7 +53,6 @@
                         <div class="team-description">
                         <img src="./assets/img/adam-grant.png" alt="Team Image" class="team-head">
                             <ul class="theme-list pb-4 px-4">
-                                <li>An inventor of the Company’s Universal Cancer Treatment platform</li>
                                 <li>Expert computational biologist using next generation sequencing data to identify new drug targets and biomarkers of response to cancer therapeutics </li>
                                 <li>Formerly Bioinformatician at Xenter Medical Technologies</li>
                                 <li>Formerly Computational Scientist at RAPT Therapeutics</li>
