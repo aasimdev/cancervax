@@ -13,8 +13,8 @@ include('header.php'); ?>
 <section class="graph">
     <div class="container">
         <div class="graph-wrap">
-            <img src="./assets/img/graph.png" class="d-none d-md-block" alt="graph">
-            <img src="./assets/img/graph-mobile.png" class="d-md-none" alt="graph">
+            <img src="./assets/img/graph.png?v=<?php echo filemtime('./assets/img/graph.png'); ?>" class="d-none d-md-block" alt="graph">
+            <img src="./assets/img/graph-mobile.png?v=<?php echo filemtime('./assets/img/graph-mobile.png'); ?>" class="d-md-none" alt="graph">
           
             <a href="cancervax-targets-hard-to-treat-pancreatic-cancer.php" class="d-none d-md-block" style="
     display: inline-block;
