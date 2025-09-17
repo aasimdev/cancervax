@@ -826,13 +826,16 @@ body.modal-open {
 .abtBanner {
   background-color: #000;
   background-image: url(../img/newhero.jpg);
-  background-position: top center;
+  background-position: 100% 8%;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
+  // height: 100vh;
   display: flex;
   align-items: end;
-  padding-bottom: 48px;
+  // padding-bottom: 48px;
+  margin-top: 90px;
+  text-align: center;
+  padding: 110px 0;
 
   & > .container {
     height: 100%;
@@ -965,7 +968,7 @@ body.modal-open {
 
 .coreTeam {
   background-color: #ffffff;
-  padding: 100px 0;
+  padding: 40px 0;
 
   .team-box {
     text-align: center;
@@ -3994,7 +3997,7 @@ label.error {
 }
 .about-team-content {
   background: #fff url("../img/team-first-bg.png") no-repeat center / cover;
-  padding: 160px 0;
+  padding: 40px 0;
   h2 {
     color: #2a5c6e;
     text-align: center;
