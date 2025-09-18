@@ -218,8 +218,8 @@ margin-bottom: 30px;
     .artificial-intelligence p {
         font-size: 18px;
     }
-    .abtBanner{
-        margin-top: 82px;
+    .abtBanner, .techBanner{
+        margin-top: 75px;
     }
 }
 
@@ -634,19 +634,7 @@ margin-bottom: 30px;
         font-size: 50px;
     }
 
-    .pipelinebanner {
-        padding: 120px 0px 80px;
-        margin-top: 0;
-    }
 
-    .marketbanner {
-        padding-top: 120px;
-        margin-top: 0;
-    }
-
-    .marketbanner h1 {
-        min-height: 140px;
-    }
 
     .news-detail {
         padding-top: 110px;
@@ -684,10 +672,14 @@ margin-bottom: 30px;
 
     .abtBanner {
         position: relative;
-        padding-top: 85px;
         margin-top: 0;
+        padding: 100px 0;
     }
-
+    .techBanner, .pipelinebanner, .marketbanner, .cchatsbanner{
+        margin-top: 0;
+        padding: 100px 0;
+    }
+   
     .invest-bar-text a {
         flex: 0 0 auto;
     }
@@ -766,10 +758,8 @@ margin-bottom: 30px;
                 font-size: 18px;
                 line-height: 22px;
             }
-            .techBanner {
-                padding: 100px 0 85px;
-            }
-            .techBanner .techBanner-text h1 {
+          
+            .techBanner .techBanner-text h1, .abtBanner-title h1,.pipelinebanner h1, .immTitle h1, .cchatsbanner h1 {
                 font-size: 64px;
             }
             .dev-milestone-img{
@@ -972,10 +962,7 @@ margin-bottom: 30px;
         font-size: 14px;
     }
 
-    .cchatsbanner {
-        padding: 120px 0px 40px 0px;
-        margin-top: 0;
-    }
+  
 
     .podcast-detail {
         margin-top: 0;
@@ -1464,11 +1451,9 @@ margin-bottom: 30px;
     .coreTeam .team-box h5{
         font-size: 16px;
     }
-    .techBanner {
-        padding: 121px 0 98px;
-    }
-    .techBanner .techBanner-text h1 {
-        font-size: 57px;
+   
+    .techBanner .techBanner-text h1, .abtBanner-title h1, .pipelinebanner h1, .immTitle h1, .cchatsbanner h1 {
+        font-size: 50px;
     }
     .cancer-treatment .ct-heading{
         text-align: left;
