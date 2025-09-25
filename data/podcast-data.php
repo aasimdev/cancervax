@@ -513,14 +513,6 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Andrew Van Noy - Retinoblastoma",
-        'videoID' => "y9gaBzk8c5g",
-        'date' => "July 25, 2023",
-        'category' => "cancer-survivor-stories",
-        'slug' => "andrew-van-noy-retinoblastoma",
-        'scope' => "public"
-    ],
-    [
         'title' => "Juli Mathews - Leukemia",
         'videoID' => "bYhTlLSvwvU",
         'date' => "July 24, 2023",

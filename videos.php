@@ -231,17 +231,7 @@ include('header.php'); ?>
                     <p class="mt-0">August 22, 2023 - Paul Chretien - Colorectal Cancer</p>
                 </div>
             </div>
-            <div class="col-xl-3 col-lg-4 col-md-6">
-                <div class="cchat">
-                    <div class="cchat-box mb-4">
-                        <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=y9gaBzk8c5g"></a>
-                        <div class="cchat-thumbnail thumbnail-overlay">
-                        </div>
-                        <i class="far fa-play-circle"></i>
-                    </div>
-                    <p class="mt-0">July 25, 2023 - Andrew Van Noy - Retinoblastoma</p>
-                </div>
-            </div>
+
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="cchat">
                     <div class="cchat-box mb-4">
