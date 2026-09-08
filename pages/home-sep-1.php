@@ -638,7 +638,7 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
                                     <span class="pointer-events-none relative z-10 shrink-0 scale-[1.3] rounded-full bg-[#ff1f24] px-4 py-2 text-[11px] font-bold uppercase tracking-[0.12em] text-white shadow-[0_5px_14px_rgba(0,0,0,0.28)]">BREAKING NEWS</span>
                                 </div>
                                 <div class="flex min-h-0 w-full flex-1 items-center justify-center">
-                                    <div class="home-aug-29-mobile-card-copy w-full text-center text-black" style="font-family: 'Montserrat', sans-serif; font-size: clamp(0.9rem, 1.35vw, 1.15rem); font-weight: 600; line-height: 1.25; transform: translateY(-20px);">
+                                    <div class="home-aug-29-mobile-card-copy w-full text-center text-black" style="font-family: 'Public Sans', sans-serif; font-size: clamp(0.9rem, 1.35vw, 1.15rem); font-weight: 600; line-height: 1.25; transform: translateY(-20px);">
                                         CancerVax Achieves Major<br>
                                         Milestone in Activating Human<br>
                                         Killer T-Cells Against Cancer<br>

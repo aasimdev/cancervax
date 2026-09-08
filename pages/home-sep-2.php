@@ -56,6 +56,16 @@ if ($developmentPartnersHeadingCount !== 1) {
 }
 
 $homeSep2Page = str_replace($developmentPartnersHeading, $developmentPartnersHeadingReplacement, $homeSep2Page);
+
+$newsHighlightsHeading = '<h4 class="mb-9 text-xl font-medium text-black">News Highlights</h4>';
+$newsHighlightsHeadingReplacement = '<div class="text-center max-w-4xl mx-auto mb-[30px]"><h3 class="text-black font-medium">News Highlights</h3></div>';
+$newsHighlightsHeadingCount = substr_count($homeSep2Page, $newsHighlightsHeading);
+
+if ($newsHighlightsHeadingCount !== 1) {
+    throw new RuntimeException('Unable to match the home-sep-2 news highlights heading to the development partners style.');
+}
+
+$homeSep2Page = str_replace($newsHighlightsHeading, $newsHighlightsHeadingReplacement, $homeSep2Page);
 ?>
 <?php echo $homeSep2Page; ?>
 <style>

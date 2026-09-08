@@ -10,11 +10,11 @@ if ($page !== "prep") {
                         <input type="hidden" name="formID" value="242775392698071" />
                         <input type="email" id="input_3" name="q3_email" class="bg-custom-gray-200 text-black text-[17px] rounded-[30px] h-[60px] border-0 px-[30px] block w-full font-normal leading-normal focus:outline-none focus:ring-0 focus:shadow-none" placeholder="Your email address..." required />
                         <div class="form-line control-formnew mt-2 jf-required text-left" data-type="control_captcha" id="id_4">
-                            <label class="text-black text-[15px] font-normal leading-relaxed text-left"  id="label_4" for="input_4" aria-hidden="false">
+                            <label class="block text-black text-[15px] font-normal leading-relaxed text-center"  id="label_4" for="input_4" aria-hidden="false">
                                 Please verify that you are human<span class="form-required">*</span>
                             </label>
                             <div id="cid_4" class="form-input-wide jf-required" data-layout="full">
-                                <section data-wrapper-react="true">
+                                <section data-wrapper-react="true" class="flex justify-center">
                                     <div id="hcaptcha_input_4" class="h-captcha"
                                         data-sitekey="772f4a50-7161-425e-8cd5-4d7e361ab765"
                                         data-callback="onCaptchaSuccess"

@@ -3,11 +3,9 @@ $videos = include __DIR__ . '/../data/carousel-videos.php';
 $news = include __DIR__ . '/../data/news-data.php'; ?>
 
 <style>
-    @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
-
     body.home-aug-28-c-page,
     body.home-aug-28-c-page *:not(i[class*="fa-"]) {
-        font-family: "Montserrat", sans-serif !important;
+        font-family: "Public Sans", sans-serif !important;
     }
 
     body.home-aug-28-c-page .home-aug-28-c-topbar {
@@ -96,7 +94,7 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
         gap: 16px;
         padding: 3px 0;
         margin-bottom: 0;
-        font-family: "Montserrat", sans-serif;
+        font-family: "Public Sans", sans-serif;
         color: #ffffff;
         font-size: 22px;
         font-weight: 500;

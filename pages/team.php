@@ -21,8 +21,9 @@
 </section>
 
 <a name="about-team" id="about-team" style="position: relative; top:-80px"></a>
-<?php include('components/team-heads.php'); ?>
+<?php include __DIR__ . '/../components/team-page-current-sections.php'; ?>
 
+<?php if (false): ?>
 <section class="pb-[70px]">
     <div class="container">
 
@@ -104,3 +105,4 @@
         </div>
     </div>
 </section>
+<?php endif; ?>
