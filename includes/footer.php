@@ -49,8 +49,20 @@ if ($page !== "prep") {
 
     <?php } ?>
 
-    <footer class="bg-custom-gray-200 py-[30px]">
+    <footer id="site-footer" class="bg-custom-gray-200 py-[30px]">
         <div class="container">
+            <?php if (true): ?>
+                <?php
+                    $baseUrl = $baseUrl ?? (strpos(($_SERVER['HTTP_HOST'] ?? ''), 'localhost') !== false || ($_SERVER['HTTP_HOST'] ?? '') === '127.0.0.1' ? "/cancervax" : "");
+                ?>
+                <div class="mx-auto flex max-w-[1220px] flex-col items-center justify-between gap-4 text-center sm:flex-row sm:text-left">
+                    <nav aria-label="Legal" class="flex items-center justify-center gap-6">
+                        <a href="<?= $baseUrl ?>/privacy-policy" class="text-[13px] font-medium text-black underline-offset-4 hover:underline">Privacy Policy</a>
+                        <a href="<?= $baseUrl ?>/terms-of-use" class="text-[13px] font-medium text-black underline-offset-4 hover:underline">Terms of Use</a>
+                    </nav>
+                    <p class="text-[13px] text-black">© 2026 CancerVax. All rights reserved</p>
+                </div>
+            <?php else: ?>
             <div class="pb-[35px]">
                 <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
                     <div class="col-span-12 lg:col-span-2">
@@ -123,6 +135,7 @@ if ($page !== "prep") {
             <div class="pt-6">
                 <p class="text-sm mb-0 text-black text-center sm:text-right">© 2026 CancerVax. All rights reserved</p>
             </div>
+            <?php endif; ?>
         </div>
     </footer>
 

@@ -128,7 +128,7 @@
  
  
  
-<body class="<?php echo ($page === 'home') ? 'home' : ''; ?><?php echo ($page === 'home-aug-28-c') ? ' home-aug-28-c-page' : ''; ?><?php echo ($page === 'home-sep-2') ? ' home-sep-2-page' : ''; ?>">
+<body class="<?php echo ($page === 'home') ? 'home' : ''; ?><?php echo in_array($page, ['home-aug-28-c', 'home-aug-29', 'home-aug-30', 'home-aug-31']) ? ' home-aug-28-c-page' : ''; ?><?php echo in_array($page, ['home-sep-1-impact-people', 'home-sep-1-impact-people-alternate']) ? ' home-sep-1-impact-people-page' : ''; ?><?php echo ($page === 'home-sep-1-impact-people-alternate') ? ' home-sep-1-impact-people-alternate-page' : ''; ?><?php echo ($page === 'home-sep-1-adrian') ? ' home-sep-1-adrian-page' : ''; ?><?php echo ($page === 'home-sep-2') ? ' home-sep-2-page' : ''; ?><?php echo ($page === 'privacy-policy') ? ' privacy-policy-page' : ''; ?>">
  
  
 <?php $hideHeaderPages = [
@@ -138,9 +138,9 @@
 <?php if (!in_array($page, $hideHeaderPages)): ?>
  
     <div class="sticky top-0 z-20 bg-white transition-all duration-300 ease-in-out border-b border-custom-teal-100">
-        <div class="relative bg-custom-teal-100 p-2.5 sm:py-2 sm:px-8 min-h-16 <?php echo ($page === 'home-aug-28-c') ? 'home-aug-28-c-topbar' : ''; ?>">
+        <div class="relative bg-custom-teal-100 p-2.5 sm:py-2 sm:px-8 min-h-16 <?php echo in_array($page, ['home-aug-28-c', 'home-aug-29', 'home-aug-30', 'home-aug-31']) ? 'home-aug-28-c-topbar' : ''; ?>">
             <div class="container-fluid">
-                <div class="flex <?php echo ($page === 'home-aug-28-c') ? 'min-h-11 home-aug-28-c-topbar-content' : ''; ?> items-center justify-between">
+                <div class="flex <?php echo in_array($page, ['home-aug-28-c', 'home-aug-29', 'home-aug-30', 'home-aug-31']) ? 'home-aug-28-c-topbar-content' : ''; ?> items-center justify-between">
                     <div></div>
                     <!-- <a href="/webinar" class="theme-btn orange-btn tracking-normal">Watch the Webinar</a> -->
                     <a href="https://www.startengine.com/offering/cancervax" target="_blank" class="site-invest-cta theme-btn orange-btn !border-0 !text-[15px] tracking-normal !uppercase">LEARN HOW TO INVEST IN CANCERVAX</a>

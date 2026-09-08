@@ -577,6 +577,16 @@ body.home-sep-2-page .home-aug-29-mobile-card-copy {
   font-family: inherit !important;
 }
 
+body.privacy-policy-page,
+  body.privacy-policy-page *:not(.fa):not(.fas):not(.far):not(.fab) {
+  font-family: "Public Sans", sans-serif !important;
+}
+
+.terms-of-use-content,
+  .terms-of-use-content * {
+  color: black !important;
+}
+
 h1,
   h2{
   font-size: 50px;
@@ -1507,10 +1517,6 @@ a:hover{
   min-height: 0px;
 }
 
-.min-h-11{
-  min-height: 2.75rem;
-}
-
 .min-h-16{
   min-height: 4rem;
 }
@@ -2295,11 +2301,6 @@ a:hover{
 .bg-\[\#39757c\]{
   --tw-bg-opacity: 1;
   background-color: rgb(57 117 124 / var(--tw-bg-opacity, 1));
-}
-
-.bg-\[\#959595\]{
-  --tw-bg-opacity: 1;
-  background-color: rgb(149 149 149 / var(--tw-bg-opacity, 1));
 }
 
 .bg-\[\#f2a743\]{
@@ -3195,6 +3196,10 @@ a:hover{
   font-size: clamp(2rem,5vw,3rem);
 }
 
+.text-\[clamp\(2rem\2c 8vw\2c 3\.75rem\)\]{
+  font-size: clamp(2rem,8vw,3.75rem);
+}
+
 .text-base{
   font-size: 1rem;
   line-height: 1.5rem;
@@ -3250,6 +3255,10 @@ a:hover{
 
 .uppercase{
   text-transform: uppercase;
+}
+
+.lowercase{
+  text-transform: lowercase;
 }
 
 .capitalize{
@@ -3525,6 +3534,10 @@ a:hover{
   text-decoration-line: underline;
 }
 
+.underline-offset-4{
+  text-underline-offset: 4px;
+}
+
 .opacity-15{
   opacity: 0.15;
 }
@@ -3628,6 +3641,10 @@ a:hover{
 .ring-white{
   --tw-ring-opacity: 1;
   --tw-ring-color: rgb(255 255 255 / var(--tw-ring-opacity, 1));
+}
+
+.filter{
+  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 
 .backdrop-blur-sm{
@@ -3927,6 +3944,10 @@ html {
 .hover\:text-white:hover{
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.hover\:underline:hover{
+  text-decoration-line: underline;
 }
 
 .hover\:shadow-\[0_12px_24px_rgba\(25\2c 45\2c 65\2c 0\.13\)\]:hover{
@@ -4243,6 +4264,10 @@ html {
 
   .sm\:pt-\[140px\]{
     padding-top: 140px;
+  }
+
+  .sm\:text-left{
+    text-align: left;
   }
 
   .sm\:text-center{

@@ -24,6 +24,16 @@
     font-family: inherit !important;
   }
 
+  body.privacy-policy-page,
+  body.privacy-policy-page *:not(.fa):not(.fas):not(.far):not(.fab) {
+    font-family: "Public Sans", sans-serif !important;
+  }
+
+  .terms-of-use-content,
+  .terms-of-use-content * {
+    color: black !important;
+  }
+
   h1,
   h2 {
     @apply text-[50px] md:text-[85px] leading-none text-black;
