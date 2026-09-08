@@ -107,7 +107,7 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
                     </div> -->
                     <h2 class="bg-[#ff0000] text-white p-2 mx-auto max-w-[300px] text-4xl font-semibold mb-4 uppercase lg:hidden">Breaking News</h2>
                     <div class="mb-9 border-[10px] sm:border-[12px] border-custom-teal-100 rounded-xl relative max-w-full lg:hidden">
-                        <a href="https://staging.cancervax.com/single-news.php?id=52"><img src="./assets/images/zozozo1.png" class="w-full" alt="news-thumbnail"></a>
+                        <a href="/single-news.php?id=52"><img src="./assets/images/zozozo1.png" class="w-full" alt="news-thumbnail"></a>
                     </div>
                     <h2 class="bg-[#ff0000] text-white py-2 px-3 text-xl sm:text-2xl text-center font-semibold mb-4 lg:hidden">Scientific Team Discusses the Breakthrough</h2>
                     <div class="mb-9 border-[10px] sm:border-[12px] border-custom-teal-100 rounded-xl relative max-w-full lg:hidden">
@@ -157,7 +157,7 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
                     </div> -->
                     <h2 class="bg-[#ff0000] text-white p-2 mx-auto max-w-[300px] text-4xl font-semibold mb-4 hidden uppercase lg:block">Breaking News</h2>
                     <div class="mb-9 mx-auto border-[12px] border-custom-teal-100 rounded-xl relative max-w-[500px] hidden lg:block">
-                        <a href="https://staging.cancervax.com/single-news.php?id=52"><img src="./assets/images/zozozo1.png" class="w-full" alt="news-thumbnail"></a>
+                        <a href="/single-news.php?id=52"><img src="./assets/images/zozozo1.png" class="w-full" alt="news-thumbnail"></a>
                     </div>
                     <h2 class="bg-[#ff0000] text-white py-2 px-3 text-2xl text-center font-semibold mb-4 hidden lg:block">Scientific Team Discusses the Breakthrough</h2>
                     <div class="mb-9 mx-auto border-[12px] border-custom-teal-100 rounded-xl relative max-w-[500px] hidden lg:block">
@@ -349,10 +349,10 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
                 <input type="email" id="input_3" name="q3_email" class="bg-custom-gray-200 text-black text-[17px] rounded-[30px] h-[60px] border-0 px-[30px] block w-full font-normal leading-normal focus:outline-none focus:ring-0 focus:shadow-none" placeholder="Your email address...">
 
                 <div class="form-line control-formnew mt-2 jf-required text-left" data-type="control_captcha" id="id_4">
-                    <label class="text-black text-[15px] font-normal leading-relaxed text-left" id="label_4" for="input_4" aria-hidden="false"> Please verify that you are human<span class="form-required">*</span> </label>
+                    <label class="block text-black text-[15px] font-normal leading-relaxed text-center" id="label_4" for="input_4" aria-hidden="false"> Please verify that you are human<span class="form-required">*</span> </label>
 
                     <div id="cid_4" class="form-input-wide jf-required" data-layout="full">
-                        <section data-wrapper-react="true">
+                        <section data-wrapper-react="true" class="flex justify-center">
                             <div id="hcaptcha_input_4" class="h-captcha" data-siteKey="772f4a50-7161-425e-8cd5-4d7e361ab765" data-callback="onCaptchaSuccess" data-expired-callback="onCaptchaExpired"></div><input type="hidden" id="input_4" class="hidden validate[required]" name="hcaptcha_visible" required="" />
                             <script type="text/javascript" src="https://hcaptcha.com/1/api.js"></script>
                         </section>

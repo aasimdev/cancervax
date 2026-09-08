@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Chivo:wght@100;200;300;400;500;600;700;800;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap");
 
-@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Public+Sans:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
 
 @import url("https://use.fontawesome.com/releases/v5.8.1/css/all.css");
 
@@ -561,12 +561,20 @@ video {
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Public Sans", sans-serif;
   font-size: 25px;
   position: relative;
   line-height: 1.2;
   letter-spacing: normal;
   color: black;
+}
+
+body.home-sep-2-page {
+  font-family: "Public Sans", sans-serif;
+}
+
+body.home-sep-2-page .home-aug-29-mobile-card-copy {
+  font-family: inherit !important;
 }
 
 h1,
