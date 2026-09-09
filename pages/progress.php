@@ -1,3 +1,6 @@
+<?php
+$isRedesignedProgress = in_array($page ?? '', ['progress', 'progress-sep-8'], true);
+?>
 
 <section class="py-24 md:py-28 bg-center bg-cover text-center relative bg-progress-bg bg-black bg-opacity-50 after:content-[''] after:absolute after:inset-0 after:bg-black after:bg-opacity-50">
     <div class="container">
@@ -8,8 +11,13 @@
 <section class="bg-white py-20">
     <div class="container">
         <div class="relative ">
+            <?php if ($isRedesignedProgress): ?>
+            <img src="<?php echo $full_url; ?>assets/images/progress-sep-8-roadmap.svg" class="hidden md:block w-full" alt="CancerVax development progress roadmap">
+            <img src="<?php echo $full_url; ?>assets/images/progress-sep-8-roadmap-mobile.svg" class="md:hidden w-full" alt="CancerVax vertical development progress roadmap">
+            <?php else: ?>
             <img src="<?php echo  $full_url; ?>assets/images/graph.png" class="hidden md:block w-full" alt="graph">
             <img src="<?php echo  $full_url; ?>assets/images/graph-mobile.png" class="md:hidden" alt="graph">
+            <?php endif; ?>
             <a href="#children-cancer" style="display: inline-block;
                 position: absolute;
                 left: 0;
@@ -29,6 +37,22 @@
                 top: 70%;
                 width: 24%;
                 height: 26%;"></a>
+            <?php if ($isRedesignedProgress): ?>
+            <a href="single-news.php?id=31" class="roadmap-press-link roadmap-press-link-pancreatic" aria-label="Read the Pancreatic Cancer press release" style="display: inline-block;
+                position: absolute;
+                z-index: 2;
+                left: 4.2%;
+                top: 65%;
+                width: 7.2%;
+                height: 9%;"></a>
+            <a href="single-news.php?id=36" class="roadmap-press-link roadmap-press-link-liver" aria-label="Read the Liver Cancers press release" style="display: inline-block;
+                position: absolute;
+                z-index: 2;
+                left: 4.2%;
+                top: 79.7%;
+                width: 7.2%;
+                height: 9%;"></a>
+            <?php endif; ?>
         </div>
 
         <ul class="theme-list mt-12 [&_li]:text-xl md:[&_li]:text-lg [&_li]:text-black">
@@ -41,7 +65,7 @@
     </div>
 </section>
 
-<section>
+<section id="development-milestones">
     <div class="container">
         <div>
             <h2 class="text-center text-5xl mb-10 font-medium">Major Development Milestones</h2>
@@ -64,7 +88,7 @@
                     
                 </div>
             </div>
-            <div class="grid grid-cols-1 lg:grid-cols-12 mt-12 gap-12">
+            <div id="first-milestone-actions" class="progress-two-actions grid grid-cols-1 lg:grid-cols-12 mt-12 gap-12">
                 <div class="lg:col-span-7 flex justify-center">
                     <a href="webinar-feb-25-2025" class="theme-btn orange-btn !text-[18px] font-medium tracking-normal">Update Video</a>
                 </div>
@@ -92,7 +116,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="grid grid-cols-1 lg:grid-cols-12 mt-12 gap-12">
+            <div class="progress-two-actions grid grid-cols-1 lg:grid-cols-12 mt-12 gap-12">
                 <div class="lg:col-span-7 flex justify-center">
                     <a href="webinar-may-31-2025" class="theme-btn orange-btn !text-[18px] font-medium tracking-normal">Update Video</a>
                 </div>
@@ -130,7 +154,7 @@
                     </ul>   
                 </div>
             </div>
-            <div class="grid grid-cols-1 lg:grid-cols-12 mt-12 gap-12">
+            <div class="progress-two-actions grid grid-cols-1 lg:grid-cols-12 mt-12 gap-12">
                 <div class="lg:col-span-7 flex justify-center">
                     <a href="update-video-august-5-2025" class="theme-btn orange-btn !text-[18px] font-medium tracking-normal">Update Video</a>
                 </div>
@@ -240,10 +264,10 @@ Many LNP therapies fail in clinical trials due to liver accumulation and result
                         <li class="mb-5">CD4 T-cells were depleted to confirm CD8+ Killer T-cells were activated.</li>
                         <li class="mb-5">CD8+ Killer T-cells were isolated and confirmed specific activation.</li>
                     </ul>
-                    <p class="text-xl font-bold mt-6"><strong>CancerVax successfully tricked human anti-viral CD8+ Killer T-cells into thinking cancer is a familiar viral infection and should be killed!</strong></p>
+                    <p class="milestone-callout text-xl font-bold mt-6"><strong>CancerVax successfully tricked human anti-viral CD8+ Killer T-cells into thinking cancer is a familiar viral infection and should be killed!</strong></p>
                 </div>
             </div>
-            <div class="grid grid-cols-1 lg:grid-cols-12 mt-12 gap-12">
+            <div class="progress-two-actions grid grid-cols-1 lg:grid-cols-12 mt-12 gap-12">
                 <div class="lg:col-span-7 flex justify-center">
                     <a href="webinar-august-6-2026" class="theme-btn orange-btn !text-[18px] font-medium tracking-normal">Update Video</a>
                 </div>

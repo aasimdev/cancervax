@@ -128,7 +128,7 @@
  
  
  
-<body class="<?php echo ($page === 'home') ? 'home' : ''; ?><?php echo in_array($page, ['home-aug-28-c', 'home-aug-29', 'home-aug-30', 'home-aug-31']) ? ' home-aug-28-c-page' : ''; ?><?php echo in_array($page, ['home-sep-1-impact-people', 'home-sep-1-impact-people-alternate']) ? ' home-sep-1-impact-people-page' : ''; ?><?php echo ($page === 'home-sep-1-impact-people-alternate') ? ' home-sep-1-impact-people-alternate-page' : ''; ?><?php echo ($page === 'home-sep-1-adrian') ? ' home-sep-1-adrian-page' : ''; ?><?php echo ($page === 'home-sep-2') ? ' home-sep-2-page' : ''; ?><?php echo ($page === 'privacy-policy') ? ' privacy-policy-page' : ''; ?>">
+<body class="<?php echo ($page === 'home') ? 'home' : ''; ?><?php echo in_array($page, ['home-aug-28-c', 'home-aug-29', 'home-aug-30', 'home-aug-31']) ? ' home-aug-28-c-page' : ''; ?><?php echo in_array($page, ['home-sep-1-impact-people', 'home-sep-1-impact-people-alternate']) ? ' home-sep-1-impact-people-page' : ''; ?><?php echo ($page === 'home-sep-1-impact-people-alternate') ? ' home-sep-1-impact-people-alternate-page' : ''; ?><?php echo ($page === 'home-sep-1-adrian') ? ' home-sep-1-adrian-page' : ''; ?><?php echo ($page === 'home-sep-2') ? ' home-sep-2-page' : ''; ?><?php echo ($page === 'privacy-policy') ? ' privacy-policy-page' : ''; ?><?php echo in_array($page, ['progress', 'progress-sep-8']) ? ' progress-sep-8-page' : ''; ?>">
  
  
 <?php $hideHeaderPages = [

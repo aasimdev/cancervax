@@ -587,6 +587,138 @@ body.privacy-policy-page,
   color: black !important;
 }
 
+body.progress-sep-8-page section .container > .bg-custom-aqua-100 {
+  background: linear-gradient(145deg, #ffffff 0%, #f3fbfb 62%, #fff8ee 100%);
+  border: 1px solid rgba(38, 147, 153, 0.24);
+  border-radius: 28px;
+  box-shadow: 0 22px 55px rgba(23, 62, 69, 0.13);
+  overflow: hidden;
+  padding: 32px;
+  position: relative;
+}
+
+body.progress-sep-8-page section .container > .bg-custom-aqua-100 > h5 {
+  color: #ffffff;
+  font-size: 24px;
+  line-height: 1.35;
+  margin: -32px -32px 28px;
+  padding: 25px 32px 24px;
+  border-bottom: 0;
+  background: linear-gradient(115deg, #327f84 0%, #36989e 58%, #3eaab0 100%);
+  position: relative;
+}
+
+body.progress-sep-8-page section .container > .bg-custom-aqua-100 > .grid:not(.mt-12) {
+  background: rgba(255, 255, 255, 0.82);
+  border: 1px solid rgba(38, 147, 153, 0.18);
+  border-radius: 20px;
+  box-shadow: inset 0 1px 0 #ffffff, 0 10px 28px rgba(23, 62, 69, 0.06);
+  overflow: hidden;
+  padding: 28px;
+}
+
+body.progress-sep-8-page section .container > .bg-custom-aqua-100 img {
+  border-radius: 12px;
+}
+
+body.progress-sep-8-page section .container > .bg-custom-aqua-100 > .mt-12 {
+  margin-top: 28px;
+}
+
+body.progress-sep-8-page .theme-btn.orange-btn:not(.site-invest-cta) {
+  background: #ffffff;
+  border: 2px solid #173e45;
+  border-radius: 999px;
+  box-shadow: 0 0 0 3px #41b7bc;
+  padding: 13px 26px;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 20px !important;
+  color: #000000 !important;
+  transform: none;
+  transition: none;
+}
+
+body.progress-sep-8-page .theme-btn.orange-btn:not(.site-invest-cta)[href*="webinar"]::before,
+  body.progress-sep-8-page .theme-btn.orange-btn:not(.site-invest-cta)[href*="update-video"]::before {
+  content: "";
+  width: 0;
+  height: 0;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 8px solid currentColor;
+}
+
+body.progress-sep-8-page .theme-btn.orange-btn:not(.site-invest-cta)[href*="single-news"]::after {
+  content: "→";
+  font-size: 20px;
+  line-height: 1;
+  transition: transform 180ms ease;
+}
+
+body.progress-sep-8-page .theme-btn.orange-btn:not(.site-invest-cta):hover {
+  background: #ffffff;
+  border-color: #173e45;
+  color: #000000 !important;
+  box-shadow: 0 0 0 3px #41b7bc;
+  transform: none;
+}
+
+body.progress-sep-8-page .theme-btn.orange-btn:not(.site-invest-cta)[href*="single-news"]:hover::after {
+  transform: none;
+}
+
+body.progress-sep-8-page .milestone-callout,
+  body.progress-sep-8-page .milestone-callout strong {
+  font-weight: 600;
+  line-height: 1.45;
+  letter-spacing: 0.01em;
+}
+
+@media (min-width: 1024px) {
+  body.progress-sep-8-page .progress-two-actions {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  }
+
+  body.progress-sep-8-page .progress-two-actions > div {
+    grid-column: span 1 / span 1 !important;
+  }
+}
+
+@media (max-width: 767px) {
+  body.progress-sep-8-page .roadmap-press-link-pancreatic {
+    left: 33% !important;
+    top: 25.1% !important;
+    width: 17.4% !important;
+    height: 5.5% !important;
+  }
+
+  body.progress-sep-8-page .roadmap-press-link-liver {
+    left: 56.7% !important;
+    top: 25.1% !important;
+    width: 17.4% !important;
+    height: 5.5% !important;
+  }
+}
+
+@media (max-width: 639px) {
+  body.progress-sep-8-page section .container > .bg-custom-aqua-100 {
+    border-radius: 20px;
+    padding: 20px;
+  }
+
+  body.progress-sep-8-page section .container > .bg-custom-aqua-100 > h5 {
+    font-size: 20px;
+    margin: -20px -20px 22px;
+    padding: 21px 20px;
+  }
+
+  body.progress-sep-8-page section .container > .bg-custom-aqua-100 > .grid:not(.mt-12) {
+    padding: 18px;
+  }
+}
+
 h1,
   h2{
   font-size: 50px;
@@ -3737,6 +3869,18 @@ a:hover{
 
 html {
   scroll-behavior: smooth;
+}
+
+@media (min-width: 640px){
+  body.progress-sep-8-page section .container > .bg-custom-aqua-100 > .sm\:mt-12 {
+    margin-top: 28px;
+  }
+}
+
+@media (min-width: 768px){
+  body.progress-sep-8-page section .container > .bg-custom-aqua-100 > .md\:mt-12 {
+    margin-top: 28px;
+  }
 }
 
 .before\:absolute::before{

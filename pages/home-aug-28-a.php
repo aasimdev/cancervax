@@ -3,6 +3,96 @@ $videos = include __DIR__ . '/../data/carousel-videos.php';
 $news = include __DIR__ . '/../data/news-data.php'; ?>
 
 <style>
+    .home-aug-28-a-hero-title {
+        font-size: 48px !important;
+    }
+
+    @media (min-width: 640px) {
+        .home-aug-28-a-hero-title {
+            font-size: 72px !important;
+        }
+    }
+
+    @media (min-width: 1280px) {
+        .home-aug-28-a-hero-title {
+            font-size: 92.4px !important;
+        }
+    }
+
+    .home-aug-28-a-hero-title-line {
+        display: block;
+        white-space: nowrap;
+    }
+
+    .home-aug-28-a-hero-video-block {
+        top: 28px;
+    }
+
+    .home-aug-28-a-mobile-video {
+        margin-bottom: 48px;
+    }
+
+    .home-aug-28-a-mobile-video img {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+    .home-aug-28-c-card-label-wrap {
+        display: flex;
+        flex: 0 0 auto;
+        align-items: center;
+        justify-content: center;
+        padding-top: 12px;
+        padding-bottom: 28px;
+    }
+
+    @media (max-width: 767px) {
+        .home-aug-28-a-mobile-hero {
+            height: 320px !important;
+            background-size: 100% auto;
+            background-position: center 75px;
+        }
+
+        .home-aug-28-a-hero-video-block {
+            display: none;
+        }
+
+        .home-aug-28-a-mobile-video .theme-btn {
+            top: 50%;
+            bottom: auto;
+            left: 50%;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.4rem;
+            max-width: calc(100% - 24px);
+            padding: 9px 14px;
+            border-radius: 9999px;
+            font-size: 12px !important;
+            line-height: 1.1;
+            white-space: nowrap;
+            transform: translate(-50%, -50%);
+        }
+
+        .home-aug-28-a-mobile-video .theme-btn span {
+            white-space: nowrap;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 1279px) {
+        .home-aug-28-a-mobile-hero {
+            height: auto !important;
+            min-height: 850px;
+        }
+    }
+
+    @media (max-width: 639px) {
+        .home-aug-28-a-hero-title-line {
+            letter-spacing: -0.03em;
+        }
+    }
+
     .home-aug-28-a-diamond-list > li {
         display: flex;
         align-items: flex-start;
@@ -10,11 +100,15 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
     }
 
     .home-aug-28-a-diamond-bullet {
-        flex: 0 0 auto;
-        color: #1D8F97;
-        font-size: 1.1em;
+        display: block;
+        flex: 0 0 14px;
+        width: 14px;
+        height: 14px;
+        margin-top: 8px;
+        border-radius: 50%;
+        background-color: #1D8F97;
+        font-size: 0;
         line-height: 1;
-        margin-top: 0.08em;
     }
 </style>
 
@@ -37,21 +131,21 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
 </section> -->
 
 <section class="pt-11 md:pt-0">
-    <div class="bg-banner-mobile md:bg-banner bg-white bg-no-repeat bg-[top_center] bg-cover h-[245px] sm:h-[480px] md:h-[850px] xl:!h-auto xl:min-h-[900px] banner-home-up relative">
+    <div class="home-aug-28-a-mobile-hero bg-banner-mobile md:bg-banner bg-white bg-no-repeat bg-[top_center] bg-cover h-[245px] sm:h-[480px] md:h-[850px] xl:!h-auto xl:min-h-[900px] banner-home-up relative">
         <div class="container">
-            <div class="max-w-screen-sm text-center mx-auto sm:pt-14 -top-7 sm:top-0 relative">
-                <h1 style="color: #295d6e" class="text-[33px] sm:text-[50px] xl:text-[64px] font-medium">A Revolutionary Cancer Treatment</h1>
+            <div class="w-full max-w-[1200px] text-center mx-auto sm:pt-14 -top-7 sm:top-0 relative">
+                <h1 style="color: #295d6e" class="home-aug-28-a-hero-title text-[48px] sm:text-[72px] xl:text-[92.4px] font-medium"><span class="home-aug-28-a-hero-title-line">A Revolutionary</span><span class="home-aug-28-a-hero-title-line">Cancer Treatment</span></h1>
             </div>
             <div class="relative top-12 pt-[50px] xl:pt-4 max-w-[530px] xl:max-w-[615px]">
                 <ul class="home-aug-28-a-diamond-list hidden md:block list-none pl-0 max-w-[50%] lg:max-w-[81%] xl:max-w-[98%] space-y-6 [&>li]:text-black [&>li]:text-xl xl:[&>li]:text-2xl [&>li]:leading-tight">
-                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true">❖</span><span>Last year, 10 million people died because the body does not easily recognize and kill cancer cells.</span></li>
-                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true">❖</span><span>However, the body is very good at killing diseases that it recognizes, such as measles.</span></li>
-                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true">❖</span><span>Our breakthrough technology disguises cancer cells to look like measles and “tricks” the body into killing them.</span></li>
+                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true"></span><span>Last year, 10 million people died because the body does not easily recognize and kill cancer cells.</span></li>
+                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true"></span><span>However, the body is very good at killing diseases that it recognizes, such as measles.</span></li>
+                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true"></span><span>Our breakthrough technology disguises cancer cells to look like measles and “tricks” the body into killing them.</span></li>
                 </ul>
             </div>
-            <div class="relative top-14 mt-8 max-w-[450px]">
-                <h2 class="text-custom-teal-300 text-2xl text-center font-semibold mb-4 hidden xl:block">See How We Do It</h2>
-                <div class="mb-9 border-[12px] border-custom-teal-100 rounded-xl relative max-w-[500px] hidden xl:block">
+            <div class="home-aug-28-a-hero-video-block relative mt-8 max-w-[450px]">
+                <h2 class="text-custom-teal-300 text-2xl text-center font-semibold mb-4 hidden md:block">See How We Do It</h2>
+                <div class="mb-9 border-[12px] border-custom-teal-100 rounded-xl relative max-w-[500px] hidden md:block">
                     <div>
                         <img src="<?php echo  $full_url; ?>assets/images/home-video-thumbnail.jpg" alt="thumbnail">
                     </div>
@@ -65,12 +159,24 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
     </div>
     <!-- Mobile Banner text -->
     <div class=" shadow-[0px_-3px_20px_11px_#fff] sm:shadow-[0px_-20px_20px_20px_#fff] md:shadow-none md:hidden">
-        <div class="container relative top-12">
+        <div class="container pt-12">
+            <div class="home-aug-28-a-mobile-video">
+                <h2 class="text-custom-teal-100 text-2xl text-center font-semibold mb-4">See How We Do It</h2>
+                <div class="border-[10px] border-custom-teal-100 rounded-xl relative max-w-full">
+                    <div>
+                        <img src="<?php echo  $full_url; ?>assets/images/home-video-thumbnail.jpg" alt="CancerVax explainer video thumbnail">
+                    </div>
+                    <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="theme-btn uppercase absolute left-1/2 bottom-[92px] transform -translate-x-1/2 py-1 px-3 bg-[#ff0000] border-[#ff0000] popup-youtube">
+                        <i class="far fa-play-circle"></i>
+                        <span>WATCH SHORT VIDEO</span>
+                    </a>
+                </div>
+            </div>
             <div class="max-w-[530px]">
                 <ul class="home-aug-28-a-diamond-list list-none pl-0 max-w-1/2 space-y-6 [&>li]:text-black [&>li]:text-xl xl:[&>li]:text-[25px]">
-                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true">❖</span><span>Last year, 10 million people died because the body does not easily recognize and kill cancer cells.</span></li>
-                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true">❖</span><span>However, the body is very good at killing diseases that it recognizes, such as measles.</span></li>
-                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true">❖</span><span>Our breakthrough technology disguises cancer cells to look like measles and “tricks” the body into killing them.</span></li>
+                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true"></span><span>Last year, 10 million people died because the body does not easily recognize and kill cancer cells.</span></li>
+                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true"></span><span>However, the body is very good at killing diseases that it recognizes, such as measles.</span></li>
+                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true"></span><span>Our breakthrough technology disguises cancer cells to look like measles and “tricks” the body into killing them.</span></li>
                 </ul>
             </div>
         </div>
@@ -84,11 +190,11 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
             <div class="pointer-events-none absolute left-[12%] right-[12%] top-1/2 hidden h-px bg-gradient-to-r from-transparent via-custom-teal-400/50 to-transparent md:block" aria-hidden="true"></div>
             <div class="pointer-events-none absolute left-1/2 top-1/2 hidden h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full bg-custom-orange-100/60 ring-8 ring-white md:block" aria-hidden="true"></div>
 
-            <div class="relative grid grid-cols-1 md:grid-cols-3 gap-3 items-stretch">
+            <div class="home-aug-28-c-card-grid relative grid grid-cols-1 md:grid-cols-3 gap-3 items-stretch">
                 <a href="/lifescience-review" class="relative">
                     <div class="relative rounded-[26px] bg-transparent p-[2px]">
                         <div class="rounded-[24px] bg-white p-3 sm:p-4">
-                            <div class="flex aspect-[4/3] items-center justify-center overflow-hidden rounded-[18px] bg-custom-teal-300 p-4">
+                            <div class="flex aspect-[4/3] items-center justify-center overflow-hidden rounded-[18px] p-4" style="background-color: #f1f1f1;">
                                 <img src="<?php echo $full_url; ?>assets/images/cancervax-top-preclinical-biotech-2026-v2.png" alt="CancerVax named a Top Pre-Clinical Biotech Company of 2026" class="block h-auto w-auto max-h-[85%] max-w-[85%] object-contain">
                             </div>
                         </div>
@@ -97,22 +203,31 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
                 <a href="/single-news.php?id=52" class="relative">
                     <div class="relative rounded-[26px] bg-transparent p-[2px]">
                         <div class="rounded-[24px] bg-white p-3 sm:p-4">
-                            <div class="relative flex aspect-[4/3] flex-col items-center justify-start overflow-hidden rounded-[18px] p-4" style="background-image: radial-gradient(circle at 18% 18%, rgba(120,199,201,0.20) 0, transparent 34%), radial-gradient(circle at 82% 78%, rgba(42,186,194,0.24) 0, transparent 38%), linear-gradient(135deg, #2a5c6e 0%, #226f7a 38%, #1d8f97 70%, #2abac2 100%);">
-                                <span class="pointer-events-none relative z-10 mb-2 shrink-0 translate-y-[6px] scale-[1.3] rounded-full bg-[#ff1f24] px-4 py-2 text-[11px] font-bold uppercase tracking-[0.12em] text-white shadow-[0_5px_14px_rgba(0,0,0,0.28)]">BREAKING NEWS</span>
+                            <div class="relative flex aspect-[4/3] flex-col items-center justify-start overflow-hidden rounded-[18px] p-4" style="background-color: #f1f1f1;">
+                                <div class="home-aug-28-c-card-label-wrap">
+                                    <span class="pointer-events-none relative z-10 shrink-0 scale-[1.3] rounded-full bg-[#ff1f24] px-4 py-2 text-[11px] font-bold uppercase tracking-[0.12em] text-white shadow-[0_5px_14px_rgba(0,0,0,0.28)]">BREAKING NEWS</span>
+                                </div>
                                 <div class="flex min-h-0 w-full flex-1 items-center justify-center">
-                                    <img src="<?php echo $full_url; ?>assets/images/zozozo1.png" alt="CancerVax achieves major milestone in activating human killer T-cells against cancer" class="block h-auto w-auto max-h-full max-w-full object-contain">
+                                    <div class="home-aug-29-mobile-card-copy w-full text-center text-black" style="font-family: 'Public Sans', sans-serif; font-size: clamp(0.9rem, 1.35vw, 1.15rem); font-weight: 600; line-height: 1.25; transform: translateY(-20px);">
+                                        CancerVax Achieves Major<br>
+                                        Milestone in Activating Human<br>
+                                        Killer T-Cells Against Cancer<br>
+                                        CLICK HERE TO READ MORE
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </a>
-                <a href="/webinar-august-6-2026" class="relative">
+                <a href="https://www.youtube.com/watch?v=gP-LNnxOmYA" class="relative popup-youtube">
                     <div class="relative rounded-[26px] bg-transparent p-[2px]">
                         <div class="rounded-[24px] bg-white p-3 sm:p-4">
-                            <div class="relative flex aspect-[4/3] flex-col items-center justify-start overflow-hidden rounded-[18px] p-4" style="background-image: radial-gradient(circle at 16% 20%, rgba(120,199,201,0.18) 0, transparent 34%), radial-gradient(circle at 84% 78%, rgba(20,83,120,0.32) 0, transparent 40%), linear-gradient(135deg, #2a5c6e 0%, #1d5063 36%, #102b43 68%, #061126 100%);">
-                                <span class="pointer-events-none relative z-10 mb-2 shrink-0 translate-y-[6px] scale-[1.3] rounded-full bg-[#ff1f24] px-4 py-2 text-[11px] font-bold uppercase tracking-[0.12em] text-white shadow-[0_5px_14px_rgba(0,0,0,0.28)]">Watch Video</span>
+                            <div class="relative flex aspect-[4/3] flex-col items-center justify-start overflow-hidden rounded-[18px] p-4" style="background-color: #f1f1f1;">
+                                <div class="home-aug-28-c-card-label-wrap">
+                                    <span class="pointer-events-none relative z-10 shrink-0 scale-[1.3] rounded-full bg-[#ff1f24] px-4 py-2 text-[11px] font-bold uppercase tracking-[0.12em] text-white shadow-[0_5px_14px_rgba(0,0,0,0.28)]">Watch Video</span>
+                                </div>
                                 <div class="flex min-h-0 w-full flex-1 items-center justify-center">
-                                    <img src="<?php echo $full_url; ?>assets/images/home-aug-28-a/feature-video-hd.jpg?v=20260828-1" alt="CancerVax successful activation of human killer T-cells announcement" class="block h-auto w-auto max-h-full max-w-full object-contain">
+                                    <img src="<?php echo $full_url; ?>assets/images/home-aug-30-webinar-thumbnail.jpg" alt="CancerVax webinar about the successful activation of killer T-cells" class="block h-auto w-[84%] max-w-[310px] rounded-[10px] object-contain" style="max-height: 70%; transform: scale(1.3); transform-origin: center;">
                                 </div>
                             </div>
                         </div>
@@ -323,7 +438,7 @@ echo $teamMarkup;
                 <div class="pointer-events-none absolute -bottom-28 -left-24 h-72 w-72 rounded-full border border-white/5"></div>
 
                 <div class="relative mb-8 text-center">
-                    <h2 class="text-center text-6xl leading-none font-medium text-white">Our Development Partners</h2>
+                    <h2 class="max-w-full break-words text-center text-[clamp(2rem,8vw,3.75rem)] leading-tight sm:text-6xl sm:leading-none font-medium text-white">Our Development Partners</h2>
                 </div>
 
                 <div class="relative max-w-[1100px] mx-auto grid grid-cols-2 md:grid-cols-6 gap-4 sm:gap-6 items-stretch">
