@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1124 573" role="img" aria-labelledby="title desc">
+  <title id="title">CancerVax development progress</title>
+  <desc id="desc">Roadmap showing the Universal Cancer Treatment Platform, Pancreatic Cancer, and Liver Cancers progressing through discovery, optimization, pre-clinical, and clinical stages.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="9" stdDeviation="12" flood-color="#173e45" flood-opacity=".12"/>
+    </filter>
+  </defs>
+
+  <rect x="16" y="16" width="1092" height="541" rx="32" fill="url(#panel)" stroke="#cfe2e4" stroke-width="2" filter="url(#shadow)"/>
+  <path d="M48 16h1028a32 32 0 0 1 32 32v54H16V48a32 32 0 0 1 32-32Z" fill="#2f7f85"/>
+  <path d="M16 94H1108V102H16Z" fill="#41b7bc"/>
+  <text x="50" y="74" fill="#fff" font-family="Public Sans,Arial,sans-serif" font-size="38" font-weight="700" letter-spacing="8">PROGRESS</text>
+  <g font-family="Public Sans,Arial,sans-serif" fill="#173e45">
+    <g font-size="20" font-weight="700" text-anchor="middle">
+      <text x="395" y="147">Discovery</text>
+      <text x="592" y="147">Optimization</text>
+      <text x="789" y="147">Pre-Clinical</text>
+      <text x="986" y="147">Clinical</text>
+    </g>
+    <path d="M278 172H1082M278 307H1082M278 433H1082" stroke="#d7e7e8" stroke-width="2"/>
+    <path d="M278 102V525" stroke="#d7e7e8" stroke-width="2"/>
+
+    <text x="50" y="224" font-size="23" font-weight="700">Universal Cancer</text>
+    <text x="50" y="253" font-size="23" font-weight="700">Treatment Platform</text>
+    <text x="50" y="340" font-size="16" font-weight="800" letter-spacing=".8">TARGET INDICATIONS</text>
+
+    <g font-size="14" font-weight="650">
+      <rect x="48" y="374" width="78" height="48" rx="10" fill="#fff" stroke="#269399" stroke-width="2"/>
+      <text x="87" y="394" text-anchor="middle" fill="#269399" font-size="13">PRESS</text>
+      <text x="87" y="411" text-anchor="middle" fill="#269399" font-size="13">RELEASE</text>
+      <text x="132" y="405">Pancreatic Cancer</text>
+
+      <rect x="48" y="458" width="78" height="48" rx="10" fill="#fff" stroke="#269399" stroke-width="2"/>
+      <text x="87" y="478" text-anchor="middle" fill="#269399" font-size="13">PRESS</text>
+      <text x="87" y="495" text-anchor="middle" fill="#269399" font-size="13">RELEASE</text>
+      <text x="132" y="489">Liver Cancers</text>
+    </g>
+  </g>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M375 236H986" stroke="#d4e2e3" stroke-width="10"/>
+    <path d="M375 236H789" stroke="#27cbd1" stroke-width="10"/>
+    <path d="M375 398H986" stroke="#d4e2e3" stroke-width="7"/>
+    <path d="M375 398H789" stroke="#269399" stroke-width="7"/>
+    <path d="M375 482H986" stroke="#d4e2e3" stroke-width="7"/>
+    <path d="M375 482H789" stroke="#269399" stroke-width="7"/>
+  </g>
+
+  <g stroke="#fff" stroke-width="4">
+    <circle cx="375" cy="236" r="13" fill="#27cbd1"/>
+    <circle cx="592" cy="236" r="13" fill="#27cbd1"/>
+    <circle cx="789" cy="236" r="13" fill="#27cbd1"/>
+    <circle cx="986" cy="236" r="13" fill="#d4e2e3"/>
+    <circle cx="375" cy="398" r="10" fill="#269399"/>
+    <circle cx="592" cy="398" r="10" fill="#269399"/>
+    <circle cx="789" cy="398" r="10" fill="#269399"/>
+    <circle cx="986" cy="398" r="10" fill="#d4e2e3"/>
+    <circle cx="375" cy="482" r="10" fill="#269399"/>
+    <circle cx="592" cy="482" r="10" fill="#269399"/>
+    <circle cx="789" cy="482" r="10" fill="#269399"/>
+    <circle cx="986" cy="482" r="10" fill="#d4e2e3"/>
+  </g>
+</svg>

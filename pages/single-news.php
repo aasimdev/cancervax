@@ -1,11 +1,19 @@
 <?php
 $news = include __DIR__ . '/../data/news-data.php';
+$item = false;
 if (isset($_GET['id'])) {
     $newsId = $_GET['id'];
     $item = array_filter($news, function ($item) use ($newsId) {
         return $item['id'] == $newsId;
     });
     $item = reset($item);
+    if (!$item) {
+        $legacyNews = include __DIR__ . '/../data/news-data-old.php';
+        $legacyItem = array_filter($legacyNews, function ($item) use ($newsId) {
+            return $item['id'] == $newsId;
+        });
+        $item = reset($legacyItem);
+    }
 }
 ?>
 

@@ -4,18 +4,18 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
 
 <style>
     .home-aug-28-a-hero-title {
-        font-size: 40.8px !important;
+        font-size: 48px !important;
     }
 
     @media (min-width: 640px) {
         .home-aug-28-a-hero-title {
-            font-size: 61.2px !important;
+            font-size: 72px !important;
         }
     }
 
     @media (min-width: 1280px) {
         .home-aug-28-a-hero-title {
-            font-size: 78.54px !important;
+            font-size: 92.4px !important;
         }
     }
 
@@ -62,11 +62,6 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
     }
 
     @media (max-width: 767px) {
-        .home-aug-28-a-hero-title {
-            font-size: 32px !important;
-            transform: translateY(8px);
-        }
-
         .home-aug-28-a-mobile-hero {
             height: 320px !important;
             background-image: url("<?php echo $full_url; ?>assets/images/home-banner-mobile-grandma.png") !important;
@@ -183,263 +178,6 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
         }
     }
 
-    @media (min-width: 1024px) and (max-width: 1279px) {
-        .home-aug-31-grandma-mobile-hero {
-            background-image: url("<?php echo $full_url; ?>assets/images/home-banner.jpg") !important;
-            background-size: auto 92% !important;
-            background-position: right top !important;
-            background-repeat: no-repeat;
-            background-color: #ffffff;
-        }
-
-        .home-aug-31-grandma-mobile-hero::after {
-            position: absolute;
-            inset: auto 0 0;
-            z-index: 0;
-            height: 125px;
-            background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.72) 58%, #ffffff 100%);
-            content: "";
-            pointer-events: none;
-        }
-
-        .home-aug-31-grandma-mobile-hero > .container {
-            position: relative;
-            z-index: 1;
-        }
-
-        .home-aug-31-grandma-mobile-hero > .container > div:first-child {
-            transform: translateY(-16px);
-        }
-
-        .home-sep-1-team-layout .container {
-            display: grid;
-            grid-template-columns: repeat(2, minmax(0, 1fr));
-            align-items: start;
-            gap: 24px;
-        }
-
-        .home-sep-1-team-layout .home-sep-1-team-group,
-        .home-sep-1-team-layout .home-sep-1-team-grid {
-            display: contents;
-        }
-
-        .home-sep-1-team-layout .container > .text-center {
-            grid-column: 1 / -1;
-        }
-
-        .home-sep-1-team-layout .team-box {
-            grid-column: span 1 !important;
-            margin-right: auto;
-            margin-left: auto;
-        }
-
-        .home-sep-1-development-partners-bottom > article:last-child {
-            grid-column: 1 / -1;
-            width: calc(50% - 0.625rem);
-            justify-self: center;
-        }
-    }
-
-    @media (min-width: 768px) and (max-width: 1023px) {
-        .home-aug-28-a-hero-title {
-            font-size: 48px !important;
-        }
-
-        .home-aug-28-a-hero-video-block > div > .theme-btn {
-            width: max-content;
-            max-width: calc(100% - 20px);
-            padding: 8px 16px;
-            border-radius: 9999px;
-            font-size: 11px !important;
-            line-height: 1.15;
-            letter-spacing: 0.08em;
-            white-space: nowrap;
-            background-color: #ff1f24 !important;
-            border-color: #ff1f24 !important;
-            color: #ffffff !important;
-            box-shadow: 0 5px 12px rgba(0, 0, 0, 0.2);
-        }
-
-        .home-aug-28-a-hero-video-block > div > .theme-btn span {
-            white-space: nowrap;
-        }
-
-        .home-aug-28-c-card-grid {
-            gap: 16px;
-        }
-
-        .home-aug-28-c-card-grid > a > div > div {
-            padding: 8px;
-        }
-
-        .home-aug-28-c-card-grid > a > div > div > div {
-            aspect-ratio: 1 / 1;
-            padding: 12px;
-            border-radius: 18px;
-        }
-
-        .home-aug-28-c-card-grid .home-aug-28-c-card-label-wrap {
-            padding-top: 0;
-            padding-bottom: 12px;
-        }
-
-        .home-aug-28-c-card-grid .home-aug-28-c-card-label-wrap span {
-            transform: none !important;
-            padding: 8px 16px;
-            font-size: 11px;
-            line-height: 1.15;
-            letter-spacing: 0.08em;
-            background-color: #ff1f24 !important;
-            box-shadow: 0 5px 12px rgba(0, 0, 0, 0.2);
-        }
-
-        .home-aug-28-c-card-grid .home-aug-29-mobile-card-copy {
-            transform: none !important;
-            font-size: 12px !important;
-            line-height: 1.2 !important;
-        }
-
-        .home-aug-28-c-card-grid > a:nth-child(1) img {
-            max-width: 82%;
-            max-height: 74%;
-        }
-
-        .home-aug-28-c-card-grid > a:nth-child(3) img {
-            width: 82%;
-            max-height: 65%;
-            transform: none !important;
-        }
-
-        .home-sep-1-team-layout .container {
-            display: grid;
-            grid-template-columns: repeat(2, minmax(0, 1fr));
-            align-items: start;
-            gap: 24px;
-        }
-
-        .home-sep-1-team-layout .home-sep-1-team-group,
-        .home-sep-1-team-layout .home-sep-1-team-grid {
-            display: contents;
-        }
-
-        .home-sep-1-team-layout .container > .text-center {
-            grid-column: 1 / -1;
-        }
-
-        .home-sep-1-team-layout .team-box {
-            grid-column: span 1 !important;
-            margin-right: auto;
-            margin-left: auto;
-        }
-
-        .home-sep-1-development-partners-bottom > article:last-child {
-            grid-column: 1 / -1;
-            width: calc(50% - 0.625rem);
-            justify-self: center;
-        }
-
-        .home-aug-28-a-mobile-hero {
-            height: 440px !important;
-            min-height: 0 !important;
-            background-image: url("<?php echo $full_url; ?>assets/images/home-banner-tablet-portrait-grandma.png") !important;
-            background-size: cover;
-            background-position: center 58px !important;
-        }
-
-        .home-aug-31-grandma-mobile-hero::before {
-            position: absolute;
-            inset: 0 0 auto;
-            z-index: 0;
-            height: 170px;
-            background: linear-gradient(to bottom, #ffffff 0%, rgba(255, 255, 255, 0.86) 38%, rgba(255, 255, 255, 0.3) 72%, rgba(255, 255, 255, 0) 100%);
-            content: "";
-            pointer-events: none;
-        }
-
-        .home-aug-31-grandma-mobile-hero::after {
-            position: absolute;
-            inset: auto 0 0;
-            z-index: 0;
-            height: 28px;
-            background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.35) 55%, rgba(255, 255, 255, 0.9) 100%);
-            content: "";
-            pointer-events: none;
-        }
-
-        .home-aug-31-grandma-mobile-hero > .container > div:first-child {
-            padding-top: 36px !important;
-        }
-
-        .home-aug-28-a-hero-title {
-            transform: translateY(-30px) !important;
-        }
-
-        .home-aug-31-grandma-mobile-hero > .container {
-            position: relative;
-            z-index: 1;
-        }
-
-        .home-aug-31-grandma-mobile-hero .home-aug-28-a-diamond-list,
-        .home-aug-31-grandma-mobile-hero .home-aug-28-a-hero-video-block {
-            display: none !important;
-        }
-
-        .home-sep-1-responsive-content {
-            display: block !important;
-        }
-
-        .home-sep-1-responsive-content .home-aug-31-grandma-mobile-content {
-            display: flex;
-            flex-direction: column;
-            padding-top: 32px;
-        }
-
-        .home-sep-1-responsive-content .home-aug-31-grandma-mobile-bullets {
-            order: 1;
-            max-width: 100%;
-            margin-bottom: 32px;
-        }
-
-        .home-sep-1-responsive-content .home-aug-31-grandma-mobile-video {
-            order: 2;
-            margin-bottom: 48px;
-        }
-
-        .home-sep-1-responsive-content .home-aug-31-grandma-mobile-video > div {
-            width: 85%;
-            max-width: none;
-            margin-right: auto;
-            margin-left: auto;
-        }
-
-        .home-sep-1-responsive-content .home-aug-28-a-mobile-video img {
-            display: block;
-            width: 100%;
-            height: auto;
-        }
-
-        .home-sep-1-responsive-content .home-aug-28-a-mobile-video .theme-btn {
-            top: 50%;
-            bottom: auto;
-            left: 50%;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            gap: 0.4rem;
-            padding: 9px 14px;
-            border-radius: 9999px;
-            font-size: 12px !important;
-            line-height: 1.1;
-            letter-spacing: normal;
-            white-space: nowrap;
-            transform: translate(-50%, -50%);
-        }
-
-        .home-sep-1-responsive-content .home-aug-28-a-mobile-video .theme-btn span {
-            white-space: nowrap;
-        }
-    }
-
     @media (min-width: 1280px) {
         .home-aug-28-a-hero-video-block {
             width: 435px;
@@ -510,23 +248,6 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
             position: relative;
             z-index: 1;
         }
-
-        .home-sep-1-development-partners article {
-            height: 280px;
-            min-height: 280px;
-        }
-
-        .home-sep-1-development-partners-bottom {
-            display: flex;
-            flex-wrap: nowrap;
-            justify-content: center;
-            max-width: 1220px !important;
-        }
-
-        .home-sep-1-development-partners-bottom > article {
-            width: calc((100% - 60px) / 4);
-            flex: 0 0 calc((100% - 60px) / 4);
-        }
     }
 
     .home-aug-28-a-diamond-bullet {
@@ -564,7 +285,7 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
     <div class="home-aug-31-grandma-mobile-hero home-aug-28-a-mobile-hero bg-banner-mobile md:bg-banner bg-white bg-no-repeat bg-[top_center] bg-cover h-[245px] sm:h-[480px] md:h-[850px] xl:!h-auto xl:min-h-[900px] banner-home-up relative">
         <div class="container">
             <div class="w-full max-w-[1200px] text-center mx-auto sm:pt-14 -top-7 sm:top-0 relative">
-                <h1 style="color: #295d6e" class="home-aug-28-a-hero-title text-[48px] sm:text-[72px] xl:text-[92.4px] font-medium"><span class="home-aug-28-a-hero-title-line">Developing A Revolutionary</span><span class="home-aug-28-a-hero-title-line">Cancer Treatment</span></h1>
+                <h1 style="color: #295d6e" class="home-aug-28-a-hero-title text-[48px] sm:text-[72px] xl:text-[92.4px] font-medium"><span class="home-aug-28-a-hero-title-line">A Revolutionary</span><span class="home-aug-28-a-hero-title-line">Cancer Treatment</span></h1>
             </div>
             <div class="relative top-12 pt-[50px] xl:pt-4 max-w-[530px] xl:max-w-[615px]">
                 <ul class="home-aug-28-a-diamond-list home-aug-31-grandma-hero-copy-list hidden md:block list-none pl-0 max-w-[50%] lg:max-w-[81%] xl:max-w-[98%] space-y-6 [&>li]:text-black [&>li]:text-xl xl:[&>li]:text-2xl [&>li]:leading-tight">
@@ -579,7 +300,7 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
                     <div>
                         <img src="<?php echo  $full_url; ?>assets/images/home-video-thumbnail.jpg" alt="thumbnail">
                     </div>
-                    <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="home-sep-2-watch-short-video theme-btn uppercase absolute left-1/2 bottom-[92px] transform -translate-x-1/2 py-1 px-3 bg-[#ff0000] border-[#ff0000] popup-youtube">
+                    <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="theme-btn uppercase absolute left-1/2 bottom-[92px] transform -translate-x-1/2 py-1 px-3 bg-[#ff0000] border-[#ff0000] popup-youtube">
                         <i class="far fa-play-circle"></i>
                         <span>WATCH SHORT VIDEO</span>
                     </a>
@@ -588,7 +309,7 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
         </div>
     </div>
     <!-- Mobile Banner text -->
-    <div class="home-sep-1-responsive-content shadow-[0px_-3px_20px_11px_#fff] sm:shadow-[0px_-20px_20px_20px_#fff] md:shadow-none md:hidden">
+    <div class=" shadow-[0px_-3px_20px_11px_#fff] sm:shadow-[0px_-20px_20px_20px_#fff] md:shadow-none md:hidden">
         <div class="container pt-12 home-aug-31-grandma-mobile-content">
             <div class="home-aug-28-a-mobile-video home-aug-31-grandma-mobile-video">
                 <h2 class="text-custom-teal-100 text-2xl text-center font-semibold mb-4">See How We Do It</h2>
@@ -596,7 +317,7 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
                     <div>
                         <img src="<?php echo  $full_url; ?>assets/images/home-video-thumbnail.jpg" alt="CancerVax explainer video thumbnail">
                     </div>
-                    <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="home-sep-2-watch-short-video theme-btn uppercase absolute left-1/2 bottom-[92px] transform -translate-x-1/2 py-1 px-3 bg-[#ff0000] border-[#ff0000] popup-youtube">
+                    <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="theme-btn uppercase absolute left-1/2 bottom-[92px] transform -translate-x-1/2 py-1 px-3 bg-[#ff0000] border-[#ff0000] popup-youtube">
                         <i class="far fa-play-circle"></i>
                         <span>WATCH SHORT VIDEO</span>
                     </a>
@@ -826,99 +547,69 @@ $teamMarkup = str_replace(
     ],
     $teamMarkup
 );
-$teamMarkup = str_replace(
-    [
-        'class="max-w-[970px] mx-auto"',
-        'class="w-full md:max-w-[720px] xl:max-w-[470px] mx-auto"',
-    ],
-    [
-        'class="max-w-[970px] mx-auto home-sep-1-team-group"',
-        'class="w-full md:max-w-[720px] xl:max-w-[470px] mx-auto home-sep-1-team-group"',
-    ],
-    $teamMarkup
-);
-$teamMarkup = str_replace(
-    [
-        'class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 justify-center max-w-[717px] mx-auto"',
-        'class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 justify-center max-w-[717px] mx-auto my-6"',
-        'class="grid grid-cols-1 md:grid-cols-2 gap-6 justify-center my-6"',
-    ],
-    [
-        'class="home-sep-1-team-grid grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 justify-center max-w-[717px] mx-auto"',
-        'class="home-sep-1-team-grid grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 justify-center max-w-[717px] mx-auto my-6"',
-        'class="home-sep-1-team-grid grid grid-cols-1 md:grid-cols-2 gap-6 justify-center my-6"',
-    ],
-    $teamMarkup
-);
-echo '<div class="home-sep-1-team-layout">' . $teamMarkup . '</div>';
+echo $teamMarkup;
 ?>
 
-<?php
-$developmentPartners = [
-    [
-        'name' => 'IQVIA',
-        'image' => 'assets/images/home-aug-28-a/iqvia.jpg',
-        'description' => 'Global leader in clinical research, real-world evidence and healthcare data science.',
-    ],
-    [
-        'name' => 'Axis Bio',
-        'image' => 'assets/images/axisbio.png',
-        'description' => 'Preclinical CRO delivering expertise in pharmacology, efficacy and safety evaluation.',
-    ],
-    [
-        'name' => 'RoukenBio',
-        'image' => 'assets/images/roukenbio.png',
-        'description' => 'Specialists in antibody analytics and characterization for biologics development.',
-    ],
-    [
-        'name' => 'Champions Oncology',
-        'image' => 'assets/images/champions-oncology.png',
-        'description' => 'Oncology CRO advancing clinical development and patient-focused therapies.',
-    ],
-    [
-        'name' => 'Cytiva',
-        'image' => 'assets/images/cytiva.png',
-        'description' => 'Enabling the development and manufacture of advanced therapies and biologics.',
-    ],
-    [
-        'name' => 'TriLink',
-        'image' => 'assets/images/trilink.png',
-        'description' => 'Delivering innovative tools and services for nucleic acid and bioconjugate development.',
-    ],
-    [
-        'name' => 'VectorBuilder',
-        'image' => 'assets/images/vectorbuilder.png',
-        'description' => 'Custom vector design and molecular cloning solutions for research and development.',
-    ],
-];
-?>
-<section class="home-sep-1-development-partners bg-white py-[50px] sm:py-[70px]">
+<section class="bg-white pb-[70px]">
     <div class="container">
-        <div class="mx-auto max-w-[1220px]">
-            <h2 class="mb-10 text-center text-[clamp(2rem,5vw,3rem)] font-normal uppercase leading-tight text-black sm:mb-12">Our Development Partners</h2>
+        <div class="relative overflow-hidden rounded-[28px] bg-gradient-to-br from-custom-teal-300 via-custom-teal-100 to-custom-teal-200 p-[1px] shadow-[0_22px_55px_rgba(29,143,151,0.18)]">
+            <div class="relative overflow-hidden rounded-[27px] bg-custom-teal-100 px-5 py-9 sm:px-10 sm:py-12">
+                <div class="pointer-events-none absolute inset-0 opacity-15" style="background-image: radial-gradient(circle at 1px 1px, rgba(255,255,255,0.20) 1px, transparent 0); background-size: 26px 26px;" aria-hidden="true"></div>
+                <svg class="pointer-events-none absolute inset-0 h-full w-full opacity-15" viewBox="0 0 1200 520" preserveAspectRatio="none" aria-hidden="true">
+                    <path d="M-50 130C120 30 240 255 420 135S735 35 900 145 1080 250 1250 105" fill="none" stroke="#d2f6f8" stroke-width="2" stroke-linecap="round"/>
+                    <path d="M-70 390C115 275 285 475 475 340S790 235 965 360 1115 435 1260 300" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round"/>
+                    <path d="M80 -30C170 75 85 155 175 245S255 425 150 550" fill="none" stroke="#78c7c9" stroke-width="1.5" stroke-linecap="round"/>
+                    <path d="M1040 -30C945 80 1085 150 990 245S930 425 1050 550" fill="none" stroke="#d2f6f8" stroke-width="1.5" stroke-linecap="round"/>
+                    <path d="M300 530C430 440 465 465 585 520S790 560 900 470" fill="none" stroke="#78c7c9" stroke-width="1" stroke-linecap="round"/>
+                    <g opacity="0.7" fill="none" stroke="#d2f6f8" stroke-width="1" stroke-linecap="round">
+                        <path d="M-60 175C105 75 230 295 405 185S700 80 855 185"/>
+                        <path d="M-55 205C110 105 235 325 410 215S705 110 860 215"/>
+                        <path d="M340 505C475 420 545 475 670 510S885 535 1010 425"/>
+                        <path d="M365 475C500 390 570 445 695 480S910 505 1035 395"/>
+                    </g>
+                    <g opacity="0.5" fill="none" stroke="#78c7c9" stroke-width="1" stroke-linecap="round">
+                        <path d="M-70 85C80 10 195 170 345 90S610 20 770 95 1040 195 1260 55"/>
+                        <path d="M-75 105C75 30 190 190 340 110S605 40 765 115 1035 215 1265 75"/>
+                        <path d="M-55 285C105 205 225 390 380 300S650 220 810 305 1080 400 1260 270"/>
+                        <path d="M-50 310C110 230 230 415 385 325S655 245 815 330 1085 425 1265 295"/>
+                        <path d="M245 -25C345 55 300 145 395 225S480 400 370 545"/>
+                        <path d="M270 -30C370 50 325 140 420 220S505 395 395 550"/>
+                    </g>
+                    <g opacity="0.35" fill="none" stroke="#d2f6f8" stroke-width="2" stroke-linecap="round">
+                        <path d="M740 -30C650 50 700 135 610 215S535 390 640 550"/>
+                        <path d="M765 -25C675 55 725 140 635 220S560 395 665 545"/>
+                    </g>
+                    <circle cx="420" cy="135" r="5" fill="#d2f6f8"/>
+                    <circle cx="900" cy="145" r="5" fill="#d2f6f8"/>
+                    <circle cx="475" cy="340" r="5" fill="#78c7c9"/>
+                    <circle cx="965" cy="360" r="5" fill="#d2f6f8"/>
+                </svg>
+                <div class="pointer-events-none absolute -right-20 -top-24 h-72 w-72 rounded-full border border-white/10"></div>
+                <div class="pointer-events-none absolute -right-6 -top-10 h-44 w-44 rounded-full border border-white/5"></div>
+                <div class="pointer-events-none absolute -bottom-28 -left-24 h-72 w-72 rounded-full border border-white/5"></div>
 
-            <div class="grid grid-cols-1 gap-5 sm:grid-cols-2 xl:grid-cols-4">
-                <?php foreach (array_slice($developmentPartners, 0, 4) as $partner): ?>
-                    <article class="flex min-h-[270px] flex-col items-center rounded-2xl border border-[#e7ebef] bg-white px-6 py-6 text-center shadow-[0_4px_14px_rgba(25,45,65,0.08)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_12px_24px_rgba(25,45,65,0.13)]">
-                        <div class="flex h-[90px] w-full items-center justify-center">
-                            <img src="<?php echo $full_url . $partner['image']; ?>" alt="<?php echo htmlspecialchars($partner['name'], ENT_QUOTES, 'UTF-8'); ?>" class="max-h-[82px] max-w-[230px] w-auto object-contain">
-                        </div>
-                        <h3 class="mt-5 text-[17px] font-semibold leading-tight text-[#14213d]"><?php echo $partner['name']; ?></h3>
-                        <p class="home-sep-1-partner-description mt-3 text-center text-[14px] leading-[1.45] text-[#526071]"><?php echo $partner['description']; ?></p>
-                    </article>
-                <?php endforeach; ?>
-            </div>
+                <div class="relative mb-8 text-center">
+                    <h2 class="max-w-full break-words text-center text-[clamp(2rem,8vw,3.75rem)] leading-tight sm:text-6xl sm:leading-none font-medium text-white">Our Development Partners</h2>
+                </div>
 
-            <div class="home-sep-1-development-partners-bottom mx-auto mt-5 grid max-w-[930px] grid-cols-1 gap-5 sm:grid-cols-2 xl:grid-cols-3">
-                <?php foreach (array_slice($developmentPartners, 4) as $partner): ?>
-                    <article class="flex min-h-[270px] flex-col items-center rounded-2xl border border-[#e7ebef] bg-white px-6 py-6 text-center shadow-[0_4px_14px_rgba(25,45,65,0.08)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_12px_24px_rgba(25,45,65,0.13)]">
-                        <div class="flex h-[90px] w-full items-center justify-center">
-                            <img src="<?php echo $full_url . $partner['image']; ?>" alt="<?php echo htmlspecialchars($partner['name'], ENT_QUOTES, 'UTF-8'); ?>" class="max-h-[82px] max-w-[230px] w-auto object-contain">
-                        </div>
-                        <h3 class="mt-5 text-[17px] font-semibold leading-tight text-[#14213d]"><?php echo $partner['name']; ?></h3>
-                        <p class="home-sep-1-partner-description mt-3 text-center text-[14px] leading-[1.45] text-[#526071]"><?php echo $partner['description']; ?></p>
-                    </article>
-                <?php endforeach; ?>
+                <div class="relative max-w-[1100px] mx-auto grid grid-cols-2 md:grid-cols-6 gap-4 sm:gap-6 items-stretch">
+                    <div class="group relative min-h-[125px] rounded-2xl border border-white/70 bg-gradient-to-br from-white via-white to-[#e9f8f8] p-5 shadow-[0_10px_22px_rgba(2,40,61,0.12)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_16px_28px_rgba(2,40,61,0.18)] flex items-center justify-center md:col-span-2">
+                        <img src="<?php echo $full_url; ?>assets/images/cytiva.png" alt="Cytiva" class="max-h-[70px] w-auto transition-transform duration-300 group-hover:scale-105">
+                    </div>
+                    <div class="group relative min-h-[125px] rounded-2xl border border-white/70 bg-gradient-to-br from-white via-white to-[#e9f8f8] p-5 shadow-[0_10px_22px_rgba(2,40,61,0.12)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_16px_28px_rgba(2,40,61,0.18)] flex items-center justify-center md:col-span-2">
+                        <img src="<?php echo $full_url; ?>assets/images/home-aug-28-a/iqvia.jpg" alt="IQVIA" class="max-h-[70px] w-auto transition-transform duration-300 group-hover:scale-105">
+                    </div>
+                    <div class="group relative min-h-[125px] rounded-2xl border border-white/70 bg-gradient-to-br from-white via-white to-[#e9f8f8] p-5 shadow-[0_10px_22px_rgba(2,40,61,0.12)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_16px_28px_rgba(2,40,61,0.18)] flex items-center justify-center md:col-span-2">
+                        <img src="<?php echo $full_url; ?>assets/images/trilink.png" alt="TriLink" class="max-h-[70px] w-auto transition-transform duration-300 group-hover:scale-105">
+                    </div>
+                    <div class="group relative min-h-[125px] rounded-2xl border border-white/70 bg-gradient-to-br from-white via-white to-[#e9f8f8] p-5 shadow-[0_10px_22px_rgba(2,40,61,0.12)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_16px_28px_rgba(2,40,61,0.18)] flex items-center justify-center md:col-start-2 md:col-span-2">
+                        <img src="<?php echo $full_url; ?>assets/images/axisbio.png" alt="Axis Bio" class="max-h-[70px] w-auto transition-transform duration-300 group-hover:scale-105">
+                    </div>
+                    <div class="group relative col-span-2 w-[calc(50%_-_0.5rem)] justify-self-center min-h-[125px] rounded-2xl border border-white/70 bg-gradient-to-br from-white via-white to-[#e9f8f8] p-5 shadow-[0_10px_22px_rgba(2,40,61,0.12)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_16px_28px_rgba(2,40,61,0.18)] flex items-center justify-center md:col-start-4 md:col-span-2 md:w-auto">
+                        <img src="<?php echo $full_url; ?>assets/images/crown-bioscience.png" alt="Crown Bioscience" class="max-h-[70px] w-auto transition-transform duration-300 group-hover:scale-105">
+                    </div>
+                </div>
+                </div>
             </div>
         </div>
     </div>

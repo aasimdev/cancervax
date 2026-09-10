@@ -3,53 +3,155 @@ $videos = include __DIR__ . '/../data/carousel-videos.php';
 $news = include __DIR__ . '/../data/news-data.php'; ?>
 
 <style>
-    .home-aug-28-a-hero-title {
-        font-size: 40.8px !important;
+    body.home-aug-28-c-page,
+    body.home-aug-28-c-page *:not(i[class*="fa-"]) {
+        font-family: "Public Sans", sans-serif !important;
     }
 
-    @media (min-width: 640px) {
-        .home-aug-28-a-hero-title {
-            font-size: 61.2px !important;
-        }
+    body.home-aug-28-c-page .home-aug-28-c-topbar {
+        display: flex;
+        align-items: center;
     }
 
-    @media (min-width: 1280px) {
-        .home-aug-28-a-hero-title {
-            font-size: 78.54px !important;
-        }
-    }
-
-    .home-aug-28-a-hero-title-line {
-        display: block;
-        white-space: nowrap;
-    }
-
-    @media (min-width: 768px) {
-        body > .sticky > .bg-custom-teal-100 .theme-btn.orange-btn {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            margin: 0;
-            transform: translate(-50%, -50%);
-        }
-
-        body > .sticky > .bg-custom-teal-100 .container-fluid > .relative {
-            transform: translateY(9px);
-        }
-    }
-
-    .home-aug-28-a-hero-video-block {
-        top: 28px;
-    }
-
-    .home-aug-28-a-mobile-video {
-        margin-bottom: 48px;
-    }
-
-    .home-aug-28-a-mobile-video img {
-        display: block;
+    body.home-aug-28-c-page .home-aug-28-c-topbar-content {
         width: 100%;
-        height: auto;
+    }
+
+    @media (max-width: 767px) {
+        body.home-aug-28-c-page .home-aug-28-c-topbar-content {
+            justify-content: center;
+        }
+
+        body.home-aug-28-c-page .home-aug-28-c-topbar-content > .theme-btn.orange-btn {
+            position: static;
+            top: auto;
+            left: auto;
+            margin: 0 auto;
+            transform: none;
+            white-space: nowrap;
+            font-size: 13px !important;
+            line-height: 1.2;
+            padding: 8px 14px !important;
+        }
+    }
+
+    .home-aug-28-a-diamond-list > li {
+        display: flex;
+        align-items: flex-start;
+        gap: 0.7rem;
+    }
+
+    .home-aug-28-a-diamond-bullet {
+        flex: 0 0 auto;
+        color: #1D8F97;
+        font-size: 1.1em;
+        line-height: 1;
+        margin-top: 0.08em;
+    }
+
+    .home-aug-28-c-story-title {
+        display: flex;
+        min-height: 432px;
+        align-items: center;
+        background: #2A5C6E;
+    }
+
+    .home-aug-28-c-story-body {
+        display: flex;
+        flex: 1 1 auto;
+        min-height: 308px;
+        align-items: center;
+        padding-top: 16px;
+        padding-bottom: 16px;
+        background: #1D8F97;
+    }
+
+    .home-aug-29-story-body-layout {
+        box-sizing: border-box;
+        display: grid;
+        width: min(100%, 1500px);
+        grid-template-columns: minmax(0, 1fr) 459px;
+        gap: 40px;
+        align-items: center;
+        margin: 0 auto;
+        padding: 24px 28px;
+    }
+
+    .home-aug-29-story-body-layout > ul {
+        box-sizing: border-box;
+        width: auto;
+        margin: 0;
+        padding: 0;
+    }
+
+    .home-aug-29-story-body-media {
+        width: 100%;
+        padding: 12px 0;
+    }
+
+    .home-aug-29-story-body-media .home-aug-28-c-how-label {
+        margin-bottom: 16px;
+        color: #ffffff;
+    }
+
+    .home-aug-28-c-story-section {
+        display: flex;
+        min-height: 580px;
+        flex-direction: column;
+    }
+
+    .home-aug-28-c-story-title h1 {
+        max-width: 1200px;
+        font-size: clamp(3.12rem, 6.71vw, 7.02rem);
+        font-weight: 500;
+        letter-spacing: -0.015em;
+        line-height: 1.04;
+    }
+
+    .home-aug-28-c-story-body ul {
+        box-sizing: border-box;
+        width: min(100%, 1200px);
+        margin: 0 auto;
+        padding: 0 28px;
+        list-style: none;
+    }
+
+    .home-aug-28-c-story-body li {
+        display: flex;
+        align-items: flex-start;
+        gap: 16px;
+        padding: 3px 0;
+        margin-bottom: 0;
+        font-family: "Public Sans", sans-serif;
+        color: #ffffff;
+        font-size: 22px;
+        font-weight: 500;
+        line-height: 1.3;
+    }
+
+    .home-aug-28-c-story-body li + li {
+        margin-top: 28px;
+    }
+
+    body.home-aug-28-c-page .home-aug-28-c-story-body li::before {
+        display: none !important;
+        content: none !important;
+    }
+
+    body.home-aug-28-c-page .home-aug-28-c-story-body li::before {
+        display: block !important;
+        flex: 0 0 30px;
+        content: "•" !important;
+        color: #ffffff;
+        font-size: 49px;
+        font-weight: 700;
+        line-height: 0.7;
+        margin-top: -7px;
+        text-align: center;
+    }
+
+    .home-aug-28-c-story-body li:last-child {
+        margin-bottom: 0;
     }
 
     .home-aug-28-c-card-label-wrap {
@@ -62,483 +164,64 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
     }
 
     @media (max-width: 767px) {
-        .home-aug-28-a-hero-title {
-            font-size: 32px !important;
-            transform: translateY(8px);
-        }
-
-        .home-aug-28-a-mobile-hero {
-            height: 320px !important;
-            background-image: url("<?php echo $full_url; ?>assets/images/home-banner-mobile-grandma.png") !important;
-            background-size: cover;
-            background-position: center 50px;
-        }
-
-        .home-aug-31-grandma-mobile-hero::before {
-            position: absolute;
-            inset: 0 0 auto;
-            z-index: 0;
-            height: 140px;
-            background: linear-gradient(to bottom, #ffffff 0%, rgba(255, 255, 255, 0.88) 35%, rgba(255, 255, 255, 0.38) 70%, rgba(255, 255, 255, 0) 100%);
-            content: "";
-            pointer-events: none;
-        }
-
-        .home-aug-31-grandma-mobile-hero::after {
-            position: absolute;
-            inset: auto 0 0;
-            z-index: 0;
-            height: 16px;
-            background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, #ffffff 100%);
-            content: "";
-            pointer-events: none;
-        }
-
-        .home-aug-31-grandma-mobile-hero > .container {
-            position: relative;
-            z-index: 1;
-        }
-
-        .home-aug-31-grandma-mobile-content {
-            display: flex;
-            flex-direction: column;
-            padding-top: 16px;
-        }
-
-        .home-aug-31-grandma-mobile-bullets {
-            order: 1;
-            margin-bottom: 32px;
-        }
-
-        .home-aug-31-grandma-mobile-video {
-            order: 2;
-        }
-
-        .home-aug-28-a-hero-video-block {
-            display: none;
-        }
-
-        .home-aug-28-a-mobile-video .theme-btn {
-            top: 50%;
-            bottom: auto;
-            left: 50%;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            gap: 0.4rem;
-            max-width: calc(100% - 24px);
-            padding: 9px 14px;
-            border-radius: 9999px;
-            font-size: 12px !important;
-            line-height: 1.1;
-            white-space: nowrap;
-            transform: translate(-50%, -50%);
-        }
-
-        .home-aug-28-a-mobile-video .theme-btn span {
-            white-space: nowrap;
-        }
-    }
-
-    @media (min-width: 768px) and (max-width: 1279px) {
-        .home-aug-28-a-mobile-hero {
-            height: auto !important;
-            min-height: 850px;
-        }
-    }
-
-    @media (min-width: 768px) {
-        .home-aug-28-a-hero-video-block {
-            width: 225.25px;
-            max-width: 225.25px;
-            margin-top: 68px;
-        }
-
-        .home-aug-28-a-hero-video-block h2 {
-            font-size: 18px !important;
-            line-height: 1.25;
-            margin-bottom: 8px;
-        }
-
-        .home-aug-28-a-hero-video-block > div {
-            width: 100%;
-            max-width: 100%;
-        }
-
-        .home-aug-28-a-hero-video-block > div > .theme-btn {
-            top: 50%;
-            bottom: auto;
-            left: 50%;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            transform: translate(-50%, -50%);
-        }
-    }
-
-    @media (min-width: 1024px) {
-        .home-aug-28-a-hero-video-block {
-            width: 364.89px;
-            max-width: 364.89px;
-        }
-    }
-
-    @media (min-width: 1024px) and (max-width: 1279px) {
-        .home-aug-31-grandma-mobile-hero {
-            background-image: url("<?php echo $full_url; ?>assets/images/home-banner.jpg") !important;
-            background-size: auto 92% !important;
-            background-position: right top !important;
-            background-repeat: no-repeat;
-            background-color: #ffffff;
-        }
-
-        .home-aug-31-grandma-mobile-hero::after {
-            position: absolute;
-            inset: auto 0 0;
-            z-index: 0;
-            height: 125px;
-            background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.72) 58%, #ffffff 100%);
-            content: "";
-            pointer-events: none;
-        }
-
-        .home-aug-31-grandma-mobile-hero > .container {
-            position: relative;
-            z-index: 1;
-        }
-
-        .home-aug-31-grandma-mobile-hero > .container > div:first-child {
-            transform: translateY(-16px);
-        }
-
-        .home-sep-1-team-layout .container {
-            display: grid;
-            grid-template-columns: repeat(2, minmax(0, 1fr));
-            align-items: start;
-            gap: 24px;
-        }
-
-        .home-sep-1-team-layout .home-sep-1-team-group,
-        .home-sep-1-team-layout .home-sep-1-team-grid {
-            display: contents;
-        }
-
-        .home-sep-1-team-layout .container > .text-center {
-            grid-column: 1 / -1;
-        }
-
-        .home-sep-1-team-layout .team-box {
-            grid-column: span 1 !important;
-            margin-right: auto;
-            margin-left: auto;
-        }
-
-        .home-sep-1-development-partners-bottom > article:last-child {
-            grid-column: 1 / -1;
-            width: calc(50% - 0.625rem);
-            justify-self: center;
-        }
-    }
-
-    @media (min-width: 768px) and (max-width: 1023px) {
-        .home-aug-28-a-hero-title {
-            font-size: 48px !important;
-        }
-
-        .home-aug-28-a-hero-video-block > div > .theme-btn {
-            width: max-content;
-            max-width: calc(100% - 20px);
-            padding: 8px 16px;
-            border-radius: 9999px;
-            font-size: 11px !important;
-            line-height: 1.15;
-            letter-spacing: 0.08em;
-            white-space: nowrap;
-            background-color: #ff1f24 !important;
-            border-color: #ff1f24 !important;
-            color: #ffffff !important;
-            box-shadow: 0 5px 12px rgba(0, 0, 0, 0.2);
-        }
-
-        .home-aug-28-a-hero-video-block > div > .theme-btn span {
-            white-space: nowrap;
-        }
-
-        .home-aug-28-c-card-grid {
-            gap: 16px;
-        }
-
-        .home-aug-28-c-card-grid > a > div > div {
-            padding: 8px;
-        }
-
-        .home-aug-28-c-card-grid > a > div > div > div {
-            aspect-ratio: 1 / 1;
-            padding: 12px;
-            border-radius: 18px;
-        }
-
-        .home-aug-28-c-card-grid .home-aug-28-c-card-label-wrap {
-            padding-top: 0;
-            padding-bottom: 12px;
-        }
-
-        .home-aug-28-c-card-grid .home-aug-28-c-card-label-wrap span {
-            transform: none !important;
-            padding: 8px 16px;
-            font-size: 11px;
-            line-height: 1.15;
-            letter-spacing: 0.08em;
-            background-color: #ff1f24 !important;
-            box-shadow: 0 5px 12px rgba(0, 0, 0, 0.2);
-        }
-
-        .home-aug-28-c-card-grid .home-aug-29-mobile-card-copy {
-            transform: none !important;
-            font-size: 12px !important;
-            line-height: 1.2 !important;
-        }
-
-        .home-aug-28-c-card-grid > a:nth-child(1) img {
-            max-width: 82%;
-            max-height: 74%;
-        }
-
-        .home-aug-28-c-card-grid > a:nth-child(3) img {
-            width: 82%;
-            max-height: 65%;
-            transform: none !important;
-        }
-
-        .home-sep-1-team-layout .container {
-            display: grid;
-            grid-template-columns: repeat(2, minmax(0, 1fr));
-            align-items: start;
-            gap: 24px;
-        }
-
-        .home-sep-1-team-layout .home-sep-1-team-group,
-        .home-sep-1-team-layout .home-sep-1-team-grid {
-            display: contents;
-        }
-
-        .home-sep-1-team-layout .container > .text-center {
-            grid-column: 1 / -1;
-        }
-
-        .home-sep-1-team-layout .team-box {
-            grid-column: span 1 !important;
-            margin-right: auto;
-            margin-left: auto;
-        }
-
-        .home-sep-1-development-partners-bottom > article:last-child {
-            grid-column: 1 / -1;
-            width: calc(50% - 0.625rem);
-            justify-self: center;
-        }
-
-        .home-aug-28-a-mobile-hero {
-            height: 440px !important;
-            min-height: 0 !important;
-            background-image: url("<?php echo $full_url; ?>assets/images/home-banner-tablet-portrait-grandma.png") !important;
-            background-size: cover;
-            background-position: center 58px !important;
-        }
-
-        .home-aug-31-grandma-mobile-hero::before {
-            position: absolute;
-            inset: 0 0 auto;
-            z-index: 0;
-            height: 170px;
-            background: linear-gradient(to bottom, #ffffff 0%, rgba(255, 255, 255, 0.86) 38%, rgba(255, 255, 255, 0.3) 72%, rgba(255, 255, 255, 0) 100%);
-            content: "";
-            pointer-events: none;
-        }
-
-        .home-aug-31-grandma-mobile-hero::after {
-            position: absolute;
-            inset: auto 0 0;
-            z-index: 0;
-            height: 28px;
-            background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.35) 55%, rgba(255, 255, 255, 0.9) 100%);
-            content: "";
-            pointer-events: none;
-        }
-
-        .home-aug-31-grandma-mobile-hero > .container > div:first-child {
-            padding-top: 36px !important;
-        }
-
-        .home-aug-28-a-hero-title {
-            transform: translateY(-30px) !important;
-        }
-
-        .home-aug-31-grandma-mobile-hero > .container {
-            position: relative;
-            z-index: 1;
-        }
-
-        .home-aug-31-grandma-mobile-hero .home-aug-28-a-diamond-list,
-        .home-aug-31-grandma-mobile-hero .home-aug-28-a-hero-video-block {
-            display: none !important;
-        }
-
-        .home-sep-1-responsive-content {
-            display: block !important;
-        }
-
-        .home-sep-1-responsive-content .home-aug-31-grandma-mobile-content {
-            display: flex;
-            flex-direction: column;
-            padding-top: 32px;
-        }
-
-        .home-sep-1-responsive-content .home-aug-31-grandma-mobile-bullets {
-            order: 1;
-            max-width: 100%;
-            margin-bottom: 32px;
-        }
-
-        .home-sep-1-responsive-content .home-aug-31-grandma-mobile-video {
-            order: 2;
-            margin-bottom: 48px;
-        }
-
-        .home-sep-1-responsive-content .home-aug-31-grandma-mobile-video > div {
-            width: 85%;
-            max-width: none;
-            margin-right: auto;
-            margin-left: auto;
-        }
-
-        .home-sep-1-responsive-content .home-aug-28-a-mobile-video img {
+        body.home-aug-28-c-page .home-aug-28-c-how-label {
             display: block;
-            width: 100%;
-            height: auto;
         }
 
-        .home-sep-1-responsive-content .home-aug-28-a-mobile-video .theme-btn {
-            top: 50%;
-            bottom: auto;
-            left: 50%;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            gap: 0.4rem;
-            padding: 9px 14px;
-            border-radius: 9999px;
-            font-size: 12px !important;
-            line-height: 1.1;
-            letter-spacing: normal;
+        body.home-aug-28-c-page .home-aug-28-c-card-grid .home-aug-28-c-short-video-card {
+            order: -1;
+        }
+
+        body.home-aug-28-c-page .home-aug-28-c-development-partners-title {
+            max-width: 100%;
+            font-size: clamp(2.25rem, 10.25vw, 3.25rem);
+            line-height: 1.02;
+            overflow-wrap: normal;
+            word-break: normal;
+        }
+
+        body.home-aug-28-c-page .home-aug-28-c-sumant-image {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            object-position: center top !important;
+        }
+
+        .home-aug-28-c-story-title {
+            min-height: 350px;
+        }
+
+        .home-aug-28-c-story-title h1 {
+            font-size: clamp(2.45rem, 10.5vw, 3.74rem);
+            line-height: 1.02;
+        }
+
+        .home-aug-28-c-story-title-second-line {
             white-space: nowrap;
-            transform: translate(-50%, -50%);
         }
 
-        .home-sep-1-responsive-content .home-aug-28-a-mobile-video .theme-btn span {
-            white-space: nowrap;
-        }
-    }
-
-    @media (min-width: 1280px) {
-        .home-aug-28-a-hero-video-block {
-            width: 435px;
-            max-width: 435px;
-        }
-    }
-
-    @media (max-width: 639px) {
-        .home-aug-28-a-hero-title-line {
-            letter-spacing: -0.03em;
-        }
-    }
-
-    .home-aug-28-a-diamond-list > li {
-        display: flex;
-        align-items: flex-start;
-        gap: 0.7rem;
-    }
-
-    .home-aug-31-grandma-hero-copy-list {
-        margin-left: -6px;
-    }
-
-    @media (min-width: 768px) {
-        .home-aug-31-grandma-hero-copy-list {
-            max-width: 42.5%;
-        }
-    }
-
-    @media (min-width: 1024px) {
-        .home-aug-31-grandma-hero-copy-list {
-            max-width: 68.85%;
-        }
-    }
-
-    @media (min-width: 1280px) {
-        .home-aug-31-grandma-hero-copy-list {
-            max-width: 83.3%;
-        }
-    }
-
-    @media (min-width: 1280px) {
-        .home-aug-28-a-mobile-hero {
-            background-position: center 68px !important;
+        .home-aug-28-c-story-body li {
+            gap: 13px;
+            font-size: 20px;
         }
 
-        .home-aug-28-a-mobile-hero::before {
-            position: absolute;
-            inset: 0 0 auto;
-            z-index: 0;
-            height: 220px;
-            background: linear-gradient(to bottom, #ffffff 0%, rgba(255, 255, 255, 0.92) 34%, rgba(255, 255, 255, 0) 100%);
-            content: "";
-            pointer-events: none;
+        .home-aug-29-story-body-layout {
+            grid-template-columns: minmax(0, 1fr);
+            gap: 24px;
+            padding: 24px 0;
         }
 
-        .home-aug-28-a-mobile-hero::after {
-            position: absolute;
-            inset: auto 0 0;
-            z-index: 0;
-            height: 180px;
-            background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, #ffffff 100%);
-            content: "";
-            pointer-events: none;
+        .home-aug-29-story-body-media {
+            width: calc(100% + 8px);
+            max-width: 500px;
+            margin: 0 -4px;
+            padding: 0;
         }
 
-        .home-aug-28-a-mobile-hero > .container {
-            position: relative;
-            z-index: 1;
+        .home-aug-29-mobile-card-copy {
+            font-size: clamp(0.95rem, 4vw, 1.05rem) !important;
         }
 
-        .home-sep-1-development-partners article {
-            height: 280px;
-            min-height: 280px;
-        }
-
-        .home-sep-1-development-partners-bottom {
-            display: flex;
-            flex-wrap: nowrap;
-            justify-content: center;
-            max-width: 1220px !important;
-        }
-
-        .home-sep-1-development-partners-bottom > article {
-            width: calc((100% - 60px) / 4);
-            flex: 0 0 calc((100% - 60px) / 4);
-        }
-    }
-
-    .home-aug-28-a-diamond-bullet {
-        display: block;
-        flex: 0 0 14px;
-        width: 14px;
-        height: 14px;
-        margin-top: 8px;
-        border-radius: 50%;
-        background-color: #1D8F97;
-        font-size: 0;
-        line-height: 1;
     }
 </style>
 
@@ -560,67 +243,46 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
     </div>
 </section> -->
 
-<section class="pt-11 md:pt-0">
-    <div class="home-aug-31-grandma-mobile-hero home-aug-28-a-mobile-hero bg-banner-mobile md:bg-banner bg-white bg-no-repeat bg-[top_center] bg-cover h-[245px] sm:h-[480px] md:h-[850px] xl:!h-auto xl:min-h-[900px] banner-home-up relative">
-        <div class="container">
-            <div class="w-full max-w-[1200px] text-center mx-auto sm:pt-14 -top-7 sm:top-0 relative">
-                <h1 style="color: #295d6e" class="home-aug-28-a-hero-title text-[48px] sm:text-[72px] xl:text-[92.4px] font-medium"><span class="home-aug-28-a-hero-title-line">Developing A Revolutionary</span><span class="home-aug-28-a-hero-title-line">Cancer Treatment</span></h1>
-            </div>
-            <div class="relative top-12 pt-[50px] xl:pt-4 max-w-[530px] xl:max-w-[615px]">
-                <ul class="home-aug-28-a-diamond-list home-aug-31-grandma-hero-copy-list hidden md:block list-none pl-0 max-w-[50%] lg:max-w-[81%] xl:max-w-[98%] space-y-6 [&>li]:text-black [&>li]:text-xl xl:[&>li]:text-2xl [&>li]:leading-tight">
-                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true"></span><span>Last year, 10 million people died because the body does not easily recognize and kill cancer cells.</span></li>
-                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true"></span><span>However, the body is very good at killing diseases that it recognizes, such as measles.</span></li>
-                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true"></span><span>Our breakthrough technology disguises cancer cells to look like measles and “tricks” the body into killing them.</span></li>
-                </ul>
-            </div>
-            <div class="home-aug-28-a-hero-video-block relative mt-8 max-w-[450px]">
-                <h2 class="text-custom-teal-300 text-2xl text-center font-semibold mb-4 hidden md:block">See How We Do It</h2>
-                <div class="mb-9 border-[12px] border-custom-teal-100 rounded-xl relative max-w-[500px] hidden md:block">
-                    <div>
-                        <img src="<?php echo  $full_url; ?>assets/images/home-video-thumbnail.jpg" alt="thumbnail">
+<section class="home-aug-28-c-story-section">
+    <div class="home-aug-28-c-story-title px-4 py-8 sm:px-8 md:py-12">
+        <h1 class="mx-auto max-w-[1200px] text-center text-[32px] font-bold leading-tight text-white sm:text-[46px] md:text-[60px]">A Revolutionary<br><span class="home-aug-28-c-story-title-second-line">Cancer Treatment</span></h1>
+    </div>
+    <div class="home-aug-28-c-story-body px-4 py-8 sm:px-8 md:py-10">
+        <div class="home-aug-29-story-body-layout">
+            <ul>
+                <li class="pl-1">Last Year, 10 million people died because the body does not easily recognize and kill cancer cells.</li>
+                <li class="pl-1">However, the body is very good at killing diseases that it recognizes, such as measles.</li>
+                <li class="pl-1">Our breakthrough technology disguises cancer cells to look like measles and “tricks” the body into killing them.</li>
+            </ul>
+            <div class="home-aug-29-story-body-media">
+                <div class="home-aug-28-c-how-label text-center text-[24px] font-medium">See How We Do It</div>
+                <a href="https://www.youtube.com/watch?v=PXBNJe3nHp0" class="home-aug-28-c-short-video-card relative popup-youtube">
+                    <div class="relative rounded-[26px] bg-transparent p-[2px]">
+                        <div class="rounded-[24px] bg-transparent p-3 sm:p-4">
+                            <div class="relative flex aspect-[4/3] flex-col items-center justify-start overflow-hidden rounded-[18px] p-4" style="background-color: #F1F1F1;">
+                                <div class="home-aug-28-c-card-label-wrap">
+                                    <span class="pointer-events-none relative z-10 shrink-0 scale-[1.3] rounded-full bg-[#ff1f24] px-4 py-2 text-[11px] font-bold uppercase tracking-[0.12em] text-white shadow-[0_5px_14px_rgba(0,0,0,0.28)]">WATCH SHORT VIDEO</span>
+                                </div>
+                                <div class="flex min-h-0 w-full flex-1 items-center justify-center">
+                                    <img src="<?php echo $full_url; ?>assets/images/home-video-thumbnail.jpg" alt="CancerVax short explainer video thumbnail" style="width: 88%; max-width: 100%; height: auto; border-radius: 18px;">
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="home-sep-2-watch-short-video theme-btn uppercase absolute left-1/2 bottom-[92px] transform -translate-x-1/2 py-1 px-3 bg-[#ff0000] border-[#ff0000] popup-youtube">
-                        <i class="far fa-play-circle"></i>
-                        <span>WATCH SHORT VIDEO</span>
-                    </a>
-                </div>
+                </a>
             </div>
         </div>
     </div>
-    <!-- Mobile Banner text -->
-    <div class="home-sep-1-responsive-content shadow-[0px_-3px_20px_11px_#fff] sm:shadow-[0px_-20px_20px_20px_#fff] md:shadow-none md:hidden">
-        <div class="container pt-12 home-aug-31-grandma-mobile-content">
-            <div class="home-aug-28-a-mobile-video home-aug-31-grandma-mobile-video">
-                <h2 class="text-custom-teal-100 text-2xl text-center font-semibold mb-4">See How We Do It</h2>
-                <div class="border-[10px] border-custom-teal-100 rounded-xl relative max-w-full">
-                    <div>
-                        <img src="<?php echo  $full_url; ?>assets/images/home-video-thumbnail.jpg" alt="CancerVax explainer video thumbnail">
-                    </div>
-                    <a href="http://www.youtube.com/watch?v=PXBNJe3nHp0" class="home-sep-2-watch-short-video theme-btn uppercase absolute left-1/2 bottom-[92px] transform -translate-x-1/2 py-1 px-3 bg-[#ff0000] border-[#ff0000] popup-youtube">
-                        <i class="far fa-play-circle"></i>
-                        <span>WATCH SHORT VIDEO</span>
-                    </a>
-                </div>
-            </div>
-            <div class="max-w-[530px] home-aug-31-grandma-mobile-bullets">
-                <ul class="home-aug-28-a-diamond-list list-none pl-0 max-w-1/2 space-y-6 [&>li]:text-black [&>li]:text-xl xl:[&>li]:text-[25px]">
-                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true"></span><span>Last year, 10 million people died because the body does not easily recognize and kill cancer cells.</span></li>
-                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true"></span><span>However, the body is very good at killing diseases that it recognizes, such as measles.</span></li>
-                    <li><span class="home-aug-28-a-diamond-bullet" aria-hidden="true"></span><span>Our breakthrough technology disguises cancer cells to look like measles and “tricks” the body into killing them.</span></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-
 </section>
 
 <section class="h-auto relative overflow-hidden bg-white py-6 sm:py-[70px]">
     <div class="container !max-w-[1600px]">
         <div class="relative max-w-[1600px] mx-auto">
-            <div class="pointer-events-none absolute left-[12%] right-[12%] top-1/2 hidden h-px bg-gradient-to-r from-transparent via-custom-teal-400/50 to-transparent md:block" aria-hidden="true"></div>
-            <div class="pointer-events-none absolute left-1/2 top-1/2 hidden h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full bg-custom-orange-100/60 ring-8 ring-white md:block" aria-hidden="true"></div>
+            <div class="relative">
+                <div class="pointer-events-none absolute left-[12%] right-[12%] top-1/2 hidden h-px bg-gradient-to-r from-transparent via-custom-teal-400/50 to-transparent md:block" aria-hidden="true"></div>
+                <div class="pointer-events-none absolute left-1/2 top-1/2 hidden h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full bg-custom-orange-100/60 ring-8 ring-white md:block" aria-hidden="true"></div>
 
-            <div class="home-aug-28-c-card-grid relative grid grid-cols-1 md:grid-cols-3 gap-3 items-stretch">
+                <div class="home-aug-28-c-card-grid relative grid grid-cols-1 md:grid-cols-3 gap-3 items-stretch">
                 <a href="/lifescience-review" class="relative">
                     <div class="relative rounded-[26px] bg-transparent p-[2px]">
                         <div class="rounded-[24px] bg-white p-3 sm:p-4">
@@ -630,7 +292,7 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
                         </div>
                     </div>
                 </a>
-                <a href="/single-news.php?id=52" class="relative">
+                <a href="/single-news.php?id=52" class="home-aug-28-c-short-video-card relative">
                     <div class="relative rounded-[26px] bg-transparent p-[2px]">
                         <div class="rounded-[24px] bg-white p-3 sm:p-4">
                             <div class="relative flex aspect-[4/3] flex-col items-center justify-start overflow-hidden rounded-[18px] p-4" style="background-color: #f1f1f1;">
@@ -663,6 +325,7 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
                         </div>
                     </div>
                 </a>
+                </div>
             </div>
         </div>
     </div>
@@ -827,98 +490,73 @@ $teamMarkup = str_replace(
     $teamMarkup
 );
 $teamMarkup = str_replace(
-    [
-        'class="max-w-[970px] mx-auto"',
-        'class="w-full md:max-w-[720px] xl:max-w-[470px] mx-auto"',
-    ],
-    [
-        'class="max-w-[970px] mx-auto home-sep-1-team-group"',
-        'class="w-full md:max-w-[720px] xl:max-w-[470px] mx-auto home-sep-1-team-group"',
-    ],
+    'assets/images/home-aug-28-a/sumant-ramachandra.jpg" class="w-[307px]',
+    'assets/images/home-aug-28-a/sumant-ramachandra.jpg" class="home-aug-28-c-sumant-image w-[307px]',
     $teamMarkup
 );
-$teamMarkup = str_replace(
-    [
-        'class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 justify-center max-w-[717px] mx-auto"',
-        'class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 justify-center max-w-[717px] mx-auto my-6"',
-        'class="grid grid-cols-1 md:grid-cols-2 gap-6 justify-center my-6"',
-    ],
-    [
-        'class="home-sep-1-team-grid grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 justify-center max-w-[717px] mx-auto"',
-        'class="home-sep-1-team-grid grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 justify-center max-w-[717px] mx-auto my-6"',
-        'class="home-sep-1-team-grid grid grid-cols-1 md:grid-cols-2 gap-6 justify-center my-6"',
-    ],
-    $teamMarkup
-);
-echo '<div class="home-sep-1-team-layout">' . $teamMarkup . '</div>';
+echo $teamMarkup;
 ?>
 
-<?php
-$developmentPartners = [
-    [
-        'name' => 'IQVIA',
-        'image' => 'assets/images/home-aug-28-a/iqvia.jpg',
-        'description' => 'Global leader in clinical research, real-world evidence and healthcare data science.',
-    ],
-    [
-        'name' => 'Axis Bio',
-        'image' => 'assets/images/axisbio.png',
-        'description' => 'Preclinical CRO delivering expertise in pharmacology, efficacy and safety evaluation.',
-    ],
-    [
-        'name' => 'RoukenBio',
-        'image' => 'assets/images/roukenbio.png',
-        'description' => 'Specialists in antibody analytics and characterization for biologics development.',
-    ],
-    [
-        'name' => 'Champions Oncology',
-        'image' => 'assets/images/champions-oncology.png',
-        'description' => 'Oncology CRO advancing clinical development and patient-focused therapies.',
-    ],
-    [
-        'name' => 'Cytiva',
-        'image' => 'assets/images/cytiva.png',
-        'description' => 'Enabling the development and manufacture of advanced therapies and biologics.',
-    ],
-    [
-        'name' => 'TriLink',
-        'image' => 'assets/images/trilink.png',
-        'description' => 'Delivering innovative tools and services for nucleic acid and bioconjugate development.',
-    ],
-    [
-        'name' => 'VectorBuilder',
-        'image' => 'assets/images/vectorbuilder.png',
-        'description' => 'Custom vector design and molecular cloning solutions for research and development.',
-    ],
-];
-?>
-<section class="home-sep-1-development-partners bg-white py-[50px] sm:py-[70px]">
+<section class="bg-white pb-[70px]">
     <div class="container">
-        <div class="mx-auto max-w-[1220px]">
-            <h2 class="mb-10 text-center text-[clamp(2rem,5vw,3rem)] font-normal uppercase leading-tight text-black sm:mb-12">Our Development Partners</h2>
+        <div class="relative overflow-hidden rounded-[28px] bg-gradient-to-br from-custom-teal-300 via-custom-teal-100 to-custom-teal-200 p-[1px] shadow-[0_22px_55px_rgba(29,143,151,0.18)]">
+            <div class="relative overflow-hidden rounded-[27px] bg-custom-teal-100 px-5 py-9 sm:px-10 sm:py-12">
+                <div class="pointer-events-none absolute inset-0 opacity-15" style="background-image: radial-gradient(circle at 1px 1px, rgba(255,255,255,0.20) 1px, transparent 0); background-size: 26px 26px;" aria-hidden="true"></div>
+                <svg class="pointer-events-none absolute inset-0 h-full w-full opacity-15" viewBox="0 0 1200 520" preserveAspectRatio="none" aria-hidden="true">
+                    <path d="M-50 130C120 30 240 255 420 135S735 35 900 145 1080 250 1250 105" fill="none" stroke="#d2f6f8" stroke-width="2" stroke-linecap="round"/>
+                    <path d="M-70 390C115 275 285 475 475 340S790 235 965 360 1115 435 1260 300" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round"/>
+                    <path d="M80 -30C170 75 85 155 175 245S255 425 150 550" fill="none" stroke="#78c7c9" stroke-width="1.5" stroke-linecap="round"/>
+                    <path d="M1040 -30C945 80 1085 150 990 245S930 425 1050 550" fill="none" stroke="#d2f6f8" stroke-width="1.5" stroke-linecap="round"/>
+                    <path d="M300 530C430 440 465 465 585 520S790 560 900 470" fill="none" stroke="#78c7c9" stroke-width="1" stroke-linecap="round"/>
+                    <g opacity="0.7" fill="none" stroke="#d2f6f8" stroke-width="1" stroke-linecap="round">
+                        <path d="M-60 175C105 75 230 295 405 185S700 80 855 185"/>
+                        <path d="M-55 205C110 105 235 325 410 215S705 110 860 215"/>
+                        <path d="M340 505C475 420 545 475 670 510S885 535 1010 425"/>
+                        <path d="M365 475C500 390 570 445 695 480S910 505 1035 395"/>
+                    </g>
+                    <g opacity="0.5" fill="none" stroke="#78c7c9" stroke-width="1" stroke-linecap="round">
+                        <path d="M-70 85C80 10 195 170 345 90S610 20 770 95 1040 195 1260 55"/>
+                        <path d="M-75 105C75 30 190 190 340 110S605 40 765 115 1035 215 1265 75"/>
+                        <path d="M-55 285C105 205 225 390 380 300S650 220 810 305 1080 400 1260 270"/>
+                        <path d="M-50 310C110 230 230 415 385 325S655 245 815 330 1085 425 1265 295"/>
+                        <path d="M245 -25C345 55 300 145 395 225S480 400 370 545"/>
+                        <path d="M270 -30C370 50 325 140 420 220S505 395 395 550"/>
+                    </g>
+                    <g opacity="0.35" fill="none" stroke="#d2f6f8" stroke-width="2" stroke-linecap="round">
+                        <path d="M740 -30C650 50 700 135 610 215S535 390 640 550"/>
+                        <path d="M765 -25C675 55 725 140 635 220S560 395 665 545"/>
+                    </g>
+                    <circle cx="420" cy="135" r="5" fill="#d2f6f8"/>
+                    <circle cx="900" cy="145" r="5" fill="#d2f6f8"/>
+                    <circle cx="475" cy="340" r="5" fill="#78c7c9"/>
+                    <circle cx="965" cy="360" r="5" fill="#d2f6f8"/>
+                </svg>
+                <div class="pointer-events-none absolute -right-20 -top-24 h-72 w-72 rounded-full border border-white/10"></div>
+                <div class="pointer-events-none absolute -right-6 -top-10 h-44 w-44 rounded-full border border-white/5"></div>
+                <div class="pointer-events-none absolute -bottom-28 -left-24 h-72 w-72 rounded-full border border-white/5"></div>
 
-            <div class="grid grid-cols-1 gap-5 sm:grid-cols-2 xl:grid-cols-4">
-                <?php foreach (array_slice($developmentPartners, 0, 4) as $partner): ?>
-                    <article class="flex min-h-[270px] flex-col items-center rounded-2xl border border-[#e7ebef] bg-white px-6 py-6 text-center shadow-[0_4px_14px_rgba(25,45,65,0.08)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_12px_24px_rgba(25,45,65,0.13)]">
-                        <div class="flex h-[90px] w-full items-center justify-center">
-                            <img src="<?php echo $full_url . $partner['image']; ?>" alt="<?php echo htmlspecialchars($partner['name'], ENT_QUOTES, 'UTF-8'); ?>" class="max-h-[82px] max-w-[230px] w-auto object-contain">
-                        </div>
-                        <h3 class="mt-5 text-[17px] font-semibold leading-tight text-[#14213d]"><?php echo $partner['name']; ?></h3>
-                        <p class="home-sep-1-partner-description mt-3 text-center text-[14px] leading-[1.45] text-[#526071]"><?php echo $partner['description']; ?></p>
-                    </article>
-                <?php endforeach; ?>
-            </div>
+                <div class="relative mb-8 text-center">
+                    <h2 class="home-aug-28-c-development-partners-title text-center text-6xl leading-none font-medium text-white">Our Development Partners</h2>
+                </div>
 
-            <div class="home-sep-1-development-partners-bottom mx-auto mt-5 grid max-w-[930px] grid-cols-1 gap-5 sm:grid-cols-2 xl:grid-cols-3">
-                <?php foreach (array_slice($developmentPartners, 4) as $partner): ?>
-                    <article class="flex min-h-[270px] flex-col items-center rounded-2xl border border-[#e7ebef] bg-white px-6 py-6 text-center shadow-[0_4px_14px_rgba(25,45,65,0.08)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_12px_24px_rgba(25,45,65,0.13)]">
-                        <div class="flex h-[90px] w-full items-center justify-center">
-                            <img src="<?php echo $full_url . $partner['image']; ?>" alt="<?php echo htmlspecialchars($partner['name'], ENT_QUOTES, 'UTF-8'); ?>" class="max-h-[82px] max-w-[230px] w-auto object-contain">
-                        </div>
-                        <h3 class="mt-5 text-[17px] font-semibold leading-tight text-[#14213d]"><?php echo $partner['name']; ?></h3>
-                        <p class="home-sep-1-partner-description mt-3 text-center text-[14px] leading-[1.45] text-[#526071]"><?php echo $partner['description']; ?></p>
-                    </article>
-                <?php endforeach; ?>
+                <div class="relative max-w-[1100px] mx-auto grid grid-cols-2 md:grid-cols-6 gap-4 sm:gap-6 items-stretch">
+                    <div class="group relative min-h-[125px] rounded-2xl border border-white/70 bg-gradient-to-br from-white via-white to-[#e9f8f8] p-5 shadow-[0_10px_22px_rgba(2,40,61,0.12)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_16px_28px_rgba(2,40,61,0.18)] flex items-center justify-center md:col-span-2">
+                        <img src="<?php echo $full_url; ?>assets/images/cytiva.png" alt="Cytiva" class="max-h-[70px] w-auto transition-transform duration-300 group-hover:scale-105">
+                    </div>
+                    <div class="group relative min-h-[125px] rounded-2xl border border-white/70 bg-gradient-to-br from-white via-white to-[#e9f8f8] p-5 shadow-[0_10px_22px_rgba(2,40,61,0.12)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_16px_28px_rgba(2,40,61,0.18)] flex items-center justify-center md:col-span-2">
+                        <img src="<?php echo $full_url; ?>assets/images/home-aug-28-a/iqvia.jpg" alt="IQVIA" class="max-h-[70px] w-auto transition-transform duration-300 group-hover:scale-105">
+                    </div>
+                    <div class="group relative min-h-[125px] rounded-2xl border border-white/70 bg-gradient-to-br from-white via-white to-[#e9f8f8] p-5 shadow-[0_10px_22px_rgba(2,40,61,0.12)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_16px_28px_rgba(2,40,61,0.18)] flex items-center justify-center md:col-span-2">
+                        <img src="<?php echo $full_url; ?>assets/images/trilink.png" alt="TriLink" class="max-h-[70px] w-auto transition-transform duration-300 group-hover:scale-105">
+                    </div>
+                    <div class="group relative min-h-[125px] rounded-2xl border border-white/70 bg-gradient-to-br from-white via-white to-[#e9f8f8] p-5 shadow-[0_10px_22px_rgba(2,40,61,0.12)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_16px_28px_rgba(2,40,61,0.18)] flex items-center justify-center md:col-start-2 md:col-span-2">
+                        <img src="<?php echo $full_url; ?>assets/images/axisbio.png" alt="Axis Bio" class="max-h-[70px] w-auto transition-transform duration-300 group-hover:scale-105">
+                    </div>
+                    <div class="group relative col-span-2 w-[calc(50%_-_0.5rem)] justify-self-center min-h-[125px] rounded-2xl border border-white/70 bg-gradient-to-br from-white via-white to-[#e9f8f8] p-5 shadow-[0_10px_22px_rgba(2,40,61,0.12)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_16px_28px_rgba(2,40,61,0.18)] flex items-center justify-center md:col-start-4 md:col-span-2 md:w-auto">
+                        <img src="<?php echo $full_url; ?>assets/images/crown-bioscience.png" alt="Crown Bioscience" class="max-h-[70px] w-auto transition-transform duration-300 group-hover:scale-105">
+                    </div>
+                </div>
+                </div>
             </div>
         </div>
     </div>

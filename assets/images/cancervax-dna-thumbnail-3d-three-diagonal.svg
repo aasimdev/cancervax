@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Three diagonal CancerVax DNA strands">
+  <defs>
+    <linearGradient id="rail" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f1f1f1"/>
+      <stop offset=".28" stop-color="#2abac2"/>
+      <stop offset=".62" stop-color="#1d8f97"/>
+      <stop offset="1" stop-color="#226f7a"/>
+    </linearGradient>
+    <linearGradient id="rung" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#226f7a"/>
+      <stop offset=".5" stop-color="#2abac2"/>
+      <stop offset="1" stop-color="#2a5c6e"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="7" dy="10" stdDeviation="9" flood-color="#2a5c6e" flood-opacity=".2"/>
+    </filter>
+    <g id="helix" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-290 8 C-242-68-188-68-140 8 S-42 84 8 8 S106-68 156 8 S254 84 302 8" stroke="#2a5c6e" stroke-opacity=".18" stroke-width="34" transform="translate(7 10)"/>
+      <path d="M-290 8 C-242-68-188-68-140 8 S-42 84 8 8 S106-68 156 8 S254 84 302 8" stroke="url(#rail)" stroke-width="27"/>
+      <path d="M-290 8 C-242 84-188 84-140 8 S-42-68 8 8 S106 84 156 8 S254-68 302 8" stroke="#2a5c6e" stroke-opacity=".18" stroke-width="34" transform="translate(7 10)"/>
+      <path d="M-290 8 C-242 84-188 84-140 8 S-42-68 8 8 S106 84 156 8 S254-68 302 8" stroke="url(#rail)" stroke-width="27"/>
+      <path d="M-290 8 C-242-68-188-68-140 8 S-42 84 8 8 S106-68 156 8 S254 84 302 8" stroke="#ffffff" stroke-opacity=".78" stroke-width="6"/>
+      <path d="M-290 8 C-242 84-188 84-140 8 S-42-68 8 8 S106 84 156 8 S254-68 302 8" stroke="#ffffff" stroke-opacity=".78" stroke-width="6"/>
+
+      <g stroke="url(#rung)" stroke-width="13">
+        <path d="M-238-39 L-238 55"/>
+        <path d="M-190-56 L-190 72"/>
+        <path d="M-142-38 L-142 54"/>
+        <path d="M-94 15 L-94 1"/>
+        <path d="M-46 61 L-46-45"/>
+        <path d="M2 53 L2-37"/>
+        <path d="M50-42 L50 58"/>
+        <path d="M98-57 L98 73"/>
+        <path d="M146-34 L146 50"/>
+        <path d="M194 18 L194-2"/>
+        <path d="M242 60 L242-44"/>
+      </g>
+      <g fill="#2abac2" stroke="#f1f1f1" stroke-width="3">
+        <circle cx="-238" cy="-39" r="10"/><circle cx="-238" cy="55" r="10"/>
+        <circle cx="-190" cy="-56" r="10"/><circle cx="-190" cy="72" r="10"/>
+        <circle cx="-142" cy="-38" r="10"/><circle cx="-142" cy="54" r="10"/>
+        <circle cx="-46" cy="61" r="10"/><circle cx="-46" cy="-45" r="10"/>
+        <circle cx="2" cy="53" r="10"/><circle cx="2" cy="-37" r="10"/>
+        <circle cx="50" cy="-42" r="10"/><circle cx="50" cy="58" r="10"/>
+        <circle cx="98" cy="-57" r="10"/><circle cx="98" cy="73" r="10"/>
+        <circle cx="146" cy="-34" r="10"/><circle cx="146" cy="50" r="10"/>
+        <circle cx="242" cy="60" r="10"/><circle cx="242" cy="-44" r="10"/>
+      </g>
+    </g>
+  </defs>
+
+  <rect width="1280" height="720" fill="#ffffff"/>
+  <path d="M0 70H1280M0 650H1280" stroke="#f1f1f1" stroke-width="2" opacity=".65"/>
+  <g filter="url(#softShadow)">
+    <use href="#helix" transform="translate(250 180) rotate(-35)"/>
+    <use href="#helix" transform="translate(640 360) rotate(-35)"/>
+    <use href="#helix" transform="translate(1030 540) rotate(-35)"/>
+  </g>
+</svg>

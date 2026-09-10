@@ -69,6 +69,35 @@ $homeSep2Page = str_replace($newsHighlightsHeading, $newsHighlightsHeadingReplac
 ?>
 <?php echo $homeSep2Page; ?>
 <style>
+    body.home-sep-2-page .home-sep-2-watch-short-video {
+        display: inline-flex !important;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        width: max-content;
+        max-width: calc(100% - 24px);
+        padding: 12px 22px !important;
+        font-size: clamp(13px, 1.35vw, 18px) !important;
+        line-height: 1.2 !important;
+        letter-spacing: 0.08em !important;
+        white-space: nowrap !important;
+        border-radius: 9999px !important;
+    }
+
+    body.home-sep-2-page .home-sep-2-watch-short-video i {
+        flex: 0 0 auto;
+        margin-right: 0 !important;
+    }
+
+    body.home-sep-2-page .home-sep-2-watch-short-video:hover,
+    body.home-sep-2-page .home-sep-2-watch-short-video:focus-visible {
+        background-color: #ff0000 !important;
+        border-color: #ff0000 !important;
+        color: #ffffff !important;
+        box-shadow: none !important;
+        filter: none !important;
+    }
+
     body.home-sep-2-page .home-aug-29-mobile-card-copy {
         font-size: clamp(1rem, 1.6vw, 1.4rem) !important;
         line-height: 1.35 !important;
