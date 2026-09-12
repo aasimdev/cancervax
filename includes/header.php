@@ -18,6 +18,9 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
     <link rel="stylesheet" href="<?php echo $full_url; ?>assets/css/style.css?v=<?php echo time(); ?>">
+    <?php if (in_array($page, ['technology', 'technology-sep-10'])): ?>
+        <link rel="stylesheet" href="<?php echo $full_url; ?>assets/css/technology-sep-10.css?v=<?php echo time(); ?>">
+    <?php endif; ?>
  
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-7D9TX20JND"></script>
@@ -192,13 +195,14 @@
                             "invest" => "Investors",
                             "contact" => "Contact"
                         ];
+                        $activeNavPage = ($page === 'technology-sep-10') ? 'technology' : $page;
  
                         $baseUrl = $baseUrl ?? (strpos(($_SERVER['HTTP_HOST'] ?? ''), 'localhost') !== false || ($_SERVER['HTTP_HOST'] ?? '') === '127.0.0.1' ? "/cancervax" : "");
                         ?>
                         <div
                             class="hidden sm:ml-6 lg:flex lg:gap-0 gap-2.5 [&>a]:inline-flex [&>a]:items-center [&>a]:border [&>a]:border-transparent [&>a]:text-[15px] [&>a]:font-medium [&>a]:leading-none [&>a]:text-black [&>a]:lg:px-2 [&>a]:xl:px-4 [&>a]:py-2 [&>a]:rounded-full">
                             <?php foreach ($links as $slug => $name): ?>
-                                <a href="<?= $baseUrl ?>/<?= $slug ?>" class="hover:text-custom-teal-300 last:pr-0 <?php echo ($page === $slug) ? '!text-custom-teal-300' : ''; ?>"><?= $name ?></a>
+                                <a href="<?= $baseUrl ?>/<?= $slug ?>" class="hover:text-custom-teal-300 last:pr-0 <?php echo ($activeNavPage === $slug) ? '!text-custom-teal-300' : ''; ?>"><?= $name ?></a>
                             <?php endforeach; ?>
                         </div>
  
@@ -213,7 +217,7 @@
                     <div
                         class="sm:p-[38px] p-[14px] flex flex-col gap-4 [&>a]:block [&>a]:items-center [&>a]:border [&>a]:border-transparent [&>a]:text-sm [&>a]:font-normal [&>a]:py-[5px] [&>a]:px-2.5 [&>a]:leading-none [&>a]:text-black [&>a]:active:text-custom-teal-300">
                         <?php foreach ($links as $slug => $name): ?>
-                            <a href="<?= $baseUrl ?>/<?= $slug ?>" class="<?php echo ($page === $slug) ? '!text-custom-teal-300' : ''; ?>"><?= $name ?></a>
+                            <a href="<?= $baseUrl ?>/<?= $slug ?>" class="<?php echo ($activeNavPage === $slug) ? '!text-custom-teal-300' : ''; ?>"><?= $name ?></a>
                         <?php endforeach; ?>
                     </div>
                 </div>

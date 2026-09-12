@@ -8,7 +8,7 @@
     <div class="container">
         <div class="sm:text-center">
             <h2 class="text-black text-4xl md:text-5xl xl:text-[60px] font-medium pb-12 sm:pb-0 lg:pb-8 xl:pb-0 pt-8 xl:pt-16 mb-4">Universal Cancer Treatment Platform</h2>
-            <p class="text-2xl sm:text-xl xl:text-3xl font-normal sm:text-center pt-2.5 pb-12 xl:pb-20 sm:max-w-[85%] sm:mx-auto">We are developing a novel Universal Cancer Treatment Platform, powered by artificial intelligence, that will be customizable as <strong>off-the-shelf injections</strong> to treat many types of cancer. </p>
+            <p class="body-text font-normal sm:text-center pt-2.5 pb-12 xl:pb-20 sm:max-w-[85%] sm:mx-auto">We are developing a novel Universal Cancer Treatment Platform, powered by artificial intelligence, that will be customizable as <strong>off-the-shelf injections</strong> to treat many types of cancer. </p>
         </div>
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
             <div class="col-span-12 lg:col-span-5">
@@ -128,7 +128,7 @@
     <div class="container">
         <div class="max-w-[858px] [&>p]:leading-8 mx-auto">
             <h3 class="text-black text-3xl sm:text-5xl font-bold mb-10">Potential Long-Term Remission</h3>
-            <h6 class="text-black !leading-[1.4] text-2xl sm:text-3xl font-normal mb-5"><span class="font-bold text-custom-teal-300">Every day, hundreds of cells in our body acquire cancerous mutations that are immediately destroyed by the immune system.</span> The problem is when mutations occur in oncogene or tumor suppressor genes that do not activate the immune system. This results in unchecked cell growth and cancer becomes a systemic disease. </h6>
+            <h6 class="body-text text-black !leading-[1.4] text-2xl sm:text-3xl font-normal mb-5"><span class="font-bold text-custom-teal-300">Every day, hundreds of cells in our body acquire cancerous mutations that are immediately destroyed by the immune system.</span> The problem is when mutations occur in oncogene or tumor suppressor genes that do not activate the immune system. This results in unchecked cell growth and cancer becomes a systemic disease. </h6>
             <p class="text-black text-xl font-normal pb-5">Other immunotherapies such as personalized cancer vaccines, cytokine therapy or monoclonal antibodies often do not induce a strong enough immune response or last long enough to overwhelm cancer universally.</p>
             <p class="text-black text-xl font-normal pb-5">By “tricking” the body into mounting a strong initial immune response to cancer, like it does with measles, we believe there will be an enhanced immune memory-based secondary response to provide long-term remission.</p>
         </div>
@@ -155,9 +155,9 @@
             </div>
             <div class="order-1 lg:order-2">
                 <div class="rt-content">
-                    <h5 class="text-white !leading-[1.4] font-normal tracking-[.3px] mb-5 text-2xl md:text-3xl"><span class="font-bold text-custom-teal-200">One of the biggest problems with drug delivery today is liver and healthy tissue toxicity.</span> We are addressing this problem in two innovative ways:</h5>
-                    <p class="text-white text-xl pb-5 font-normal tracking-[.3px] ">1. We are working with world class technology partners to customize a nanoparticle that will avoid accumulation in the liver, as it circulates through the body looking for cancer cells.</p>
-                    <p class="text-white text-xl pb-5 font-normal tracking-[.3px] ">2. In the event that the nanoparticles are absorbed by the liver or healthy cells, our Smart mRNA will automatically be turned-off, preventing them from being marked as measles.</p>
+                    <h5 class="body-text text-white !leading-[1.4] font-normal tracking-[.3px] mb-5 text-2xl md:text-3xl"><span class="font-bold text-custom-teal-200">One of the biggest problems with drug delivery today is liver and healthy tissue toxicity.</span> We are addressing this problem in two innovative ways:</h5>
+                    <p class="body-text text-white text-xl pb-5 font-normal tracking-[.3px] ">1. We are working with world class technology partners to customize a nanoparticle that will avoid accumulation in the liver, as it circulates through the body looking for cancer cells.</p>
+                    <p class="body-text text-white text-xl pb-5 font-normal tracking-[.3px] ">2. In the event that the nanoparticles are absorbed by the liver or healthy cells, our Smart mRNA will automatically be turned-off, preventing them from being marked as measles.</p>
                 </div>
             </div>
         </div>
@@ -169,7 +169,7 @@
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
             <div class="col-span-12 lg:col-span-8">
                 <div class="max-w-[638px] [&>p]:leading-8 [&>p]:text-xl [&>p]:font-normal [&>p]:tracking-[.3px] [&>p]:pb-4">
-                    <h5 class="text-3xl sm:text-5xl font-bold mb-12">Turning “Cold Tumors” into “Hot Tumors”</h5>
+                    <h5 class="body-text text-3xl sm:text-5xl font-bold mb-12">Turning “Cold Tumors” into “Hot Tumors”</h5>
                     <p>One of the biggest challenges in immunotherapy, or using the body’s immune system to fight cancer, is that many tumors are considered “cold” tumors. A cold tumor is one that doesn't trigger an immune response. Cold tumors are often surrounded by cells that suppress the immune response, making them resistant to immunotherapy. Typical examples of cold tumors are pancreatic cancer, prostate cancer, glioblastoma, and many breast cancers. </p>
                     <p>Checkpoint inhibitors such as Keytruda<sup>TM</sup>, the blockbuster drug from Merck<sup>TM</sup>, can sometimes “heat up” a tumor by blocking the mechanism that cancers use to evade the immune system (PD-1/PD-L1). But oftentimes, they cannot turn a cold tumor into a hot tumor so that it responds well to immunotherapy.</p>
                     <p>We believe that by going inside the cancer cell with our nanoparticle, confirming that it is a cancer cell with our Smart mRNA, then disguising the cell as measles, we can turn a cold tumor into a hot tumor because the body has a very strong immune response to measles. </p>

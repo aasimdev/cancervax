@@ -125,7 +125,7 @@ $developmentPartners = [
                             <img src="<?php echo $full_url . $partner['image']; ?>" alt="<?php echo htmlspecialchars($partner['name'], ENT_QUOTES, 'UTF-8'); ?>" class="max-h-[82px] max-w-[230px] w-auto object-contain">
                         </div>
                         <h3 class="mt-5 text-[17px] font-semibold leading-tight text-[#14213d]"><?php echo $partner['name']; ?></h3>
-                        <p class="mt-3 text-center text-[15px] leading-[1.45] text-black"><?php echo $partner['description']; ?></p>
+                        <p class="caption-text mt-3 text-center text-black"><?php echo $partner['description']; ?></p>
                     </article>
                 <?php endforeach; ?>
             </div>
@@ -137,7 +137,7 @@ $developmentPartners = [
                             <img src="<?php echo $full_url . $partner['image']; ?>" alt="<?php echo htmlspecialchars($partner['name'], ENT_QUOTES, 'UTF-8'); ?>" class="max-h-[82px] max-w-[230px] w-auto object-contain">
                         </div>
                         <h3 class="mt-5 text-[17px] font-semibold leading-tight text-[#14213d]"><?php echo $partner['name']; ?></h3>
-                        <p class="mt-3 text-center text-[15px] leading-[1.45] text-black"><?php echo $partner['description']; ?></p>
+                        <p class="caption-text mt-3 text-center text-black"><?php echo $partner['description']; ?></p>
                     </article>
                 <?php endforeach; ?>
             </div>

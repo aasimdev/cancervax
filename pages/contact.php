@@ -3,8 +3,8 @@
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 items-center">
             <div class="col-span-12 lg:col-span-7">
                 <div class="">
-                    <span class="text-lg mb-[18px] block max-w-[603px] leading-snug">CancerVax is a pre-clinical biotech company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells look like well-immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer.</span>
-                    <h1 class="uppercase text-5xl sm:text-[106px] leading-tight font-extralight text-custom-teal-300">Contact us</h1>
+                    <span class="text-xl mb-[18px] block max-w-[603px] leading-8 font-normal tracking-[0.78px]">CancerVax is a pre-clinical biotech company developing a novel Universal Cancer Treatment platform that will be customizable, as an injection, to treat many types of cancer. Our innovative approach DETECTS, MARKS, and KILLS only cancer cells. By making cancer cells look like well-immunized common diseases such as measles or chickenpox, we intend to use the body’s natural immune system to easily kill the cancer cells. We look forward to the day when treating cancer will be as simple as getting a shot – a better way to treat cancer.</span>
+                    <h1 class="text-black text-6xl leading-none font-medium">Contact us</h1>
                     <p class="text-[21px] font-bold text-custom-teal-300 pb-4">We would love to hear from you</p>
                 </div>
                 <div class="">

@@ -777,7 +777,7 @@ $news = include __DIR__ . '/../data/news-data.php'; ?>
 
 <section class="bg-team-first bg-white bg-no-repeat bg-center bg-cover py-10">
     <div class="container">
-        <h2 class="text-center text-4xl leading-none sm:text-[54px] text-custom-teal-300 font-medium">We have assembled a world-class team of
+        <h2 class="team-intro-copy text-center text-custom-teal-300 font-medium">We have assembled a world-class team of
             experienced cancer scientists and advisors to help
             develop our revolutionary cancer treatment.</h2>
     </div>
@@ -904,7 +904,7 @@ $developmentPartners = [
                             <img src="<?php echo $full_url . $partner['image']; ?>" alt="<?php echo htmlspecialchars($partner['name'], ENT_QUOTES, 'UTF-8'); ?>" class="max-h-[82px] max-w-[230px] w-auto object-contain">
                         </div>
                         <h3 class="mt-5 text-[17px] font-semibold leading-tight text-[#14213d]"><?php echo $partner['name']; ?></h3>
-                        <p class="home-sep-1-partner-description mt-3 text-center text-[14px] leading-[1.45] text-[#526071]"><?php echo $partner['description']; ?></p>
+                        <p class="caption-text mt-3 text-center text-[14px] leading-[1.45] text-[#526071]"><?php echo $partner['description']; ?></p>
                     </article>
                 <?php endforeach; ?>
             </div>
@@ -916,7 +916,7 @@ $developmentPartners = [
                             <img src="<?php echo $full_url . $partner['image']; ?>" alt="<?php echo htmlspecialchars($partner['name'], ENT_QUOTES, 'UTF-8'); ?>" class="max-h-[82px] max-w-[230px] w-auto object-contain">
                         </div>
                         <h3 class="mt-5 text-[17px] font-semibold leading-tight text-[#14213d]"><?php echo $partner['name']; ?></h3>
-                        <p class="home-sep-1-partner-description mt-3 text-center text-[14px] leading-[1.45] text-[#526071]"><?php echo $partner['description']; ?></p>
+                        <p class="caption-text mt-3 text-center text-[14px] leading-[1.45] text-[#526071]"><?php echo $partner['description']; ?></p>
                     </article>
                 <?php endforeach; ?>
             </div>

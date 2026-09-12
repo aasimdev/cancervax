@@ -60,7 +60,7 @@ if ($page !== "prep") {
                         <a href="<?= $baseUrl ?>/privacy-policy" class="text-[13px] font-medium text-black underline-offset-4 hover:underline">Privacy Policy</a>
                         <a href="<?= $baseUrl ?>/terms-of-use" class="text-[13px] font-medium text-black underline-offset-4 hover:underline">Terms of Use</a>
                     </nav>
-                    <p class="text-[13px] text-black">© 2026 CancerVax. All rights reserved</p>
+                    <p class="text-[13px] font-medium text-black">© 2026 CancerVax. All rights reserved</p>
                 </div>
             <?php else: ?>
             <div class="pb-[35px]">

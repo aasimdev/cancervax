@@ -21,8 +21,8 @@ if (isset($_GET['id'])) {
 <section class="pt-28 pb-2">
     <div class="container">
         <?php if ($item) : ?>
-            <h1 class="text-2xl sm:text-[44px] leading-snug sm:leading-none mb-6 sm:mb-12 font-medium text-custom-teal-300"><?php echo $item['title']; ?></h1>
-            <div class="[&_h3]:text-xl sm:[&_h3]:text-lg md:[&_h3]:text-2xl [&_h3]:font-normal [&_h3]:text-custom-teal-300 [&_h3]:mt-5 md:[&_h3]:mt-6 [&_h3]:mb-3 [&_p]:text-xl sm:[&_p]:text-base [&_p]:mb-4 [&_p]:tracking-[0.78px] [&_a]:text-xl sm:[&_a]:text-base [&_a]:mb-4 [&_a]:tracking-[0.78px] [&_a]:underline [&_ul]:list-disc [&_ul]:pl-10 [&_ul]:my-6 [&_li]:text-xl sm:[&_li]:text-base">
+            <h1 class="text-2xl sm:text-[44px] leading-snug sm:leading-none mb-6 sm:mb-12 font-medium text-black"><?php echo $item['title']; ?></h1>
+            <div class="single-news-content [&_h3]:text-xl sm:[&_h3]:text-lg md:[&_h3]:text-2xl [&_h3]:font-bold [&_h3]:text-black [&_h3]:mt-5 md:[&_h3]:mt-6 [&_h3]:mb-6 sm:[&_h3]:mb-12 [&_p]:text-xl sm:[&_p]:text-base [&_p]:mb-4 [&_p]:tracking-[0.78px] [&_a]:text-xl sm:[&_a]:text-base [&_a]:mb-4 [&_a]:tracking-[0.78px] [&_a]:underline [&_ul]:list-disc [&_ul]:pl-10 [&_ul]:my-6 [&_li]:text-xl sm:[&_li]:text-base">
                 <?php
                 foreach ($item['description'] as $paragraph) {
                     echo "{$paragraph[0]}";
